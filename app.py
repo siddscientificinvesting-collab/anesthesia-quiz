@@ -3,7 +3,12 @@ import json
 import time
 from datetime import datetime, timezone
 import os
-from supabase import create_client, Client
+
+try:
+    from supabase import create_client
+    SUPABASE_AVAILABLE = True
+except Exception:
+    SUPABASE_AVAILABLE = False
 
 # ─── Page Config ────────────────────────────────────────────────────────────
 st.set_page_config(
@@ -29,6 +34,8 @@ TOTAL_Q      = quiz_data["total_questions"]
 @st.cache_resource
 def get_supabase():
     try:
+        if not SUPABASE_AVAILABLE:
+            return None
         url = st.secrets["SUPABASE_URL"]
         key = st.secrets["SUPABASE_KEY"]
         return create_client(url, key)
@@ -215,12 +222,6 @@ def page_quiz():
             unsafe_allow_html=True,
         )
 
-    # Auto-refresh every second to update timer
-    st.markdown(
-        '<meta http-equiv="refresh" content="1">',
-        unsafe_allow_html=True,
-    )
-
     st.divider()
 
     # ── Question Navigation Sidebar ──────────────────────────────────────────
@@ -288,6 +289,10 @@ def page_quiz():
                     _do_submit()
             else:
                 _do_submit()
+
+    # Timer auto-refresh — runs AFTER full page renders
+    time.sleep(1)
+    st.rerun()
 
 
 def _do_submit():
