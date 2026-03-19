@@ -27,10 +27,13 @@ TOTAL_Q      = quiz_data["total_questions"]
 
 # ─── Supabase Client ─────────────────────────────────────────────────────────
 @st.cache_resource
-def get_supabase() -> Client:
-    url = st.secrets["SUPABASE_URL"]
-    key = st.secrets["SUPABASE_KEY"]
-    return create_client(url, key)
+def get_supabase():
+    try:
+        url = st.secrets["SUPABASE_URL"]
+        key = st.secrets["SUPABASE_KEY"]
+        return create_client(url, key)
+    except Exception:
+        return None
 
 # ─── Session State Init ──────────────────────────────────────────────────────
 def init_state():
@@ -100,6 +103,8 @@ def compute_score():
 def save_result_to_supabase(name: str, score: int, time_taken: int, answers: dict):
     try:
         sb = get_supabase()
+        if sb is None:
+            return False
         payload = {
             "name":         name,
             "score":        score,
@@ -120,6 +125,8 @@ def save_result_to_supabase(name: str, score: int, time_taken: int, answers: dic
 def get_leaderboard():
     try:
         sb = get_supabase()
+        if sb is None:
+            return []
         resp = (
             sb.table("quiz_results")
             .select("name, score, max_score, percentage, time_taken_s, attempted_at")
