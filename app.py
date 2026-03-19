@@ -45,14 +45,15 @@ def get_supabase():
 # ─── Session State Init ──────────────────────────────────────────────────────
 def init_state():
     defaults = {
-        "page":        "home",       # home | quiz | result | leaderboard
-        "name":        "",
-        "answers":     {},
-        "start_time":  None,
-        "submitted":   False,
-        "score":       0,
-        "time_taken":  0,
-        "current_q":   0,
+        "page":           "home",       # home | quiz | result | leaderboard
+        "name":           "",
+        "answers":        {},
+        "start_time":     None,
+        "submitted":      False,
+        "score":          0,
+        "time_taken":     0,
+        "current_q":      0,
+        "confirm_submit": False,
     }
     for k, v in defaults.items():
         if k not in st.session_state:
@@ -284,11 +285,21 @@ def page_quiz():
         btn_label = f"✅ Submit ({answered_count}/{TOTAL_Q} answered)"
         if st.button(btn_label, type="primary", use_container_width=True):
             if answered_count < TOTAL_Q:
-                st.warning(f"You have {TOTAL_Q - answered_count} unanswered questions. Submit anyway?")
-                if st.button("Confirm Submit", type="primary"):
-                    _do_submit()
+                st.session_state.confirm_submit = True
             else:
                 _do_submit()
+
+        if st.session_state.confirm_submit:
+            st.warning(f"You have {TOTAL_Q - answered_count} unanswered questions. Submit anyway?")
+            cc1, cc2 = st.columns(2)
+            with cc1:
+                if st.button("Yes, Submit", type="primary", use_container_width=True):
+                    st.session_state.confirm_submit = False
+                    _do_submit()
+            with cc2:
+                if st.button("Cancel", use_container_width=True):
+                    st.session_state.confirm_submit = False
+                    st.rerun()
 
     # Timer auto-refresh — runs AFTER full page renders
     time.sleep(1)
