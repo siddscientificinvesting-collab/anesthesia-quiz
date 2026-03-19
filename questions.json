@@ -1,0 +1,609 @@
+{
+  "title": "Anesthesia Equipment MCQ – Section 2",
+  "source": "Short Textbook of Anesthesia – Ajay Yadav",
+  "section": "Section 2: Equipment in Anesthesia (Chapters 2–3)",
+  "total_questions": 50,
+  "time_limit_minutes": 60,
+  "questions": [
+    {
+      "id": 1,
+      "question": "In an anesthesia machine, the high-pressure system delivers oxygen to the intermediate pressure system at what pressure?",
+      "options": {
+        "A": "15–35 psi",
+        "B": "45–60 psi",
+        "C": "100–150 psi",
+        "D": "5–8 psi"
+      },
+      "answer": "B",
+      "explanation": "The 1st stage (primary) pressure regulator reduces cylinder pressure to 45–60 psi, which is then further reduced by the 2nd stage regulator to 15–35 psi for the intermediate system."
+    },
+    {
+      "id": 2,
+      "question": "Which valve prevents delivery of a hypoxic gas mixture by cutting off or proportionately reducing nitrous oxide flow when oxygen pressure falls?",
+      "options": {
+        "A": "APL valve",
+        "B": "Check valve",
+        "C": "Fail-safe valve",
+        "D": "Interlock valve"
+      },
+      "answer": "C",
+      "explanation": "The fail-safe valve (oxygen supply failure protection device) proportionately decreases N₂O flow when oxygen pressure drops, preventing a hypoxic mixture."
+    },
+    {
+      "id": 3,
+      "question": "What is the color code for the nitrous oxide flow control knob on an anesthesia machine rotameter?",
+      "options": {
+        "A": "White",
+        "B": "Black",
+        "C": "Green",
+        "D": "Blue"
+      },
+      "answer": "D",
+      "explanation": "Color codes: Blue = N₂O, White = O₂, Black = Air."
+    },
+    {
+      "id": 4,
+      "question": "In a rotameter, the oxygen flowmeter tube should be positioned:",
+      "options": {
+        "A": "Upstream (first in sequence)",
+        "B": "In the middle",
+        "C": "Downstream (last in sequence)",
+        "D": "Position does not matter"
+      },
+      "answer": "C",
+      "explanation": "Oxygen tube must be the most downstream so that at the common manifold junction, leakage affects O₂ at only 2 positions, minimising hypoxic mixture risk."
+    },
+    {
+      "id": 5,
+      "question": "What minimum FiO₂ does the oxygen-nitrous proportioning system guarantee to prevent hypoxia?",
+      "options": {
+        "A": "15%",
+        "B": "21%",
+        "C": "25%",
+        "D": "33%"
+      },
+      "answer": "C",
+      "explanation": "The O₂–N₂O interconnected pulley system ensures a minimum FiO₂ of 25%, making singular N₂O flow impossible."
+    },
+    {
+      "id": 6,
+      "question": "The flowmeter tubes in a rotameter are also called:",
+      "options": {
+        "A": "Connell tubes",
+        "B": "Thorpe's tubes",
+        "C": "Heidbrink tubes",
+        "D": "Magill tubes"
+      },
+      "answer": "B",
+      "explanation": "Glass variable-orifice flowmeter tubes are called Thorpe's tubes; they are tapered (narrow at base, wide at apex)."
+    },
+    {
+      "id": 7,
+      "question": "Which vaporizer is specifically designed for desflurane delivery?",
+      "options": {
+        "A": "Tec 5",
+        "B": "Tec 7",
+        "C": "Tec 6",
+        "D": "Goldman vaporizer"
+      },
+      "answer": "C",
+      "explanation": "Tec 6 is a heated and pressurised vaporizer specifically designed for desflurane due to its very low boiling point (23.5°C) and high vapour pressure."
+    },
+    {
+      "id": 8,
+      "question": "The Aladin cassette vaporizer is notable because:",
+      "options": {
+        "A": "It only works with sevoflurane",
+        "B": "It can deliver all inhalational agents with color-coded cassettes",
+        "C": "It requires manual temperature compensation",
+        "D": "It uses bubble-through technology"
+      },
+      "answer": "B",
+      "explanation": "The Aladin cassette vaporizer is the latest design; insertion of a color-coded agent cassette automatically adjusts all settings."
+    },
+    {
+      "id": 9,
+      "question": "What is the color of the dial knob on a desflurane vaporizer?",
+      "options": {
+        "A": "Yellow",
+        "B": "Purple",
+        "C": "Red",
+        "D": "Blue"
+      },
+      "answer": "D",
+      "explanation": "Vaporizer color codes: Red = halothane, Purple = isoflurane, Yellow = sevoflurane, Blue = desflurane."
+    },
+    {
+      "id": 10,
+      "question": "When two vaporizers are mounted on the same machine, the agent with the LOWER boiling point should be placed:",
+      "options": {
+        "A": "Second (downstream)",
+        "B": "First (nearest to rotameter)",
+        "C": "It does not matter",
+        "D": "Downstream of the check valve"
+      },
+      "answer": "B",
+      "explanation": "Agent with lower boiling point placed first (nearest rotameter); otherwise condensed particles from the first vaporizer contaminate the second."
+    },
+    {
+      "id": 11,
+      "question": "The maximum permissible concentration of nitrous oxide in the operating theater is:",
+      "options": {
+        "A": "5 ppm",
+        "B": "10 ppm",
+        "C": "25 ppm",
+        "D": "50 ppm"
+      },
+      "answer": "C",
+      "explanation": "Maximum permissible: N₂O = 25 ppm; halogenated agents < 2 ppm. The scavenging system eliminates exhaled gases to achieve this."
+    },
+    {
+      "id": 12,
+      "question": "In the Mapleson classification, which circuit is the gold standard for SPONTANEOUS ventilation?",
+      "options": {
+        "A": "Type D (Bain circuit)",
+        "B": "Type F (Jackson-Rees)",
+        "C": "Type A (Magill circuit)",
+        "D": "Type E (Ayre's T piece)"
+      },
+      "answer": "C",
+      "explanation": "Magill (Type A) is the circuit of choice for spontaneous ventilation. Fresh gas flow = minute volume prevents rebreathing."
+    },
+    {
+      "id": 13,
+      "question": "The Bain circuit is a modification of which Mapleson type?",
+      "options": {
+        "A": "Type A",
+        "B": "Type B",
+        "C": "Type C",
+        "D": "Type D"
+      },
+      "answer": "D",
+      "explanation": "Bain incorporated an inner tube into Mapleson D; fresh gases travel through the inner tube minimising mixing with exhaled gases."
+    },
+    {
+      "id": 14,
+      "question": "The recommended fresh gas flow for the Bain circuit during controlled ventilation at normal respiratory rates is:",
+      "options": {
+        "A": "Equal to minute volume",
+        "B": "1.6 × minute volume",
+        "C": "2.5 × minute volume",
+        "D": "3 × minute volume"
+      },
+      "answer": "B",
+      "explanation": "Bain circuit controlled ventilation: 1.6 × MV at 10–12 breaths/min, or 70–100 mL/kg/min if RR increased to 16/min."
+    },
+    {
+      "id": 15,
+      "question": "For the Magill circuit used during controlled ventilation, the required fresh gas flow is approximately:",
+      "options": {
+        "A": "Equal to minute volume",
+        "B": "1.6 × minute volume",
+        "C": "2.5 × minute volume",
+        "D": "> 3 × minute volume (unpredictable)"
+      },
+      "answer": "D",
+      "explanation": "Magill requires > 3 × minute volume for controlled ventilation and is still unreliable; hence it should NOT be used for controlled ventilation."
+    },
+    {
+      "id": 16,
+      "question": "The Jackson-Rees circuit (Mapleson F) is most commonly used for:",
+      "options": {
+        "A": "Adults > 70 kg",
+        "B": "Children < 6 years or < 20 kg",
+        "C": "Patients requiring IPPV only",
+        "D": "Head and neck surgeries"
+      },
+      "answer": "B",
+      "explanation": "Jackson-Rees (Mapleson F) is the most commonly used pediatric semiclosed circuit for children < 6 years or < 20 kg."
+    },
+    {
+      "id": 17,
+      "question": "The APL valve is also known as:",
+      "options": {
+        "A": "Fail-safe valve",
+        "B": "Adjustable Pressure Limiting valve",
+        "C": "Pop-off valve only",
+        "D": "Interlock valve"
+      },
+      "answer": "B",
+      "explanation": "APL = Adjustable Pressure Limiting valve, also called expiratory valve and rebreathing prevention valve. Most common type: Heidbrink."
+    },
+    {
+      "id": 18,
+      "question": "The reservoir bag capacity for adults in an anesthesia breathing circuit is:",
+      "options": {
+        "A": "500 mL",
+        "B": "1000 mL",
+        "C": "2000 mL",
+        "D": "3000 mL"
+      },
+      "answer": "C",
+      "explanation": "Reservoir bag sizes: Neonates 250 mL, children ≤3 yrs 500 mL, children >3 yrs 1000 mL, adults 2000 mL."
+    },
+    {
+      "id": 19,
+      "question": "Who first introduced the closed circuit (circle system) in humans?",
+      "options": {
+        "A": "Magill, 1920",
+        "B": "Waters, 1923",
+        "C": "Bain, 1972",
+        "D": "Jackson-Rees, 1950"
+      },
+      "answer": "B",
+      "explanation": "Waters introduced the closed circuit (circle system) in humans in 1923."
+    },
+    {
+      "id": 20,
+      "question": "The standard composition of sodalime includes all of the following EXCEPT:",
+      "options": {
+        "A": "Ca(OH)₂ 94%",
+        "B": "NaOH 5%",
+        "C": "KOH 1%",
+        "D": "Ba(OH)₂ 20%"
+      },
+      "answer": "D",
+      "explanation": "Ba(OH)₂ is a component of barylime, NOT sodalime. Sodalime: Ca(OH)₂ 94%, NaOH 5% (catalyst), KOH 1%, color indicator, silica."
+    },
+    {
+      "id": 21,
+      "question": "Which CO₂ absorbent has been withdrawn from market due to risk of fire and explosion with sevoflurane?",
+      "options": {
+        "A": "Sodalime",
+        "B": "Amsorb",
+        "C": "Barylime",
+        "D": "Lithium hydroxide"
+      },
+      "answer": "C",
+      "explanation": "Barylime was withdrawn because experiments showed absorber temperatures reaching > 200°C with sevoflurane, causing fire/explosion risk."
+    },
+    {
+      "id": 22,
+      "question": "Compound A, a nephrotoxic product, is produced by the reaction of sevoflurane with:",
+      "options": {
+        "A": "Trielene",
+        "B": "Sodalime and barylime",
+        "C": "Methoxyflurane",
+        "D": "Carbon dioxide"
+      },
+      "answer": "B",
+      "explanation": "Sevoflurane reacts with sodalime and barylime to produce compound A (nephrotoxic). Risk is higher with barylime vs sodalime."
+    },
+    {
+      "id": 23,
+      "question": "Desiccated sodalime produces carbon monoxide most significantly with which agent?",
+      "options": {
+        "A": "Sevoflurane",
+        "B": "Halothane",
+        "C": "Desflurane",
+        "D": "Isoflurane"
+      },
+      "answer": "C",
+      "explanation": "CO production with desiccated sodalime in decreasing order: Desflurane >> Isoflurane >> Halothane = Sevoflurane."
+    },
+    {
+      "id": 24,
+      "question": "Which inhalational agent, when reacting with sodalime, can produce dichloroacetylene (neurotoxic) and phosgene (causes ARDS)?",
+      "options": {
+        "A": "Halothane",
+        "B": "Enflurane",
+        "C": "Trielene (Trichloroethylene)",
+        "D": "Methoxyflurane"
+      },
+      "answer": "C",
+      "explanation": "Trielene (trichloroethylene) reacts with sodalime to produce dichloroacetylene (neurotoxic) and phosgene gas (causes ARDS)."
+    },
+    {
+      "id": 25,
+      "question": "The color indicator Durasorb used in India indicates fresh sodalime as:",
+      "options": {
+        "A": "White when fresh, purple when exhausted",
+        "B": "Pink when fresh, white when exhausted",
+        "C": "Blue when fresh, white when exhausted",
+        "D": "White when fresh, pink when exhausted"
+      },
+      "answer": "B",
+      "explanation": "Durasorb (most common in India): pink when fresh → white when exhausted. Ethyl violet: white when fresh → purple when exhausted."
+    },
+    {
+      "id": 26,
+      "question": "One hundred grams of sodalime can absorb approximately how much carbon dioxide?",
+      "options": {
+        "A": "10–12 L",
+        "B": "24–26 L",
+        "C": "40–50 L",
+        "D": "5–8 L"
+      },
+      "answer": "B",
+      "explanation": "100 g of sodalime absorbs 24–26 L of CO₂. Granule size is 4–8 mesh (3–6 mm), moisture content 14–19%, airspace > 50%."
+    },
+    {
+      "id": 27,
+      "question": "Amsorb (calcium hydroxide lime) has the following advantage over sodalime:",
+      "options": {
+        "A": "Lower cost",
+        "B": "Higher absorptive capacity",
+        "C": "Does not produce compound A or carbon monoxide",
+        "D": "Both A and B"
+      },
+      "answer": "C",
+      "explanation": "Amsorb produces neither compound A nor CO. Disadvantages: high cost and absorptive capacity approximately half of sodalime."
+    },
+    {
+      "id": 28,
+      "question": "In the closed circuit, the oxygen analyzer is fitted in:",
+      "options": {
+        "A": "Expiratory limb",
+        "B": "CO₂ absorbent canister",
+        "C": "Inspiratory limb",
+        "D": "Machine outlet"
+      },
+      "answer": "C",
+      "explanation": "Oxygen analyzer is fitted in the inspiratory limb to measure the final delivered O₂ concentration to the patient."
+    },
+    {
+      "id": 29,
+      "question": "The negative pressure leak test (universal leak test) of the anesthesia machine can detect leaks as small as:",
+      "options": {
+        "A": "100 mL",
+        "B": "30 mL",
+        "C": "50 mL",
+        "D": "200 mL"
+      },
+      "answer": "B",
+      "explanation": "The negative pressure (suction bulb) test is the most sensitive, detecting leaks as small as 30 mL. It is called the universal leak test."
+    },
+    {
+      "id": 30,
+      "question": "When performing the breathing circuit check, the system is flushed to attain a pressure of:",
+      "options": {
+        "A": "10 cm H₂O for > 5 seconds",
+        "B": "20 cm H₂O for > 5 seconds",
+        "C": "30 cm H₂O for > 10 seconds",
+        "D": "50 cm H₂O for > 10 seconds"
+      },
+      "answer": "C",
+      "explanation": "Close APL valve, occlude Y-piece, flush O₂ to 30 cm H₂O; if maintained for > 10 seconds, no leak is confirmed."
+    },
+    {
+      "id": 31,
+      "question": "Which of the following airway equipment was introduced by Karl Storz and is characterised by a fiberoptic bundle in the blade?",
+      "options": {
+        "A": "Macintosh laryngoscope",
+        "B": "McCoy laryngoscope",
+        "C": "Bullard laryngoscope",
+        "D": "Polio blade laryngoscope"
+      },
+      "answer": "C",
+      "explanation": "Bullard laryngoscope is an indirect rigid fiberoptic laryngoscope useful for difficult airways. Macintosh and Miller are standard direct laryngoscopes."
+    },
+    {
+      "id": 32,
+      "question": "The Laryngeal Mask Airway (LMA) is classified as which type of airway device?",
+      "options": {
+        "A": "Infraglottic airway device",
+        "B": "Supraglottic airway device",
+        "C": "Subglottic airway device",
+        "D": "Nasopharyngeal airway device"
+      },
+      "answer": "B",
+      "explanation": "LMA is a supraglottic airway device; it sits above the glottis in the hypopharynx. Endotracheal tube is an infraglottic device."
+    },
+    {
+      "id": 33,
+      "question": "The ProSeal LMA differs from classic LMA in that it:",
+      "options": {
+        "A": "Is disposable only",
+        "B": "Has a drain tube allowing passage of a gastric tube",
+        "C": "Can only be used in children",
+        "D": "Is made of PVC"
+      },
+      "answer": "B",
+      "explanation": "ProSeal LMA has an integral drain tube allowing gastric tube insertion and provides a better glottic seal than classic LMA."
+    },
+    {
+      "id": 34,
+      "question": "The I-gel airway device is unique because:",
+      "options": {
+        "A": "It has an inflatable cuff",
+        "B": "It has a non-inflatable gel cuff that conforms to airway anatomy",
+        "C": "It is used only in pediatric patients",
+        "D": "It is a nasal airway device"
+      },
+      "answer": "B",
+      "explanation": "I-gel has a non-inflatable gel cuff (thermoplastic elastomer) that anatomically conforms to the supraglottic structure, eliminating the need for cuff inflation."
+    },
+    {
+      "id": 35,
+      "question": "An oropharyngeal (Guedel) airway should NOT be used in:",
+      "options": {
+        "A": "Deeply unconscious patients",
+        "B": "Patients under general anesthesia",
+        "C": "Semi-conscious or conscious patients",
+        "D": "Patients with a gag reflex absent"
+      },
+      "answer": "C",
+      "explanation": "Guedel airway stimulates the gag reflex and may cause vomiting, laryngospasm, or bronchospasm in semi-conscious or conscious patients."
+    },
+    {
+      "id": 36,
+      "question": "A nasopharyngeal airway is preferred over an oropharyngeal airway in which clinical situation?",
+      "options": {
+        "A": "Unconscious patients",
+        "B": "Patients with intact gag reflex or trismus (limited mouth opening)",
+        "C": "Apneic patients under anesthesia",
+        "D": "Patients with nasal polyps"
+      },
+      "answer": "B",
+      "explanation": "Nasopharyngeal airways are better tolerated in semi-conscious patients with intact gag reflex and in patients with limited mouth opening (trismus)."
+    },
+    {
+      "id": 37,
+      "question": "The AMBU bag (self-inflating resuscitator) can deliver oxygen concentrations up to what percentage when connected to an O₂ source with a reservoir bag?",
+      "options": {
+        "A": "40%",
+        "B": "60%",
+        "C": "80%",
+        "D": "100%"
+      },
+      "answer": "D",
+      "explanation": "With an O₂ source and attached reservoir bag, the AMBU bag can deliver close to 100% O₂."
+    },
+    {
+      "id": 38,
+      "question": "A Venturi mask delivers a fixed FiO₂ because:",
+      "options": {
+        "A": "It uses a reservoir bag to store O₂",
+        "B": "It uses the Bernoulli/Venturi principle to entrain a fixed ratio of room air",
+        "C": "It is a high-flow device that delivers 100% O₂",
+        "D": "It monitors O₂ via an internal sensor"
+      },
+      "answer": "B",
+      "explanation": "The Venturi mask uses the Venturi/Bernoulli principle: high-velocity O₂ jet entrains a fixed ratio of room air, providing a precise FiO₂."
+    },
+    {
+      "id": 39,
+      "question": "The Macintosh laryngoscope blade tip is placed in:",
+      "options": {
+        "A": "Posterior pharynx",
+        "B": "Vallecula (glossoepiglottic fold)",
+        "C": "Directly under the epiglottis (posterior to epiglottis)",
+        "D": "On the arytenoid cartilages"
+      },
+      "answer": "B",
+      "explanation": "Macintosh (curved) blade tip sits in the vallecula; lifting stretches the glossoepiglottic ligament to lift the epiglottis indirectly. Miller (straight) blade goes posterior to epiglottis."
+    },
+    {
+      "id": 40,
+      "question": "Humidification of inspired gases is important because dry anesthetic gases can cause all of the following EXCEPT:",
+      "options": {
+        "A": "Impaired mucociliary clearance",
+        "B": "Thick secretions and atelectasis",
+        "C": "Increased CO₂ production",
+        "D": "Hypothermia"
+      },
+      "answer": "C",
+      "explanation": "Dry gases cause impaired mucociliary clearance, thick secretions, atelectasis, and hypothermia. They do NOT cause increased CO₂ production."
+    },
+    {
+      "id": 41,
+      "question": "Static electricity in the operating room is a hazard because it can cause:",
+      "options": {
+        "A": "Cardiac arrhythmias only",
+        "B": "Ignition of explosive gases",
+        "C": "Malfunction of monitoring equipment only",
+        "D": "Sodalime exhaustion"
+      },
+      "answer": "B",
+      "explanation": "Static current can ignite explosive anesthetic gases. Equipment is made antistatic to prevent this; e.g., antistatic rotameter bobbins."
+    },
+    {
+      "id": 42,
+      "question": "Sterilization of anesthesia equipment by autoclaving (steam under pressure) is MOST suitable for:",
+      "options": {
+        "A": "Rubber and plastic components",
+        "B": "Metal instruments like laryngoscope blades",
+        "C": "Fiber-optic cables",
+        "D": "Electronic monitors"
+      },
+      "answer": "B",
+      "explanation": "Autoclaving is suitable for heat-stable metal instruments. Rubber and plastic components may be damaged by heat; use chemical/cold sterilization instead."
+    },
+    {
+      "id": 43,
+      "question": "In an ascending bellows ventilator, why are leaks better detected compared to descending bellows?",
+      "options": {
+        "A": "Ascending bellows makes more noise when leaking",
+        "B": "Descending bellows will continue to descend under gravity even with a leak; ascending bellows will fail to ascend",
+        "C": "Ascending bellows has a higher compliance",
+        "D": "It has nothing to do with gravity"
+      },
+      "answer": "B",
+      "explanation": "Descending bellows fall under gravity even with a leak (masking the leak), while ascending bellows fail to ascend if there is a leak, making the problem obvious."
+    },
+    {
+      "id": 44,
+      "question": "Fresh gas flow compensation in modern anesthesia workstation ventilators primarily serves to:",
+      "options": {
+        "A": "Reduce theater pollution",
+        "B": "Maintain stable preset tidal volume despite fresh gas flow leakage variations",
+        "C": "Ensure N₂O does not exceed 25 ppm",
+        "D": "Automatically calibrate the O₂ analyzer"
+      },
+      "answer": "B",
+      "explanation": "Fresh gas flow compensation and fresh gas decoupling maintain stable delivery of preset tidal volume by compensating for fresh gas flow variations."
+    },
+    {
+      "id": 45,
+      "question": "Which factor does NOT increase CO₂ absorption in the circle (closed) circuit?",
+      "options": {
+        "A": "Low fresh gas flows",
+        "B": "Increased resistance to outflow",
+        "C": "Too tightly packed sodalime",
+        "D": "Adequate moisture in sodalime (14–19%)"
+      },
+      "answer": "C",
+      "explanation": "Too tightly packed sodalime decreases airspace (< 50%), reducing gas contact time and CO₂ absorption. All other options enhance absorption."
+    },
+    {
+      "id": 46,
+      "question": "Channeling in a sodalime canister refers to:",
+      "options": {
+        "A": "Overheating of sodalime",
+        "B": "Gas flowing through gaps between granules and canister wall, bypassing absorption",
+        "C": "Color change of the indicator dye",
+        "D": "Excess moisture in sodalime granules"
+      },
+      "answer": "B",
+      "explanation": "Channeling: too loosely packed sodalime allows gas to pass through gaps between granules and canister wall without CO₂ being absorbed."
+    },
+    {
+      "id": 47,
+      "question": "A Lack system is a coaxial modification of which Mapleson circuit?",
+      "options": {
+        "A": "Type D (Bain)",
+        "B": "Type A (Magill)",
+        "C": "Type F (Jackson-Rees)",
+        "D": "Type E (Ayre's T-piece)"
+      },
+      "answer": "B",
+      "explanation": "Lack system is the coaxial version of Mapleson A (Magill). It has two concentric tubes: outer = inspiratory, inner = expiratory."
+    },
+    {
+      "id": 48,
+      "question": "For the oxygen analyzer in a closed circuit, what reading confirms it is functioning correctly when exposed to air?",
+      "options": {
+        "A": "16%",
+        "B": "21%",
+        "C": "30%",
+        "D": "> 90%"
+      },
+      "answer": "B",
+      "explanation": "The O₂ analyzer should read 21% when exposed to air (atmospheric O₂ concentration) and > 90% when connected to the O₂-flushed system."
+    },
+    {
+      "id": 49,
+      "question": "Among semiclosed circuits, the order of efficiency for CONTROLLED ventilation (best to worst) is:",
+      "options": {
+        "A": "A > DEF > BC",
+        "B": "DEF > BC > A",
+        "C": "BC > A > DEF",
+        "D": "A > BC > DEF"
+      },
+      "answer": "B",
+      "explanation": "For controlled ventilation: DEF > BC > A. For spontaneous ventilation: A > DEF > BC. Magill (A) is worst for controlled ventilation."
+    },
+    {
+      "id": 50,
+      "question": "The Pin Index Safety System (PISS) on cylinder yokes prevents:",
+      "options": {
+        "A": "High-pressure leaks from cylinder valves",
+        "B": "Wrong gas cylinders from being connected to the wrong yokes",
+        "C": "Overfilling of cylinders",
+        "D": "Static electricity igniting gases"
+      },
+      "answer": "B",
+      "explanation": "PISS uses specific hole positions on cylinder valves corresponding to pins on the machine yoke, ensuring only the correct gas cylinder can be connected."
+    }
+  ]
+}
