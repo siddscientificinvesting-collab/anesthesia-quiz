@@ -1,0 +1,759 @@
+{
+  "title": "Anesthesia for Cardiovascular Diseases MCQ – Chapter 18",
+  "source": "Short Textbook of Anesthesia – Ajay Yadav",
+  "section": "Section 7: Anesthesia for Coexisting Diseases (Chapter 18)",
+  "total_questions": 50,
+  "time_limit_minutes": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What level of effort tolerance (in METS) is generally associated with lesser perioperative complications in patients with ischemic heart disease?",
+      "options": {
+        "A": "> 2 METS",
+        "B": "> 4 METS",
+        "C": "> 6 METS",
+        "D": "> 8 METS"
+      },
+      "answer": "B",
+      "explanation": "As per the text, effort tolerance > 4 METS is generally associated with lesser complications in IHD patients undergoing surgery.",
+      "chapter": "Chapter 18",
+      "topic": "Ischemic Heart Disease",
+      "reference": "Ch 18, Section: Ischemic Heart Disease, Page 183"
+    },
+    {
+      "id": 2,
+      "question": "How many parameters are included in the Lee revised cardiac risk index?",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "8"
+      },
+      "answer": "C",
+      "explanation": "The Lee revised cardiac risk index includes 6 parameters: high risk surgery, history of IHD, cerebrovascular disease, congestive heart failure, insulin dependent diabetes mellitus, and preoperative serum creatinine > 2 mg/dL.",
+      "chapter": "Chapter 18",
+      "topic": "Ischemic Heart Disease",
+      "reference": "Ch 18, Section: Ischemic Heart Disease, Page 183"
+    },
+    {
+      "id": 3,
+      "question": "Regarding beta-blockers in IHD patients presenting for surgery, which statement is correct?",
+      "options": {
+        "A": "Beta-blockers should be stopped 5 days before surgery",
+        "B": "Beta-blockers must not be stopped at any cost if the patient is already on them",
+        "C": "Beta-blockers should be freshly started on the day before surgery",
+        "D": "Beta-blockers should be replaced with calcium channel blockers preoperatively"
+      },
+      "answer": "B",
+      "explanation": "Beta-blockers must not be stopped at any cost if the patient is on them, as stopping can significantly increase morbidity and mortality. They should not be started afresh unless they can be started at least 1 week before surgery.",
+      "chapter": "Chapter 18",
+      "topic": "Ischemic Heart Disease",
+      "reference": "Ch 18, Section: Ischemic Heart Disease, Page 183"
+    },
+    {
+      "id": 4,
+      "question": "How many days before surgery should clopidogrel be stopped in an IHD patient?",
+      "options": {
+        "A": "3 days",
+        "B": "5 days",
+        "C": "7 days",
+        "D": "10 days"
+      },
+      "answer": "B",
+      "explanation": "Clopidogrel should be stopped 5 days before surgery. However, central neuraxial block can be given only after 7 days of stopping clopidogrel.",
+      "chapter": "Chapter 18",
+      "topic": "Ischemic Heart Disease",
+      "reference": "Ch 18, Section: Ischemic Heart Disease, Page 183"
+    },
+    {
+      "id": 5,
+      "question": "For how long should elective surgery be deferred after placement of a conventional drug eluting stent?",
+      "options": {
+        "A": "6 weeks",
+        "B": "3 months",
+        "C": "6 months",
+        "D": "1 year"
+      },
+      "answer": "D",
+      "explanation": "Elective surgery must be deferred for 6 months with new generation drug eluting stents and 1 year with conventional drug eluting stents.",
+      "chapter": "Chapter 18",
+      "topic": "Ischemic Heart Disease",
+      "reference": "Ch 18, Section: Ischemic Heart Disease, Page 183"
+    },
+    {
+      "id": 6,
+      "question": "Which combination of ECG leads can detect 94–95% of intraoperative ischemic events?",
+      "options": {
+        "A": "Lead I and aVL",
+        "B": "Lead II and V5",
+        "C": "Lead III and V1",
+        "D": "Lead aVR and V6"
+      },
+      "answer": "B",
+      "explanation": "Lead V5 is best for detecting left ventricle infarction and lead II for arrhythmia (and inferior wall MI). A combination of lead II and V5 can detect 94–95% of intraoperative ischemic events.",
+      "chapter": "Chapter 18",
+      "topic": "Ischemic Heart Disease",
+      "reference": "Ch 18, Section: Ischemic Heart Disease, Page 183"
+    },
+    {
+      "id": 7,
+      "question": "Which is the earliest and most sensitive monitor to detect intraoperative myocardial infarction?",
+      "options": {
+        "A": "ECG with ST analysis",
+        "B": "Pulmonary artery catheter",
+        "C": "Transesophageal echocardiography (TEE)",
+        "D": "Central venous pressure monitoring"
+      },
+      "answer": "C",
+      "explanation": "TEE is the earliest and most sensitive monitor to detect intraoperative infarction, capable of detecting more than 99% of ischemic events.",
+      "chapter": "Chapter 18",
+      "topic": "Ischemic Heart Disease",
+      "reference": "Ch 18, Section: Ischemic Heart Disease, Page 184"
+    },
+    {
+      "id": 8,
+      "question": "A patient with IHD and normal LV function is undergoing surgery. Which of the following should be AVOIDED during maintenance of anesthesia?",
+      "options": {
+        "A": "Isoflurane",
+        "B": "Sevoflurane",
+        "C": "Nitrous oxide",
+        "D": "Opioids"
+      },
+      "answer": "C",
+      "explanation": "Nitrous oxide should be avoided in IHD patients for two reasons: it may cause mild sympathetic stimulation and it is a pulmonary vasoconstrictor. Inhalational agents can be safely used if LV function is normal.",
+      "chapter": "Chapter 18",
+      "topic": "Ischemic Heart Disease",
+      "reference": "Ch 18, Section: Ischemic Heart Disease, Page 184"
+    },
+    {
+      "id": 9,
+      "question": "Mitral stenosis is considered severe when the transvalvular pressure gradient exceeds:",
+      "options": {
+        "A": "5 mm Hg",
+        "B": "10 mm Hg",
+        "C": "15 mm Hg",
+        "D": "20 mm Hg"
+      },
+      "answer": "B",
+      "explanation": "Mitral stenosis is considered severe if the transvalvular pressure gradient is > 10 mm Hg (normal < 5 mm Hg).",
+      "chapter": "Chapter 18",
+      "topic": "Valvular Diseases – Mitral Stenosis",
+      "reference": "Ch 18, Section: Valvular Diseases, Page 185"
+    },
+    {
+      "id": 10,
+      "question": "Why should tachycardia be avoided in patients with mitral stenosis?",
+      "options": {
+        "A": "It increases the afterload on the left ventricle",
+        "B": "It causes coronary vasoconstriction",
+        "C": "It decreases diastole, reducing left ventricular filling and hence cardiac output",
+        "D": "It increases the degree of mitral regurgitation"
+      },
+      "answer": "C",
+      "explanation": "In mitral stenosis, tachycardia decreases diastole which reduces left ventricular filling and hence stroke volume and cardiac output.",
+      "chapter": "Chapter 18",
+      "topic": "Valvular Diseases – Mitral Stenosis",
+      "reference": "Ch 18, Section: Valvular Diseases, Page 185"
+    },
+    {
+      "id": 11,
+      "question": "Approximately what fraction of mitral stenosis patients have atrial fibrillation?",
+      "options": {
+        "A": "One-tenth",
+        "B": "One-fourth",
+        "C": "One-third",
+        "D": "One-half"
+      },
+      "answer": "C",
+      "explanation": "Atrial fibrillation is seen in one-third of the patients with mitral stenosis, and a significant number will be on oral anticoagulants contraindicating the use of CNB.",
+      "chapter": "Chapter 18",
+      "topic": "Valvular Diseases – Mitral Stenosis",
+      "reference": "Ch 18, Section: Valvular Diseases, Page 185"
+    },
+    {
+      "id": 12,
+      "question": "Mitral regurgitation is considered severe when the regurgitant fraction exceeds:",
+      "options": {
+        "A": "0.3",
+        "B": "0.4",
+        "C": "0.5",
+        "D": "0.6"
+      },
+      "answer": "D",
+      "explanation": "Mitral regurgitation is said to be severe if the regurgitant fraction is > 0.6.",
+      "chapter": "Chapter 18",
+      "topic": "Valvular Diseases – Mitral Regurgitation",
+      "reference": "Ch 18, Section: Valvular Diseases, Page 185"
+    },
+    {
+      "id": 13,
+      "question": "In mitral regurgitation, which hemodynamic change should be avoided?",
+      "options": {
+        "A": "Mild tachycardia",
+        "B": "Decrease in afterload",
+        "C": "Bradycardia",
+        "D": "Mild hypotension"
+      },
+      "answer": "C",
+      "explanation": "In MR, bradycardia should be avoided because it increases diastole which increases the regurgitation. Hypertension should also be avoided as it increases afterload.",
+      "chapter": "Chapter 18",
+      "topic": "Valvular Diseases – Mitral Regurgitation",
+      "reference": "Ch 18, Section: Valvular Diseases, Page 185"
+    },
+    {
+      "id": 14,
+      "question": "Which antihypertensives should be stopped on the day of surgery in hypertensive patients?",
+      "options": {
+        "A": "Beta-blockers and calcium channel blockers",
+        "B": "ACE inhibitors and angiotensin II receptor antagonists",
+        "C": "Diuretics and alpha blockers",
+        "D": "All antihypertensives should be continued"
+      },
+      "answer": "B",
+      "explanation": "All antihypertensives should be continued except ACE inhibitors and angiotensin II receptor antagonists, which are stopped on the day of surgery as they can cause profound intraoperative hypotension.",
+      "chapter": "Chapter 18",
+      "topic": "Hypertension",
+      "reference": "Ch 18, Section: Hypertension, Page 190"
+    },
+    {
+      "id": 15,
+      "question": "In mitral valve prolapse (MVP), which assessment is MOST important preoperatively?",
+      "options": {
+        "A": "Degree of left atrial enlargement",
+        "B": "Whether MVP is associated with mitral regurgitation or not",
+        "C": "Presence of atrial fibrillation",
+        "D": "Left ventricular ejection fraction"
+      },
+      "answer": "B",
+      "explanation": "The hemodynamic management principles of MVP without MR and with MR are different, so it is very important to assess preoperatively whether MVP is associated with MR or not.",
+      "chapter": "Chapter 18",
+      "topic": "Valvular Diseases – Mitral Valve Prolapse",
+      "reference": "Ch 18, Section: Valvular Diseases, Page 185-186"
+    },
+    {
+      "id": 16,
+      "question": "Which induction agent is the agent of choice for shock patients?",
+      "options": {
+        "A": "Propofol",
+        "B": "Thiopentone",
+        "C": "Etomidate",
+        "D": "Ketamine"
+      },
+      "answer": "D",
+      "explanation": "Ketamine is the induction agent of choice for shock patients due to its sympathomimetic effects. However, in chronic/severe shock with sympathetic depletion, its direct myocardial depressant effect may predominate.",
+      "chapter": "Chapter 18",
+      "topic": "Hypotension/Shock",
+      "reference": "Ch 18, Section: Hypotension/Shock, Page 190-191"
+    },
+    {
+      "id": 17,
+      "question": "Among valvular lesions, which has the most devastating complications including sudden death?",
+      "options": {
+        "A": "Mitral stenosis",
+        "B": "Mitral regurgitation",
+        "C": "Aortic stenosis",
+        "D": "Aortic regurgitation"
+      },
+      "answer": "C",
+      "explanation": "Among the valvular lesions, aortic stenosis has the most devastating complications like infarction, arrhythmia or even sudden death.",
+      "chapter": "Chapter 18",
+      "topic": "Valvular Diseases – Aortic Stenosis",
+      "reference": "Ch 18, Section: Valvular Diseases, Page 186"
+    },
+    {
+      "id": 18,
+      "question": "Aortic stenosis is considered severe when the aortic valve orifice is less than:",
+      "options": {
+        "A": "1.5 cm²",
+        "B": "1.0 cm²",
+        "C": "0.8 cm²",
+        "D": "0.5 cm²"
+      },
+      "answer": "C",
+      "explanation": "Severe AS is defined as transvalvular gradient > 50 mm Hg or aortic valve orifice less than 0.8 cm².",
+      "chapter": "Chapter 18",
+      "topic": "Valvular Diseases – Aortic Stenosis",
+      "reference": "Ch 18, Section: Valvular Diseases, Page 186"
+    },
+    {
+      "id": 19,
+      "question": "Which vasopressor is the agent of choice for patients with aortic stenosis, and why?",
+      "options": {
+        "A": "Ephedrine, because it increases cardiac output",
+        "B": "Noradrenaline, because it has strong alpha effect",
+        "C": "Phenylephrine, because it does not cause tachycardia",
+        "D": "Dopamine, because it improves renal blood flow"
+      },
+      "answer": "C",
+      "explanation": "As phenylephrine does not cause tachycardia, it is the vasopressor of choice for patients with aortic stenosis.",
+      "chapter": "Chapter 18",
+      "topic": "Valvular Diseases – Aortic Stenosis",
+      "reference": "Ch 18, Section: Valvular Diseases, Page 186"
+    },
+    {
+      "id": 20,
+      "question": "In aortic regurgitation, which hemodynamic changes should be avoided?",
+      "options": {
+        "A": "Tachycardia and hypotension",
+        "B": "Bradycardia and hypertension",
+        "C": "Tachycardia and hypertension",
+        "D": "Bradycardia and hypotension"
+      },
+      "answer": "B",
+      "explanation": "In AR, bradycardia by increasing diastole and hypertension by increasing afterload can increase the regurgitant fraction, so both should be avoided.",
+      "chapter": "Chapter 18",
+      "topic": "Valvular Diseases – Aortic Regurgitation",
+      "reference": "Ch 18, Section: Valvular Diseases, Page 186"
+    },
+    {
+      "id": 21,
+      "question": "Which type of prosthetic heart valve is more prone to thromboembolism but has a longer life?",
+      "options": {
+        "A": "Bioprosthetic valve (10–15 years)",
+        "B": "Mechanical valve (20–30 years)",
+        "C": "Homograft valve",
+        "D": "Autograft valve"
+      },
+      "answer": "B",
+      "explanation": "Mechanical prosthetic heart valves are more prone for thromboembolism but have a long life of 20–30 years, while bioprosthetic valves are less prone for thromboembolism but have shorter life of 10–15 years.",
+      "chapter": "Chapter 18",
+      "topic": "Prosthetic Heart Valves",
+      "reference": "Ch 18, Section: Prosthetic Heart Valves, Page 186"
+    },
+    {
+      "id": 22,
+      "question": "How many days before surgery should warfarin be stopped in patients with prosthetic heart valves?",
+      "options": {
+        "A": "2 days",
+        "B": "3 days",
+        "C": "5 days",
+        "D": "7 days"
+      },
+      "answer": "C",
+      "explanation": "Warfarin should be stopped 5 days before surgery and heparin should be started, which is then stopped 12–24 hours before surgery.",
+      "chapter": "Chapter 18",
+      "topic": "Prosthetic Heart Valves",
+      "reference": "Ch 18, Section: Prosthetic Heart Valves, Page 186"
+    },
+    {
+      "id": 23,
+      "question": "According to new guidelines, antibiotic prophylaxis for patients with prosthetic heart valves is recommended for which procedures?",
+      "options": {
+        "A": "All surgical procedures",
+        "B": "All procedures involving body cavities",
+        "C": "Dental procedures involving gingiva/oral mucosa/periapical region and invasive procedures involving incision on infective tissue",
+        "D": "Only cardiac surgeries"
+      },
+      "answer": "C",
+      "explanation": "The new guidelines recommend antibiotic prophylaxis only for dental procedures involving gingiva, oral mucosa and periapical region of teeth, and invasive procedures involving incision on infective tissue.",
+      "chapter": "Chapter 18",
+      "topic": "Prosthetic Heart Valves",
+      "reference": "Ch 18, Section: Prosthetic Heart Valves, Page 186"
+    },
+    {
+      "id": 24,
+      "question": "What is the basic aim of anesthetic management in left to right shunts (VSD, ASD, PDA)?",
+      "options": {
+        "A": "Maintain high SVR and low PVR",
+        "B": "Maintain low SVR and high PVR",
+        "C": "Maintain high SVR and high PVR",
+        "D": "Maintain low SVR and low PVR"
+      },
+      "answer": "B",
+      "explanation": "In left to right shunts, increase in SVR or decrease in PVR increases the shunt fraction. The aim is to maintain low systemic vascular resistance and high pulmonary vascular resistance.",
+      "chapter": "Chapter 18",
+      "topic": "Congenital Heart Diseases – Left to Right Shunts",
+      "reference": "Ch 18, Section: Congenital Heart Diseases, Page 187"
+    },
+    {
+      "id": 25,
+      "question": "For which congenital defect is antibiotic prophylaxis for infective endocarditis recommended ONLY if there is a concomitant valvular abnormality?",
+      "options": {
+        "A": "VSD",
+        "B": "ASD",
+        "C": "PDA",
+        "D": "Tetralogy of Fallot"
+      },
+      "answer": "B",
+      "explanation": "Antibiotic prophylaxis is recommended for VSD and PDA, but for ASD only if there is a concomitant valvular abnormality (mitral valve prolapse may be associated with ASD).",
+      "chapter": "Chapter 18",
+      "topic": "Congenital Heart Diseases – Left to Right Shunts",
+      "reference": "Ch 18, Section: Congenital Heart Diseases, Page 187"
+    },
+    {
+      "id": 26,
+      "question": "In left to right shunts, what effect does increased pulmonary blood flow have on IV induction agents?",
+      "options": {
+        "A": "Significantly delays onset",
+        "B": "Causes dilution but has no clinical implication",
+        "C": "Significantly hastens onset",
+        "D": "Causes unpredictable effects requiring dose reduction"
+      },
+      "answer": "B",
+      "explanation": "Although increase in pulmonary blood flow causes dilution of IV agents in left to right shunts, this has no clinical implication.",
+      "chapter": "Chapter 18",
+      "topic": "Congenital Heart Diseases – Left to Right Shunts",
+      "reference": "Ch 18, Section: Congenital Heart Diseases, Page 187"
+    },
+    {
+      "id": 27,
+      "question": "A patient in shock must be resuscitated to at least what minimum blood pressure before considering anesthesia?",
+      "options": {
+        "A": "MAP > 50 mm Hg or SBP > 80 mm Hg",
+        "B": "MAP > 65 mm Hg or SBP > 90 mm Hg",
+        "C": "MAP > 75 mm Hg or SBP > 100 mm Hg",
+        "D": "MAP > 80 mm Hg or SBP > 110 mm Hg"
+      },
+      "answer": "B",
+      "explanation": "Patient must be resuscitated to at least mean arterial pressure > 65 mm Hg or systolic pressure > 90 mm Hg before considering anesthesia.",
+      "chapter": "Chapter 18",
+      "topic": "Hypotension/Shock",
+      "reference": "Ch 18, Section: Hypotension/Shock, Page 190-191"
+    },
+    {
+      "id": 28,
+      "question": "Which is the induction agent of choice for right to left shunts (cyanotic heart diseases)?",
+      "options": {
+        "A": "Propofol",
+        "B": "Thiopentone",
+        "C": "Etomidate",
+        "D": "Ketamine"
+      },
+      "answer": "D",
+      "explanation": "As ketamine increases the systemic vascular resistance, it is the agent of choice for induction in right to left shunts.",
+      "chapter": "Chapter 18",
+      "topic": "Congenital Heart Diseases – Right to Left Shunts",
+      "reference": "Ch 18, Section: Congenital Heart Diseases, Page 187"
+    },
+    {
+      "id": 29,
+      "question": "What happens to the onset of IV induction agents in right to left shunts?",
+      "options": {
+        "A": "Onset is delayed",
+        "B": "Onset is rapid as pulmonary circulation is bypassed",
+        "C": "Onset is unchanged",
+        "D": "Onset is slower due to polycythemia"
+      },
+      "answer": "B",
+      "explanation": "In right to left shunts, as pulmonary circulation is bypassed, the induction with IV agents will be rapid.",
+      "chapter": "Chapter 18",
+      "topic": "Congenital Heart Diseases – Right to Left Shunts",
+      "reference": "Ch 18, Section: Congenital Heart Diseases, Page 187"
+    },
+    {
+      "id": 30,
+      "question": "Which muscle relaxant is the agent of choice in right to left shunts, and why?",
+      "options": {
+        "A": "Vecuronium, because it is cardiac stable",
+        "B": "Atracurium, because it does not affect SVR",
+        "C": "Pancuronium, because it causes hypertension",
+        "D": "Succinylcholine, because of its rapid onset"
+      },
+      "answer": "C",
+      "explanation": "Pancuronium causes hypertension (increases SVR), which is desirable in right to left shunts to reduce shunt fraction, making it the muscle relaxant of choice.",
+      "chapter": "Chapter 18",
+      "topic": "Congenital Heart Diseases – Right to Left Shunts",
+      "reference": "Ch 18, Section: Congenital Heart Diseases, Page 187"
+    },
+    {
+      "id": 31,
+      "question": "In right to left shunts, the FiO₂ used is 50% instead of 33% because:",
+      "options": {
+        "A": "Higher oxygen improves cerebral perfusion",
+        "B": "High FiO₂ decreases PVR, which is beneficial",
+        "C": "It compensates for polycythemia",
+        "D": "N₂O at higher concentrations is toxic"
+      },
+      "answer": "B",
+      "explanation": "High FiO₂ decreases PVR, which is beneficial in right to left shunts (aim is to decrease PVR), so oxygen concentration used is 50%.",
+      "chapter": "Chapter 18",
+      "topic": "Congenital Heart Diseases – Right to Left Shunts",
+      "reference": "Ch 18, Section: Congenital Heart Diseases, Page 187"
+    },
+    {
+      "id": 32,
+      "question": "In coarctation of aorta, what is the minimum mean arterial pressure that should be maintained in the lower limb?",
+      "options": {
+        "A": "> 30 mm Hg",
+        "B": "> 40 mm Hg",
+        "C": "> 50 mm Hg",
+        "D": "> 60 mm Hg"
+      },
+      "answer": "B",
+      "explanation": "In coarctation of aorta, blood pressure monitoring in lower limbs is mandatory and mean arterial pressure of the lower limb should remain at least > 40 mm Hg.",
+      "chapter": "Chapter 18",
+      "topic": "Congenital Heart Diseases – Coarctation of Aorta",
+      "reference": "Ch 18, Section: Congenital Heart Diseases, Page 187"
+    },
+    {
+      "id": 33,
+      "question": "Regarding heart failure patients, which statement is correct?",
+      "options": {
+        "A": "Elective surgery can proceed if LVEF > 30%",
+        "B": "Elective surgery is contraindicated in heart failure patients",
+        "C": "Only regional anesthesia is suitable",
+        "D": "Beta-blockers must be stopped before surgery"
+      },
+      "answer": "B",
+      "explanation": "The patient in heart failure carries very high risk of perioperative morbidity and mortality, therefore elective surgery is contraindicated.",
+      "chapter": "Chapter 18",
+      "topic": "Heart Failure",
+      "reference": "Ch 18, Section: Heart Failure, Page 188"
+    },
+    {
+      "id": 34,
+      "question": "What is the most common cause of right heart failure?",
+      "options": {
+        "A": "Pulmonary embolism",
+        "B": "Chronic lung disease",
+        "C": "Left heart failure",
+        "D": "Primary pulmonary hypertension"
+      },
+      "answer": "C",
+      "explanation": "The most common cause of right heart failure is left heart failure.",
+      "chapter": "Chapter 18",
+      "topic": "Heart Failure",
+      "reference": "Ch 18, Section: Heart Failure, Page 188"
+    },
+    {
+      "id": 35,
+      "question": "Which drugs remain the primary treatment for chronic heart failure?",
+      "options": {
+        "A": "Beta-blockers and calcium channel blockers",
+        "B": "Digitalis and diuretics",
+        "C": "ACE inhibitors, ARBs and aldosterone antagonists (RAAS inhibitors)",
+        "D": "Nitrates and hydralazine"
+      },
+      "answer": "C",
+      "explanation": "The RAAS system plays an important role in heart failure pathophysiology. ACE inhibitors, ARBs and aldosterone antagonists remain the primary drugs for treatment of chronic heart failure.",
+      "chapter": "Chapter 18",
+      "topic": "Heart Failure",
+      "reference": "Ch 18, Section: Heart Failure, Page 188"
+    },
+    {
+      "id": 36,
+      "question": "Which preoperative electrolyte is particularly important to check in heart failure patients on diuretics and digitalis?",
+      "options": {
+        "A": "Sodium",
+        "B": "Calcium",
+        "C": "Potassium",
+        "D": "Magnesium"
+      },
+      "answer": "C",
+      "explanation": "As heart failure patients are on diuretics and digitalis, checking preoperative electrolytes, especially potassium, is a must.",
+      "chapter": "Chapter 18",
+      "topic": "Heart Failure",
+      "reference": "Ch 18, Section: Heart Failure, Page 188"
+    },
+    {
+      "id": 37,
+      "question": "Why is positive pressure ventilation beneficial in heart failure patients?",
+      "options": {
+        "A": "It increases myocardial contractility",
+        "B": "It decreases venous return (preload)",
+        "C": "It increases systemic vascular resistance",
+        "D": "It improves coronary blood flow"
+      },
+      "answer": "B",
+      "explanation": "Positive pressure ventilation is beneficial in heart failure by decreasing the venous return (preload), which is one of the basic principles of heart failure management.",
+      "chapter": "Chapter 18",
+      "topic": "Heart Failure",
+      "reference": "Ch 18, Section: Heart Failure, Page 188"
+    },
+    {
+      "id": 38,
+      "question": "What is the most common genetic cardiovascular disease?",
+      "options": {
+        "A": "Dilated cardiomyopathy",
+        "B": "Hypertrophic cardiomyopathy",
+        "C": "Restrictive cardiomyopathy",
+        "D": "Arrhythmogenic right ventricular cardiomyopathy"
+      },
+      "answer": "B",
+      "explanation": "Hypertrophic cardiomyopathy (HCM), also called subaortic stenosis, is the most common genetic cardiovascular disease.",
+      "chapter": "Chapter 18",
+      "topic": "Cardiomyopathies – HCM",
+      "reference": "Ch 18, Section: Cardiomyopathies, Page 188"
+    },
+    {
+      "id": 39,
+      "question": "What is the most important feature of hypertrophic cardiomyopathy (HCM)?",
+      "options": {
+        "A": "Diastolic dysfunction",
+        "B": "Dynamic left ventricular outflow tract (LVOT) obstruction",
+        "C": "Mitral regurgitation",
+        "D": "Systolic anterior motion of the mitral valve"
+      },
+      "answer": "B",
+      "explanation": "Dynamic left ventricular outflow obstruction (LVOT) is the most important feature of HCM.",
+      "chapter": "Chapter 18",
+      "topic": "Cardiomyopathies – HCM",
+      "reference": "Ch 18, Section: Cardiomyopathies, Page 188"
+    },
+    {
+      "id": 40,
+      "question": "Pulmonary edema in HCM patients CANNOT be treated by diuretics, nitrates, and digitalis. What is the recommended treatment?",
+      "options": {
+        "A": "Dobutamine and milrinone",
+        "B": "Phenylephrine (vasopressor) and esmolol (β-blocker)",
+        "C": "Adrenaline and atropine",
+        "D": "Furosemide and morphine"
+      },
+      "answer": "B",
+      "explanation": "In HCM, pulmonary edema cannot be treated by diuretics (decrease preload), nitrates (decrease afterload), or digitalis (increase contractility) as all worsen LVOT obstruction. It is treated by vasopressors (phenylephrine) and β-blockers (esmolol).",
+      "chapter": "Chapter 18",
+      "topic": "Cardiomyopathies – HCM",
+      "reference": "Ch 18, Section: Cardiomyopathies, Page 188-189"
+    },
+    {
+      "id": 41,
+      "question": "Why is pancuronium contraindicated in HCM?",
+      "options": {
+        "A": "It causes bradycardia",
+        "B": "It can cause sympathetic stimulation which worsens LVOT obstruction",
+        "C": "It causes histamine release",
+        "D": "It has a prolonged duration of action"
+      },
+      "answer": "B",
+      "explanation": "Pancuronium is contraindicated in HCM because it can cause sympathetic stimulation, which increases myocardial contractility and worsens LVOT obstruction.",
+      "chapter": "Chapter 18",
+      "topic": "Cardiomyopathies – HCM",
+      "reference": "Ch 18, Section: Cardiomyopathies, Page 188"
+    },
+    {
+      "id": 42,
+      "question": "Which is the most common type of cardiomyopathy?",
+      "options": {
+        "A": "Hypertrophic cardiomyopathy",
+        "B": "Dilated cardiomyopathy",
+        "C": "Restrictive cardiomyopathy",
+        "D": "Obliterative cardiomyopathy"
+      },
+      "answer": "B",
+      "explanation": "Dilated cardiomyopathy is the most common cardiomyopathy. It may be primary (idiopathic) or secondary like alcoholic or peripartum cardiomyopathy.",
+      "chapter": "Chapter 18",
+      "topic": "Cardiomyopathies – DCM",
+      "reference": "Ch 18, Section: Cardiomyopathies, Page 189"
+    },
+    {
+      "id": 43,
+      "question": "In patients with pericardial diseases (constrictive pericarditis/cardiac tamponade), which induction agent is preferred?",
+      "options": {
+        "A": "Propofol",
+        "B": "Thiopentone",
+        "C": "Etomidate",
+        "D": "Ketamine"
+      },
+      "answer": "D",
+      "explanation": "In pericardial diseases, ketamine is preferred for induction as it stimulates the sympathetic system and increases cardiac output in these low cardiac output states.",
+      "chapter": "Chapter 18",
+      "topic": "Pericardial Diseases",
+      "reference": "Ch 18, Section: Pericardial Diseases, Page 189"
+    },
+    {
+      "id": 44,
+      "question": "In pericardial diseases, which of the following statements is correct regarding anesthetic technique?",
+      "options": {
+        "A": "Central neuraxial blocks are the technique of choice",
+        "B": "Pericardiocentesis should be done under GA before the procedure",
+        "C": "CNB (spinal/epidural) are contraindicated and pericardiocentesis should be done under local anesthesia before GA",
+        "D": "Only monitored anesthesia care is appropriate"
+      },
+      "answer": "C",
+      "explanation": "Patients with pericardial diseases are in low cardiac output state, so CNB are contraindicated. Pericardiocentesis should be done under local anesthesia before proceeding to GA.",
+      "chapter": "Chapter 18",
+      "topic": "Pericardial Diseases",
+      "reference": "Ch 18, Section: Pericardial Diseases, Page 189"
+    },
+    {
+      "id": 45,
+      "question": "Which muscle relaxant is preferred for patients with pericardial diseases, and why?",
+      "options": {
+        "A": "Vecuronium, because it is cardiac stable",
+        "B": "Pancuronium, because it stimulates sympathetic system and increases cardiac output",
+        "C": "Atracurium, because it causes histamine release",
+        "D": "Rocuronium, because of rapid onset"
+      },
+      "answer": "B",
+      "explanation": "Pancuronium is preferred for pericardial diseases because it stimulates the sympathetic system and increases cardiac output, which is needed in the low cardiac output state.",
+      "chapter": "Chapter 18",
+      "topic": "Pericardial Diseases",
+      "reference": "Ch 18, Section: Pericardial Diseases, Page 189"
+    },
+    {
+      "id": 46,
+      "question": "What is the most common indication for cardiac implanted electronic devices (CIED)?",
+      "options": {
+        "A": "Atrial fibrillation",
+        "B": "Ventricular tachycardia",
+        "C": "Sick sinus syndrome",
+        "D": "Complete heart block"
+      },
+      "answer": "C",
+      "explanation": "CIED are used for treating bradyarrhythmias, with sick sinus syndrome being the most common indication.",
+      "chapter": "Chapter 18",
+      "topic": "Cardiac Implanted Electronic Devices",
+      "reference": "Ch 18, Section: CIED/Pacemakers, Page 189"
+    },
+    {
+      "id": 47,
+      "question": "What is the most common source of electromagnetic interference (EMI) that can cause CIED malfunction during surgery?",
+      "options": {
+        "A": "MRI",
+        "B": "Radiofrequency devices",
+        "C": "Cautery (electrocautery)",
+        "D": "Ultrasound devices"
+      },
+      "answer": "C",
+      "explanation": "The most common source of EMI is cautery, followed by radiofrequency devices and MRI. MRI is contraindicated for patients with CIED.",
+      "chapter": "Chapter 18",
+      "topic": "Cardiac Implanted Electronic Devices",
+      "reference": "Ch 18, Section: CIED/Pacemakers, Page 189"
+    },
+    {
+      "id": 48,
+      "question": "Before surgery, CIED should be programmed to asynchronous mode. In this mode, the pacemaker delivers a fixed rate of approximately:",
+      "options": {
+        "A": "50–55 beats/minute",
+        "B": "60–65 beats/minute",
+        "C": "70–72 beats/minute",
+        "D": "80–85 beats/minute"
+      },
+      "answer": "C",
+      "explanation": "In asynchronous mode, pacemakers deliver a fixed rate of 70–72 beats/minute irrespective of the patient's own rate, avoiding the risk of CIED being affected by interference.",
+      "chapter": "Chapter 18",
+      "topic": "Cardiac Implanted Electronic Devices",
+      "reference": "Ch 18, Section: CIED/Pacemakers, Page 189"
+    },
+    {
+      "id": 49,
+      "question": "Hypertension is defined as blood pressure exceeding which value on at least 2 occasions?",
+      "options": {
+        "A": "> 120/80 mm Hg",
+        "B": "> 130/85 mm Hg",
+        "C": "> 140/90 mm Hg",
+        "D": "> 150/95 mm Hg"
+      },
+      "answer": "C",
+      "explanation": "Hypertension is defined as blood pressure > 140/90 on at least 2 occasions 1–2 weeks apart, while hypertensive crisis is defined as BP > 180/120.",
+      "chapter": "Chapter 18",
+      "topic": "Hypertension",
+      "reference": "Ch 18, Section: Hypertension, Page 190"
+    },
+    {
+      "id": 50,
+      "question": "What is the general consensus for the diastolic BP threshold to delay elective surgery in hypertensive patients?",
+      "options": {
+        "A": "> 90 mm Hg",
+        "B": "> 100 mm Hg",
+        "C": "> 110 mm Hg",
+        "D": "> 120 mm Hg"
+      },
+      "answer": "C",
+      "explanation": "Although there is no universal standard cut-off, the general consensus is to delay elective surgery if diastolic blood pressure is > 110 mm Hg.",
+      "chapter": "Chapter 18",
+      "topic": "Hypertension",
+      "reference": "Ch 18, Section: Hypertension, Page 190"
+    }
+  ]
+}

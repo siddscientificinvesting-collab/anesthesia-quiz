@@ -1,0 +1,759 @@
+{
+  "title": "Cardiopulmonary & Cerebral Resuscitation MCQ – Chapter 41",
+  "source": "Short Textbook of Anesthesia – Ajay Yadav",
+  "section": "Section 9: Cardiorespiratory Care (Chapter 41)",
+  "total_questions": 50,
+  "time_limit_minutes": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Cardiac arrest in adults is usually of which origin?",
+      "options": {
+        "A": "Cardiac",
+        "B": "Metabolic",
+        "C": "Neurological",
+        "D": "Respiratory"
+      },
+      "answer": "A",
+      "explanation": "As per the textbook, cardiac arrest in adults is usually of cardiac origin while in children it is usually of respiratory origin.",
+      "chapter": "Chapter 41",
+      "topic": "CPCR Basics",
+      "reference": "Ch 41, Section: CPCR Basics, Page 297"
+    },
+    {
+      "id": 2,
+      "question": "Unwitnessed cardiac arrest in children should be considered due to which rhythm until proved otherwise?",
+      "options": {
+        "A": "Pulseless electrical activity",
+        "B": "Asystole",
+        "C": "Ventricular tachycardia",
+        "D": "Ventricular fibrillation"
+      },
+      "answer": "B",
+      "explanation": "Unwitnessed cardiac arrest in children should be considered due to asystole until proved otherwise, while in adults it should be considered due to ventricular fibrillation.",
+      "chapter": "Chapter 41",
+      "topic": "CPCR Basics",
+      "reference": "Ch 41, Section: CPCR Basics, Page 297"
+    },
+    {
+      "id": 3,
+      "question": "Every minute delay in initiating CPR decreases prognosis by what percentage?",
+      "options": {
+        "A": "7–10%",
+        "B": "5–7%",
+        "C": "1–3%",
+        "D": "15–20%"
+      },
+      "answer": "A",
+      "explanation": "As per AHA chain of survival, every minute delay in CPR decreases prognosis by 7–10%.",
+      "chapter": "Chapter 41",
+      "topic": "Chain of Survival",
+      "reference": "Ch 41, Section: Management of CPCR, Page 297"
+    },
+    {
+      "id": 4,
+      "question": "The standard CPR sequence was changed from A-B-C to C-A-B in which year's guidelines?",
+      "options": {
+        "A": "2015",
+        "B": "2020",
+        "C": "2005",
+        "D": "2010"
+      },
+      "answer": "D",
+      "explanation": "The standard sequence A (Airway) → B (Breathing) → C (Circulation) was changed to C → A → B in the 2010 CPR guidelines.",
+      "chapter": "Chapter 41",
+      "topic": "CPR Sequence",
+      "reference": "Ch 41, Section: Management of CPCR, Page 297"
+    },
+    {
+      "id": 5,
+      "question": "According to newer studies, what is the more important cause of airway obstruction in unconscious patients?",
+      "options": {
+        "A": "Epiglottis",
+        "B": "Laryngospasm",
+        "C": "Foreign body",
+        "D": "Tongue fall"
+      },
+      "answer": "A",
+      "explanation": "As per newer studies, epiglottis rather than tongue fall has been found to be the more important cause of airway obstruction in unconscious patients.",
+      "chapter": "Chapter 41",
+      "topic": "Airway Management",
+      "reference": "Ch 41, Section: Airway Management, Page 298"
+    },
+    {
+      "id": 6,
+      "question": "In a patient with suspected cervical spine fracture, what is the preferred method of airway management?",
+      "options": {
+        "A": "Jaw thrust",
+        "B": "Neck extension",
+        "C": "Head tilt and chin lift",
+        "D": "Cricothyroidotomy"
+      },
+      "answer": "A",
+      "explanation": "In patients with suspected cervical spine fracture, head tilt and chin lift should be avoided and airway should be managed only by jaw thrust. However, if airway is not manageable by jaw thrust alone, head tilt and chin lift can be given as life takes priority.",
+      "chapter": "Chapter 41",
+      "topic": "Airway Management",
+      "reference": "Ch 41, Section: Airway Management, Page 298"
+    },
+    {
+      "id": 7,
+      "question": "Which device, being usable by lay rescuers, is part of Basic Life Support?",
+      "options": {
+        "A": "Transcutaneous pacemaker",
+        "B": "Synchronized cardioverter",
+        "C": "Manual defibrillator",
+        "D": "Automatic external defibrillator (AED)"
+      },
+      "answer": "D",
+      "explanation": "AED can be used by lay rescuers and therefore is part of basic life support. AEDs automatically detect rhythm and deliver shock if rhythm is shockable.",
+      "chapter": "Chapter 41",
+      "topic": "Basic Life Support",
+      "reference": "Ch 41, Section: Basic Life Support, Page 298"
+    },
+    {
+      "id": 8,
+      "question": "Mouth to mouth rescue breathing is recommended for whom?",
+      "options": {
+        "A": "Only medical doctors",
+        "B": "Only paramedics",
+        "C": "Only trained rescuers",
+        "D": "All lay rescuers"
+      },
+      "answer": "C",
+      "explanation": "Rescue breath by mouth to mouth is reserved only for trained rescuers (medical as well as non-medical). For untrained lay rescuers, CPR means 'hands only' i.e. only cardiac massage.",
+      "chapter": "Chapter 41",
+      "topic": "Breathing",
+      "reference": "Ch 41, Section: Breathing (Ventilation), Page 300"
+    },
+    {
+      "id": 9,
+      "question": "What is the most definitive method of airway management during CPR?",
+      "options": {
+        "A": "Laryngeal mask airway",
+        "B": "Guedel airway",
+        "C": "Combitube",
+        "D": "Endotracheal tube"
+      },
+      "answer": "D",
+      "explanation": "Endotracheal intubation is the most definitive and best method for ventilation during CPR.",
+      "chapter": "Chapter 41",
+      "topic": "Airway Management",
+      "reference": "Ch 41, Section: Breathing (Ventilation), Page 300"
+    },
+    {
+      "id": 10,
+      "question": "What is the Heimlich maneuver used for?",
+      "options": {
+        "A": "Cervical spine stabilization",
+        "B": "Foreign body airway obstruction in adults and older children",
+        "C": "Defibrillation technique",
+        "D": "Cardiac massage in infants"
+      },
+      "answer": "B",
+      "explanation": "Heimlich maneuver involves abdominal compression 6–10 times with the patient standing and rescuer behind. It is used for adults and older children with foreign body airway obstruction.",
+      "chapter": "Chapter 41",
+      "topic": "Airway Management",
+      "reference": "Ch 41, Section: Management of Airway Obstruction due to Foreign Body, Page 299"
+    },
+    {
+      "id": 11,
+      "question": "For cervical spine fracture patients, which type of neck stabilization is preferred during intubation?",
+      "options": {
+        "A": "Manual stabilization",
+        "B": "Halo vest",
+        "C": "Hard cervical collar",
+        "D": "Soft cervical collar"
+      },
+      "answer": "A",
+      "explanation": "As intubation often requires removal of cervical collar, manual stabilization is always preferred over collar stabilization.",
+      "chapter": "Chapter 41",
+      "topic": "Cervical Spine Management",
+      "reference": "Ch 41, Section: Airway and Breathing for Patients with Cervical Spine, Page 300"
+    },
+    {
+      "id": 12,
+      "question": "During cardiac massage, the sternum should be depressed by how much?",
+      "options": {
+        "A": "2 inches (5 cm) but not more than 2.4 inches (6 cm)",
+        "B": "1 inch (2.5 cm)",
+        "C": "3 inches (7.5 cm)",
+        "D": "1.5 inches (4 cm)"
+      },
+      "answer": "A",
+      "explanation": "The force generated during massage should be able to depress sternum by 2 inches (5 cm) but not more than 2.4 inches (6 cm) to avoid complications due to excessive pressure.",
+      "chapter": "Chapter 41",
+      "topic": "Circulation",
+      "reference": "Ch 41, Section: Circulation, Page 300"
+    },
+    {
+      "id": 13,
+      "question": "What is the recommended rate of chest compressions during CPR?",
+      "options": {
+        "A": "120–140/minute",
+        "B": "80–100/minute",
+        "C": "100–120/minute",
+        "D": "60–80/minute"
+      },
+      "answer": "C",
+      "explanation": "The rate of compression should be 100–120 compressions/minute but not more than 120, because at rates >120/min, compression depth decreases significantly.",
+      "chapter": "Chapter 41",
+      "topic": "Circulation",
+      "reference": "Ch 41, Section: Circulation, Page 301"
+    },
+    {
+      "id": 14,
+      "question": "Effective cardiac output generated by successful cardiac massage is what percentage of normal?",
+      "options": {
+        "A": "30%",
+        "B": "50%",
+        "C": "10%",
+        "D": "20%"
+      },
+      "answer": "A",
+      "explanation": "Effective cardiac output generated by successful massage is only 30% of normal, therefore all efforts should be directed to establish spontaneous circulation.",
+      "chapter": "Chapter 41",
+      "topic": "Circulation",
+      "reference": "Ch 41, Section: Physiological Considerations of Cardiac Massage, Page 301"
+    },
+    {
+      "id": 15,
+      "question": "What is the compression to ventilation ratio for adults WITHOUT advanced airway, irrespective of the number of rescuers?",
+      "options": {
+        "A": "15:2",
+        "B": "15:1",
+        "C": "30:2",
+        "D": "5:1"
+      },
+      "answer": "C",
+      "explanation": "Without advanced airway, the ratio for adults should be 30:2 (30 compressions followed by 2 breaths) irrespective of number of resuscitators.",
+      "chapter": "Chapter 41",
+      "topic": "Compression to Ventilation Ratio",
+      "reference": "Ch 41, Section: Compression to Ventilation Ratio, Page 301"
+    },
+    {
+      "id": 16,
+      "question": "With advanced airway in place, what is the ventilation rate during CPR?",
+      "options": {
+        "A": "8 breaths/minute",
+        "B": "10 breaths/minute",
+        "C": "6 breaths/minute",
+        "D": "12 breaths/minute"
+      },
+      "answer": "B",
+      "explanation": "With advanced airway, breathing is at a rate of 10 breaths/minute (1 breath every 6 seconds) without any synchronization with compressions.",
+      "chapter": "Chapter 41",
+      "topic": "Compression to Ventilation Ratio",
+      "reference": "Ch 41, Section: Compression to Ventilation Ratio, Page 301"
+    },
+    {
+      "id": 17,
+      "question": "What is the minimum ETCO2 that should be produced by successful cardiac massage?",
+      "options": {
+        "A": "20 mm Hg",
+        "B": "15 mm Hg",
+        "C": "10 mm Hg",
+        "D": "30 mm Hg"
+      },
+      "answer": "A",
+      "explanation": "Successful cardiac massage should be able to produce ETCO2 of at least 20 mm Hg. If ETCO2 is less than 10 mm Hg, cardiac massage should be considered grossly abnormal.",
+      "chapter": "Chapter 41",
+      "topic": "Monitoring of CPR",
+      "reference": "Ch 41, Section: Monitoring of CPR, Page 301"
+    },
+    {
+      "id": 18,
+      "question": "ETCO2 becoming normal (40 mm Hg) during CPR is the earliest indicator of what?",
+      "options": {
+        "A": "Adequate ventilation",
+        "B": "Myocardial recovery",
+        "C": "Return of normal circulation",
+        "D": "Brain death"
+      },
+      "answer": "C",
+      "explanation": "ETCO2 becoming normal (40 mm Hg) is the earliest indicator of return of normal circulation during CPR.",
+      "chapter": "Chapter 41",
+      "topic": "Monitoring of CPR",
+      "reference": "Ch 41, Section: Monitoring of CPR, Page 301"
+    },
+    {
+      "id": 19,
+      "question": "Which of the following is NOT a shockable rhythm?",
+      "options": {
+        "A": "Asystole",
+        "B": "Ventricular fibrillation",
+        "C": "Polymorphic ventricular tachycardia (Torsade de Pointes)",
+        "D": "Pulseless ventricular tachycardia"
+      },
+      "answer": "A",
+      "explanation": "Shockable rhythms include VF, pulseless VT and polymorphic VT (Torsade de Pointes). Non-shockable rhythms include asystole and pulseless electrical activity (PEA).",
+      "chapter": "Chapter 41",
+      "topic": "Arrhythmia Management",
+      "reference": "Ch 41, Section: Management of Arrhythmias Seen During Cardiac Arrest, Page 301"
+    },
+    {
+      "id": 20,
+      "question": "What is the recommended energy for monophasic defibrillation?",
+      "options": {
+        "A": "120 Joules",
+        "B": "200 Joules",
+        "C": "300 Joules",
+        "D": "360 Joules"
+      },
+      "answer": "D",
+      "explanation": "With monophasic defibrillators, all shocks should be of 360 Joules. With biphasic defibrillators, 150–200 J (exponential waveform) or 120 J (rectilinear waveform).",
+      "chapter": "Chapter 41",
+      "topic": "Defibrillation",
+      "reference": "Ch 41, Section: Defibrillation, Page 302"
+    },
+    {
+      "id": 21,
+      "question": "What is the recommended defibrillation paddle size for adults?",
+      "options": {
+        "A": "4.5 cm",
+        "B": "13 cm",
+        "C": "15 cm",
+        "D": "8 cm"
+      },
+      "answer": "B",
+      "explanation": "Paddle sizes: Adults – 13 cm, Children – 8 cm, Infants – 4.5 cm.",
+      "chapter": "Chapter 41",
+      "topic": "Defibrillation",
+      "reference": "Ch 41, Section: Defibrillation, Page 302"
+    },
+    {
+      "id": 22,
+      "question": "After delivering a defibrillation shock, what should be done immediately?",
+      "options": {
+        "A": "Check the rhythm immediately",
+        "B": "Give 5 cycles of 30:2 or 2 minutes of CPR before checking rhythm",
+        "C": "Administer adrenaline immediately",
+        "D": "Wait for 5 minutes and reassess"
+      },
+      "answer": "B",
+      "explanation": "Immediately after giving shock, give 5 cycles of 30:2 (without advanced airway) or 2 minutes of CPR (with advanced airway) before checking rhythm, as it takes ~2 minutes for heart to generate cardiac output even if rhythm becomes sinus.",
+      "chapter": "Chapter 41",
+      "topic": "Defibrillation",
+      "reference": "Ch 41, Section: Defibrillation, Page 302"
+    },
+    {
+      "id": 23,
+      "question": "In monitored in-hospital patients, defibrillation should ideally be done within how many minutes?",
+      "options": {
+        "A": "3 minutes",
+        "B": "5 minutes",
+        "C": "1 minute",
+        "D": "10 minutes"
+      },
+      "answer": "A",
+      "explanation": "Ideally, in monitored patients, defibrillation should be done within 3 minutes.",
+      "chapter": "Chapter 41",
+      "topic": "Defibrillation",
+      "reference": "Ch 41, Section: Defibrillation, Page 302"
+    },
+    {
+      "id": 24,
+      "question": "What is the most common cause of pulseless electrical activity (PEA)?",
+      "options": {
+        "A": "Tension pneumothorax",
+        "B": "Hypovolemia",
+        "C": "Hypoxia",
+        "D": "Hypothermia"
+      },
+      "answer": "B",
+      "explanation": "Hypovolemia (shock) is the most common cause of PEA as stated in the textbook.",
+      "chapter": "Chapter 41",
+      "topic": "Nonshockable Rhythms",
+      "reference": "Ch 41, Section: Pulseless Electrical Activity (PEA), Page 303"
+    },
+    {
+      "id": 25,
+      "question": "Which of the following is NOT one of the 5H causes of PEA?",
+      "options": {
+        "A": "Hydrogen ion (acidosis)",
+        "B": "Hypovolemia",
+        "C": "Hypothermia",
+        "D": "Hypernatremia"
+      },
+      "answer": "D",
+      "explanation": "The 5H causes of PEA are: Hypovolemia, Hypokalemia/Hyperkalemia, Hypothermia, Hypoxia, and Hydrogen ion (acidosis). Hypernatremia is not included.",
+      "chapter": "Chapter 41",
+      "topic": "Nonshockable Rhythms",
+      "reference": "Ch 41, Section: Causes of PEA, Page 304"
+    },
+    {
+      "id": 26,
+      "question": "Which of the following is one of the 5T causes of PEA?",
+      "options": {
+        "A": "Tracheomalacia",
+        "B": "Thyrotoxicosis",
+        "C": "Tamponade (cardiac)",
+        "D": "Tachycardia"
+      },
+      "answer": "C",
+      "explanation": "The 5T causes of PEA are: Tension Pneumothorax, Tamponade (cardiac), Thrombosis (coronary/pulmonary), Tablets (drug overdoses)/Toxins, and Trauma.",
+      "chapter": "Chapter 41",
+      "topic": "Nonshockable Rhythms",
+      "reference": "Ch 41, Section: Causes of PEA, Page 304"
+    },
+    {
+      "id": 27,
+      "question": "Asystole is described as:",
+      "options": {
+        "A": "The terminal event of all arrhythmias with very poor prognosis",
+        "B": "The most common initial rhythm in adults",
+        "C": "The rhythm most responsive to adrenaline",
+        "D": "A shockable rhythm"
+      },
+      "answer": "A",
+      "explanation": "Asystole is the terminal event of all arrhythmias. The prognosis of asystole is very poor as compared to PEA and ventricular fibrillation.",
+      "chapter": "Chapter 41",
+      "topic": "Nonshockable Rhythms",
+      "reference": "Ch 41, Section: Asystole, Page 304"
+    },
+    {
+      "id": 28,
+      "question": "Cough CPR is applicable in which situation?",
+      "options": {
+        "A": "Pediatric patient with PEA",
+        "B": "Pregnant patient with cardiac arrest",
+        "C": "Conscious patient having ventricular fibrillation",
+        "D": "Unconscious patient with asystole"
+      },
+      "answer": "C",
+      "explanation": "Cough CPR is applicable to a conscious patient having VF. Coughing during VF increases intrathoracic pressure and can maintain cerebral perfusion (consciousness) for 90 seconds.",
+      "chapter": "Chapter 41",
+      "topic": "Newer Techniques in CPR",
+      "reference": "Ch 41, Section: Newer Techniques/Variations in CPR, Page 305"
+    },
+    {
+      "id": 29,
+      "question": "What is the target core body temperature range in targeted temperature management (TTM) after cardiac arrest?",
+      "options": {
+        "A": "36–38°C for 48 hours",
+        "B": "32–34°C for 12 hours",
+        "C": "32–36°C for 24 hours",
+        "D": "28–30°C for 12 hours"
+      },
+      "answer": "C",
+      "explanation": "TTM means maintaining core body temperature between 32–36°C for 24 hours. This was changed from the 2010 guideline of 32–34°C for 12 hours.",
+      "chapter": "Chapter 41",
+      "topic": "Post Cardiac Arrest Care",
+      "reference": "Ch 41, Section: Postcardiac Arrest Care, Page 305"
+    },
+    {
+      "id": 30,
+      "question": "What is the target SpO2 range in post-cardiac arrest care?",
+      "options": {
+        "A": "88–92%",
+        "B": "90–94%",
+        "C": "98–100%",
+        "D": "94–98%"
+      },
+      "answer": "D",
+      "explanation": "Hyperoxia can produce complications including ARDS, therefore use minimum FiO2 which maintains target SpO2 between 94 and 98%.",
+      "chapter": "Chapter 41",
+      "topic": "Post Cardiac Arrest Care",
+      "reference": "Ch 41, Section: Postcardiac Arrest Care, Page 305"
+    },
+    {
+      "id": 31,
+      "question": "What blood sugar range (mg/dL) should be maintained in post-resuscitation care?",
+      "options": {
+        "A": "180–220 mg/dL",
+        "B": "144–180 mg/dL",
+        "C": "80–110 mg/dL",
+        "D": "110–140 mg/dL"
+      },
+      "answer": "B",
+      "explanation": "Moderate blood sugar of 144–180 mg/dL (8–10 mmol) should be maintained in the post-resuscitation period, as both hypoglycemia and hyperglycemia are unacceptable.",
+      "chapter": "Chapter 41",
+      "topic": "Post Cardiac Arrest Care",
+      "reference": "Ch 41, Section: Postcardiac Arrest Care, Page 305"
+    },
+    {
+      "id": 32,
+      "question": "Emergency PCI for STEMI patients after cardiac arrest should preferably be performed within what time?",
+      "options": {
+        "A": "30 minutes",
+        "B": "90 minutes",
+        "C": "60 minutes",
+        "D": "120 minutes"
+      },
+      "answer": "B",
+      "explanation": "Emergency (preferably within 90 minutes) coronary angiography/angioplasty is recommended for all patients with STEMI.",
+      "chapter": "Chapter 41",
+      "topic": "Post Cardiac Arrest Care",
+      "reference": "Ch 41, Section: Postcardiac Arrest Care, Page 305"
+    },
+    {
+      "id": 33,
+      "question": "When should neurologic prognostication be performed after ROSC in patients NOT given TTM?",
+      "options": {
+        "A": "24 hours",
+        "B": "48 hours",
+        "C": "96 hours",
+        "D": "72 hours"
+      },
+      "answer": "D",
+      "explanation": "Prognostication is recommended 72 hours after return of spontaneous circulation for those who have not been given TTM.",
+      "chapter": "Chapter 41",
+      "topic": "Post Cardiac Arrest Care",
+      "reference": "Ch 41, Section: Postcardiac Arrest Care, Page 305"
+    },
+    {
+      "id": 34,
+      "question": "From a CPR point of view, what age group defines an 'infant'?",
+      "options": {
+        "A": "1 year to 5 years",
+        "B": "1 year till puberty",
+        "C": "4 weeks to 1 year",
+        "D": "Birth to 4 weeks"
+      },
+      "answer": "C",
+      "explanation": "From CPR point of view: Neonate = first 4 weeks, Infant = 4 weeks to 1 year, Child = 1 year till puberty, Adult = beyond puberty.",
+      "chapter": "Chapter 41",
+      "topic": "Pediatric CPR",
+      "reference": "Ch 41, Section: Pediatric CPR, Page 305"
+    },
+    {
+      "id": 35,
+      "question": "What is the compression to ventilation ratio for a CHILD with TWO rescuers and NO advanced airway?",
+      "options": {
+        "A": "3:1",
+        "B": "5:1",
+        "C": "30:2",
+        "D": "15:2"
+      },
+      "answer": "D",
+      "explanation": "For children without advanced airway, the ratio is 30:2 for one rescuer and 15:2 for two rescuers (while for adults it is 30:2 irrespective of rescuers).",
+      "chapter": "Chapter 41",
+      "topic": "Pediatric CPR",
+      "reference": "Ch 41, Section: Pediatric CPR, Page 306"
+    },
+    {
+      "id": 36,
+      "question": "What is the pulse check site for infants during CPR?",
+      "options": {
+        "A": "Brachial/Femoral",
+        "B": "Radial",
+        "C": "Dorsalis pedis",
+        "D": "Carotid"
+      },
+      "answer": "A",
+      "explanation": "Pulse check sites: Infants – Brachial/Femoral, Children – Carotid, Adults – Carotid/Femoral.",
+      "chapter": "Chapter 41",
+      "topic": "Pediatric CPR",
+      "reference": "Ch 41, Section: Pediatric CPR, Page 306"
+    },
+    {
+      "id": 37,
+      "question": "What heart rate in a pediatric patient with signs of poor perfusion is an indication to start chest compressions?",
+      "options": {
+        "A": "<80/min",
+        "B": "<40/min",
+        "C": "<100/min",
+        "D": "<60/min"
+      },
+      "answer": "D",
+      "explanation": "Heart rate <60/min with signs of poor perfusion (pallor/cyanosis) is the indication to start chest compressions in the pediatric age group.",
+      "chapter": "Chapter 41",
+      "topic": "Pediatric CPR",
+      "reference": "Ch 41, Section: Pediatric CPR, Page 306"
+    },
+    {
+      "id": 38,
+      "question": "What is the first shock energy for pediatric manual defibrillation?",
+      "options": {
+        "A": "1 J/kg",
+        "B": "10 J/kg",
+        "C": "4 J/kg",
+        "D": "2 J/kg"
+      },
+      "answer": "D",
+      "explanation": "Energy selection for shock (manual) in pediatric patients is 2 J/kg for first shock and 4 J/kg subsequently.",
+      "chapter": "Chapter 41",
+      "topic": "Pediatric CPR",
+      "reference": "Ch 41, Section: Pediatric CPR, Page 306"
+    },
+    {
+      "id": 39,
+      "question": "What is the compression to ventilation ratio for NEWBORN resuscitation?",
+      "options": {
+        "A": "15:2",
+        "B": "30:2",
+        "C": "3:1",
+        "D": "5:1"
+      },
+      "answer": "C",
+      "explanation": "Compression ventilation ratio for newborns is 3:1 (90 compressions with 30 breaths) and is synchronized.",
+      "chapter": "Chapter 41",
+      "topic": "Newborn CPR",
+      "reference": "Ch 41, Section: Newborn CPR, Page 306"
+    },
+    {
+      "id": 40,
+      "question": "What is the indication for starting chest compressions in a newborn?",
+      "options": {
+        "A": "HR <60/min despite adequate ventilation with 100% O2 for 30 seconds",
+        "B": "HR <100/min despite adequate ventilation",
+        "C": "HR <80/min despite adequate ventilation",
+        "D": "HR <40/min despite adequate ventilation"
+      },
+      "answer": "A",
+      "explanation": "In newborns, indication for chest compression is HR <60/min in spite of adequate ventilation with 100% oxygen for 30 seconds.",
+      "chapter": "Chapter 41",
+      "topic": "Newborn CPR",
+      "reference": "Ch 41, Section: Newborn CPR, Page 306"
+    },
+    {
+      "id": 41,
+      "question": "During CPR in pregnancy, how should aortocaval compression be relieved?",
+      "options": {
+        "A": "Trendelenburg position",
+        "B": "Left lateral tilt",
+        "C": "Right lateral tilt",
+        "D": "Manual uterine displacement"
+      },
+      "answer": "D",
+      "explanation": "Lateral tilt has been eliminated from new CPR guidelines as it compromises CPR quality. Aortocaval compression should be achieved by uterine displacement.",
+      "chapter": "Chapter 41",
+      "topic": "CPR in Pregnancy",
+      "reference": "Ch 41, Section: CPR in Pregnancy, Page 307"
+    },
+    {
+      "id": 42,
+      "question": "Emergency cesarean section during maternal cardiac arrest should be considered if fetus is >25 weeks and can be performed within how many minutes?",
+      "options": {
+        "A": "10 minutes",
+        "B": "2 minutes",
+        "C": "4 minutes",
+        "D": "6 minutes"
+      },
+      "answer": "C",
+      "explanation": "Emergency LSCS should be considered if fetus >25 weeks and LSCS can be performed within 4 minutes of maternal arrest.",
+      "chapter": "Chapter 41",
+      "topic": "CPR in Pregnancy",
+      "reference": "Ch 41, Section: CPR in Pregnancy, Page 307"
+    },
+    {
+      "id": 43,
+      "question": "What is the fluid of choice during CPR?",
+      "options": {
+        "A": "Dextrose-saline",
+        "B": "5% dextrose",
+        "C": "Normal saline",
+        "D": "Ringer lactate"
+      },
+      "answer": "C",
+      "explanation": "Normal saline is the fluid of choice during CPR. Glucose-containing solutions increase cerebral edema, and Ringer lactate should be avoided as calcium present can cause neuronal injury.",
+      "chapter": "Chapter 41",
+      "topic": "Important Considerations in CPR",
+      "reference": "Ch 41, Section: Fluid During CPR, Page 307"
+    },
+    {
+      "id": 44,
+      "question": "What is the dose of adrenaline by endotracheal route compared to intravenous dose?",
+      "options": {
+        "A": "1.5 times IV dose",
+        "B": "5 times IV dose",
+        "C": "Same as IV dose",
+        "D": "2.5 times IV dose"
+      },
+      "answer": "D",
+      "explanation": "The dose by endotracheal route is 2.5 times of intravenous dose and the drug should be diluted with 10 mL of saline in adults and 5 mL in children.",
+      "chapter": "Chapter 41",
+      "topic": "Important Considerations in CPR",
+      "reference": "Ch 41, Section: Endotracheal (ET), Page 307"
+    },
+    {
+      "id": 45,
+      "question": "Which of the following drugs can NOT be administered via endotracheal route?",
+      "options": {
+        "A": "Lignocaine",
+        "B": "Adrenaline",
+        "C": "Amiodarone",
+        "D": "Naloxone"
+      },
+      "answer": "C",
+      "explanation": "Drugs that can be delivered by ET route are: Adrenaline, Atropine, Lignocaine (Xylocard), and Naloxone. Amiodarone is not in this list.",
+      "chapter": "Chapter 41",
+      "topic": "Important Considerations in CPR",
+      "reference": "Ch 41, Section: Endotracheal (ET), Page 307"
+    },
+    {
+      "id": 46,
+      "question": "Routine use of sodium bicarbonate without proven acidosis during CPR is harmful because of all EXCEPT:",
+      "options": {
+        "A": "Is hypertonic and increases plasma osmolarity",
+        "B": "Causes direct myocardial depression",
+        "C": "Produces CO2 which can worsen neuronal injury",
+        "D": "Can cause paradoxical intracellular acidosis"
+      },
+      "answer": "B",
+      "explanation": "The textbook lists harms of sodium bicarbonate as: CO2 production worsening neuronal injury, increased intracranial tension, paradoxical intracellular acidosis, and hypertonic effect increasing plasma osmolarity. Direct myocardial depression is not mentioned.",
+      "chapter": "Chapter 41",
+      "topic": "Sodium Bicarbonate in CPR",
+      "reference": "Ch 41, Section: Use of Sodium Bicarbonate, Page 308"
+    },
+    {
+      "id": 47,
+      "question": "The only recommended modality for global cerebral ischemia during CPR is:",
+      "options": {
+        "A": "Barbiturates (Thiopentone)",
+        "B": "Targeted temperature management",
+        "C": "Calcium channel blockers",
+        "D": "Propofol infusion"
+      },
+      "answer": "B",
+      "explanation": "The only recommended modality for global cerebral ischemia seen in CPR is targeted temperature management. Barbiturates, Propofol, and calcium channel blockers are useful for focal ischemia but their role in global ischemia is not proven.",
+      "chapter": "Chapter 41",
+      "topic": "Cerebral Protection",
+      "reference": "Ch 41, Section: Cerebral Protection, Page 308"
+    },
+    {
+      "id": 48,
+      "question": "In the criteria for brain death, no spontaneous respiration should occur even if pCO2 increases to:",
+      "options": {
+        "A": "50 mm Hg",
+        "B": "60 mm Hg",
+        "C": "70 mm Hg",
+        "D": "40 mm Hg"
+      },
+      "answer": "B",
+      "explanation": "One of the clinical tests for brain death is no spontaneous respiration even if pCO2 increases to 60 mm Hg.",
+      "chapter": "Chapter 41",
+      "topic": "Brain Death",
+      "reference": "Ch 41, Section: Brain Death, Page 308"
+    },
+    {
+      "id": 49,
+      "question": "What is the IV dose of adrenaline during CPR and how frequently is it repeated?",
+      "options": {
+        "A": "5 mg once only",
+        "B": "1 mg every 3–5 minutes",
+        "C": "0.5 mg every 1–2 minutes",
+        "D": "2 mg every 5–10 minutes"
+      },
+      "answer": "B",
+      "explanation": "The CPR dose of adrenaline is 1 mg IV to be repeated every 3–5 minutes in concentration of 1:10,000.",
+      "chapter": "Chapter 41",
+      "topic": "Drugs for CPR",
+      "reference": "Ch 41, Section: Adrenaline (Epinephrine), Page 308"
+    },
+    {
+      "id": 50,
+      "question": "What is the first dose of amiodarone during CPR for ventricular tachycardia?",
+      "options": {
+        "A": "150 mg IV",
+        "B": "300 mg IV",
+        "C": "450 mg IV",
+        "D": "100 mg IV"
+      },
+      "answer": "B",
+      "explanation": "Amiodarone is the drug of choice for ventricular tachycardia. The first dose is 300 mg IV and subsequent doses are 150 mg.",
+      "chapter": "Chapter 41",
+      "topic": "Drugs for CPR",
+      "reference": "Ch 41, Section: Amiodarone, Page 308"
+    }
+  ]
+}

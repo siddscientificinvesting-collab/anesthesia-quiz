@@ -12,23 +12,70 @@ except Exception:
 
 # ─── Page Config ────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="Anesthesia Equipment MCQ",
+    page_title="Anesthesia MCQ Quiz",
     page_icon="🩺",
     layout="wide",
     initial_sidebar_state="collapsed",
 )
 
+# ─── Available Quizzes ────────────────────────────────────────────────────────
+QUIZ_CATALOG = {
+    "section2": {
+        "file": "questions.json",
+        "label": "Section 2 – Equipment in Anesthesia (Ch 2–3)",
+        "short": "Equipment (Ch 2–3)",
+        "icon": "🔧",
+    },
+    "ch18": {
+        "file": "questions_ch18.json",
+        "label": "Chapter 18 – Anesthesia for Cardiovascular Diseases",
+        "short": "Cardiovascular (Ch 18)",
+        "icon": "❤️",
+    },
+    "ch19": {
+        "file": "questions_ch19.json",
+        "label": "Chapter 19 – Anesthesia for Respiratory Diseases",
+        "short": "Respiratory (Ch 19)",
+        "icon": "🫁",
+    },
+    "ch40": {
+        "file": "questions_ch40.json",
+        "label": "Chapter 40 – Intensive Care Management",
+        "short": "ICU Management (Ch 40)",
+        "icon": "🏥",
+    },
+    "ch41": {
+        "file": "questions_ch41.json",
+        "label": "Chapter 41 – Cardiopulmonary & Cerebral Resuscitation",
+        "short": "CPR/CPCR (Ch 41)",
+        "icon": "🫀",
+    },
+}
+
 # ─── Load Questions ──────────────────────────────────────────────────────────
 @st.cache_data
-def load_questions():
-    path = os.path.join(os.path.dirname(__file__), "questions.json")
+def load_questions(filename):
+    path = os.path.join(os.path.dirname(__file__), filename)
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
 
-quiz_data = load_questions()
-QUESTIONS    = quiz_data["questions"]
-TIME_LIMIT   = quiz_data["time_limit_minutes"] * 60  # seconds
-TOTAL_Q      = quiz_data["total_questions"]
+# Determine active quiz from query parameter
+query_params = st.query_params
+active_quiz_key = query_params.get("quiz", None)
+
+if active_quiz_key and active_quiz_key in QUIZ_CATALOG:
+    quiz_file = QUIZ_CATALOG[active_quiz_key]["file"]
+    quiz_data = load_questions(quiz_file)
+    QUESTIONS  = quiz_data["questions"]
+    TIME_LIMIT = quiz_data["time_limit_minutes"] * 60
+    TOTAL_Q    = quiz_data["total_questions"]
+    QUIZ_LABEL = QUIZ_CATALOG[active_quiz_key]["label"]
+else:
+    quiz_data  = None
+    QUESTIONS  = []
+    TIME_LIMIT = 0
+    TOTAL_Q    = 0
+    QUIZ_LABEL = ""
 
 # ─── Supabase Client ─────────────────────────────────────────────────────────
 @st.cache_resource
@@ -45,7 +92,7 @@ def get_supabase():
 # ─── Session State Init ──────────────────────────────────────────────────────
 def init_state():
     defaults = {
-        "page":           "home",       # home | quiz | result | leaderboard
+        "page":           "home",       # home | quiz | result | review | leaderboard
         "name":           "",
         "answers":        {},
         "start_time":     None,
@@ -84,6 +131,21 @@ st.markdown("""
 }
 .q-progress { font-size: 0.85rem; color: #888; margin-bottom: 0.5rem; }
 div[data-baseweb="radio"] label { font-size: 1rem; }
+.ref-box {
+    background: #1e1e2e;
+    border-left: 4px solid #89b4fa;
+    padding: 0.6rem 1rem;
+    border-radius: 8px;
+    margin: 0.5rem 0 1rem 0;
+    font-size: 0.9rem;
+    color: #cdd6f4;
+}
+.review-stat {
+    background: linear-gradient(135deg, #1e1e2e, #313244);
+    border-radius: 12px;
+    padding: 1.2rem;
+    text-align: center;
+}
 </style>
 """, unsafe_allow_html=True)
 
@@ -121,7 +183,7 @@ def save_result_to_supabase(name: str, score: int, time_taken: int, answers: dic
             "time_taken_s": time_taken,
             "time_limit_s": TIME_LIMIT,
             "answers":      json.dumps(answers),
-            "quiz_id":      quiz_data.get("title", "anesthesia_section2"),
+            "quiz_id":      quiz_data.get("title", active_quiz_key or "unknown") if quiz_data else "unknown",
             "attempted_at": datetime.now(timezone.utc).isoformat(),
         }
         sb.table("quiz_results").insert(payload).execute()
@@ -154,17 +216,22 @@ def get_leaderboard():
 
 # ─── HOME ────────────────────────────────────────────────────────────────────
 def page_home():
-    st.title("🩺 Anesthesia Equipment MCQ")
+    # Landing page: show quiz catalog if no quiz selected
+    if not active_quiz_key:
+        page_catalog()
+        return
+
+    st.title(f"🩺 {QUIZ_LABEL}")
+    time_min = quiz_data['time_limit_minutes']
     st.markdown(f"""
 **Source:** Short Textbook of Anesthesia – Ajay Yadav  
-**Section:** Section 2 – Equipment in Anesthesia (Chapters 2–3)  
-**Questions:** {TOTAL_Q}  &nbsp;|&nbsp; **Time Limit:** {quiz_data['time_limit_minutes']} minutes  
+**Questions:** {TOTAL_Q}  &nbsp;|&nbsp; **Time Limit:** {time_min} minutes  
 **Pattern:** CRE-style Single Best Answer (SBA)
     """)
     st.divider()
 
     name = st.text_input("Enter your name to begin:", placeholder="e.g. Dr. Ramesh")
-    col1, col2 = st.columns([1, 2])
+    col1, col2, col3 = st.columns([1, 1, 1])
     with col1:
         if st.button("▶  Start Test", type="primary", use_container_width=True):
             if not name.strip():
@@ -181,15 +248,53 @@ def page_home():
         if st.button("🏆  View Leaderboard", use_container_width=True):
             st.session_state.page = "leaderboard"
             st.rerun()
+    with col3:
+        if st.button("📚 All Quizzes", use_container_width=True):
+            st.query_params.clear()
+            st.session_state.page = "home"
+            st.rerun()
 
     st.divider()
-    st.markdown("""
+    st.markdown(f"""
 **Instructions:**  
-1. Answer all 50 questions before the timer runs out.  
+1. Answer all {TOTAL_Q} questions before the timer runs out.  
 2. You can navigate freely using the sidebar question map.  
 3. Click **Submit Test** when done (or it auto-submits when time is up).  
-4. Review correct answers after submission.
+4. Review correct answers with book references after submission.
     """)
+
+
+# ─── QUIZ CATALOG ─────────────────────────────────────────────────────────────
+def page_catalog():
+    st.title("🩺 Anesthesia MCQ Quiz Hub")
+    st.markdown("""
+**Source:** Short Textbook of Anesthesia – Ajay Yadav  
+**Pattern:** CRE-style Single Best Answer (SBA)  
+**Each test:** 50 Questions | 30 Minutes  
+
+Select a chapter to start your test:
+    """)
+    st.divider()
+
+    for key, info in QUIZ_CATALOG.items():
+        c1, c2 = st.columns([4, 1])
+        with c1:
+            st.markdown(f"### {info['icon']} {info['label']}")
+            qdata = load_questions(info['file'])
+            topics = sorted(set(q.get('topic', 'General') for q in qdata['questions']))
+            st.caption(f"**50 MCQs** | **{qdata['time_limit_minutes']} min** | Topics: {', '.join(topics[:5])}{'...' if len(topics) > 5 else ''}")
+        with c2:
+            link = f"?quiz={key}"
+            if st.button(f"▶ Start", key=f"cat_{key}", type="primary", use_container_width=True):
+                st.query_params["quiz"] = key
+                st.session_state.page = "home"
+                # Reset quiz state
+                for k in ["answers", "start_time", "submitted", "score", "time_taken", "current_q"]:
+                    if k in st.session_state:
+                        del st.session_state[k]
+                st.rerun()
+            st.caption(f"Link: `{link}`")
+        st.divider()
 
 
 # ─── QUIZ ─────────────────────────────────────────────────────────────────────
@@ -345,38 +450,161 @@ def page_result():
 
     st.divider()
 
-    # ── Detailed Review ───────────────────────────────────────────────────────
-    with st.expander("📖 Review All Answers", expanded=False):
-        for q in QUESTIONS:
-            qid      = str(q["id"])
-            user_ans = st.session_state.answers.get(qid, "Not answered")
-            correct  = q["answer"]
-            is_ok    = user_ans == correct
-            icon     = "✅" if is_ok else "❌"
-
-            st.markdown(f"**{icon} Q{q['id']}. {q['question']}**")
-            for k, v in q["options"].items():
-                if k == correct and k == user_ans:
-                    st.markdown(f"&nbsp;&nbsp;&nbsp;**✅ {k}. {v}** ← Your answer (Correct)")
-                elif k == correct:
-                    st.markdown(f"&nbsp;&nbsp;&nbsp;**✅ {k}. {v}** ← Correct answer")
-                elif k == user_ans:
-                    st.markdown(f"&nbsp;&nbsp;&nbsp;❌ ~~{k}. {v}~~ ← Your answer")
-                else:
-                    st.markdown(f"&nbsp;&nbsp;&nbsp;{k}. {v}")
-            st.info(f"**Explanation:** {q['explanation']}")
-            st.divider()
-
-    c1, c2 = st.columns(2)
+    c1, c2, c3 = st.columns(3)
     with c1:
-        if st.button("🔁 Retake Test", use_container_width=True, type="primary"):
+        if st.button("📖 Review Dashboard", use_container_width=True, type="primary"):
+            st.session_state.page = "review"
+            st.rerun()
+    with c2:
+        if st.button("🔁 Retake Test", use_container_width=True):
             for key in ["answers", "start_time", "submitted", "score", "time_taken", "current_q"]:
                 st.session_state[key] = {} if key == "answers" else (None if key == "start_time" else 0 if key in ["score","time_taken","current_q"] else False)
             st.session_state.page = "home"
             st.rerun()
-    with c2:
+    with c3:
         if st.button("🏆 View Leaderboard", use_container_width=True):
             st.session_state.page = "leaderboard"
+            st.rerun()
+
+
+# ─── REVIEW DASHBOARD ─────────────────────────────────────────────────────────
+def page_review():
+    if not st.session_state.submitted:
+        st.warning("No quiz to review. Take the test first!")
+        if st.button("◀ Back to Home"):
+            st.session_state.page = "home"
+            st.rerun()
+        return
+
+    st.title("📖 Review Dashboard")
+
+    # ── Summary Stats ─────────────────────────────────────────────────────────
+    correct_ids, incorrect_ids, unanswered_ids = [], [], []
+    for q in QUESTIONS:
+        qid = str(q["id"])
+        user_ans = st.session_state.answers.get(qid)
+        if user_ans is None:
+            unanswered_ids.append(q["id"])
+        elif user_ans == q["answer"]:
+            correct_ids.append(q["id"])
+        else:
+            incorrect_ids.append(q["id"])
+
+    s1, s2, s3, s4 = st.columns(4)
+    with s1:
+        st.markdown(f'<div class="review-stat"><h2 style="color:#a6e3a1;">✅ {len(correct_ids)}</h2><p>Correct</p></div>', unsafe_allow_html=True)
+    with s2:
+        st.markdown(f'<div class="review-stat"><h2 style="color:#f38ba8;">❌ {len(incorrect_ids)}</h2><p>Incorrect</p></div>', unsafe_allow_html=True)
+    with s3:
+        st.markdown(f'<div class="review-stat"><h2 style="color:#f9e2af;">⬜ {len(unanswered_ids)}</h2><p>Unanswered</p></div>', unsafe_allow_html=True)
+    with s4:
+        pct = round(len(correct_ids) / TOTAL_Q * 100, 1)
+        st.markdown(f'<div class="review-stat"><h2 style="color:#89b4fa;">{pct}%</h2><p>Score</p></div>', unsafe_allow_html=True)
+
+    st.divider()
+
+    # ── Filters ───────────────────────────────────────────────────────────────
+    fc1, fc2, fc3 = st.columns([1, 1, 1])
+    with fc1:
+        filter_mode = st.selectbox("Filter by:", ["All Questions", "✅ Correct Only", "❌ Incorrect Only", "⬜ Unanswered Only"])
+    with fc2:
+        chapters = sorted(set(q.get("chapter", "Unknown") for q in QUESTIONS))
+        chapter_filter = st.selectbox("Chapter:", ["All Chapters"] + chapters)
+    with fc3:
+        topics = sorted(set(q.get("topic", "Unknown") for q in QUESTIONS))
+        topic_filter = st.selectbox("Topic:", ["All Topics"] + topics)
+
+    # ── Filter Questions ──────────────────────────────────────────────────────
+    filtered = []
+    for q in QUESTIONS:
+        qid = str(q["id"])
+        user_ans = st.session_state.answers.get(qid)
+        is_correct = user_ans == q["answer"]
+        is_unanswered = user_ans is None
+
+        # Filter by answer status
+        if filter_mode == "✅ Correct Only" and not is_correct:
+            continue
+        if filter_mode == "❌ Incorrect Only" and (is_correct or is_unanswered):
+            continue
+        if filter_mode == "⬜ Unanswered Only" and not is_unanswered:
+            continue
+
+        # Filter by chapter
+        if chapter_filter != "All Chapters" and q.get("chapter") != chapter_filter:
+            continue
+
+        # Filter by topic
+        if topic_filter != "All Topics" and q.get("topic") != topic_filter:
+            continue
+
+        filtered.append(q)
+
+    st.markdown(f"**Showing {len(filtered)} of {TOTAL_Q} questions**")
+    st.divider()
+
+    # ── Render Questions ──────────────────────────────────────────────────────
+    for q in filtered:
+        qid      = str(q["id"])
+        user_ans = st.session_state.answers.get(qid)
+        correct  = q["answer"]
+
+        if user_ans is None:
+            icon, status_color = "⬜", "#f9e2af"
+        elif user_ans == correct:
+            icon, status_color = "✅", "#a6e3a1"
+        else:
+            icon, status_color = "❌", "#f38ba8"
+
+        # Question header with chapter/topic badge
+        chapter_label = q.get("chapter", "")
+        topic_label   = q.get("topic", "")
+        st.markdown(
+            f"**{icon} Q{q['id']}. {q['question']}**  \n"
+            f"<small style='color:#89b4fa;'>📚 {chapter_label} › {topic_label}</small>",
+            unsafe_allow_html=True,
+        )
+
+        # Options with visual feedback
+        for k, v in q["options"].items():
+            if k == correct and k == user_ans:
+                st.markdown(f"&nbsp;&nbsp;&nbsp;**✅ {k}. {v}** ← Your answer (Correct)")
+            elif k == correct:
+                st.markdown(f"&nbsp;&nbsp;&nbsp;**✅ {k}. {v}** ← Correct answer")
+            elif k == user_ans:
+                st.markdown(f"&nbsp;&nbsp;&nbsp;❌ ~~{k}. {v}~~ ← Your answer")
+            else:
+                st.markdown(f"&nbsp;&nbsp;&nbsp;{k}. {v}")
+
+        # Explanation
+        st.info(f"**Explanation:** {q['explanation']}")
+
+        # Book Reference
+        ref = q.get("reference", "")
+        if ref:
+            st.markdown(
+                f'<div class="ref-box">📖 <strong>Reference:</strong> {ref}<br>'
+                f'<em>Source: Short Textbook of Anesthesia – Ajay Yadav</em></div>',
+                unsafe_allow_html=True,
+            )
+
+        st.divider()
+
+    # ── Navigation ────────────────────────────────────────────────────────────
+    bc1, bc2, bc3 = st.columns(3)
+    with bc1:
+        if st.button("◀ Back to Results", use_container_width=True):
+            st.session_state.page = "result"
+            st.rerun()
+    with bc2:
+        if st.button("🔁 Retake Test", use_container_width=True):
+            for key in ["answers", "start_time", "submitted", "score", "time_taken", "current_q"]:
+                st.session_state[key] = {} if key == "answers" else (None if key == "start_time" else 0 if key in ["score","time_taken","current_q"] else False)
+            st.session_state.page = "home"
+            st.rerun()
+    with bc3:
+        if st.button("🏠 Home", use_container_width=True):
+            st.session_state.page = "home"
             st.rerun()
 
 
@@ -412,5 +640,7 @@ elif page == "quiz":
     page_quiz()
 elif page == "result":
     page_result()
+elif page == "review":
+    page_review()
 elif page == "leaderboard":
     page_leaderboard()

@@ -3,7 +3,7 @@
   "source": "Short Textbook of Anesthesia – Ajay Yadav",
   "section": "Section 2: Equipment in Anesthesia (Chapters 2–3)",
   "total_questions": 50,
-  "time_limit_minutes": 60,
+  "time_limit_minutes": 30,
   "questions": [
     {
       "id": 1,
@@ -15,7 +15,10 @@
         "D": "5–8 psi"
       },
       "answer": "B",
-      "explanation": "The 1st stage (primary) pressure regulator reduces cylinder pressure to 45–60 psi, which is then further reduced by the 2nd stage regulator to 15–35 psi for the intermediate system."
+      "explanation": "The 1st stage (primary) pressure regulator reduces cylinder pressure to 45–60 psi, which is then further reduced by the 2nd stage regulator to 15–35 psi for the intermediate system.",
+      "chapter": "Chapter 2",
+      "topic": "High Pressure System",
+      "reference": "Ch 2, Section: High Pressure System, Page 16"
     },
     {
       "id": 2,
@@ -27,7 +30,10 @@
         "D": "Interlock valve"
       },
       "answer": "C",
-      "explanation": "The fail-safe valve (oxygen supply failure protection device) proportionately decreases N₂O flow when oxygen pressure drops, preventing a hypoxic mixture."
+      "explanation": "The fail-safe valve (oxygen supply failure protection device) proportionately decreases N₂O flow when oxygen pressure drops, preventing a hypoxic mixture.",
+      "chapter": "Chapter 2",
+      "topic": "Safety Features",
+      "reference": "Ch 2, Section: Safety Features, Page 18"
     },
     {
       "id": 3,
@@ -39,7 +45,10 @@
         "D": "Blue"
       },
       "answer": "D",
-      "explanation": "Color codes: Blue = N₂O, White = O₂, Black = Air."
+      "explanation": "Color codes: Blue = N₂O, White = O₂, Black = Air.",
+      "chapter": "Chapter 2",
+      "topic": "Flowmeters and Rotameters",
+      "reference": "Ch 2, Section: Intermediate Pressure System, Page 20"
     },
     {
       "id": 4,
@@ -51,7 +60,10 @@
         "D": "Position does not matter"
       },
       "answer": "C",
-      "explanation": "Oxygen tube must be the most downstream so that at the common manifold junction, leakage affects O₂ at only 2 positions, minimising hypoxic mixture risk."
+      "explanation": "Oxygen tube must be the most downstream so that at the common manifold junction, leakage affects O₂ at only 2 positions, minimising hypoxic mixture risk.",
+      "chapter": "Chapter 2",
+      "topic": "Flowmeters and Rotameters",
+      "reference": "Ch 2, Section: Intermediate Pressure System, Page 20"
     },
     {
       "id": 5,
@@ -63,7 +75,10 @@
         "D": "33%"
       },
       "answer": "C",
-      "explanation": "The O₂–N₂O interconnected pulley system ensures a minimum FiO₂ of 25%, making singular N₂O flow impossible."
+      "explanation": "The O₂–N₂O interconnected pulley system ensures a minimum FiO₂ of 25%, making singular N₂O flow impossible.",
+      "chapter": "Chapter 2",
+      "topic": "Safety Features",
+      "reference": "Ch 2, Section: Safety Features, Page 19"
     },
     {
       "id": 6,
@@ -75,7 +90,10 @@
         "D": "Magill tubes"
       },
       "answer": "B",
-      "explanation": "Glass variable-orifice flowmeter tubes are called Thorpe's tubes; they are tapered (narrow at base, wide at apex)."
+      "explanation": "Glass variable-orifice flowmeter tubes are called Thorpe's tubes; they are tapered (narrow at base, wide at apex).",
+      "chapter": "Chapter 2",
+      "topic": "Flowmeters and Rotameters",
+      "reference": "Ch 2, Section: Intermediate Pressure System, Page 19"
     },
     {
       "id": 7,
@@ -87,7 +105,10 @@
         "D": "Goldman vaporizer"
       },
       "answer": "C",
-      "explanation": "Tec 6 is a heated and pressurised vaporizer specifically designed for desflurane due to its very low boiling point (23.5°C) and high vapour pressure."
+      "explanation": "Tec 6 is a heated and pressurised vaporizer specifically designed for desflurane due to its very low boiling point (23.5°C) and high vapour pressure.",
+      "chapter": "Chapter 2",
+      "topic": "Vaporizers",
+      "reference": "Ch 2, Section: Vaporizers, Page 23"
     },
     {
       "id": 8,
@@ -99,7 +120,10 @@
         "D": "It uses bubble-through technology"
       },
       "answer": "B",
-      "explanation": "The Aladin cassette vaporizer is the latest design; insertion of a color-coded agent cassette automatically adjusts all settings."
+      "explanation": "The Aladin cassette vaporizer is the latest design; insertion of a color-coded agent cassette automatically adjusts all settings.",
+      "chapter": "Chapter 2",
+      "topic": "Vaporizers",
+      "reference": "Ch 2, Section: Vaporizers, Page 24"
     },
     {
       "id": 9,
@@ -111,7 +135,10 @@
         "D": "Blue"
       },
       "answer": "D",
-      "explanation": "Vaporizer color codes: Red = halothane, Purple = isoflurane, Yellow = sevoflurane, Blue = desflurane."
+      "explanation": "Vaporizer color codes: Red = halothane, Purple = isoflurane, Yellow = sevoflurane, Blue = desflurane.",
+      "chapter": "Chapter 2",
+      "topic": "Vaporizers",
+      "reference": "Ch 2, Section: Vaporizers, Page 23"
     },
     {
       "id": 10,
@@ -123,7 +150,10 @@
         "D": "Downstream of the check valve"
       },
       "answer": "B",
-      "explanation": "Agent with lower boiling point placed first (nearest rotameter); otherwise condensed particles from the first vaporizer contaminate the second."
+      "explanation": "Agent with lower boiling point placed first (nearest rotameter); otherwise condensed particles from the first vaporizer contaminate the second.",
+      "chapter": "Chapter 2",
+      "topic": "Vaporizers",
+      "reference": "Ch 2, Section: Vaporizers, Page 22"
     },
     {
       "id": 11,
@@ -135,7 +165,10 @@
         "D": "50 ppm"
       },
       "answer": "C",
-      "explanation": "Maximum permissible: N₂O = 25 ppm; halogenated agents < 2 ppm. The scavenging system eliminates exhaled gases to achieve this."
+      "explanation": "Maximum permissible: N₂O = 25 ppm; halogenated agents < 2 ppm. The scavenging system eliminates exhaled gases to achieve this.",
+      "chapter": "Chapter 2",
+      "topic": "Scavenging System",
+      "reference": "Ch 2, Section: Breathing Circuits, Page 27"
     },
     {
       "id": 12,
@@ -147,7 +180,10 @@
         "D": "Type E (Ayre's T piece)"
       },
       "answer": "C",
-      "explanation": "Magill (Type A) is the circuit of choice for spontaneous ventilation. Fresh gas flow = minute volume prevents rebreathing."
+      "explanation": "Magill (Type A) is the circuit of choice for spontaneous ventilation. Fresh gas flow = minute volume prevents rebreathing.",
+      "chapter": "Chapter 2",
+      "topic": "Mapleson Circuits",
+      "reference": "Ch 2, Section: Mapleson Circuits, Page 25"
     },
     {
       "id": 13,
@@ -159,7 +195,10 @@
         "D": "Type D"
       },
       "answer": "D",
-      "explanation": "Bain incorporated an inner tube into Mapleson D; fresh gases travel through the inner tube minimising mixing with exhaled gases."
+      "explanation": "Bain incorporated an inner tube into Mapleson D; fresh gases travel through the inner tube minimising mixing with exhaled gases.",
+      "chapter": "Chapter 2",
+      "topic": "Mapleson Circuits",
+      "reference": "Ch 2, Section: Mapleson Circuits, Page 26"
     },
     {
       "id": 14,
@@ -171,7 +210,10 @@
         "D": "3 × minute volume"
       },
       "answer": "B",
-      "explanation": "Bain circuit controlled ventilation: 1.6 × MV at 10–12 breaths/min, or 70–100 mL/kg/min if RR increased to 16/min."
+      "explanation": "Bain circuit controlled ventilation: 1.6 × MV at 10–12 breaths/min, or 70–100 mL/kg/min if RR increased to 16/min.",
+      "chapter": "Chapter 2",
+      "topic": "Mapleson Circuits",
+      "reference": "Ch 2, Section: Mapleson Circuits, Page 26"
     },
     {
       "id": 15,
@@ -183,7 +225,10 @@
         "D": "> 3 × minute volume (unpredictable)"
       },
       "answer": "D",
-      "explanation": "Magill requires > 3 × minute volume for controlled ventilation and is still unreliable; hence it should NOT be used for controlled ventilation."
+      "explanation": "Magill requires > 3 × minute volume for controlled ventilation and is still unreliable; hence it should NOT be used for controlled ventilation.",
+      "chapter": "Chapter 2",
+      "topic": "Mapleson Circuits",
+      "reference": "Ch 2, Section: Mapleson Circuits, Page 25"
     },
     {
       "id": 16,
@@ -195,7 +240,10 @@
         "D": "Head and neck surgeries"
       },
       "answer": "B",
-      "explanation": "Jackson-Rees (Mapleson F) is the most commonly used pediatric semiclosed circuit for children < 6 years or < 20 kg."
+      "explanation": "Jackson-Rees (Mapleson F) is the most commonly used pediatric semiclosed circuit for children < 6 years or < 20 kg.",
+      "chapter": "Chapter 2",
+      "topic": "Mapleson Circuits",
+      "reference": "Ch 2, Section: Mapleson Circuits, Page 27"
     },
     {
       "id": 17,
@@ -207,7 +255,10 @@
         "D": "Interlock valve"
       },
       "answer": "B",
-      "explanation": "APL = Adjustable Pressure Limiting valve, also called expiratory valve and rebreathing prevention valve. Most common type: Heidbrink."
+      "explanation": "APL = Adjustable Pressure Limiting valve, also called expiratory valve and rebreathing prevention valve. Most common type: Heidbrink.",
+      "chapter": "Chapter 2",
+      "topic": "Breathing Circuits",
+      "reference": "Ch 2, Section: Breathing Circuits, Page 25"
     },
     {
       "id": 18,
@@ -219,7 +270,10 @@
         "D": "3000 mL"
       },
       "answer": "C",
-      "explanation": "Reservoir bag sizes: Neonates 250 mL, children ≤3 yrs 500 mL, children >3 yrs 1000 mL, adults 2000 mL."
+      "explanation": "Reservoir bag sizes: Neonates 250 mL, children ≤3 yrs 500 mL, children >3 yrs 1000 mL, adults 2000 mL.",
+      "chapter": "Chapter 2",
+      "topic": "Breathing Circuits",
+      "reference": "Ch 2, Section: Breathing Circuits, Page 25"
     },
     {
       "id": 19,
@@ -231,7 +285,10 @@
         "D": "Jackson-Rees, 1950"
       },
       "answer": "B",
-      "explanation": "Waters introduced the closed circuit (circle system) in humans in 1923."
+      "explanation": "Waters introduced the closed circuit (circle system) in humans in 1923.",
+      "chapter": "Chapter 2",
+      "topic": "Circle System",
+      "reference": "Ch 2, Section: Circle System, Page 28"
     },
     {
       "id": 20,
@@ -243,7 +300,10 @@
         "D": "Ba(OH)₂ 20%"
       },
       "answer": "D",
-      "explanation": "Ba(OH)₂ is a component of barylime, NOT sodalime. Sodalime: Ca(OH)₂ 94%, NaOH 5% (catalyst), KOH 1%, color indicator, silica."
+      "explanation": "Ba(OH)₂ is a component of barylime, NOT sodalime. Sodalime: Ca(OH)₂ 94%, NaOH 5% (catalyst), KOH 1%, color indicator, silica.",
+      "chapter": "Chapter 2",
+      "topic": "CO2 Absorbents",
+      "reference": "Ch 2, Section: CO2 Absorbents, Page 29"
     },
     {
       "id": 21,
@@ -255,7 +315,10 @@
         "D": "Lithium hydroxide"
       },
       "answer": "C",
-      "explanation": "Barylime was withdrawn because experiments showed absorber temperatures reaching > 200°C with sevoflurane, causing fire/explosion risk."
+      "explanation": "Barylime was withdrawn because experiments showed absorber temperatures reaching > 200°C with sevoflurane, causing fire/explosion risk.",
+      "chapter": "Chapter 2",
+      "topic": "CO2 Absorbents",
+      "reference": "Ch 2, Section: CO2 Absorbents, Page 30"
     },
     {
       "id": 22,
@@ -267,7 +330,10 @@
         "D": "Carbon dioxide"
       },
       "answer": "B",
-      "explanation": "Sevoflurane reacts with sodalime and barylime to produce compound A (nephrotoxic). Risk is higher with barylime vs sodalime."
+      "explanation": "Sevoflurane reacts with sodalime and barylime to produce compound A (nephrotoxic). Risk is higher with barylime vs sodalime.",
+      "chapter": "Chapter 2",
+      "topic": "CO2 Absorbents",
+      "reference": "Ch 2, Section: CO2 Absorbents, Page 30"
     },
     {
       "id": 23,
@@ -279,7 +345,10 @@
         "D": "Isoflurane"
       },
       "answer": "C",
-      "explanation": "CO production with desiccated sodalime in decreasing order: Desflurane >> Isoflurane >> Halothane = Sevoflurane."
+      "explanation": "CO production with desiccated sodalime in decreasing order: Desflurane >> Isoflurane >> Halothane = Sevoflurane.",
+      "chapter": "Chapter 2",
+      "topic": "CO2 Absorbents",
+      "reference": "Ch 2, Section: CO2 Absorbents, Page 30"
     },
     {
       "id": 24,
@@ -291,7 +360,10 @@
         "D": "Methoxyflurane"
       },
       "answer": "C",
-      "explanation": "Trielene (trichloroethylene) reacts with sodalime to produce dichloroacetylene (neurotoxic) and phosgene gas (causes ARDS)."
+      "explanation": "Trielene (trichloroethylene) reacts with sodalime to produce dichloroacetylene (neurotoxic) and phosgene gas (causes ARDS).",
+      "chapter": "Chapter 2",
+      "topic": "CO2 Absorbents",
+      "reference": "Ch 2, Section: CO2 Absorbents, Page 29"
     },
     {
       "id": 25,
@@ -303,7 +375,10 @@
         "D": "White when fresh, pink when exhausted"
       },
       "answer": "B",
-      "explanation": "Durasorb (most common in India): pink when fresh → white when exhausted. Ethyl violet: white when fresh → purple when exhausted."
+      "explanation": "Durasorb (most common in India): pink when fresh → white when exhausted. Ethyl violet: white when fresh → purple when exhausted.",
+      "chapter": "Chapter 2",
+      "topic": "CO2 Absorbents",
+      "reference": "Ch 2, Section: CO2 Absorbents, Page 29"
     },
     {
       "id": 26,
@@ -315,7 +390,10 @@
         "D": "5–8 L"
       },
       "answer": "B",
-      "explanation": "100 g of sodalime absorbs 24–26 L of CO₂. Granule size is 4–8 mesh (3–6 mm), moisture content 14–19%, airspace > 50%."
+      "explanation": "100 g of sodalime absorbs 24–26 L of CO₂. Granule size is 4–8 mesh (3–6 mm), moisture content 14–19%, airspace > 50%.",
+      "chapter": "Chapter 2",
+      "topic": "CO2 Absorbents",
+      "reference": "Ch 2, Section: CO2 Absorbents, Page 29"
     },
     {
       "id": 27,
@@ -327,7 +405,10 @@
         "D": "Both A and B"
       },
       "answer": "C",
-      "explanation": "Amsorb produces neither compound A nor CO. Disadvantages: high cost and absorptive capacity approximately half of sodalime."
+      "explanation": "Amsorb produces neither compound A nor CO. Disadvantages: high cost and absorptive capacity approximately half of sodalime.",
+      "chapter": "Chapter 2",
+      "topic": "CO2 Absorbents",
+      "reference": "Ch 2, Section: CO2 Absorbents, Page 30"
     },
     {
       "id": 28,
@@ -339,7 +420,10 @@
         "D": "Machine outlet"
       },
       "answer": "C",
-      "explanation": "Oxygen analyzer is fitted in the inspiratory limb to measure the final delivered O₂ concentration to the patient."
+      "explanation": "Oxygen analyzer is fitted in the inspiratory limb to measure the final delivered O₂ concentration to the patient.",
+      "chapter": "Chapter 2",
+      "topic": "Circle System",
+      "reference": "Ch 2, Section: Circle System, Page 28"
     },
     {
       "id": 29,
@@ -351,7 +435,10 @@
         "D": "200 mL"
       },
       "answer": "B",
-      "explanation": "The negative pressure (suction bulb) test is the most sensitive, detecting leaks as small as 30 mL. It is called the universal leak test."
+      "explanation": "The negative pressure (suction bulb) test is the most sensitive, detecting leaks as small as 30 mL. It is called the universal leak test.",
+      "chapter": "Chapter 2",
+      "topic": "Machine Checking Procedure",
+      "reference": "Ch 2, Section: Machine Checking Procedure, Page 30"
     },
     {
       "id": 30,
@@ -363,7 +450,10 @@
         "D": "50 cm H₂O for > 10 seconds"
       },
       "answer": "C",
-      "explanation": "Close APL valve, occlude Y-piece, flush O₂ to 30 cm H₂O; if maintained for > 10 seconds, no leak is confirmed."
+      "explanation": "Close APL valve, occlude Y-piece, flush O₂ to 30 cm H₂O; if maintained for > 10 seconds, no leak is confirmed.",
+      "chapter": "Chapter 2",
+      "topic": "Machine Checking Procedure",
+      "reference": "Ch 2, Section: Machine Checking Procedure, Page 31"
     },
     {
       "id": 31,
@@ -375,7 +465,10 @@
         "D": "Polio blade laryngoscope"
       },
       "answer": "C",
-      "explanation": "Bullard laryngoscope is an indirect rigid fiberoptic laryngoscope useful for difficult airways. Macintosh and Miller are standard direct laryngoscopes."
+      "explanation": "Bullard laryngoscope is an indirect rigid fiberoptic laryngoscope useful for difficult airways. Macintosh and Miller are standard direct laryngoscopes.",
+      "chapter": "Chapter 3",
+      "topic": "Laryngoscopes",
+      "reference": "Ch 3, Section: Laryngoscopes, Page 38"
     },
     {
       "id": 32,
@@ -387,7 +480,10 @@
         "D": "Nasopharyngeal airway device"
       },
       "answer": "B",
-      "explanation": "LMA is a supraglottic airway device; it sits above the glottis in the hypopharynx. Endotracheal tube is an infraglottic device."
+      "explanation": "LMA is a supraglottic airway device; it sits above the glottis in the hypopharynx. Endotracheal tube is an infraglottic device.",
+      "chapter": "Chapter 3",
+      "topic": "Laryngeal Mask Airway",
+      "reference": "Ch 3, Section: Laryngeal Mask Airway, Page 32"
     },
     {
       "id": 33,
@@ -399,7 +495,10 @@
         "D": "Is made of PVC"
       },
       "answer": "B",
-      "explanation": "ProSeal LMA has an integral drain tube allowing gastric tube insertion and provides a better glottic seal than classic LMA."
+      "explanation": "ProSeal LMA has an integral drain tube allowing gastric tube insertion and provides a better glottic seal than classic LMA.",
+      "chapter": "Chapter 3",
+      "topic": "Laryngeal Mask Airway",
+      "reference": "Ch 3, Section: Laryngeal Mask Airway, Page 33"
     },
     {
       "id": 34,
@@ -411,7 +510,10 @@
         "D": "It is a nasal airway device"
       },
       "answer": "B",
-      "explanation": "I-gel has a non-inflatable gel cuff (thermoplastic elastomer) that anatomically conforms to the supraglottic structure, eliminating the need for cuff inflation."
+      "explanation": "I-gel has a non-inflatable gel cuff (thermoplastic elastomer) that anatomically conforms to the supraglottic structure, eliminating the need for cuff inflation.",
+      "chapter": "Chapter 3",
+      "topic": "I-Gel",
+      "reference": "Ch 3, Section: I-Gel, Page 34"
     },
     {
       "id": 35,
@@ -423,7 +525,10 @@
         "D": "Patients with a gag reflex absent"
       },
       "answer": "C",
-      "explanation": "Guedel airway stimulates the gag reflex and may cause vomiting, laryngospasm, or bronchospasm in semi-conscious or conscious patients."
+      "explanation": "Guedel airway stimulates the gag reflex and may cause vomiting, laryngospasm, or bronchospasm in semi-conscious or conscious patients.",
+      "chapter": "Chapter 3",
+      "topic": "Oropharyngeal Airway",
+      "reference": "Ch 3, Section: Oropharyngeal Airway, Page 32"
     },
     {
       "id": 36,
@@ -435,7 +540,10 @@
         "D": "Patients with nasal polyps"
       },
       "answer": "B",
-      "explanation": "Nasopharyngeal airways are better tolerated in semi-conscious patients with intact gag reflex and in patients with limited mouth opening (trismus)."
+      "explanation": "Nasopharyngeal airways are better tolerated in semi-conscious patients with intact gag reflex and in patients with limited mouth opening (trismus).",
+      "chapter": "Chapter 3",
+      "topic": "Nasopharyngeal Airway",
+      "reference": "Ch 3, Section: Nasopharyngeal Airway, Page 32"
     },
     {
       "id": 37,
@@ -447,7 +555,10 @@
         "D": "100%"
       },
       "answer": "D",
-      "explanation": "With an O₂ source and attached reservoir bag, the AMBU bag can deliver close to 100% O₂."
+      "explanation": "With an O₂ source and attached reservoir bag, the AMBU bag can deliver close to 100% O₂.",
+      "chapter": "Chapter 3",
+      "topic": "Oxygen Delivery Systems",
+      "reference": "Ch 3, Section: Oxygen Delivery Systems, Page 41"
     },
     {
       "id": 38,
@@ -459,7 +570,10 @@
         "D": "It monitors O₂ via an internal sensor"
       },
       "answer": "B",
-      "explanation": "The Venturi mask uses the Venturi/Bernoulli principle: high-velocity O₂ jet entrains a fixed ratio of room air, providing a precise FiO₂."
+      "explanation": "The Venturi mask uses the Venturi/Bernoulli principle: high-velocity O₂ jet entrains a fixed ratio of room air, providing a precise FiO₂.",
+      "chapter": "Chapter 3",
+      "topic": "Oxygen Delivery Systems",
+      "reference": "Ch 3, Section: Oxygen Delivery Systems, Page 42"
     },
     {
       "id": 39,
@@ -471,7 +585,10 @@
         "D": "On the arytenoid cartilages"
       },
       "answer": "B",
-      "explanation": "Macintosh (curved) blade tip sits in the vallecula; lifting stretches the glossoepiglottic ligament to lift the epiglottis indirectly. Miller (straight) blade goes posterior to epiglottis."
+      "explanation": "Macintosh (curved) blade tip sits in the vallecula; lifting stretches the glossoepiglottic ligament to lift the epiglottis indirectly. Miller (straight) blade goes posterior to epiglottis.",
+      "chapter": "Chapter 3",
+      "topic": "Laryngoscopes",
+      "reference": "Ch 3, Section: Laryngoscopes, Page 37"
     },
     {
       "id": 40,
@@ -483,7 +600,10 @@
         "D": "Hypothermia"
       },
       "answer": "C",
-      "explanation": "Dry gases cause impaired mucociliary clearance, thick secretions, atelectasis, and hypothermia. They do NOT cause increased CO₂ production."
+      "explanation": "Dry gases cause impaired mucociliary clearance, thick secretions, atelectasis, and hypothermia. They do NOT cause increased CO₂ production.",
+      "chapter": "Chapter 3",
+      "topic": "Humidification",
+      "reference": "Ch 3, Section: Humidification, Page 42"
     },
     {
       "id": 41,
@@ -495,7 +615,10 @@
         "D": "Sodalime exhaustion"
       },
       "answer": "B",
-      "explanation": "Static current can ignite explosive anesthetic gases. Equipment is made antistatic to prevent this; e.g., antistatic rotameter bobbins."
+      "explanation": "Static current can ignite explosive anesthetic gases. Equipment is made antistatic to prevent this; e.g., antistatic rotameter bobbins.",
+      "chapter": "Chapter 2",
+      "topic": "Safety Features",
+      "reference": "Ch 2, Section: Safety Features, Page 17"
     },
     {
       "id": 42,
@@ -507,7 +630,10 @@
         "D": "Electronic monitors"
       },
       "answer": "B",
-      "explanation": "Autoclaving is suitable for heat-stable metal instruments. Rubber and plastic components may be damaged by heat; use chemical/cold sterilization instead."
+      "explanation": "Autoclaving is suitable for heat-stable metal instruments. Rubber and plastic components may be damaged by heat; use chemical/cold sterilization instead.",
+      "chapter": "Chapter 3",
+      "topic": "Airway Equipment Sterilization",
+      "reference": "Ch 3, Section: Laryngoscopes, Page 39"
     },
     {
       "id": 43,
@@ -519,7 +645,10 @@
         "D": "It has nothing to do with gravity"
       },
       "answer": "B",
-      "explanation": "Descending bellows fall under gravity even with a leak (masking the leak), while ascending bellows fail to ascend if there is a leak, making the problem obvious."
+      "explanation": "Descending bellows fall under gravity even with a leak (masking the leak), while ascending bellows fail to ascend if there is a leak, making the problem obvious.",
+      "chapter": "Chapter 2",
+      "topic": "Breathing Circuits",
+      "reference": "Ch 2, Section: Breathing Circuits, Page 27"
     },
     {
       "id": 44,
@@ -531,7 +660,10 @@
         "D": "Automatically calibrate the O₂ analyzer"
       },
       "answer": "B",
-      "explanation": "Fresh gas flow compensation and fresh gas decoupling maintain stable delivery of preset tidal volume by compensating for fresh gas flow variations."
+      "explanation": "Fresh gas flow compensation and fresh gas decoupling maintain stable delivery of preset tidal volume by compensating for fresh gas flow variations.",
+      "chapter": "Chapter 2",
+      "topic": "Circle System",
+      "reference": "Ch 2, Section: Circle System, Page 28"
     },
     {
       "id": 45,
@@ -543,7 +675,10 @@
         "D": "Adequate moisture in sodalime (14–19%)"
       },
       "answer": "C",
-      "explanation": "Too tightly packed sodalime decreases airspace (< 50%), reducing gas contact time and CO₂ absorption. All other options enhance absorption."
+      "explanation": "Too tightly packed sodalime decreases airspace (< 50%), reducing gas contact time and CO₂ absorption. All other options enhance absorption.",
+      "chapter": "Chapter 2",
+      "topic": "CO2 Absorbents",
+      "reference": "Ch 2, Section: CO2 Absorbents, Page 29"
     },
     {
       "id": 46,
@@ -555,7 +690,10 @@
         "D": "Excess moisture in sodalime granules"
       },
       "answer": "B",
-      "explanation": "Channeling: too loosely packed sodalime allows gas to pass through gaps between granules and canister wall without CO₂ being absorbed."
+      "explanation": "Channeling: too loosely packed sodalime allows gas to pass through gaps between granules and canister wall without CO₂ being absorbed.",
+      "chapter": "Chapter 2",
+      "topic": "CO2 Absorbents",
+      "reference": "Ch 2, Section: CO2 Absorbents, Page 29"
     },
     {
       "id": 47,
@@ -567,7 +705,10 @@
         "D": "Type E (Ayre's T-piece)"
       },
       "answer": "B",
-      "explanation": "Lack system is the coaxial version of Mapleson A (Magill). It has two concentric tubes: outer = inspiratory, inner = expiratory."
+      "explanation": "Lack system is the coaxial version of Mapleson A (Magill). It has two concentric tubes: outer = inspiratory, inner = expiratory.",
+      "chapter": "Chapter 2",
+      "topic": "Mapleson Circuits",
+      "reference": "Ch 2, Section: Mapleson Circuits, Page 26"
     },
     {
       "id": 48,
@@ -579,7 +720,10 @@
         "D": "> 90%"
       },
       "answer": "B",
-      "explanation": "The O₂ analyzer should read 21% when exposed to air (atmospheric O₂ concentration) and > 90% when connected to the O₂-flushed system."
+      "explanation": "The O₂ analyzer should read 21% when exposed to air (atmospheric O₂ concentration) and > 90% when connected to the O₂-flushed system.",
+      "chapter": "Chapter 2",
+      "topic": "Circle System",
+      "reference": "Ch 2, Section: Circle System, Page 28"
     },
     {
       "id": 49,
@@ -591,7 +735,10 @@
         "D": "A > BC > DEF"
       },
       "answer": "B",
-      "explanation": "For controlled ventilation: DEF > BC > A. For spontaneous ventilation: A > DEF > BC. Magill (A) is worst for controlled ventilation."
+      "explanation": "For controlled ventilation: DEF > BC > A. For spontaneous ventilation: A > DEF > BC. Magill (A) is worst for controlled ventilation.",
+      "chapter": "Chapter 2",
+      "topic": "Mapleson Circuits",
+      "reference": "Ch 2, Section: Mapleson Circuits, Page 26"
     },
     {
       "id": 50,
@@ -603,7 +750,10 @@
         "D": "Static electricity igniting gases"
       },
       "answer": "B",
-      "explanation": "PISS uses specific hole positions on cylinder valves corresponding to pins on the machine yoke, ensuring only the correct gas cylinder can be connected."
+      "explanation": "PISS uses specific hole positions on cylinder valves corresponding to pins on the machine yoke, ensuring only the correct gas cylinder can be connected.",
+      "chapter": "Chapter 2",
+      "topic": "Safety Features",
+      "reference": "Ch 2, Section: Safety Features, Page 16"
     }
   ]
 }

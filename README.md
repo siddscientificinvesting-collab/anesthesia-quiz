@@ -1,13 +1,24 @@
-# Anesthesia Equipment MCQ – Section 2
+# Anesthesia MCQ Quiz Hub
 
 **Live App:** _(paste your Streamlit Cloud URL here after deployment)_
 
 ## About
-- 50 MCQs from **Short Textbook of Anesthesia – Ajay Yadav**
-- Section 2: Equipment in Anesthesia (Chapters 2–3)
+- 250 MCQs (50 per chapter) from **Short Textbook of Anesthesia – Ajay Yadav**
 - CRE-style Single Best Answer format
-- 60-minute countdown timer
+- 30-minute countdown timer per test
+- **Separate link for each chapter test**
+- Enhanced Review Dashboard with book references (Chapter, Section, Page)
 - Results saved to Supabase with leaderboard
+
+## Available Tests & Links
+
+| Link | Chapter | Topics |
+|------|---------|--------|
+| `?quiz=section2` | Section 2 – Equipment (Ch 2–3) | Anesthesia Machine, Circuits, Airway Equipment |
+| `?quiz=ch18` | Chapter 18 – Cardiovascular | IHD, Valvular, CHD, Heart Failure, Hypertension |
+| `?quiz=ch19` | Chapter 19 – Respiratory | Asthma, COPD, URTI, Tuberculosis, Ventilation |
+| `?quiz=ch40` | Chapter 40 – ICU Management | Respiratory Failure, Ventilators, Shock, ARDS |
+| `?quiz=ch41` | Chapter 41 – CPR/CPCR | BLS, ACLS, Defibrillation, Drugs, Neonatal CPR |
 
 ## Quick Start (Local)
 
@@ -15,6 +26,21 @@
 pip install -r requirements.txt
 streamlit run app.py
 ```
+
+Then visit:
+- **Quiz Hub:** http://localhost:8501
+- **Chapter 18 Test:** http://localhost:8501/?quiz=ch18
+- **Chapter 19 Test:** http://localhost:8501/?quiz=ch19
+- **Chapter 40 Test:** http://localhost:8501/?quiz=ch40
+- **Chapter 41 Test:** http://localhost:8501/?quiz=ch41
+
+## Features
+- ⏱ 30-minute timer per 50 questions
+- 📊 Score card with PASS/BORDERLINE/FAIL grading
+- 📖 **Review Dashboard** — filter by Correct/Incorrect/Unanswered, by Chapter, by Topic
+- 📚 **Book References** — each answer links to Chapter, Section & Page number
+- 🏆 Leaderboard via Supabase
+- 🔀 Separate test links per chapter
 
 ## Deploy to Streamlit Cloud
 
@@ -50,12 +76,3 @@ ALTER TABLE quiz_results ENABLE ROW LEVEL SECURITY;
 CREATE POLICY "Allow insert" ON quiz_results FOR INSERT WITH CHECK (true);
 CREATE POLICY "Allow select" ON quiz_results FOR SELECT USING (true);
 ```
-
-## Topics Covered (Section 2)
-- Anesthesia Machine (High/Intermediate/Low pressure systems)
-- Rotameter, Vaporizers, Safety features
-- Breathing Circuits (Mapleson A–F, closed/circle system)
-- CO₂ absorbents (sodalime, barylime, Amsorb)
-- Airway equipment (LMA, I-gel, laryngoscopes, airways)
-- Machine checking procedures
-- Oxygen delivery systems, humidification

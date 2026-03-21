@@ -1,0 +1,759 @@
+{
+  "title": "Anesthesia for Respiratory Diseases MCQ – Chapter 19",
+  "source": "Short Textbook of Anesthesia – Ajay Yadav",
+  "section": "Section 7: Anesthesia for Coexisting Diseases (Chapter 19)",
+  "total_questions": 50,
+  "time_limit_minutes": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which two factors are the most important predictors of postoperative pulmonary complications?",
+      "options": {
+        "A": "Age > 60 years and ASA grade > 2",
+        "B": "Dyspnea at minimal activity and site of surgery",
+        "C": "Heavy smoking and congestive heart failure",
+        "D": "Serum albumin < 3.5 g/dL and severity of pulmonary disease"
+      },
+      "answer": "B",
+      "explanation": "The text explicitly states that 'Dyspnea at minimal activity and site of surgery are the two most important predictors of postoperative complications.'",
+      "chapter": "Chapter 19",
+      "topic": "General Considerations",
+      "reference": "Ch 19, Section: Preoperative Considerations, Page 192"
+    },
+    {
+      "id": 2,
+      "question": "What is the ideal duration for stopping smoking before surgery?",
+      "options": {
+        "A": "2 weeks",
+        "B": "4 weeks",
+        "C": "8 weeks",
+        "D": "12 weeks"
+      },
+      "answer": "C",
+      "explanation": "The text states 'Ideally smoking should be stopped 8 weeks before surgery however stopping smoking 12 hours before may be beneficial by reducing carboxyhemoglobin levels.'",
+      "chapter": "Chapter 19",
+      "topic": "General Considerations",
+      "reference": "Ch 19, Section: Preoperative Considerations, Page 192"
+    },
+    {
+      "id": 3,
+      "question": "Stopping smoking 12 hours before surgery is beneficial primarily because it reduces:",
+      "options": {
+        "A": "Nicotine levels",
+        "B": "Carboxyhemoglobin levels",
+        "C": "Airway reactivity",
+        "D": "Mucus production"
+      },
+      "answer": "B",
+      "explanation": "The text states that stopping smoking 12 hours before surgery 'may be beneficial by reducing carboxyhemoglobin levels.'",
+      "chapter": "Chapter 19",
+      "topic": "General Considerations",
+      "reference": "Ch 19, Section: Preoperative Considerations, Page 192"
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is NOT listed as a major risk factor for postoperative pulmonary complications?",
+      "options": {
+        "A": "Age > 60 years",
+        "B": "Serum albumin < 3.5 g/dL",
+        "C": "BMI > 30",
+        "D": "ASA grade > 2"
+      },
+      "answer": "C",
+      "explanation": "The listed risk factors include age > 60, severity of pulmonary disease, ASA grade > 2, CHF, heavy smoking, surgery under GA, surgical factors, and serum albumin < 3.5 g/dL. BMI > 30 is not mentioned.",
+      "chapter": "Chapter 19",
+      "topic": "General Considerations",
+      "reference": "Ch 19, Section: Preoperative Considerations, Page 192"
+    },
+    {
+      "id": 5,
+      "question": "What surgical duration is cited as a risk factor for postoperative pulmonary complications?",
+      "options": {
+        "A": "> 1 hour",
+        "B": "> 2 hours",
+        "C": "> 3 hours",
+        "D": "> 4 hours"
+      },
+      "answer": "C",
+      "explanation": "The text lists surgical factors including 'duration (> 3 hours)' as a major risk factor.",
+      "chapter": "Chapter 19",
+      "topic": "General Considerations",
+      "reference": "Ch 19, Section: Preoperative Considerations, Page 192"
+    },
+    {
+      "id": 6,
+      "question": "Regarding pulmonary function tests (PFT) in patients with pulmonary disease, the text states that:",
+      "options": {
+        "A": "PFT should be done routinely in all patients",
+        "B": "PFT determines severity but routine use is not recommended",
+        "C": "PFT is the best predictor of postoperative complications",
+        "D": "PFT has no role in assessing pulmonary disease"
+      },
+      "answer": "B",
+      "explanation": "The text states 'Although pulmonary function test (PFT) do determine the severity of disease but are not always predictors of complications therefore routine use of PFT is not recommended.'",
+      "chapter": "Chapter 19",
+      "topic": "General Considerations",
+      "reference": "Ch 19, Section: Preoperative Considerations, Page 192"
+    },
+    {
+      "id": 7,
+      "question": "Why should premedication with H2 blockers (Ranitidine) be avoided in patients with pulmonary disease?",
+      "options": {
+        "A": "It causes excessive sedation",
+        "B": "H2 blockade leads to unopposed H1 activation and bronchospasm",
+        "C": "It increases tracheobronchial secretions",
+        "D": "It causes respiratory depression"
+      },
+      "answer": "B",
+      "explanation": "The text states 'Premedication with H2 blockers (Ranitidine) should be avoided because H2 blockade leads to unopposed H1 activation and bronchospasm.'",
+      "chapter": "Chapter 19",
+      "topic": "General Considerations",
+      "reference": "Ch 19, Section: Preoperative Considerations, Page 192"
+    },
+    {
+      "id": 8,
+      "question": "Why is premedication with benzodiazepines avoided in patients with pulmonary disease?",
+      "options": {
+        "A": "They cause bronchospasm",
+        "B": "They increase tracheobronchial secretions",
+        "C": "These patients are more sensitive to respiratory depression",
+        "D": "They cause histamine release"
+      },
+      "answer": "C",
+      "explanation": "The text states 'Premedication with benzodiazepines should be avoided as these patients are more sensitive to respiratory depression.'",
+      "chapter": "Chapter 19",
+      "topic": "General Considerations",
+      "reference": "Ch 19, Section: Preoperative Considerations, Page 192"
+    },
+    {
+      "id": 9,
+      "question": "Regarding anticholinergic premedication in pulmonary disease patients, the text states:",
+      "options": {
+        "A": "It is contraindicated due to excessive drying of secretions",
+        "B": "It is theoretically beneficial by causing bronchodilatation but clinical advantage has not been seen",
+        "C": "It is the premedication of choice",
+        "D": "It should always be given with bronchodilators"
+      },
+      "answer": "B",
+      "explanation": "The text states 'Theoretically premedication with anticholinergic is beneficial by causing bronchodilatation, however, clinical advantage has not been seen.'",
+      "chapter": "Chapter 19",
+      "topic": "General Considerations",
+      "reference": "Ch 19, Section: Preoperative Considerations, Page 192"
+    },
+    {
+      "id": 10,
+      "question": "What is the role of prophylactic nebulization in an asymptomatic patient with pulmonary disease?",
+      "options": {
+        "A": "It is the standard of care preoperatively",
+        "B": "It should be given 30 minutes before surgery",
+        "C": "There is no role of prophylactic nebulization in asymptomatic patients",
+        "D": "It is recommended only for COPD patients"
+      },
+      "answer": "C",
+      "explanation": "The text clearly states 'there is no role of prophylactic nebulization in asymptomatic patient.'",
+      "chapter": "Chapter 19",
+      "topic": "General Considerations",
+      "reference": "Ch 19, Section: Preoperative Considerations, Page 192"
+    },
+    {
+      "id": 11,
+      "question": "For patients with pulmonary disease, which type of anesthesia is always preferred?",
+      "options": {
+        "A": "General anesthesia with controlled ventilation",
+        "B": "Regional anesthesia",
+        "C": "Total intravenous anesthesia",
+        "D": "General anesthesia with spontaneous ventilation"
+      },
+      "answer": "B",
+      "explanation": "The text states 'Regional anesthesia is always preferred over general anesthesia.'",
+      "chapter": "Chapter 19",
+      "topic": "Intraoperative Considerations",
+      "reference": "Ch 19, Section: Choice of Anesthesia, Page 192"
+    },
+    {
+      "id": 12,
+      "question": "Central neuraxial block above which level can cause significant distress in COPD patients?",
+      "options": {
+        "A": "T4",
+        "B": "T6",
+        "C": "T8",
+        "D": "T10"
+      },
+      "answer": "B",
+      "explanation": "The text states central neuraxial blocks are excellent if below T6. Level above T6 can cause paralysis of abdominal muscles causing significant distress, particularly in COPD patients.",
+      "chapter": "Chapter 19",
+      "topic": "Intraoperative Considerations",
+      "reference": "Ch 19, Section: Choice of Anesthesia, Page 192-193"
+    },
+    {
+      "id": 13,
+      "question": "Why does a neuraxial block above T6 cause particular distress in COPD patients?",
+      "options": {
+        "A": "It causes cardiac depression",
+        "B": "It leads to bronchospasm from parasympathetic stimulation",
+        "C": "These patients have active expiration dependent on abdominal muscles which get paralyzed",
+        "D": "It causes severe hypotension"
+      },
+      "answer": "C",
+      "explanation": "The text explains that block above T6 'can cause paralysis of abdominal muscles causing significant distress (particularly in COPD patients) because these patients have active expiration dependent on abdominal muscles.'",
+      "chapter": "Chapter 19",
+      "topic": "Intraoperative Considerations",
+      "reference": "Ch 19, Section: Choice of Anesthesia, Page 192-193"
+    },
+    {
+      "id": 14,
+      "question": "Dry gases during general anesthesia can cause atelectasis by which mechanism?",
+      "options": {
+        "A": "Causing bronchospasm",
+        "B": "Inhibiting ciliary function",
+        "C": "Increasing dead space",
+        "D": "Causing V/Q mismatch"
+      },
+      "answer": "B",
+      "explanation": "The text states 'Dry gases can inhibit ciliary function causing atelectasis in postoperative period.'",
+      "chapter": "Chapter 19",
+      "topic": "Intraoperative Considerations",
+      "reference": "Ch 19, Section: Intraoperative Considerations, Page 193"
+    },
+    {
+      "id": 15,
+      "question": "Which is the ONLY inhalational agent that does NOT inhibit ciliary activity?",
+      "options": {
+        "A": "Sevoflurane",
+        "B": "Halothane",
+        "C": "Ether",
+        "D": "Isoflurane"
+      },
+      "answer": "C",
+      "explanation": "The text states 'all inhalational agents (except ether) also inhibit ciliary activity.'",
+      "chapter": "Chapter 19",
+      "topic": "Intraoperative Considerations",
+      "reference": "Ch 19, Section: Intraoperative Considerations, Page 193"
+    },
+    {
+      "id": 16,
+      "question": "What is the recommended tidal volume for ventilating patients with pulmonary disease to avoid barotrauma?",
+      "options": {
+        "A": "4–6 mL/kg",
+        "B": "6–8 mL/kg",
+        "C": "8–10 mL/kg",
+        "D": "10–12 mL/kg"
+      },
+      "answer": "B",
+      "explanation": "The text states 'Ventilation principle includes low tidal volume (6–8 mL/kg) to avoid barotrauma.'",
+      "chapter": "Chapter 19",
+      "topic": "Intraoperative Considerations",
+      "reference": "Ch 19, Section: Intraoperative Considerations, Page 193"
+    },
+    {
+      "id": 17,
+      "question": "What respiratory rate is recommended for ventilating patients with pulmonary disease?",
+      "options": {
+        "A": "4–6 breaths/min",
+        "B": "6–10 breaths/min",
+        "C": "10–14 breaths/min",
+        "D": "14–18 breaths/min"
+      },
+      "answer": "B",
+      "explanation": "The text states a 'slow respiratory rate of (6–10 breaths/min.) to allow adequate exhalation and prevent air trapping.'",
+      "chapter": "Chapter 19",
+      "topic": "Intraoperative Considerations",
+      "reference": "Ch 19, Section: Intraoperative Considerations, Page 193"
+    },
+    {
+      "id": 18,
+      "question": "Which of the following is NOT part of the ventilation principles for pulmonary disease patients?",
+      "options": {
+        "A": "Low tidal volume (6–8 mL/kg)",
+        "B": "Low I:E ratio",
+        "C": "High respiratory rate (16–20 breaths/min)",
+        "D": "Slow respiratory rate (6–10 breaths/min)"
+      },
+      "answer": "C",
+      "explanation": "The ventilation principles include low tidal volume, low I:E ratio, and slow respiratory rate (6–10 breaths/min). A high respiratory rate would prevent adequate exhalation and cause air trapping.",
+      "chapter": "Chapter 19",
+      "topic": "Intraoperative Considerations",
+      "reference": "Ch 19, Section: Intraoperative Considerations, Page 193"
+    },
+    {
+      "id": 19,
+      "question": "Improvement in pulmonary functions postoperatively should ideally be guided by:",
+      "options": {
+        "A": "Peak expiratory flow rate (PEFR)",
+        "B": "FEV1",
+        "C": "Functional residual capacity (FRC)",
+        "D": "Vital capacity"
+      },
+      "answer": "C",
+      "explanation": "The text states 'Ideally the improvement in pulmonary functions should be guided by functional residual capacity (FRC).'",
+      "chapter": "Chapter 19",
+      "topic": "Postoperative Considerations",
+      "reference": "Ch 19, Section: Postoperative Considerations, Page 193"
+    },
+    {
+      "id": 20,
+      "question": "What is the most preferred approach for pain management in thoracic and upper abdominal surgeries in respiratory compromised patients?",
+      "options": {
+        "A": "Parenteral opioids",
+        "B": "Intercostal nerve block",
+        "C": "Thoracic epidural",
+        "D": "Intrapleural analgesia"
+      },
+      "answer": "C",
+      "explanation": "The text states 'Thoracic epidural is the most preferred, most safe, most effective and most commonly used approach to achieve analgesia for thoracic and upper abdominal surgeries.'",
+      "chapter": "Chapter 19",
+      "topic": "Postoperative Considerations",
+      "reference": "Ch 19, Section: Postoperative Considerations, Page 193"
+    },
+    {
+      "id": 21,
+      "question": "Why is cryoanalgesia not commonly used for postoperative pain relief despite producing effective pain relief?",
+      "options": {
+        "A": "Risk of pneumothorax and nerve damage",
+        "B": "Delayed onset, nonavailability of probes, and very long-lasting effect (nerve recovery 1–6 months)",
+        "C": "Risk of respiratory depression",
+        "D": "Requires repeated applications"
+      },
+      "answer": "B",
+      "explanation": "The text states cryoanalgesia is 'not used commonly due to delayed onset, nonavailability of probes and very long lasting effect (nerve recovery may even take 1–6 months).'",
+      "chapter": "Chapter 19",
+      "topic": "Postoperative Considerations",
+      "reference": "Ch 19, Section: Postoperative Considerations, Page 193"
+    },
+    {
+      "id": 22,
+      "question": "Why should parenteral opioids be avoided in respiratory compromised patients for postoperative pain management?",
+      "options": {
+        "A": "They cause bronchospasm",
+        "B": "They cause histamine release",
+        "C": "They cause respiratory depression",
+        "D": "They have poor analgesic efficacy"
+      },
+      "answer": "C",
+      "explanation": "The text states 'Parenteral opioids can cause respiratory depression therefore should be avoided as far as possible.'",
+      "chapter": "Chapter 19",
+      "topic": "Postoperative Considerations",
+      "reference": "Ch 19, Section: Postoperative Considerations, Page 193"
+    },
+    {
+      "id": 23,
+      "question": "In local infiltration for thoracotomy pain, how many levels above and below the incision site should be infiltrated?",
+      "options": {
+        "A": "1 level above and below",
+        "B": "2 levels above and below",
+        "C": "3 levels above and below",
+        "D": "4 levels above and below"
+      },
+      "answer": "B",
+      "explanation": "The text mentions 'local infiltration (2 levels above and below the thoracotomy incision site)' as one of the analgesic techniques.",
+      "chapter": "Chapter 19",
+      "topic": "Postoperative Considerations",
+      "reference": "Ch 19, Section: Postoperative Considerations, Page 193"
+    },
+    {
+      "id": 24,
+      "question": "For elective surgery in an asthma patient, what percentage of predicted peak expiratory flow rate (PEFR) should ideally be achieved?",
+      "options": {
+        "A": "60%",
+        "B": "70%",
+        "C": "80%",
+        "D": "90%"
+      },
+      "answer": "C",
+      "explanation": "The text states the patient 'ideally should have 80% of predicted value of peak expiratory flow rate.'",
+      "chapter": "Chapter 19",
+      "topic": "Asthma",
+      "reference": "Ch 19, Section: Asthma, Page 193"
+    },
+    {
+      "id": 25,
+      "question": "Why is ketamine generally avoided in asthma patients despite being the best bronchodilator?",
+      "options": {
+        "A": "It causes cardiac depression",
+        "B": "Its side effects (especially vivid reactions) and propensity to increase tracheobronchial secretions",
+        "C": "It causes histamine release",
+        "D": "It has no IV formulation available"
+      },
+      "answer": "B",
+      "explanation": "The text states 'Ketamine in spite of its best bronchodilator property is generally avoided due to its side effect (especially vivid reactions) and propensity to increase tracheobronchial secretions.'",
+      "chapter": "Chapter 19",
+      "topic": "Asthma",
+      "reference": "Ch 19, Section: Asthma – Induction, Page 193"
+    },
+    {
+      "id": 26,
+      "question": "In which specific clinical scenario is the use of ketamine indicated in asthma patients?",
+      "options": {
+        "A": "All elective surgeries in asthma patients",
+        "B": "Patients in active asthma (wheezing) undergoing life-threatening emergency surgeries",
+        "C": "Patients with mild intermittent asthma",
+        "D": "As premedication for asthma patients"
+      },
+      "answer": "B",
+      "explanation": "The text states 'The use of ketamine in present day practice is restricted to patients in active asthma (wheezing) undergoing life threatening emergency surgeries.'",
+      "chapter": "Chapter 19",
+      "topic": "Asthma",
+      "reference": "Ch 19, Section: Asthma – Induction, Page 193"
+    },
+    {
+      "id": 27,
+      "question": "Ketamine in a patient taking theophylline can precipitate:",
+      "options": {
+        "A": "Cardiac arrhythmias",
+        "B": "Severe hypotension",
+        "C": "Seizures",
+        "D": "Malignant hyperthermia"
+      },
+      "answer": "C",
+      "explanation": "The text states 'Ketamine in patient taking theophylline can precipitate seizures.'",
+      "chapter": "Chapter 19",
+      "topic": "Asthma",
+      "reference": "Ch 19, Section: Asthma – Induction, Page 193"
+    },
+    {
+      "id": 28,
+      "question": "Which induction agent is most preferred for asthma patients in present-day anesthesia practice?",
+      "options": {
+        "A": "Ketamine",
+        "B": "Thiopentone",
+        "C": "Propofol",
+        "D": "Etomidate"
+      },
+      "answer": "C",
+      "explanation": "The text states 'Propofol is a reasonable bronchodilator devoid of side effects seen with ketamine therefore, is more preferred for asthma patients in present day anesthesia practice.'",
+      "chapter": "Chapter 19",
+      "topic": "Asthma",
+      "reference": "Ch 19, Section: Asthma – Induction, Page 193"
+    },
+    {
+      "id": 29,
+      "question": "Which induction agent can induce bronchoconstriction and should be avoided in asthma patients?",
+      "options": {
+        "A": "Propofol",
+        "B": "Ketamine",
+        "C": "Thiopentone",
+        "D": "Etomidate"
+      },
+      "answer": "C",
+      "explanation": "The text states 'Thiopentone can induce bronchoconstriction therefore, should be avoided.'",
+      "chapter": "Chapter 19",
+      "topic": "Asthma",
+      "reference": "Ch 19, Section: Asthma – Induction, Page 193"
+    },
+    {
+      "id": 30,
+      "question": "What is the most important consideration during induction in an asthma patient?",
+      "options": {
+        "A": "Preventing hypotension",
+        "B": "Preventing reflex stimulation of airways by laryngoscopy and intubation",
+        "C": "Using rapid sequence induction",
+        "D": "Avoiding all muscle relaxants"
+      },
+      "answer": "B",
+      "explanation": "The text states 'The most important consideration is to prevent reflex stimulation of airways by laryngoscopy and intubation.'",
+      "chapter": "Chapter 19",
+      "topic": "Asthma",
+      "reference": "Ch 19, Section: Asthma – Induction, Page 193"
+    },
+    {
+      "id": 31,
+      "question": "Which inhalational agent is the agent of choice for maintenance in asthma patients?",
+      "options": {
+        "A": "Halothane",
+        "B": "Isoflurane",
+        "C": "Sevoflurane",
+        "D": "Desflurane"
+      },
+      "answer": "C",
+      "explanation": "The text states 'Sevoflurane is the inhalational agent of choice for asthma patients.'",
+      "chapter": "Chapter 19",
+      "topic": "Asthma",
+      "reference": "Ch 19, Section: Asthma – Maintenance, Page 193"
+    },
+    {
+      "id": 32,
+      "question": "Why is halothane not preferred over sevoflurane for asthma despite producing slightly more bronchodilatation?",
+      "options": {
+        "A": "It is hepatotoxic",
+        "B": "It causes increased possibility of arrhythmias",
+        "C": "It inhibits ciliary function more",
+        "D": "It has airway irritant properties"
+      },
+      "answer": "B",
+      "explanation": "The text states 'Halothane, in spite of producing little more bronchodilatation than sevoflurane in asthma patients is not preferred because of the increase possibility of arrhythmias.'",
+      "chapter": "Chapter 19",
+      "topic": "Asthma",
+      "reference": "Ch 19, Section: Asthma – Maintenance, Page 193"
+    },
+    {
+      "id": 33,
+      "question": "Which class of muscle relaxant is preferred in asthma patients and why?",
+      "options": {
+        "A": "Benzylisoquinolines — they have rapid onset",
+        "B": "Steroidal class — benzylisoquinolines release histamine causing bronchospasm",
+        "C": "Depolarizing agents — they have the shortest duration",
+        "D": "Ester-based relaxants — they are metabolized fastest"
+      },
+      "answer": "B",
+      "explanation": "The text states 'Steroidal class of muscle relaxant is preferred. Benzylisoquinolines by release histamine can precipitate bronchospasm.'",
+      "chapter": "Chapter 19",
+      "topic": "Asthma",
+      "reference": "Ch 19, Section: Asthma – Muscle Relaxant, Page 193"
+    },
+    {
+      "id": 34,
+      "question": "To avoid immediate postoperative bronchospasm in asthma patients, extubation should be done:",
+      "options": {
+        "A": "When the patient is fully awake",
+        "B": "When the patient is deep (deep extubation)",
+        "C": "Only after chest X-ray confirmation",
+        "D": "After giving IV aminophylline"
+      },
+      "answer": "B",
+      "explanation": "The text states 'To avoid immediate postoperative bronchospasm extubation should be done when patient is deep (deep extubation).'",
+      "chapter": "Chapter 19",
+      "topic": "Asthma",
+      "reference": "Ch 19, Section: Asthma, Page 194"
+    },
+    {
+      "id": 35,
+      "question": "What is the FIRST step before starting treatment for suspected intraoperative bronchospasm?",
+      "options": {
+        "A": "Give IV steroids",
+        "B": "Increase depth of anesthesia with sevoflurane",
+        "C": "Rule out other causes like ETT obstruction, kinking, inadequate depth, pulmonary edema, aspiration, embolus, or pneumothorax",
+        "D": "Administer inhaled beta-2 agonist"
+      },
+      "answer": "C",
+      "explanation": "Step 1: Before starting therapy for asthma it is must to rule out other causes of increased airway pressure/bronchospasm.",
+      "chapter": "Chapter 19",
+      "topic": "Asthma",
+      "reference": "Ch 19, Section: Management of Intraoperative Bronchospasm, Page 194"
+    },
+    {
+      "id": 36,
+      "question": "Once confirmed that intraoperative bronchospasm is due to asthma, what is the first line of treatment?",
+      "options": {
+        "A": "IV epinephrine",
+        "B": "Inhaled beta-2 agonist",
+        "C": "Increasing the depth of anesthesia with inhalational agent (preferably sevoflurane)",
+        "D": "IV aminophylline infusion"
+      },
+      "answer": "C",
+      "explanation": "Step 2: It should first be treated by increasing the depth of anesthesia with inhalational agent (preferably sevoflurane).",
+      "chapter": "Chapter 19",
+      "topic": "Asthma",
+      "reference": "Ch 19, Section: Management of Intraoperative Bronchospasm, Page 194"
+    },
+    {
+      "id": 37,
+      "question": "For refractory bronchospasm not responding to inhaled beta-2 agonists and IV steroids, which agents should be considered?",
+      "options": {
+        "A": "IV magnesium and calcium channel blockers",
+        "B": "Epinephrine, ketamine, or aminophylline infusion",
+        "C": "Ipratropium and tiotropium",
+        "D": "Leukotriene antagonists and mast cell stabilizers"
+      },
+      "answer": "B",
+      "explanation": "Step 5: For refractory bronchospasm consider epinephrine, ketamine or aminophylline infusion.",
+      "chapter": "Chapter 19",
+      "topic": "Asthma",
+      "reference": "Ch 19, Section: Management of Intraoperative Bronchospasm, Page 194"
+    },
+    {
+      "id": 38,
+      "question": "Which is the most common pulmonary disease encountered in clinical practice?",
+      "options": {
+        "A": "Asthma",
+        "B": "Tuberculosis",
+        "C": "COPD",
+        "D": "Restrictive lung disease"
+      },
+      "answer": "C",
+      "explanation": "The text states 'Chronic obstructive pulmonary disease (COPD) is the most common pulmonary disease encountered in clinical practice.'",
+      "chapter": "Chapter 19",
+      "topic": "COPD",
+      "reference": "Ch 19, Section: COPD, Page 194"
+    },
+    {
+      "id": 39,
+      "question": "Why should nitrous oxide be avoided in emphysema patients?",
+      "options": {
+        "A": "It causes bronchospasm",
+        "B": "It can cause expansion of bullae leading to rupture and pneumothorax",
+        "C": "It increases pulmonary vascular resistance",
+        "D": "It worsens V/Q mismatch"
+      },
+      "answer": "B",
+      "explanation": "The text states 'Nitrous oxide should not be used in emphysema. It can cause expansion of bullae leading to rupture and pneumothorax.'",
+      "chapter": "Chapter 19",
+      "topic": "COPD",
+      "reference": "Ch 19, Section: COPD, Page 194"
+    },
+    {
+      "id": 40,
+      "question": "In COPD patients with evidence of pulmonary hypertension (cor pulmonale), which agent should be avoided?",
+      "options": {
+        "A": "Sevoflurane",
+        "B": "Propofol",
+        "C": "Nitrous oxide",
+        "D": "Rocuronium"
+      },
+      "answer": "C",
+      "explanation": "The text states 'Cor pulmonale must be ruled out and if there is any evidence of pulmonary hypertension then nitrous oxide should be avoided.'",
+      "chapter": "Chapter 19",
+      "topic": "COPD",
+      "reference": "Ch 19, Section: COPD, Page 194"
+    },
+    {
+      "id": 41,
+      "question": "The anesthetic management of COPD patients is described as similar to which group of patients with additional considerations?",
+      "options": {
+        "A": "Restrictive lung disease patients",
+        "B": "Asthma patients",
+        "C": "Tuberculosis patients",
+        "D": "Cardiac patients"
+      },
+      "answer": "B",
+      "explanation": "The text states 'The anesthetic management of COPD patients is similar to asthma patient with additional emphasis on the following points.'",
+      "chapter": "Chapter 19",
+      "topic": "COPD",
+      "reference": "Ch 19, Section: COPD, Page 194"
+    },
+    {
+      "id": 42,
+      "question": "Which of the following measures is NOT mentioned as part of preoperative stabilization of COPD patients?",
+      "options": {
+        "A": "Stopping smoking",
+        "B": "Treating infection",
+        "C": "Starting long-term oxygen therapy",
+        "D": "Correcting spasm and improving pulmonary condition by physiotherapy"
+      },
+      "answer": "C",
+      "explanation": "The text mentions stopping smoking, treating infection, correcting spasm (asthmatic bronchitis), and improve pulmonary condition by physiotherapy, but not long-term oxygen therapy.",
+      "chapter": "Chapter 19",
+      "topic": "COPD",
+      "reference": "Ch 19, Section: COPD, Page 194"
+    },
+    {
+      "id": 43,
+      "question": "Patients with restrictive lung disease are more prone to hypoxemia during induction because of:",
+      "options": {
+        "A": "Increased dead space",
+        "B": "Low FRC",
+        "C": "High airway resistance",
+        "D": "Bronchospasm"
+      },
+      "answer": "B",
+      "explanation": "The text states 'These patients have low FRC therefore are more prone for hypoxemia during induction.'",
+      "chapter": "Chapter 19",
+      "topic": "Restrictive Lung Disease",
+      "reference": "Ch 19, Section: Restrictive Lung Diseases, Page 194"
+    },
+    {
+      "id": 44,
+      "question": "What is the most important principle of ventilatory management in restrictive lung disease during general anesthesia?",
+      "options": {
+        "A": "Using high PEEP",
+        "B": "Using high FiO2",
+        "C": "Avoiding large tidal volumes and inspiratory pressures",
+        "D": "Using rapid respiratory rates"
+      },
+      "answer": "C",
+      "explanation": "The text states 'avoiding large tidal volumes and inspiratory pressures is the most important principle of ventilatory management during general anesthesia.'",
+      "chapter": "Chapter 19",
+      "topic": "Restrictive Lung Disease",
+      "reference": "Ch 19, Section: Restrictive Lung Diseases, Page 194"
+    },
+    {
+      "id": 45,
+      "question": "Regarding tuberculosis patients, antitubercular drugs should be continued but assessment of which organ function is a must?",
+      "options": {
+        "A": "Kidney function",
+        "B": "Liver function",
+        "C": "Cardiac function",
+        "D": "Thyroid function"
+      },
+      "answer": "B",
+      "explanation": "The text states 'Antitubercular drugs should be continued however, assessment of liver functions is must.'",
+      "chapter": "Chapter 19",
+      "topic": "Tuberculosis",
+      "reference": "Ch 19, Section: Tuberculosis, Page 194-195"
+    },
+    {
+      "id": 46,
+      "question": "In a patient with active TB undergoing emergency surgery, which equipment should be discarded after the case?",
+      "options": {
+        "A": "Only the endotracheal tube",
+        "B": "Mask, LMA, and breathing circuits",
+        "C": "All equipment including the anesthesia machine",
+        "D": "Only disposable items"
+      },
+      "answer": "B",
+      "explanation": "The text states 'Equipment coming in direct contact with patient like mask, laryngeal mask airway (LMA), breathing circuits should be discarded after case while other equipment and theater should be sterilized properly.'",
+      "chapter": "Chapter 19",
+      "topic": "Tuberculosis",
+      "reference": "Ch 19, Section: Tuberculosis, Page 195"
+    },
+    {
+      "id": 47,
+      "question": "For how long should elective surgery be deferred in a patient with significant URTI?",
+      "options": {
+        "A": "2 weeks",
+        "B": "4 weeks",
+        "C": "6 weeks",
+        "D": "8 weeks"
+      },
+      "answer": "C",
+      "explanation": "The text states surgery should 'ideally be deferred for 6 weeks' as 'airway remains hyperactive for 5–6 weeks after a significant URTI.'",
+      "chapter": "Chapter 19",
+      "topic": "URTI",
+      "reference": "Ch 19, Section: Respiratory Tract Infection, Page 195"
+    },
+    {
+      "id": 48,
+      "question": "A patient with URTI undergoing surgery has how many times increased risk of bronchospasm compared to a healthy patient?",
+      "options": {
+        "A": "2 times",
+        "B": "5 times",
+        "C": "10 times",
+        "D": "15 times"
+      },
+      "answer": "C",
+      "explanation": "The text states patients with active URTI are prone to develop 'bronchospasm (10 times)' compared to normal.",
+      "chapter": "Chapter 19",
+      "topic": "URTI",
+      "reference": "Ch 19, Section: Respiratory Tract Infection, Page 195"
+    },
+    {
+      "id": 49,
+      "question": "In a patient with active URTI requiring general anesthesia, which airway device is preferred over endotracheal intubation?",
+      "options": {
+        "A": "Face mask only",
+        "B": "Laryngeal mask airway (LMA)",
+        "C": "Nasopharyngeal airway",
+        "D": "Oropharyngeal airway"
+      },
+      "answer": "B",
+      "explanation": "The text states 'If GA is to be given then prefer to get the surgery done under laryngeal mask airway (LMA). Avoid intubation as far as possible.'",
+      "chapter": "Chapter 19",
+      "topic": "URTI",
+      "reference": "Ch 19, Section: Respiratory Tract Infection, Page 195"
+    },
+    {
+      "id": 50,
+      "question": "What FEV1 value is one of the operative criteria indicating need for thoracotomy/pneumonectomy?",
+      "options": {
+        "A": "< 1 liter",
+        "B": "< 2 liters",
+        "C": "< 3 liters",
+        "D": "< 4 liters"
+      },
+      "answer": "B",
+      "explanation": "The text lists 'FEV1 < 2 liters' as one of the operative criteria for thoracotomy/pneumonectomy.",
+      "chapter": "Chapter 19",
+      "topic": "Operative Criteria for Thoracotomy",
+      "reference": "Ch 19, Section: Operative Criteria for Thoracotomy/Pneumonectomy, Page 195"
+    }
+  ]
+}

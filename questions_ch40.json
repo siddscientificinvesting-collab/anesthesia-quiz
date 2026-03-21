@@ -1,0 +1,759 @@
+{
+  "title": "Intensive Care Management MCQ – Chapter 40",
+  "source": "Short Textbook of Anesthesia – Ajay Yadav",
+  "section": "Section 9: Cardiorespiratory Care (Chapter 40)",
+  "total_questions": 50,
+  "time_limit_minutes": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The first intensive care unit (ICU) was started in which year?",
+      "options": {
+        "A": "1945",
+        "B": "1950",
+        "C": "1953",
+        "D": "1960"
+      },
+      "answer": "C",
+      "explanation": "According to the textbook, the first intensive care unit (ICU) was started in 1953.",
+      "chapter": "Chapter 40",
+      "topic": "ICU Setup",
+      "reference": "Ch 40, Section: Intensive Care Unit, Page 277"
+    },
+    {
+      "id": 2,
+      "question": "What percentage of hospital beds should be allocated to the ICU?",
+      "options": {
+        "A": "5%",
+        "B": "10%",
+        "C": "15%",
+        "D": "20%"
+      },
+      "answer": "B",
+      "explanation": "Total number of beds in ICU should be 10% of hospital beds, with each bed having 20 m² floor area.",
+      "chapter": "Chapter 40",
+      "topic": "ICU Setup",
+      "reference": "Ch 40, Section: Intensive Care Unit, Page 277"
+    },
+    {
+      "id": 3,
+      "question": "Acute respiratory failure is considered to be present when pO₂ is less than:",
+      "options": {
+        "A": "40 mm Hg",
+        "B": "50 mm Hg",
+        "C": "60 mm Hg",
+        "D": "70 mm Hg"
+      },
+      "answer": "C",
+      "explanation": "Acute respiratory failure is considered to be present if pO₂ is less than 60 mm Hg, pCO₂ over 50 mm Hg and pH less than 7.30.",
+      "chapter": "Chapter 40",
+      "topic": "Acute Respiratory Failure",
+      "reference": "Ch 40, Section: Acute Respiratory Failure – Definition, Page 277"
+    },
+    {
+      "id": 4,
+      "question": "Elevated pCO₂ in the presence of normal pH constitutes:",
+      "options": {
+        "A": "Acute respiratory failure",
+        "B": "Chronic respiratory failure",
+        "C": "Combined respiratory failure",
+        "D": "Metabolic acidosis"
+      },
+      "answer": "B",
+      "explanation": "Elevated pCO₂ in presence of normal pH constitutes chronic respiratory failure, as pH is compensated by renal tubular reabsorption of bicarbonate.",
+      "chapter": "Chapter 40",
+      "topic": "Acute Respiratory Failure",
+      "reference": "Ch 40, Section: Acute Respiratory Failure – Definition, Page 277"
+    },
+    {
+      "id": 5,
+      "question": "Type II respiratory failure is characterized by all of the following EXCEPT:",
+      "options": {
+        "A": "Increased pCO₂ (>50 mm Hg)",
+        "B": "pO₂ is usually normal",
+        "C": "Increased pAO₂–paO₂ gradient",
+        "D": "Normal pAO₂–paO₂ gradient"
+      },
+      "answer": "C",
+      "explanation": "In Type II (hypercapnic ventilatory failure), pCO₂ is >50 mm Hg, pO₂ is usually normal, and pAO₂–paO₂ gradient is normal. Increased pAO₂–paO₂ gradient is a feature of Type I failure.",
+      "chapter": "Chapter 40",
+      "topic": "Classification of Respiratory Failure",
+      "reference": "Ch 40, Section: Classification, Page 277–278"
+    },
+    {
+      "id": 6,
+      "question": "Which of the following is a cause of Type II (hypercapnic ventilatory) respiratory failure?",
+      "options": {
+        "A": "Pulmonary embolism",
+        "B": "Pulmonary edema",
+        "C": "Guillain-Barré syndrome",
+        "D": "Interstitial lung disease"
+      },
+      "answer": "C",
+      "explanation": "Guillain-Barré syndrome is a disorder affecting signal transmission to respiratory muscles and is a cause of Type II failure. The other options are causes of Type I failure.",
+      "chapter": "Chapter 40",
+      "topic": "Classification of Respiratory Failure",
+      "reference": "Ch 40, Section: Type II Failure, Page 277–278"
+    },
+    {
+      "id": 7,
+      "question": "Oxygen therapy is helpful in improving oxygen saturation in all types of hypoxia EXCEPT:",
+      "options": {
+        "A": "Hypoxic hypoxia",
+        "B": "Anemic hypoxia",
+        "C": "Stagnant hypoxia",
+        "D": "Histotoxic hypoxia"
+      },
+      "answer": "D",
+      "explanation": "Oxygen therapy is helpful in improving oxygen saturation in all types of hypoxia except histotoxic hypoxia. Maximum benefit is seen in hypoxic hypoxia.",
+      "chapter": "Chapter 40",
+      "topic": "Supplemental Oxygen",
+      "reference": "Ch 40, Section: Supplemental Oxygen, Page 278"
+    },
+    {
+      "id": 8,
+      "question": "Ideally, inspired oxygen concentration (FiO₂) should not exceed more than what percentage to avoid oxygen toxicity?",
+      "options": {
+        "A": "30%",
+        "B": "40%",
+        "C": "50%",
+        "D": "60%"
+      },
+      "answer": "C",
+      "explanation": "Ideally, inspired oxygen concentration (FiO₂) should not exceed more than 50%, otherwise oxygen toxicity can occur.",
+      "chapter": "Chapter 40",
+      "topic": "Supplemental Oxygen",
+      "reference": "Ch 40, Section: Supplemental Oxygen, Page 278"
+    },
+    {
+      "id": 9,
+      "question": "Which of the following is an indication for mechanical ventilation based on pulmonary function?",
+      "options": {
+        "A": "Vital capacity >15 mL/kg",
+        "B": "Respiratory rate >35/minute",
+        "C": "Dead space volume (VD/VT) <0.6",
+        "D": "Tidal volume >5 mL/kg"
+      },
+      "answer": "B",
+      "explanation": "Indications for mechanical ventilation based on pulmonary functions include respiratory rate >35/min, vital capacity <15 mL/kg, VD/VT >0.6, and tidal volume <5 mL/kg.",
+      "chapter": "Chapter 40",
+      "topic": "Mechanical Ventilation",
+      "reference": "Ch 40, Section: Mechanical Ventilation – Indications, Page 278"
+    },
+    {
+      "id": 10,
+      "question": "On the basis of blood gas analysis, mechanical ventilation is indicated when pO₂/FiO₂ is less than:",
+      "options": {
+        "A": "150 mm Hg",
+        "B": "200 mm Hg",
+        "C": "250 mm Hg",
+        "D": "300 mm Hg"
+      },
+      "answer": "C",
+      "explanation": "Mechanical ventilation is indicated when pO₂/FiO₂ <250 mm Hg (normal >400).",
+      "chapter": "Chapter 40",
+      "topic": "Mechanical Ventilation",
+      "reference": "Ch 40, Section: Mechanical Ventilation – Indications, Page 278"
+    },
+    {
+      "id": 11,
+      "question": "The chief advantage of volume preset (volume controlled) ventilation is:",
+      "options": {
+        "A": "Decreased chances of barotrauma",
+        "B": "Assurance of delivery of preset tidal volume",
+        "C": "Maintenance of preset airway pressure",
+        "D": "Better patient comfort"
+      },
+      "answer": "B",
+      "explanation": "The chief advantage of volume preset breath is assurance of delivery of preset tidal volume and hence decreased chances of hypoventilation; however, the chief disadvantage is increased chances of barotrauma.",
+      "chapter": "Chapter 40",
+      "topic": "Ventilators",
+      "reference": "Ch 40, Section: Ventilators, Page 279"
+    },
+    {
+      "id": 12,
+      "question": "The usual initial tidal volume setting on a ventilator is:",
+      "options": {
+        "A": "4–5 mL/kg",
+        "B": "6–8 mL/kg",
+        "C": "10–12 mL/kg",
+        "D": "12–15 mL/kg"
+      },
+      "answer": "B",
+      "explanation": "The usual initial tidal volume set on ventilator is 6–8 mL/kg.",
+      "chapter": "Chapter 40",
+      "topic": "Ventilator Settings",
+      "reference": "Ch 40, Section: Initial Setting of Ventilator, Page 279"
+    },
+    {
+      "id": 13,
+      "question": "The normal inspiratory to expiratory (I:E) ratio set on a ventilator is:",
+      "options": {
+        "A": "1:1",
+        "B": "1:2",
+        "C": "2:1",
+        "D": "1:3"
+      },
+      "answer": "B",
+      "explanation": "The usual initial I:E ratio set on ventilator is 1:2.",
+      "chapter": "Chapter 40",
+      "topic": "Ventilator Settings",
+      "reference": "Ch 40, Section: Initial Setting of Ventilator, Page 279"
+    },
+    {
+      "id": 14,
+      "question": "The major disadvantage of controlled-mode ventilation (CMV) is:",
+      "options": {
+        "A": "Hyperventilation",
+        "B": "Increased work of breathing",
+        "C": "Intrathoracic pressure always remains positive, decreasing venous return and cardiac output",
+        "D": "Cannot deliver adequate tidal volume"
+      },
+      "answer": "C",
+      "explanation": "The major disadvantage of CMV is that the intrathoracic pressure always remains positive, decreasing the venous return and cardiac output.",
+      "chapter": "Chapter 40",
+      "topic": "Modes of Ventilation",
+      "reference": "Ch 40, Section: Modes of Ventilation – CMV, Page 279"
+    },
+    {
+      "id": 15,
+      "question": "In Assist-Control (A/C) ventilation, if the preset rate is 10 breaths/min and the patient's spontaneous rate is 12, the ventilator will:",
+      "options": {
+        "A": "Deliver 10 breaths in controlled mode",
+        "B": "Assist 10 breaths and deliver 2 in control mode",
+        "C": "Assist all 12 breaths",
+        "D": "Deliver 12 breaths in controlled mode"
+      },
+      "answer": "C",
+      "explanation": "In A/C mode, if the patient's spontaneous rate exceeds the set rate (e.g., 12 vs set rate of 10), the ventilator will assist all 12 breaths, working in assist mode only.",
+      "chapter": "Chapter 40",
+      "topic": "Modes of Ventilation",
+      "reference": "Ch 40, Section: Modes of Ventilation – A/C, Page 280"
+    },
+    {
+      "id": 16,
+      "question": "Which of the following is an advantage of SIMV over CMV?",
+      "options": {
+        "A": "Less work of breathing",
+        "B": "Less hypotension due to spontaneous breaths allowing good venous return",
+        "C": "Better control of tidal volume",
+        "D": "Less hyperventilation"
+      },
+      "answer": "B",
+      "explanation": "Advantages of SIMV over CMV include less hypotension (as good venous return occurs during spontaneous breaths), no need for heavy sedation/muscle relaxants, and less sense of breathlessness.",
+      "chapter": "Chapter 40",
+      "topic": "Modes of Ventilation",
+      "reference": "Ch 40, Section: Modes of Ventilation – SIMV, Page 280"
+    },
+    {
+      "id": 17,
+      "question": "In Inverse Ratio Ventilation (IRV), the I:E ratio is reversed to:",
+      "options": {
+        "A": "1:1",
+        "B": "1:3",
+        "C": "2:1",
+        "D": "3:1"
+      },
+      "answer": "C",
+      "explanation": "In IRV, the normal I:E ratio of 1:2 is reversed to 2:1. Doubling the inspiratory time doubles the gas exchange time.",
+      "chapter": "Chapter 40",
+      "topic": "Modes of Ventilation",
+      "reference": "Ch 40, Section: Modes of Ventilation – IRV, Page 280"
+    },
+    {
+      "id": 18,
+      "question": "In Pressure Support Ventilation (PSV), the ventilator cycles to expiration when the predetermined flow falls below:",
+      "options": {
+        "A": "10%",
+        "B": "15%",
+        "C": "20%",
+        "D": "25%"
+      },
+      "answer": "D",
+      "explanation": "In PSV, the ventilator will cycle to expiration once the predetermined flow falls below 25% (flow cycled).",
+      "chapter": "Chapter 40",
+      "topic": "Modes of Ventilation",
+      "reference": "Ch 40, Section: Modes of Ventilation – PSV, Page 280"
+    },
+    {
+      "id": 19,
+      "question": "The most commonly used dual mode of ventilation in India is:",
+      "options": {
+        "A": "Adaptive support ventilation (ASV)",
+        "B": "Pressure-regulated volume control (PRVC)",
+        "C": "Volume-assured pressure support (VAPS)",
+        "D": "Automode ventilation"
+      },
+      "answer": "B",
+      "explanation": "The most commonly used dual mode in India is pressure-regulated volume control (PRVC). PRVC can be considered as the mode of choice for ventilation in current day critical care practice.",
+      "chapter": "Chapter 40",
+      "topic": "Modes of Ventilation",
+      "reference": "Ch 40, Section: Dual Mode Ventilation, Page 281"
+    },
+    {
+      "id": 20,
+      "question": "High-frequency jet ventilation operates at a frequency of:",
+      "options": {
+        "A": "60–120 cycles/min",
+        "B": "100–300 cycles/min",
+        "C": "300–600 cycles/min",
+        "D": "600–3000 cycles/min"
+      },
+      "answer": "B",
+      "explanation": "High-frequency jet ventilation operates at a frequency of 100–300 cycles/min with gases at high pressure of 60 psi. It is the most commonly used mode for high frequency ventilation.",
+      "chapter": "Chapter 40",
+      "topic": "High-Frequency Ventilation",
+      "reference": "Ch 40, Section: High-Frequency Ventilation, Page 281"
+    },
+    {
+      "id": 21,
+      "question": "Which is the most commonly used mode for high-frequency ventilation?",
+      "options": {
+        "A": "High-frequency positive-pressure ventilation",
+        "B": "High-frequency jet ventilation",
+        "C": "High-frequency oscillation",
+        "D": "High-frequency percussive ventilation"
+      },
+      "answer": "B",
+      "explanation": "High-frequency jet ventilation is the most commonly used mode for high frequency ventilation, with frequency of 100–300 cycles/min.",
+      "chapter": "Chapter 40",
+      "topic": "High-Frequency Ventilation",
+      "reference": "Ch 40, Section: High-Frequency Ventilation, Page 281"
+    },
+    {
+      "id": 22,
+      "question": "The ideal PEEP is defined as the PEEP which maintains oxygen saturation >90% without decreasing the cardiac output significantly. The usual range is:",
+      "options": {
+        "A": "2–5 cm H₂O",
+        "B": "5–12 cm H₂O",
+        "C": "12–20 cm H₂O",
+        "D": "20–25 cm H₂O"
+      },
+      "answer": "B",
+      "explanation": "The ideal PEEP which maintains oxygen saturation >90% without decreasing the cardiac output significantly is usually 5–12 cm H₂O.",
+      "chapter": "Chapter 40",
+      "topic": "PEEP",
+      "reference": "Ch 40, Section: PEEP, Page 282"
+    },
+    {
+      "id": 23,
+      "question": "CPAP (Continuous Positive Airway Pressure) is essentially:",
+      "options": {
+        "A": "A mode of mechanical ventilation",
+        "B": "PEEP given to a nonintubated patient",
+        "C": "Pressure support ventilation through a mask",
+        "D": "Bilevel positive airway pressure"
+      },
+      "answer": "B",
+      "explanation": "CPAP is described as a misnomer. It is just PEEP given to a nonintubated patient, i.e., the noninvasive method of giving PEEP through a tight fitting mask.",
+      "chapter": "Chapter 40",
+      "topic": "CPAP",
+      "reference": "Ch 40, Section: CPAP, Page 282"
+    },
+    {
+      "id": 24,
+      "question": "In BIPAP, the typical inspiratory positive airway pressure (IPAP) setting is:",
+      "options": {
+        "A": "2–5 cm H₂O",
+        "B": "5–10 cm H₂O",
+        "C": "8–20 cm H₂O",
+        "D": "20–30 cm H₂O"
+      },
+      "answer": "C",
+      "explanation": "Typical BIPAP settings are 8–20 cm H₂O positive pressure during inspiration (IPAP) and 5 cm H₂O during expiration (EPAP).",
+      "chapter": "Chapter 40",
+      "topic": "BIPAP",
+      "reference": "Ch 40, Section: BIPAP, Page 282"
+    },
+    {
+      "id": 25,
+      "question": "What is the most common indication of NIPPV in the acute setting?",
+      "options": {
+        "A": "Sleep apnea syndrome",
+        "B": "Acute exacerbation of COPD",
+        "C": "Cardiogenic pulmonary edema",
+        "D": "Pneumothorax"
+      },
+      "answer": "B",
+      "explanation": "In the acute setting, NIPPV is most frequently applied for acute exacerbation of COPD. In the chronic setting, it is most effectively used for sleep apnea syndrome.",
+      "chapter": "Chapter 40",
+      "topic": "NIPPV",
+      "reference": "Ch 40, Section: NIPPV – Common Indications, Page 282"
+    },
+    {
+      "id": 26,
+      "question": "What is the major problem during NIPPV?",
+      "options": {
+        "A": "Aspiration",
+        "B": "Claustrophobia",
+        "C": "Leakage",
+        "D": "Skin breakdown"
+      },
+      "answer": "C",
+      "explanation": "Leakage is a major problem during NIPPV. Significant leaks can cause hypoventilation and are best avoided by using tight fitting masks.",
+      "chapter": "Chapter 40",
+      "topic": "NIPPV",
+      "reference": "Ch 40, Section: NIPPV – Complications, Page 283"
+    },
+    {
+      "id": 27,
+      "question": "For weaning from ventilator, the Rapid Shallow Breathing Index (RSBI) should be:",
+      "options": {
+        "A": "<50",
+        "B": "<80",
+        "C": "<100",
+        "D": "<150"
+      },
+      "answer": "C",
+      "explanation": "RSBI = Respiratory rate (breaths/min) / Tidal volume (in liters). RSBI should be <100 for successful weaning.",
+      "chapter": "Chapter 40",
+      "topic": "Weaning from Ventilator",
+      "reference": "Ch 40, Section: Weaning from Ventilator, Page 283"
+    },
+    {
+      "id": 28,
+      "question": "Weaning from ventilator is possible in all modes of ventilation EXCEPT:",
+      "options": {
+        "A": "Assist-Control mode",
+        "B": "SIMV mode",
+        "C": "Controlled-mode ventilation",
+        "D": "Pressure Support Ventilation"
+      },
+      "answer": "C",
+      "explanation": "It is possible to wean a patient in any mode of ventilation except control mode ventilation.",
+      "chapter": "Chapter 40",
+      "topic": "Weaning from Ventilator",
+      "reference": "Ch 40, Section: Method of Weaning, Page 283"
+    },
+    {
+      "id": 29,
+      "question": "The incidence of pulmonary barotrauma during mechanical ventilation is:",
+      "options": {
+        "A": "1–3%",
+        "B": "5–7%",
+        "C": "7–10%",
+        "D": "15–20%"
+      },
+      "answer": "C",
+      "explanation": "The incidence of barotrauma is 7–10%. It may manifest as pneumothorax, pneumomediastinum, pneumopericardium, pneumoperitoneum, bronchopleural fistula and air embolism.",
+      "chapter": "Chapter 40",
+      "topic": "Complications of Mechanical Ventilation",
+      "reference": "Ch 40, Section: Complications of Mechanical Ventilation, Page 283–284"
+    },
+    {
+      "id": 30,
+      "question": "The most common source of nosocomial infections in ICU is:",
+      "options": {
+        "A": "Pulmonary infections",
+        "B": "Urinary tract infections",
+        "C": "Bloodstream infections",
+        "D": "Wound infections"
+      },
+      "answer": "B",
+      "explanation": "The most common source of nosocomial infections in ICU are urinary tract infections accounting for 35–40% of total ICU infections, followed by pulmonary (25–30%) and bloodstream infections (20%).",
+      "chapter": "Chapter 40",
+      "topic": "ICU Infections",
+      "reference": "Ch 40, Section: Complications – Infections, Page 284"
+    },
+    {
+      "id": 31,
+      "question": "Ventilator-associated pneumonia (VAP) is defined as pneumonia developing in patients on ventilators for more than:",
+      "options": {
+        "A": "24 hours",
+        "B": "48 hours",
+        "C": "72 hours",
+        "D": "96 hours"
+      },
+      "answer": "B",
+      "explanation": "VAP is defined as pneumonia developing in patients on ventilators for >48 hours with no evidence of preintubation pneumonia. The incidence of VAP is around 20%.",
+      "chapter": "Chapter 40",
+      "topic": "VAP",
+      "reference": "Ch 40, Section: Complications – VAP, Page 284"
+    },
+    {
+      "id": 32,
+      "question": "The simplest and most cost-effective method to decrease ventilator-associated pneumonia is:",
+      "options": {
+        "A": "Use of subglottic suctioning endotracheal tubes",
+        "B": "Oral hygiene with chlorhexidine",
+        "C": "Positioning head of bed at 30 degrees",
+        "D": "Early tracheostomy"
+      },
+      "answer": "C",
+      "explanation": "Positioning the head of the bed at 30 degrees decreases gastroesophageal reflux and proves to be the simplest and most cost-effective method to decrease VAP.",
+      "chapter": "Chapter 40",
+      "topic": "VAP Prevention",
+      "reference": "Ch 40, Section: Complications – VAP, Page 284"
+    },
+    {
+      "id": 33,
+      "question": "Shock is classified into how many major types?",
+      "options": {
+        "A": "Two",
+        "B": "Three",
+        "C": "Four",
+        "D": "Five"
+      },
+      "answer": "C",
+      "explanation": "Shock is classified into four major types: hypovolemic, cardiogenic, distributive, and obstructive.",
+      "chapter": "Chapter 40",
+      "topic": "Shock Classification",
+      "reference": "Ch 40, Section: Shock – Classification, Page 285"
+    },
+    {
+      "id": 34,
+      "question": "In cardiogenic shock, the pulmonary capillary wedge pressure (PCWP) in left ventricular failure is typically:",
+      "options": {
+        "A": ">15 mm Hg",
+        "B": ">18 mm Hg",
+        "C": ">25 mm Hg",
+        "D": ">30 mm Hg"
+      },
+      "answer": "C",
+      "explanation": "In cardiogenic shock, poor pump function leads to increased CVP and increased PCWP. In LVF, PCWP is >25 mm Hg.",
+      "chapter": "Chapter 40",
+      "topic": "Shock Hemodynamics",
+      "reference": "Ch 40, Section: Shock – Hemodynamic Parameters, Page 285"
+    },
+    {
+      "id": 35,
+      "question": "The hallmark hemodynamic finding in distributive shock is:",
+      "options": {
+        "A": "Increased CVP",
+        "B": "Increased PCWP",
+        "C": "Decreased SVR",
+        "D": "Decreased cardiac output"
+      },
+      "answer": "C",
+      "explanation": "In distributive shock, poor vascular tone (decreased SVR) is the hallmark. Decreased SVR decreases the afterload, increasing the cardiac output.",
+      "chapter": "Chapter 40",
+      "topic": "Shock Hemodynamics",
+      "reference": "Ch 40, Section: Shock – Hemodynamic Parameters, Page 285"
+    },
+    {
+      "id": 36,
+      "question": "In hemorrhagic shock, the current guidelines recommend maintaining systolic blood pressure (SBP) between:",
+      "options": {
+        "A": "60–80 mm Hg",
+        "B": "80–100 mm Hg",
+        "C": "100–120 mm Hg",
+        "D": "120–140 mm Hg"
+      },
+      "answer": "B",
+      "explanation": "Current guidelines favor hypotensive resuscitation, maintaining SBP between 80–100 mm Hg and MAP between 60–65 mm Hg to prevent disruption of clots and increased bleeding.",
+      "chapter": "Chapter 40",
+      "topic": "Shock Management",
+      "reference": "Ch 40, Section: Management of Shock – Early Goals, Page 286"
+    },
+    {
+      "id": 37,
+      "question": "The concept of combining hypotensive resuscitation and hemostatic resuscitation is called:",
+      "options": {
+        "A": "Goal-directed therapy",
+        "B": "Balanced resuscitation",
+        "C": "Damage control resuscitation",
+        "D": "Permissive hypotension"
+      },
+      "answer": "B",
+      "explanation": "The newer concept of hypotensive and hemostatic resuscitation is called balanced resuscitation.",
+      "chapter": "Chapter 40",
+      "topic": "Shock Management",
+      "reference": "Ch 40, Section: Management of Shock – Early Goals, Page 286"
+    },
+    {
+      "id": 38,
+      "question": "Which parameter is considered the most reliable to assess fluid status and titrate fluid therapy?",
+      "options": {
+        "A": "Central venous pressure (CVP)",
+        "B": "Pulse pressure variation",
+        "C": "Stroke volume variation",
+        "D": "Pulmonary artery occlusion pressure"
+      },
+      "answer": "C",
+      "explanation": "Stroke volume variation is considered most reliable to assess fluid status and titrate fluid therapy; however, due to technical feasibility and cost, CVP is still most commonly used.",
+      "chapter": "Chapter 40",
+      "topic": "Shock Management – Fluids",
+      "reference": "Ch 40, Section: Treatment – Fluids, Page 286"
+    },
+    {
+      "id": 39,
+      "question": "The most preferred crystalloid for fluid resuscitation in shock is:",
+      "options": {
+        "A": "Normal saline",
+        "B": "Ringer's lactate",
+        "C": "5% dextrose",
+        "D": "Dextrose-normal saline"
+      },
+      "answer": "B",
+      "explanation": "Ringer is the most preferred crystalloid as it is more physiological, except for hypochloremic alkalosis and brain injury where normal saline is preferred.",
+      "chapter": "Chapter 40",
+      "topic": "Shock Management – Fluids",
+      "reference": "Ch 40, Section: Treatment – Choice of Fluids, Page 287"
+    },
+    {
+      "id": 40,
+      "question": "The vasopressor of choice for septicemic shock is:",
+      "options": {
+        "A": "Phenylephrine",
+        "B": "Ephedrine",
+        "C": "Norepinephrine (noradrenaline)",
+        "D": "Vasopressin"
+      },
+      "answer": "C",
+      "explanation": "Noradrenaline is the vasopressor of choice for septicemic shock. Phenylephrine is first-line for neurogenic shock and ephedrine is most preferred for spinal shock.",
+      "chapter": "Chapter 40",
+      "topic": "Shock Management – Drugs",
+      "reference": "Ch 40, Section: Treatment – Drugs, Page 287"
+    },
+    {
+      "id": 41,
+      "question": "Steroids are contraindicated in which type of shock?",
+      "options": {
+        "A": "Septicemic shock",
+        "B": "Hypovolemic shock",
+        "C": "Cardiogenic shock",
+        "D": "Neurogenic shock"
+      },
+      "answer": "C",
+      "explanation": "Steroids are contraindicated in cardiogenic shock as they can alter the healing process of myocardium. They are effective for septicemic shock refractory to fluids and vasopressors.",
+      "chapter": "Chapter 40",
+      "topic": "Shock Management – Drugs",
+      "reference": "Ch 40, Section: Treatment – Drugs, Page 287"
+    },
+    {
+      "id": 42,
+      "question": "The vein of choice for parenteral nutrition is:",
+      "options": {
+        "A": "Internal jugular vein",
+        "B": "Subclavian vein",
+        "C": "Femoral vein",
+        "D": "Antecubital vein"
+      },
+      "answer": "B",
+      "explanation": "Due to large diameter (and hence less chances of thrombophlebitis due to lipid emulsions), subclavian is the vein of choice for parenteral nutrition.",
+      "chapter": "Chapter 40",
+      "topic": "Nutritional Support",
+      "reference": "Ch 40, Section: Nutritional Support – Parenteral Route, Page 288"
+    },
+    {
+      "id": 43,
+      "question": "Out of total energy requirement, what percentage should be provided by carbohydrates?",
+      "options": {
+        "A": "40–50%",
+        "B": "50–60%",
+        "C": "60–70%",
+        "D": "70–80%"
+      },
+      "answer": "C",
+      "explanation": "Out of total energy required, 60–70% should be provided by carbohydrates (dextrose) and 30–40% by fats. Amino acids are given as supplement, never as a substrate for source of energy.",
+      "chapter": "Chapter 40",
+      "topic": "Nutritional Support",
+      "reference": "Ch 40, Section: Substrates for Providing Energy, Page 288"
+    },
+    {
+      "id": 44,
+      "question": "Sepsis is the leading cause of death in ICU. The most common cause of death in septicemia is:",
+      "options": {
+        "A": "Cardiogenic shock",
+        "B": "ARDS and renal failure",
+        "C": "Disseminated intravascular coagulation",
+        "D": "Hepatic failure"
+      },
+      "answer": "B",
+      "explanation": "ARDS and renal failure are the most common causes of death in septicemia.",
+      "chapter": "Chapter 40",
+      "topic": "Sepsis",
+      "reference": "Ch 40, Section: Sepsis, Page 290"
+    },
+    {
+      "id": 45,
+      "question": "Pulmonary edema develops when pulmonary artery occlusion pressure (left atrial pressure) rises to more than:",
+      "options": {
+        "A": "15 mm Hg",
+        "B": "18 mm Hg",
+        "C": "25 mm Hg",
+        "D": "35 mm Hg"
+      },
+      "answer": "C",
+      "explanation": "Cardiogenic pulmonary edema develops when pulmonary artery occlusion pressure (left atrial pressure) rises to more than 25 mm Hg (or 30 cm H₂O).",
+      "chapter": "Chapter 40",
+      "topic": "Pulmonary Edema",
+      "reference": "Ch 40, Section: Pulmonary Edema – Hemodynamic Type, Page 290"
+    },
+    {
+      "id": 46,
+      "question": "According to the Berlin definition, severe ARDS is defined as PaO₂/FiO₂:",
+      "options": {
+        "A": "≤300 mm Hg with PEEP ≥5 cm H₂O",
+        "B": "≤200 mm Hg with PEEP ≥5 cm H₂O",
+        "C": "≤100 mm Hg with PEEP ≥5 cm H₂O",
+        "D": "≤50 mm Hg with PEEP ≥10 cm H₂O"
+      },
+      "answer": "C",
+      "explanation": "Berlin definition classifies ARDS as: Mild (PaO₂/FiO₂ ≤300), Moderate (≤200), and Severe (≤100 mm Hg), all with PEEP or CPAP ≥5 cm H₂O.",
+      "chapter": "Chapter 40",
+      "topic": "ARDS",
+      "reference": "Ch 40, Section: ARDS – Berlin Definition, Page 291"
+    },
+    {
+      "id": 47,
+      "question": "The most common cause of ARDS is:",
+      "options": {
+        "A": "Polytrauma",
+        "B": "Pancreatitis",
+        "C": "Sepsis",
+        "D": "Aspiration of gastric contents"
+      },
+      "answer": "C",
+      "explanation": "Sepsis is the most common cause of ARDS.",
+      "chapter": "Chapter 40",
+      "topic": "ARDS",
+      "reference": "Ch 40, Section: Causes of ARDS, Page 291"
+    },
+    {
+      "id": 48,
+      "question": "Carbon monoxide poisoning is usually defined as carboxyhemoglobin greater than what percentage in blood?",
+      "options": {
+        "A": "10%",
+        "B": "15%",
+        "C": "20%",
+        "D": "30%"
+      },
+      "answer": "C",
+      "explanation": "Carbon monoxide poisoning is usually defined as carboxyhemoglobin >20% in blood. The affinity of CO to bind hemoglobin is 240 times that of oxygen.",
+      "chapter": "Chapter 40",
+      "topic": "Carbon Monoxide Poisoning",
+      "reference": "Ch 40, Section: Carbon Monoxide Poisoning, Page 292"
+    },
+    {
+      "id": 49,
+      "question": "The normal anion gap is:",
+      "options": {
+        "A": "4–8 mM/L",
+        "B": "8–16 mM/L",
+        "C": "16–24 mM/L",
+        "D": "24–32 mM/L"
+      },
+      "answer": "B",
+      "explanation": "Normal anion gap = 8–16 mM/L (average 12 mM/L). Anion gap = Sodium concentration – (chloride + bicarbonate concentration). It is mainly constituted by plasma albumin.",
+      "chapter": "Chapter 40",
+      "topic": "Acid-Base Management",
+      "reference": "Ch 40, Section: Anion Gap, Page 294"
+    },
+    {
+      "id": 50,
+      "question": "The most common cause of metabolic acidosis in anesthesia is:",
+      "options": {
+        "A": "Renal failure",
+        "B": "Diabetic ketoacidosis",
+        "C": "Lactic acidosis due to tissue hypoxia",
+        "D": "Diarrhea with bicarbonate loss"
+      },
+      "answer": "C",
+      "explanation": "Lactic acidosis is the most common cause of metabolic acidosis in anesthesia and is due to tissue hypoxia. It is associated with increased anion gap.",
+      "chapter": "Chapter 40",
+      "topic": "Acid-Base Management",
+      "reference": "Ch 40, Section: Metabolic Acidosis – Increased Anion Gap, Page 295"
+    }
+  ]
+}
