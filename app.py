@@ -199,7 +199,7 @@ def get_leaderboard():
             return []
         resp = (
             sb.table("quiz_results")
-            .select("name, score, max_score, percentage, time_taken_s, attempted_at")
+            .select("name, score, max_score, percentage, time_taken_s, attempted_at, answers, quiz_id")
             .order("percentage", desc=True)
             .order("time_taken_s", desc=False)
             .limit(20)
@@ -626,10 +626,92 @@ def page_leaderboard():
                 f"⏱ {fmt_time(row['time_taken_s'])} — 📅 {attempted}"
             )
 
+            # Expandable answer review for each attempt
+            raw_answers = row.get("answers")
+            if raw_answers:
+                attempt_answers = json.loads(raw_answers) if isinstance(raw_answers, str) else raw_answers
+
+                # Determine which question set this attempt used
+                attempt_quiz_id = row.get("quiz_id", "")
+                attempt_questions = _resolve_questions_for_attempt(attempt_quiz_id)
+
+                if attempt_questions:
+                    with st.expander(f"📖 Review {row['name']}'s answers", expanded=False):
+                        correct_count = 0
+                        incorrect_count = 0
+                        unanswered_count = 0
+
+                        for q in attempt_questions:
+                            qid = str(q["id"])
+                            user_ans = attempt_answers.get(qid)
+                            correct = q["answer"]
+
+                            if user_ans is None:
+                                unanswered_count += 1
+                                icon = "⬜"
+                            elif user_ans == correct:
+                                correct_count += 1
+                                icon = "✅"
+                            else:
+                                incorrect_count += 1
+                                icon = "❌"
+
+                            # Question header
+                            chapter_label = q.get("chapter", "")
+                            topic_label = q.get("topic", "")
+                            st.markdown(
+                                f"**{icon} Q{q['id']}. {q['question']}**  \n"
+                                f"<small style='color:#89b4fa;'>📚 {chapter_label} › {topic_label}</small>",
+                                unsafe_allow_html=True,
+                            )
+
+                            for k, v in q["options"].items():
+                                if k == correct and k == user_ans:
+                                    st.markdown(f"&nbsp;&nbsp;&nbsp;**✅ {k}. {v}** ← Your answer (Correct)")
+                                elif k == correct:
+                                    st.markdown(f"&nbsp;&nbsp;&nbsp;**✅ {k}. {v}** ← Correct answer")
+                                elif k == user_ans:
+                                    st.markdown(f"&nbsp;&nbsp;&nbsp;❌ ~~{k}. {v}~~ ← Your answer")
+                                else:
+                                    st.markdown(f"&nbsp;&nbsp;&nbsp;{k}. {v}")
+
+                            st.info(f"**Explanation:** {q['explanation']}")
+
+                            ref = q.get("reference", "")
+                            if ref:
+                                st.markdown(
+                                    f'<div class="ref-box">📖 <strong>Reference:</strong> {ref}<br>'
+                                    f'<em>Source: Short Textbook of Anesthesia – Ajay Yadav</em></div>',
+                                    unsafe_allow_html=True,
+                                )
+                            st.divider()
+
+                        # Summary at bottom
+                        st.markdown(
+                            f"**Summary:** ✅ {correct_count} Correct &nbsp;|&nbsp; "
+                            f"❌ {incorrect_count} Incorrect &nbsp;|&nbsp; "
+                            f"⬜ {unanswered_count} Unanswered"
+                        )
+
     st.divider()
     if st.button("◀ Back to Home"):
         st.session_state.page = "home"
         st.rerun()
+
+
+def _resolve_questions_for_attempt(quiz_id: str):
+    """Match a stored quiz_id to the correct question set."""
+    for key, info in QUIZ_CATALOG.items():
+        try:
+            qdata = load_questions(info["file"])
+            if qdata.get("title", "") == quiz_id:
+                return qdata["questions"]
+        except Exception:
+            continue
+    # Fallback: if active quiz is loaded, use that
+    if QUESTIONS:
+        return QUESTIONS
+    return []
 
 
 # ─── Router ───────────────────────────────────────────────────────────────────
