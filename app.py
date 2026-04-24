@@ -50,6 +50,18 @@ QUIZ_CATALOG = {
         "short": "CPR/CPCR (Ch 41)",
         "icon": "🫀",
     },
+    "cns": {
+        "file": "questions_cns.json",
+        "label": "Anesthesia for Central Nervous System Diseases",
+        "short": "CNS Diseases",
+        "icon": "🧠",
+    },
+    "hepatic": {
+        "file": "questions_hepatic.json",
+        "label": "Anesthesia for Hepatic Disease",
+        "short": "Hepatic Disease",
+        "icon": "🫁",
+    },
 }
 
 # ─── Load Questions ──────────────────────────────────────────────────────────
@@ -170,45 +182,67 @@ def compute_score():
             score += 1
     return score
 
-def save_result_to_supabase(name: str, score: int, time_taken: int, answers: dict):
+LOCAL_RESULTS_FILE = os.path.join(os.path.dirname(__file__), "quiz_results.json")
+
+def _load_local_results():
+    if os.path.exists(LOCAL_RESULTS_FILE):
+        try:
+            with open(LOCAL_RESULTS_FILE, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except Exception:
+            return []
+    return []
+
+def _save_local_results(results):
+    with open(LOCAL_RESULTS_FILE, "w", encoding="utf-8") as f:
+        json.dump(results, f, indent=2, ensure_ascii=False)
+
+def save_result(name: str, score: int, time_taken: int, answers: dict):
+    payload = {
+        "name":         name,
+        "score":        score,
+        "max_score":    TOTAL_Q,
+        "percentage":   round(score / TOTAL_Q * 100, 1),
+        "time_taken_s": time_taken,
+        "time_limit_s": TIME_LIMIT,
+        "answers":      json.dumps(answers),
+        "quiz_id":      quiz_data.get("title", active_quiz_key or "unknown") if quiz_data else "unknown",
+        "attempted_at": datetime.now(timezone.utc).isoformat(),
+    }
+    # Save to Supabase if available
     try:
         sb = get_supabase()
-        if sb is None:
-            return False
-        payload = {
-            "name":         name,
-            "score":        score,
-            "max_score":    TOTAL_Q,
-            "percentage":   round(score / TOTAL_Q * 100, 1),
-            "time_taken_s": time_taken,
-            "time_limit_s": TIME_LIMIT,
-            "answers":      json.dumps(answers),
-            "quiz_id":      quiz_data.get("title", active_quiz_key or "unknown") if quiz_data else "unknown",
-            "attempted_at": datetime.now(timezone.utc).isoformat(),
-        }
-        sb.table("quiz_results").insert(payload).execute()
-        return True
-    except Exception as e:
-        st.warning(f"Result saved locally only (DB error: {e})")
-        return False
+        if sb is not None:
+            sb.table("quiz_results").insert(payload).execute()
+    except Exception:
+        pass
+    # Always save locally
+    results = _load_local_results()
+    results.append(payload)
+    _save_local_results(results)
+    return True
 
 def get_leaderboard():
+    # Try Supabase first
     try:
         sb = get_supabase()
-        if sb is None:
-            return []
-        resp = (
-            sb.table("quiz_results")
-            .select("name, score, max_score, percentage, time_taken_s, attempted_at, answers, quiz_id")
-            .order("percentage", desc=True)
-            .order("time_taken_s", desc=False)
-            .limit(20)
-            .execute()
-        )
-        return resp.data
-    except Exception as e:
-        st.error(f"Could not load leaderboard: {e}")
-        return []
+        if sb is not None:
+            resp = (
+                sb.table("quiz_results")
+                .select("name, score, max_score, percentage, time_taken_s, attempted_at, answers, quiz_id")
+                .order("percentage", desc=True)
+                .order("time_taken_s", desc=False)
+                .limit(20)
+                .execute()
+            )
+            if resp.data:
+                return resp.data
+    except Exception:
+        pass
+    # Fallback to local results
+    results = _load_local_results()
+    results.sort(key=lambda r: (-r.get("percentage", 0), r.get("time_taken_s", 9999)))
+    return results[:20]
 
 # ════════════════════════════════════════════════════════════════════════════
 #  PAGES
@@ -306,7 +340,7 @@ def page_quiz():
         st.session_state.submitted = True
         st.session_state.score      = compute_score()
         st.session_state.time_taken = TIME_LIMIT
-        save_result_to_supabase(
+        save_result(
             st.session_state.name,
             st.session_state.score,
             st.session_state.time_taken,
@@ -415,7 +449,7 @@ def _do_submit():
     st.session_state.submitted  = True
     st.session_state.score      = compute_score()
     st.session_state.time_taken = elapsed()
-    save_result_to_supabase(
+    save_result(
         st.session_state.name,
         st.session_state.score,
         st.session_state.time_taken,

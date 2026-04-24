@@ -1,0 +1,759 @@
+{
+  "title": "Anesthesia for Central Nervous System Diseases – MCQ",
+  "source": "Short Textbook of Anesthesia – Ajay Yadav",
+  "section": "Anesthesia for Central Nervous System Diseases",
+  "total_questions": 50,
+  "time_limit_minutes": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the normal intracranial pressure (ICP) in a supine adult?",
+      "options": {
+        "A": "0–5 mmHg",
+        "B": "5–15 mmHg",
+        "C": "15–25 mmHg",
+        "D": "25–35 mmHg"
+      },
+      "answer": "B",
+      "explanation": "Normal ICP in a supine adult ranges from 5–15 mmHg. Values above 20 mmHg are considered raised and require treatment.",
+      "chapter": "CNS Diseases",
+      "topic": "Intracranial Pressure",
+      "reference": "Anesthesia for CNS Diseases, Section: Normal ICP"
+    },
+    {
+      "id": 2,
+      "question": "The Monro-Kellie doctrine states that the cranial vault contains three components. Which of the following is NOT one of them?",
+      "options": {
+        "A": "Brain parenchyma (80%)",
+        "B": "Cerebrospinal fluid (10%)",
+        "C": "Blood (10%)",
+        "D": "Bone marrow (10%)"
+      },
+      "answer": "D",
+      "explanation": "The Monro-Kellie doctrine states the skull contains brain tissue (~80%), CSF (~10%), and blood (~10%). An increase in any one must be compensated by a decrease in another.",
+      "chapter": "CNS Diseases",
+      "topic": "Monro-Kellie Doctrine",
+      "reference": "Anesthesia for CNS Diseases, Section: Intracranial Dynamics"
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is the most important determinant of cerebral blood flow (CBF)?",
+      "options": {
+        "A": "PaO2",
+        "B": "PaCO2",
+        "C": "Mean arterial pressure",
+        "D": "Central venous pressure"
+      },
+      "answer": "B",
+      "explanation": "PaCO2 is the most potent physiological regulator of CBF. For every 1 mmHg change in PaCO2, CBF changes by approximately 1–2 mL/100g/min.",
+      "chapter": "CNS Diseases",
+      "topic": "Cerebral Blood Flow",
+      "reference": "Anesthesia for CNS Diseases, Section: Cerebral Blood Flow Regulation"
+    },
+    {
+      "id": 4,
+      "question": "Normal cerebral blood flow (CBF) in an adult is approximately:",
+      "options": {
+        "A": "25 mL/100g/min",
+        "B": "50 mL/100g/min",
+        "C": "75 mL/100g/min",
+        "D": "100 mL/100g/min"
+      },
+      "answer": "B",
+      "explanation": "Normal CBF is approximately 50 mL/100g/min, with grey matter receiving 80 mL/100g/min and white matter 20 mL/100g/min.",
+      "chapter": "CNS Diseases",
+      "topic": "Cerebral Blood Flow",
+      "reference": "Anesthesia for CNS Diseases, Section: CBF Values"
+    },
+    {
+      "id": 5,
+      "question": "Cerebral autoregulation maintains constant CBF over a MAP range of:",
+      "options": {
+        "A": "30–80 mmHg",
+        "B": "50–150 mmHg",
+        "C": "70–170 mmHg",
+        "D": "90–200 mmHg"
+      },
+      "answer": "B",
+      "explanation": "Cerebral autoregulation operates between MAP of 50–150 mmHg. Below 50 mmHg, ischemia occurs; above 150 mmHg, breakthrough edema may result.",
+      "chapter": "CNS Diseases",
+      "topic": "Cerebral Autoregulation",
+      "reference": "Anesthesia for CNS Diseases, Section: Autoregulation"
+    },
+    {
+      "id": 6,
+      "question": "At what PaO2 level does significant cerebral vasodilation begin?",
+      "options": {
+        "A": "Below 100 mmHg",
+        "B": "Below 80 mmHg",
+        "C": "Below 60 mmHg",
+        "D": "Below 40 mmHg"
+      },
+      "answer": "C",
+      "explanation": "Significant cerebral vasodilation occurs when PaO2 falls below 60 mmHg. Above this threshold, oxygen has minimal effect on CBF.",
+      "chapter": "CNS Diseases",
+      "topic": "Cerebral Blood Flow",
+      "reference": "Anesthesia for CNS Diseases, Section: Effect of PaO2 on CBF"
+    },
+    {
+      "id": 7,
+      "question": "Which intravenous anesthetic agent causes the GREATEST reduction in cerebral metabolic rate (CMRO2)?",
+      "options": {
+        "A": "Ketamine",
+        "B": "Thiopentone",
+        "C": "Midazolam",
+        "D": "Fentanyl"
+      },
+      "answer": "B",
+      "explanation": "Thiopentone (and other barbiturates) produce the greatest reduction in CMRO2, up to 55–60% reduction. They are used for cerebral protection ('barbiturate coma').",
+      "chapter": "CNS Diseases",
+      "topic": "Effects of IV Agents on CBF",
+      "reference": "Anesthesia for CNS Diseases, Section: IV Anesthetics and CMRO2"
+    },
+    {
+      "id": 8,
+      "question": "Which intravenous anesthetic agent INCREASES cerebral blood flow and ICP?",
+      "options": {
+        "A": "Propofol",
+        "B": "Etomidate",
+        "C": "Ketamine",
+        "D": "Thiopentone"
+      },
+      "answer": "C",
+      "explanation": "Ketamine increases CMRO2, CBF, and ICP. It is generally avoided in patients with raised intracranial pressure.",
+      "chapter": "CNS Diseases",
+      "topic": "Effects of IV Agents on CBF",
+      "reference": "Anesthesia for CNS Diseases, Section: Ketamine and ICP"
+    },
+    {
+      "id": 9,
+      "question": "Among volatile anesthetic agents, which causes the LEAST increase in ICP?",
+      "options": {
+        "A": "Halothane",
+        "B": "Isoflurane",
+        "C": "Sevoflurane",
+        "D": "Desflurane"
+      },
+      "answer": "C",
+      "explanation": "Sevoflurane causes the least cerebral vasodilation among volatile agents and has minimal effect on ICP at concentrations <1 MAC. Halothane causes the most increase in ICP.",
+      "chapter": "CNS Diseases",
+      "topic": "Volatile Agents and ICP",
+      "reference": "Anesthesia for CNS Diseases, Section: Inhalational Agents"
+    },
+    {
+      "id": 10,
+      "question": "The cerebral perfusion pressure (CPP) is calculated as:",
+      "options": {
+        "A": "MAP – CVP",
+        "B": "MAP – ICP",
+        "C": "Systolic BP – ICP",
+        "D": "Diastolic BP – CVP"
+      },
+      "answer": "B",
+      "explanation": "CPP = MAP – ICP. Normal CPP is 70–80 mmHg. CPP below 50 mmHg may lead to cerebral ischemia.",
+      "chapter": "CNS Diseases",
+      "topic": "Cerebral Perfusion Pressure",
+      "reference": "Anesthesia for CNS Diseases, Section: CPP"
+    },
+    {
+      "id": 11,
+      "question": "What is the minimum acceptable CPP to avoid cerebral ischemia?",
+      "options": {
+        "A": "30 mmHg",
+        "B": "50 mmHg",
+        "C": "70 mmHg",
+        "D": "90 mmHg"
+      },
+      "answer": "B",
+      "explanation": "CPP should be maintained above 50–60 mmHg to prevent cerebral ischemia. Below 50 mmHg, ischemic changes begin to occur.",
+      "chapter": "CNS Diseases",
+      "topic": "Cerebral Perfusion Pressure",
+      "reference": "Anesthesia for CNS Diseases, Section: CPP Thresholds"
+    },
+    {
+      "id": 12,
+      "question": "The most effective method to rapidly reduce raised ICP during neurosurgery is:",
+      "options": {
+        "A": "Mannitol infusion",
+        "B": "Hyperventilation",
+        "C": "Dexamethasone",
+        "D": "CSF drainage"
+      },
+      "answer": "B",
+      "explanation": "Hyperventilation (reducing PaCO2 to 30–35 mmHg) causes cerebral vasoconstriction and is the fastest method to reduce ICP. However, its effect is transient (6–12 hours).",
+      "chapter": "CNS Diseases",
+      "topic": "ICP Reduction",
+      "reference": "Anesthesia for CNS Diseases, Section: Management of Raised ICP"
+    },
+    {
+      "id": 13,
+      "question": "The target PaCO2 during hyperventilation for ICP control is:",
+      "options": {
+        "A": "20–25 mmHg",
+        "B": "25–30 mmHg",
+        "C": "30–35 mmHg",
+        "D": "40–45 mmHg"
+      },
+      "answer": "C",
+      "explanation": "Target PaCO2 of 30–35 mmHg is recommended. Excessive hyperventilation (PaCO2 <25 mmHg) can cause cerebral ischemia due to excessive vasoconstriction.",
+      "chapter": "CNS Diseases",
+      "topic": "Hyperventilation",
+      "reference": "Anesthesia for CNS Diseases, Section: Hyperventilation Guidelines"
+    },
+    {
+      "id": 14,
+      "question": "What is the dose of mannitol used for ICP reduction?",
+      "options": {
+        "A": "0.1–0.25 g/kg",
+        "B": "0.25–1 g/kg",
+        "C": "1–2 g/kg",
+        "D": "2–4 g/kg"
+      },
+      "answer": "B",
+      "explanation": "Mannitol is administered at 0.25–1 g/kg IV over 15–20 minutes. It acts as an osmotic diuretic, drawing water from brain tissue into the intravascular space.",
+      "chapter": "CNS Diseases",
+      "topic": "Osmotic Therapy",
+      "reference": "Anesthesia for CNS Diseases, Section: Mannitol"
+    },
+    {
+      "id": 15,
+      "question": "Which muscle relaxant is CONTRAINDICATED in patients with raised ICP?",
+      "options": {
+        "A": "Vecuronium",
+        "B": "Rocuronium",
+        "C": "Succinylcholine",
+        "D": "Atracurium"
+      },
+      "answer": "C",
+      "explanation": "Succinylcholine can transiently increase ICP due to muscle fasciculations and its effect on cerebral vasculature. However, it may still be used for rapid sequence intubation when the benefit outweighs the risk.",
+      "chapter": "CNS Diseases",
+      "topic": "Muscle Relaxants in Neurosurgery",
+      "reference": "Anesthesia for CNS Diseases, Section: Neuromuscular Blockers"
+    },
+    {
+      "id": 16,
+      "question": "The preferred induction agent for neurosurgical patients is:",
+      "options": {
+        "A": "Ketamine",
+        "B": "Propofol",
+        "C": "Midazolam",
+        "D": "Etomidate"
+      },
+      "answer": "B",
+      "explanation": "Propofol is preferred because it reduces CMRO2, CBF, and ICP while maintaining cerebral autoregulation. It also provides smooth induction and rapid recovery.",
+      "chapter": "CNS Diseases",
+      "topic": "Induction in Neurosurgery",
+      "reference": "Anesthesia for CNS Diseases, Section: Induction Agents"
+    },
+    {
+      "id": 17,
+      "question": "During craniotomy in the sitting position, the most feared complication is:",
+      "options": {
+        "A": "Postural hypotension",
+        "B": "Venous air embolism",
+        "C": "Pneumocephalus",
+        "D": "Brachial plexus injury"
+      },
+      "answer": "B",
+      "explanation": "Venous air embolism (VAE) is the most dangerous complication of sitting position craniotomy. Incidence can be as high as 25–50%. Air enters through open dural venous sinuses.",
+      "chapter": "CNS Diseases",
+      "topic": "Sitting Position Craniotomy",
+      "reference": "Anesthesia for CNS Diseases, Section: Complications of Sitting Position"
+    },
+    {
+      "id": 18,
+      "question": "The most sensitive monitor for detecting venous air embolism is:",
+      "options": {
+        "A": "Precordial Doppler",
+        "B": "Transesophageal echocardiography (TEE)",
+        "C": "End-tidal CO2",
+        "D": "Pulmonary artery catheter"
+      },
+      "answer": "B",
+      "explanation": "TEE is the most sensitive monitor for VAE, detecting as little as 0.02 mL/kg of air. Precordial Doppler is the most sensitive non-invasive monitor.",
+      "chapter": "CNS Diseases",
+      "topic": "Venous Air Embolism Detection",
+      "reference": "Anesthesia for CNS Diseases, Section: VAE Monitoring"
+    },
+    {
+      "id": 19,
+      "question": "The most sensitive NON-INVASIVE monitor for venous air embolism is:",
+      "options": {
+        "A": "End-tidal CO2",
+        "B": "Precordial Doppler",
+        "C": "Pulse oximetry",
+        "D": "ECG"
+      },
+      "answer": "B",
+      "explanation": "Precordial Doppler is the most sensitive non-invasive monitor for VAE, capable of detecting 0.05 mL/kg of air. It produces a characteristic 'mill-wheel' murmur.",
+      "chapter": "CNS Diseases",
+      "topic": "Venous Air Embolism Detection",
+      "reference": "Anesthesia for CNS Diseases, Section: VAE Monitoring"
+    },
+    {
+      "id": 20,
+      "question": "In the event of venous air embolism, the IMMEDIATE first step is:",
+      "options": {
+        "A": "Place patient in left lateral decubitus position",
+        "B": "Flood the surgical field with saline and cover with wet gauze",
+        "C": "Aspirate air through central venous catheter",
+        "D": "Start CPR"
+      },
+      "answer": "B",
+      "explanation": "The immediate step is to inform the surgeon to flood the field with saline and apply bone wax to stop further air entry. Other measures follow: discontinue N2O, aspirate air via CVP, and left lateral/Trendelenburg position if hemodynamically unstable.",
+      "chapter": "CNS Diseases",
+      "topic": "Venous Air Embolism Management",
+      "reference": "Anesthesia for CNS Diseases, Section: VAE Treatment"
+    },
+    {
+      "id": 21,
+      "question": "Why should nitrous oxide (N2O) be avoided or discontinued during venous air embolism?",
+      "options": {
+        "A": "It increases CMRO2",
+        "B": "It expands the air bubble (34 times more soluble than nitrogen)",
+        "C": "It causes bronchospasm",
+        "D": "It reduces cardiac output"
+      },
+      "answer": "B",
+      "explanation": "N2O is 34 times more soluble in blood than nitrogen. It rapidly diffuses into air bubbles, expanding them and worsening the hemodynamic effects of air embolism.",
+      "chapter": "CNS Diseases",
+      "topic": "Venous Air Embolism",
+      "reference": "Anesthesia for CNS Diseases, Section: N2O in VAE"
+    },
+    {
+      "id": 22,
+      "question": "Glasgow Coma Scale (GCS) score ranges from:",
+      "options": {
+        "A": "0 to 15",
+        "B": "1 to 15",
+        "C": "3 to 15",
+        "D": "3 to 12"
+      },
+      "answer": "C",
+      "explanation": "GCS ranges from 3 (deep coma) to 15 (fully conscious). It assesses Eye opening (1–4), Verbal response (1–5), and Motor response (1–6).",
+      "chapter": "CNS Diseases",
+      "topic": "Glasgow Coma Scale",
+      "reference": "Anesthesia for CNS Diseases, Section: GCS"
+    },
+    {
+      "id": 23,
+      "question": "A GCS score of 8 or below indicates:",
+      "options": {
+        "A": "Mild head injury",
+        "B": "Moderate head injury",
+        "C": "Severe head injury requiring intubation",
+        "D": "Brain death"
+      },
+      "answer": "C",
+      "explanation": "GCS ≤8 = severe head injury and is an indication for endotracheal intubation to protect the airway. GCS 9–12 = moderate, GCS 13–15 = mild.",
+      "chapter": "CNS Diseases",
+      "topic": "Head Injury Classification",
+      "reference": "Anesthesia for CNS Diseases, Section: GCS Classification"
+    },
+    {
+      "id": 24,
+      "question": "Which IV fluid is preferred in neurosurgical patients?",
+      "options": {
+        "A": "5% Dextrose",
+        "B": "Dextrose Normal Saline",
+        "C": "Normal Saline (0.9% NaCl)",
+        "D": "Ringer Lactate"
+      },
+      "answer": "C",
+      "explanation": "Normal saline (0.9% NaCl, 308 mOsm/L) is the preferred fluid because it is slightly hyperosmolar and does not worsen cerebral edema. Glucose-containing fluids are avoided as hyperglycemia worsens ischemic brain injury.",
+      "chapter": "CNS Diseases",
+      "topic": "Fluid Management in Neurosurgery",
+      "reference": "Anesthesia for CNS Diseases, Section: IV Fluids"
+    },
+    {
+      "id": 25,
+      "question": "Why are glucose-containing IV fluids AVOIDED in neurosurgical patients?",
+      "options": {
+        "A": "They cause hyponatremia",
+        "B": "Hyperglycemia worsens ischemic neurological injury",
+        "C": "They increase blood viscosity",
+        "D": "They cause osmotic diuresis"
+      },
+      "answer": "B",
+      "explanation": "Hyperglycemia promotes anaerobic glycolysis in ischemic brain tissue, leading to lactic acidosis and worsening neuronal injury. Blood glucose should be maintained below 180 mg/dL.",
+      "chapter": "CNS Diseases",
+      "topic": "Fluid Management in Neurosurgery",
+      "reference": "Anesthesia for CNS Diseases, Section: Glucose and Brain Injury"
+    },
+    {
+      "id": 26,
+      "question": "The brain receives what percentage of cardiac output?",
+      "options": {
+        "A": "5%",
+        "B": "10%",
+        "C": "15%",
+        "D": "20%"
+      },
+      "answer": "C",
+      "explanation": "The brain receives approximately 15% of cardiac output (about 750 mL/min) despite constituting only 2% of body weight. It consumes approximately 20% of total body oxygen.",
+      "chapter": "CNS Diseases",
+      "topic": "Cerebral Physiology",
+      "reference": "Anesthesia for CNS Diseases, Section: Cerebral Blood Supply"
+    },
+    {
+      "id": 27,
+      "question": "Cerebral metabolic rate of oxygen (CMRO2) in an adult is approximately:",
+      "options": {
+        "A": "1.5 mL/100g/min",
+        "B": "3.5 mL/100g/min",
+        "C": "5.5 mL/100g/min",
+        "D": "7.5 mL/100g/min"
+      },
+      "answer": "B",
+      "explanation": "Normal CMRO2 is approximately 3.5 mL/100g/min. The ratio of CBF to CMRO2 (flow-metabolism coupling) is normally maintained at approximately 14:1.",
+      "chapter": "CNS Diseases",
+      "topic": "Cerebral Metabolism",
+      "reference": "Anesthesia for CNS Diseases, Section: CMRO2"
+    },
+    {
+      "id": 28,
+      "question": "Which of the following is the BEST position for a patient with raised ICP?",
+      "options": {
+        "A": "Supine flat",
+        "B": "Trendelenburg (head down)",
+        "C": "Head elevated 15–30 degrees",
+        "D": "Left lateral decubitus"
+      },
+      "answer": "C",
+      "explanation": "Head-up position (15–30°) promotes venous drainage from the brain, reducing ICP. The head should be kept midline to avoid jugular venous compression.",
+      "chapter": "CNS Diseases",
+      "topic": "ICP Management",
+      "reference": "Anesthesia for CNS Diseases, Section: Positioning"
+    },
+    {
+      "id": 29,
+      "question": "Cushing's triad (sign of severely raised ICP) consists of:",
+      "options": {
+        "A": "Hypertension, bradycardia, irregular respiration",
+        "B": "Hypotension, tachycardia, apnea",
+        "C": "Hypertension, tachycardia, Cheyne-Stokes breathing",
+        "D": "Hypotension, bradycardia, tachypnea"
+      },
+      "answer": "A",
+      "explanation": "Cushing's triad consists of systemic hypertension, reflex bradycardia, and irregular (often slow) respiration. It is a late and ominous sign of brainstem compression.",
+      "chapter": "CNS Diseases",
+      "topic": "Raised ICP Signs",
+      "reference": "Anesthesia for CNS Diseases, Section: Cushing's Response"
+    },
+    {
+      "id": 30,
+      "question": "Which volatile agent is most commonly used for maintenance of anesthesia in neurosurgery?",
+      "options": {
+        "A": "Halothane",
+        "B": "Isoflurane",
+        "C": "Sevoflurane",
+        "D": "Desflurane"
+      },
+      "answer": "C",
+      "explanation": "Sevoflurane is preferred because it has minimal effect on ICP at <1 MAC, preserves cerebral autoregulation better than other agents, and allows smooth induction and rapid emergence for neurological assessment.",
+      "chapter": "CNS Diseases",
+      "topic": "Maintenance of Anesthesia",
+      "reference": "Anesthesia for CNS Diseases, Section: Inhalational Agent Selection"
+    },
+    {
+      "id": 31,
+      "question": "In a patient with supratentorial tumor, the MOST common presenting symptom is:",
+      "options": {
+        "A": "Seizures",
+        "B": "Headache",
+        "C": "Focal neurological deficit",
+        "D": "Vomiting"
+      },
+      "answer": "B",
+      "explanation": "Headache (often morning headache that improves on standing) is the most common presenting symptom of supratentorial tumors, caused by raised ICP. Seizures are the second most common.",
+      "chapter": "CNS Diseases",
+      "topic": "Supratentorial Tumors",
+      "reference": "Anesthesia for CNS Diseases, Section: Clinical Features"
+    },
+    {
+      "id": 32,
+      "question": "Posterior fossa tumors are most commonly associated with which sign?",
+      "options": {
+        "A": "Seizures",
+        "B": "Hemiparesis",
+        "C": "Cerebellar signs and raised ICP (hydrocephalus)",
+        "D": "Aphasia"
+      },
+      "answer": "C",
+      "explanation": "Posterior fossa tumors commonly present with cerebellar signs (ataxia, nystagmus, dysmetria) and raised ICP due to obstructive hydrocephalus from compression of the 4th ventricle.",
+      "chapter": "CNS Diseases",
+      "topic": "Posterior Fossa Tumors",
+      "reference": "Anesthesia for CNS Diseases, Section: Posterior Fossa Surgery"
+    },
+    {
+      "id": 33,
+      "question": "During posterior fossa surgery, stimulation of which cranial nerve can cause sudden bradycardia?",
+      "options": {
+        "A": "Trigeminal (V)",
+        "B": "Facial (VII)",
+        "C": "Vagus (X)",
+        "D": "Glossopharyngeal (IX)"
+      },
+      "answer": "C",
+      "explanation": "Surgical stimulation near the vagus nerve (CN X) or its nuclei in the floor of the 4th ventricle can cause sudden profound bradycardia or even asystole. Atropine should be readily available.",
+      "chapter": "CNS Diseases",
+      "topic": "Posterior Fossa Surgery Complications",
+      "reference": "Anesthesia for CNS Diseases, Section: Cranial Nerve Stimulation"
+    },
+    {
+      "id": 34,
+      "question": "Hypertonic saline used for ICP reduction is available in which concentration?",
+      "options": {
+        "A": "1.8%",
+        "B": "3%",
+        "C": "7.5%",
+        "D": "All of the above"
+      },
+      "answer": "D",
+      "explanation": "Hypertonic saline is available in various concentrations (1.8%, 3%, 7.5%, 23.4%). It is an alternative to mannitol for osmotic therapy in ICP reduction, especially in hypovolemic patients.",
+      "chapter": "CNS Diseases",
+      "topic": "Osmotic Therapy",
+      "reference": "Anesthesia for CNS Diseases, Section: Hypertonic Saline"
+    },
+    {
+      "id": 35,
+      "question": "The advantage of hypertonic saline over mannitol for ICP reduction is:",
+      "options": {
+        "A": "It does not cause rebound increase in ICP",
+        "B": "It expands intravascular volume",
+        "C": "It does not cause electrolyte imbalance",
+        "D": "Both A and B"
+      },
+      "answer": "D",
+      "explanation": "Unlike mannitol, hypertonic saline does not cause osmotic diuresis (so no hypovolemia) and has less rebound ICP elevation. It also augments intravascular volume, which is beneficial in trauma patients.",
+      "chapter": "CNS Diseases",
+      "topic": "Osmotic Therapy",
+      "reference": "Anesthesia for CNS Diseases, Section: Hypertonic Saline vs Mannitol"
+    },
+    {
+      "id": 36,
+      "question": "Diabetes insipidus (DI) after pituitary surgery is characterized by:",
+      "options": {
+        "A": "Low urine output, high urine specific gravity",
+        "B": "High urine output, low urine specific gravity (<1.005)",
+        "C": "Low urine output, low urine specific gravity",
+        "D": "Normal urine output, high serum sodium"
+      },
+      "answer": "B",
+      "explanation": "Central DI presents with polyuria (urine output >250 mL/hr), dilute urine (specific gravity <1.005, osmolality <200 mOsm/kg), and rising serum sodium (hypernatremia). It results from ADH deficiency.",
+      "chapter": "CNS Diseases",
+      "topic": "Pituitary Surgery Complications",
+      "reference": "Anesthesia for CNS Diseases, Section: Diabetes Insipidus"
+    },
+    {
+      "id": 37,
+      "question": "The treatment of central diabetes insipidus after pituitary surgery is:",
+      "options": {
+        "A": "Fluid restriction",
+        "B": "Desmopressin (DDAVP)",
+        "C": "Frusemide",
+        "D": "Hydrocortisone"
+      },
+      "answer": "B",
+      "explanation": "Desmopressin (DDAVP), a synthetic ADH analog, is the treatment of choice for central DI. It can be given intranasally (10–40 mcg), IV, or subcutaneously (1–4 mcg).",
+      "chapter": "CNS Diseases",
+      "topic": "Pituitary Surgery Complications",
+      "reference": "Anesthesia for CNS Diseases, Section: DI Treatment"
+    },
+    {
+      "id": 38,
+      "question": "Aneurysmal subarachnoid hemorrhage (SAH) is most commonly graded using which scale?",
+      "options": {
+        "A": "Glasgow Coma Scale",
+        "B": "Hunt and Hess scale",
+        "C": "Rankin scale",
+        "D": "APACHE score"
+      },
+      "answer": "B",
+      "explanation": "The Hunt and Hess scale (Grades I–V) is the most commonly used clinical grading system for SAH severity, correlating with surgical risk and prognosis.",
+      "chapter": "CNS Diseases",
+      "topic": "Subarachnoid Hemorrhage",
+      "reference": "Anesthesia for CNS Diseases, Section: SAH Grading"
+    },
+    {
+      "id": 39,
+      "question": "The most serious complication of aneurysmal SAH that occurs between days 4–14 is:",
+      "options": {
+        "A": "Rebleeding",
+        "B": "Cerebral vasospasm",
+        "C": "Hydrocephalus",
+        "D": "Seizures"
+      },
+      "answer": "B",
+      "explanation": "Cerebral vasospasm is the most serious delayed complication of SAH, peaking between days 4–14. It can lead to delayed ischemic neurological deficit (DIND) and infarction.",
+      "chapter": "CNS Diseases",
+      "topic": "Subarachnoid Hemorrhage",
+      "reference": "Anesthesia for CNS Diseases, Section: Vasospasm"
+    },
+    {
+      "id": 40,
+      "question": "Triple-H therapy for cerebral vasospasm after SAH includes all EXCEPT:",
+      "options": {
+        "A": "Hypertension",
+        "B": "Hypervolemia",
+        "C": "Hemodilution",
+        "D": "Hypothermia"
+      },
+      "answer": "D",
+      "explanation": "Triple-H therapy = Hypertension + Hypervolemia + Hemodilution. It aims to increase CBF through the vasospastic vessels. Hypothermia is not part of triple-H therapy.",
+      "chapter": "CNS Diseases",
+      "topic": "Vasospasm Treatment",
+      "reference": "Anesthesia for CNS Diseases, Section: Triple-H Therapy"
+    },
+    {
+      "id": 41,
+      "question": "Nimodipine is given after SAH because it:",
+      "options": {
+        "A": "Reduces systemic blood pressure",
+        "B": "Prevents cerebral vasospasm and improves neurological outcome",
+        "C": "Prevents rebleeding",
+        "D": "Reduces ICP"
+      },
+      "answer": "B",
+      "explanation": "Nimodipine (a calcium channel blocker with cerebral selectivity) is given for 21 days after SAH. It has been shown to reduce the incidence of ischemic deficits and improve outcomes, though it may not prevent angiographic vasospasm.",
+      "chapter": "CNS Diseases",
+      "topic": "Subarachnoid Hemorrhage",
+      "reference": "Anesthesia for CNS Diseases, Section: Nimodipine"
+    },
+    {
+      "id": 42,
+      "question": "During aneurysm clipping, temporary clipping of the parent vessel is used for. What neuroprotective agent may be administered?",
+      "options": {
+        "A": "Mannitol",
+        "B": "Thiopentone (burst suppression)",
+        "C": "Dexamethasone",
+        "D": "Nimodipine"
+      },
+      "answer": "B",
+      "explanation": "Thiopentone is administered to achieve burst suppression on EEG during temporary clipping, providing cerebral protection by reducing CMRO2 during the period of focal ischemia.",
+      "chapter": "CNS Diseases",
+      "topic": "Aneurysm Surgery",
+      "reference": "Anesthesia for CNS Diseases, Section: Cerebral Protection"
+    },
+    {
+      "id": 43,
+      "question": "In traumatic brain injury (TBI), secondary brain injury is caused by all EXCEPT:",
+      "options": {
+        "A": "Hypotension",
+        "B": "Hypoxia",
+        "C": "The initial mechanical impact",
+        "D": "Hyperglycemia"
+      },
+      "answer": "C",
+      "explanation": "The initial mechanical impact causes PRIMARY brain injury. Secondary brain injury is caused by systemic insults like hypotension (most detrimental), hypoxia, hypercarbia, hyperglycemia, hyperthermia, and seizures.",
+      "chapter": "CNS Diseases",
+      "topic": "Traumatic Brain Injury",
+      "reference": "Anesthesia for CNS Diseases, Section: Primary vs Secondary Brain Injury"
+    },
+    {
+      "id": 44,
+      "question": "The SINGLE most detrimental systemic insult in traumatic brain injury is:",
+      "options": {
+        "A": "Hypoxia",
+        "B": "Hypotension",
+        "C": "Hyperglycemia",
+        "D": "Hyperthermia"
+      },
+      "answer": "B",
+      "explanation": "Hypotension (SBP <90 mmHg) is the single most detrimental secondary insult in TBI, doubling mortality. Even a single episode of hypotension significantly worsens outcome.",
+      "chapter": "CNS Diseases",
+      "topic": "Traumatic Brain Injury",
+      "reference": "Anesthesia for CNS Diseases, Section: Secondary Insults in TBI"
+    },
+    {
+      "id": 45,
+      "question": "Awake craniotomy is indicated for surgery near:",
+      "options": {
+        "A": "Posterior fossa structures",
+        "B": "Eloquent cortex (speech and motor areas)",
+        "C": "Pituitary tumors",
+        "D": "Cerebellopontine angle tumors"
+      },
+      "answer": "B",
+      "explanation": "Awake craniotomy allows intraoperative cortical mapping of eloquent areas (speech, motor, sensory cortex) to maximize tumor resection while preserving neurological function.",
+      "chapter": "CNS Diseases",
+      "topic": "Awake Craniotomy",
+      "reference": "Anesthesia for CNS Diseases, Section: Awake Craniotomy Indications"
+    },
+    {
+      "id": 46,
+      "question": "Lumbar CSF drain placement is contraindicated in:",
+      "options": {
+        "A": "Supratentorial tumors with midline shift",
+        "B": "Normal pressure hydrocephalus",
+        "C": "Aortic surgery (spinal cord protection)",
+        "D": "Pseudotumor cerebri"
+      },
+      "answer": "A",
+      "explanation": "Lumbar CSF drainage is contraindicated when there is supratentorial mass with midline shift, as sudden CSF removal from below can cause transtentorial (uncal) herniation.",
+      "chapter": "CNS Diseases",
+      "topic": "CSF Drainage",
+      "reference": "Anesthesia for CNS Diseases, Section: CSF Drainage Contraindications"
+    },
+    {
+      "id": 47,
+      "question": "Propofol infusion syndrome is characterized by all EXCEPT:",
+      "options": {
+        "A": "Metabolic acidosis",
+        "B": "Rhabdomyolysis",
+        "C": "Cardiac failure",
+        "D": "Hypernatremia"
+      },
+      "answer": "D",
+      "explanation": "Propofol infusion syndrome (with prolonged high-dose infusion >48h, >4 mg/kg/hr) causes severe metabolic acidosis, rhabdomyolysis, hyperkalemia, renal failure, cardiac failure, and lipemia. Hypernatremia is not a feature.",
+      "chapter": "CNS Diseases",
+      "topic": "Propofol in Neuro-ICU",
+      "reference": "Anesthesia for CNS Diseases, Section: Propofol Infusion Syndrome"
+    },
+    {
+      "id": 48,
+      "question": "Emergence from anesthesia in neurosurgery should ideally be:",
+      "options": {
+        "A": "Rapid with immediate extubation",
+        "B": "Smooth, avoiding coughing and straining (to prevent ICP spikes)",
+        "C": "Delayed by 24 hours in all cases",
+        "D": "Preceded by reversal of all neuromuscular blockade with neostigmine"
+      },
+      "answer": "B",
+      "explanation": "Smooth emergence is critical in neurosurgery to avoid coughing, straining, and hypertension, all of which can raise ICP and cause postoperative bleeding. IV lidocaine (1.5 mg/kg) before extubation can help.",
+      "chapter": "CNS Diseases",
+      "topic": "Emergence in Neurosurgery",
+      "reference": "Anesthesia for CNS Diseases, Section: Recovery and Extubation"
+    },
+    {
+      "id": 49,
+      "question": "The cerebral steal phenomenon occurs when:",
+      "options": {
+        "A": "A vasodilator diverts blood away from ischemic areas to normal areas",
+        "B": "A vasoconstrictor shunts blood to ischemic areas",
+        "C": "Hyperventilation improves perfusion to all brain regions equally",
+        "D": "Mannitol selectively improves flow to ischemic brain"
+      },
+      "answer": "A",
+      "explanation": "Cerebral steal occurs when vasodilators (like volatile agents) dilate vessels in normal brain, diverting blood AWAY from ischemic regions (which have maximally dilated vessels that cannot dilate further). The inverse (Robin Hood) phenomenon redirects blood TO ischemic areas.",
+      "chapter": "CNS Diseases",
+      "topic": "Cerebral Blood Flow",
+      "reference": "Anesthesia for CNS Diseases, Section: Steal Phenomenon"
+    },
+    {
+      "id": 50,
+      "question": "Intraoperative neurophysiological monitoring during neurosurgery includes all EXCEPT:",
+      "options": {
+        "A": "Somatosensory evoked potentials (SSEP)",
+        "B": "Motor evoked potentials (MEP)",
+        "C": "Electroencephalography (EEG)",
+        "D": "Electromyography of the diaphragm"
+      },
+      "answer": "D",
+      "explanation": "Common neuromonitoring modalities include SSEP (sensory pathway), MEP (motor pathway), EEG (cortical activity), BAEP (brainstem auditory), and direct nerve stimulation. Diaphragm EMG is not a standard neurological monitor.",
+      "chapter": "CNS Diseases",
+      "topic": "Neuromonitoring",
+      "reference": "Anesthesia for CNS Diseases, Section: Intraoperative Monitoring"
+    }
+  ]
+}
