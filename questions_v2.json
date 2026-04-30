@@ -1,0 +1,759 @@
+{
+  "title": "Anesthesia Equipment MCQ – Section 2 (Version 2)",
+  "source": "Short Textbook of Anesthesia – Ajay Yadav",
+  "section": "Section 2: Equipment in Anesthesia (Chapters 2–3) – Version 2",
+  "total_questions": 50,
+  "time_limit_minutes": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The Pin Index Safety System (PISS) on cylinder yokes prevents:",
+      "options": {
+        "A": "High-pressure leaks from cylinder valves",
+        "B": "Wrong gas cylinders from being connected to the wrong yokes",
+        "C": "Overfilling of cylinders",
+        "D": "Static electricity igniting gases"
+      },
+      "answer": "B",
+      "explanation": "PISS uses specific pin positions unique to each gas to prevent wrong cylinder connection. O₂ pins: 2-5, N₂O pins: 3-5, Air: 1-5.",
+      "chapter": "Chapter 2",
+      "topic": "High Pressure System",
+      "reference": "Ch 2, Section: High Pressure System, Page 16"
+    },
+    {
+      "id": 2,
+      "question": "The Bain circuit is a modification of which Mapleson type?",
+      "options": {
+        "A": "Type A",
+        "B": "Type B",
+        "C": "Type C",
+        "D": "Type D"
+      },
+      "answer": "D",
+      "explanation": "Bain incorporated an inner tube into Mapleson D; fresh gases travel through the inner tube minimising mixing with exhaled gases.",
+      "chapter": "Chapter 2",
+      "topic": "Mapleson Circuits",
+      "reference": "Ch 2, Section: Mapleson Circuits, Page 26"
+    },
+    {
+      "id": 3,
+      "question": "Which vaporizer is specifically designed for desflurane delivery?",
+      "options": {
+        "A": "Tec 5",
+        "B": "Tec 7",
+        "C": "Tec 6",
+        "D": "Goldman vaporizer"
+      },
+      "answer": "C",
+      "explanation": "Tec 6 is a heated and pressurised vaporizer specifically designed for desflurane due to its very low boiling point (23.5°C) and high vapour pressure.",
+      "chapter": "Chapter 2",
+      "topic": "Vaporizers",
+      "reference": "Ch 2, Section: Vaporizers, Page 23"
+    },
+    {
+      "id": 4,
+      "question": "Compound A, a nephrotoxic product, is produced by the reaction of sevoflurane with:",
+      "options": {
+        "A": "Trielene",
+        "B": "Sodalime and barylime",
+        "C": "Methoxyflurane",
+        "D": "Carbon dioxide"
+      },
+      "answer": "B",
+      "explanation": "Sevoflurane reacts with sodalime and barylime to produce compound A (nephrotoxic). Risk is higher with barylime vs sodalime.",
+      "chapter": "Chapter 2",
+      "topic": "CO2 Absorbents",
+      "reference": "Ch 2, Section: CO2 Absorbents, Page 30"
+    },
+    {
+      "id": 5,
+      "question": "The Macintosh laryngoscope blade tip is placed in:",
+      "options": {
+        "A": "Posterior pharynx",
+        "B": "Vallecula (glossoepiglottic fold)",
+        "C": "Directly under the epiglottis (posterior to epiglottis)",
+        "D": "On the arytenoid cartilages"
+      },
+      "answer": "B",
+      "explanation": "Macintosh (curved) blade tip sits in the vallecula; lifting stretches the glossoepiglottic ligament to lift the epiglottis indirectly. Miller (straight) blade goes posterior to epiglottis.",
+      "chapter": "Chapter 3",
+      "topic": "Laryngoscopes",
+      "reference": "Ch 3, Section: Laryngoscopes, Page 37"
+    },
+    {
+      "id": 6,
+      "question": "In the Mapleson classification, which circuit is the gold standard for SPONTANEOUS ventilation?",
+      "options": {
+        "A": "Type D (Bain circuit)",
+        "B": "Type F (Jackson-Rees)",
+        "C": "Type A (Magill circuit)",
+        "D": "Type E (Ayre's T piece)"
+      },
+      "answer": "C",
+      "explanation": "Magill (Type A) is the circuit of choice for spontaneous ventilation. Fresh gas flow = minute volume prevents rebreathing.",
+      "chapter": "Chapter 2",
+      "topic": "Mapleson Circuits",
+      "reference": "Ch 2, Section: Mapleson Circuits, Page 25"
+    },
+    {
+      "id": 7,
+      "question": "A Venturi mask delivers a fixed FiO₂ because:",
+      "options": {
+        "A": "It uses a reservoir bag to store O₂",
+        "B": "It uses the Bernoulli/Venturi principle to entrain a fixed ratio of room air",
+        "C": "It is a high-flow device that delivers 100% O₂",
+        "D": "It monitors O₂ via an internal sensor"
+      },
+      "answer": "B",
+      "explanation": "The Venturi mask uses the Venturi/Bernoulli principle: high-velocity O₂ jet entrains a fixed ratio of room air, providing a precise FiO₂.",
+      "chapter": "Chapter 3",
+      "topic": "Oxygen Delivery Systems",
+      "reference": "Ch 3, Section: Oxygen Delivery Systems, Page 42"
+    },
+    {
+      "id": 8,
+      "question": "The I-gel airway device is unique because:",
+      "options": {
+        "A": "It has an inflatable cuff",
+        "B": "It has a non-inflatable gel cuff that conforms to airway anatomy",
+        "C": "It is used only in pediatric patients",
+        "D": "It is a nasal airway device"
+      },
+      "answer": "B",
+      "explanation": "I-gel has a non-inflatable gel cuff (thermoplastic elastomer) that anatomically conforms to the supraglottic structure, eliminating the need for cuff inflation.",
+      "chapter": "Chapter 3",
+      "topic": "I-Gel",
+      "reference": "Ch 3, Section: I-Gel, Page 34"
+    },
+    {
+      "id": 9,
+      "question": "In an ascending bellows ventilator, why are leaks better detected compared to descending bellows?",
+      "options": {
+        "A": "Ascending bellows makes more noise when leaking",
+        "B": "Descending bellows will continue to descend under gravity even with a leak; ascending bellows will fail to ascend",
+        "C": "Ascending bellows has a higher compliance",
+        "D": "It has nothing to do with gravity"
+      },
+      "answer": "B",
+      "explanation": "Descending bellows fall under gravity even with a leak (masking the leak), while ascending bellows fail to ascend if there is a leak, making the problem obvious.",
+      "chapter": "Chapter 2",
+      "topic": "Breathing Circuits",
+      "reference": "Ch 2, Section: Breathing Circuits, Page 27"
+    },
+    {
+      "id": 10,
+      "question": "A Lack system is a coaxial modification of which Mapleson circuit?",
+      "options": {
+        "A": "Type D (Bain)",
+        "B": "Type A (Magill)",
+        "C": "Type F (Jackson-Rees)",
+        "D": "Type E (Ayre's T-piece)"
+      },
+      "answer": "B",
+      "explanation": "Lack system is the coaxial version of Mapleson A (Magill). It has two concentric tubes: outer = inspiratory, inner = expiratory.",
+      "chapter": "Chapter 2",
+      "topic": "Mapleson Circuits",
+      "reference": "Ch 2, Section: Mapleson Circuits, Page 26"
+    },
+    {
+      "id": 11,
+      "question": "Among semiclosed circuits, the order of efficiency for CONTROLLED ventilation (best to worst) is:",
+      "options": {
+        "A": "A > DEF > BC",
+        "B": "DEF > BC > A",
+        "C": "BC > A > DEF",
+        "D": "A > BC > DEF"
+      },
+      "answer": "B",
+      "explanation": "For controlled ventilation: DEF > BC > A. For spontaneous ventilation: A > DEF > BC. Magill (A) is worst for controlled ventilation.",
+      "chapter": "Chapter 2",
+      "topic": "Mapleson Circuits",
+      "reference": "Ch 2, Section: Mapleson Circuits, Page 26"
+    },
+    {
+      "id": 12,
+      "question": "Desiccated sodalime produces carbon monoxide most significantly with which agent?",
+      "options": {
+        "A": "Sevoflurane",
+        "B": "Halothane",
+        "C": "Desflurane",
+        "D": "Isoflurane"
+      },
+      "answer": "C",
+      "explanation": "CO production with desiccated sodalime in decreasing order: Desflurane >> Isoflurane >> Halothane = Sevoflurane.",
+      "chapter": "Chapter 2",
+      "topic": "CO2 Absorbents",
+      "reference": "Ch 2, Section: CO2 Absorbents, Page 30"
+    },
+    {
+      "id": 13,
+      "question": "The negative pressure leak test (universal leak test) of the anesthesia machine can detect leaks as small as:",
+      "options": {
+        "A": "100 mL",
+        "B": "30 mL",
+        "C": "50 mL",
+        "D": "200 mL"
+      },
+      "answer": "B",
+      "explanation": "The negative pressure (suction bulb) test is the most sensitive, detecting leaks as small as 30 mL. It is called the universal leak test.",
+      "chapter": "Chapter 2",
+      "topic": "Machine Checking Procedure",
+      "reference": "Ch 2, Section: Machine Checking Procedure, Page 30"
+    },
+    {
+      "id": 14,
+      "question": "The Jackson-Rees circuit (Mapleson F) is most commonly used for:",
+      "options": {
+        "A": "Adults > 70 kg",
+        "B": "Children < 6 years or < 20 kg",
+        "C": "Patients requiring IPPV only",
+        "D": "Head and neck surgeries"
+      },
+      "answer": "B",
+      "explanation": "Jackson-Rees (Mapleson F) is the most commonly used pediatric semiclosed circuit for children < 6 years or < 20 kg.",
+      "chapter": "Chapter 2",
+      "topic": "Mapleson Circuits",
+      "reference": "Ch 2, Section: Mapleson Circuits, Page 27"
+    },
+    {
+      "id": 15,
+      "question": "The standard composition of sodalime includes all of the following EXCEPT:",
+      "options": {
+        "A": "Ca(OH)₂ 94%",
+        "B": "NaOH 5%",
+        "C": "KOH 1%",
+        "D": "Ba(OH)₂ 20%"
+      },
+      "answer": "D",
+      "explanation": "Ba(OH)₂ is a component of barylime, NOT sodalime. Sodalime: Ca(OH)₂ 94%, NaOH 5% (catalyst), KOH 1%, color indicator, silica.",
+      "chapter": "Chapter 2",
+      "topic": "CO2 Absorbents",
+      "reference": "Ch 2, Section: CO2 Absorbents, Page 29"
+    },
+    {
+      "id": 16,
+      "question": "The pin index positions for an oxygen cylinder on the yoke are:",
+      "options": {
+        "A": "2-5",
+        "B": "3-5",
+        "C": "1-5",
+        "D": "2-6"
+      },
+      "answer": "A",
+      "explanation": "Pin Index Safety System positions: O₂ = 2-5, N₂O = 3-5, Air = 1-5, CO₂ = 2-6, Cyclopropane = 3-6.",
+      "chapter": "Chapter 2",
+      "topic": "High Pressure System",
+      "reference": "Ch 2, Section: Pin Index Safety System, Page 16"
+    },
+    {
+      "id": 17,
+      "question": "The pressure inside a full nitrous oxide cylinder at room temperature is approximately:",
+      "options": {
+        "A": "137 bar (2000 psi)",
+        "B": "51 bar (745 psi)",
+        "C": "15 bar (220 psi)",
+        "D": "100 bar (1450 psi)"
+      },
+      "answer": "B",
+      "explanation": "N₂O exists as a liquid in the cylinder at its saturated vapor pressure (~51 bar/745 psi at 20°C). The pressure remains constant until all liquid has evaporated. Only then does pressure drop, unlike O₂ which shows a linear pressure drop.",
+      "chapter": "Chapter 2",
+      "topic": "High Pressure System",
+      "reference": "Ch 2, Section: Cylinders, Page 15"
+    },
+    {
+      "id": 18,
+      "question": "The filling ratio of a nitrous oxide cylinder in tropical countries is:",
+      "options": {
+        "A": "0.75",
+        "B": "0.67",
+        "C": "0.80",
+        "D": "0.50"
+      },
+      "answer": "B",
+      "explanation": "Filling ratio = weight of liquid in cylinder / weight of water the cylinder can hold. In temperate climates: 0.75, in tropical climates: 0.67 (to allow for expansion with higher temperatures).",
+      "chapter": "Chapter 2",
+      "topic": "High Pressure System",
+      "reference": "Ch 2, Section: Cylinders, Page 15"
+    },
+    {
+      "id": 19,
+      "question": "The color code for a nitrous oxide cylinder body in the international standard (ISO) is:",
+      "options": {
+        "A": "Black body, white shoulder",
+        "B": "Blue",
+        "C": "Grey body, blue shoulder",
+        "D": "Green"
+      },
+      "answer": "B",
+      "explanation": "International color codes: O₂ = White (Indian: Black body with white shoulder), N₂O = Blue, Air = Black & White (quartered), CO₂ = Grey.",
+      "chapter": "Chapter 2",
+      "topic": "High Pressure System",
+      "reference": "Ch 2, Section: Cylinder Color Codes, Page 15"
+    },
+    {
+      "id": 20,
+      "question": "The only reliable indicator of the remaining content in a nitrous oxide cylinder is:",
+      "options": {
+        "A": "Cylinder pressure gauge",
+        "B": "Weighing the cylinder",
+        "C": "Flow rate from the cylinder",
+        "D": "Temperature of the cylinder"
+      },
+      "answer": "B",
+      "explanation": "Since N₂O is stored as a liquid, pressure remains constant (at SVP) until all liquid has evaporated. The only reliable way to know remaining content is to weigh the cylinder and subtract the tare weight.",
+      "chapter": "Chapter 2",
+      "topic": "High Pressure System",
+      "reference": "Ch 2, Section: Cylinders, Page 15"
+    },
+    {
+      "id": 21,
+      "question": "The Diameter Index Safety System (DISS) is used to prevent misconnections at:",
+      "options": {
+        "A": "Cylinder yokes",
+        "B": "Pipeline connections to the anesthesia machine",
+        "C": "Patient breathing circuit connections",
+        "D": "Vaporizer mounting"
+      },
+      "answer": "B",
+      "explanation": "DISS uses specific diameter bore and shoulder sizes for each gas at the pipeline outlet/machine inlet. PISS is for cylinder yokes. 22 mm/15 mm connectors are for patient circuits.",
+      "chapter": "Chapter 2",
+      "topic": "Safety Features",
+      "reference": "Ch 2, Section: Pipeline System, Page 17"
+    },
+    {
+      "id": 22,
+      "question": "The pipeline supply pressure to an anesthesia machine is maintained at:",
+      "options": {
+        "A": "2000 psi",
+        "B": "45–55 psi (3–4 bar)",
+        "C": "15–35 psi",
+        "D": "100–150 psi"
+      },
+      "answer": "B",
+      "explanation": "Pipeline supply pressure is 45–55 psi (approximately 4 bar or 400 kPa). This is the same pressure the first-stage regulator reduces cylinder pressure to.",
+      "chapter": "Chapter 2",
+      "topic": "Pipeline System",
+      "reference": "Ch 2, Section: Pipeline System, Page 17"
+    },
+    {
+      "id": 23,
+      "question": "The oxygen flush valve on an anesthesia machine delivers oxygen at a flow rate of:",
+      "options": {
+        "A": "5–10 L/min",
+        "B": "15–25 L/min",
+        "C": "35–75 L/min",
+        "D": "100 L/min"
+      },
+      "answer": "C",
+      "explanation": "The oxygen flush valve bypasses all intermediate components (vaporizers, flowmeters) and delivers 100% O₂ at 35–75 L/min directly to the common gas outlet at pipeline pressure (45–55 psi).",
+      "chapter": "Chapter 2",
+      "topic": "Safety Features",
+      "reference": "Ch 2, Section: Oxygen Flush, Page 18"
+    },
+    {
+      "id": 24,
+      "question": "The oxygen flush valve should be used with CAUTION during:",
+      "options": {
+        "A": "Machine checkout",
+        "B": "Preoxygenation",
+        "C": "Mechanical ventilation (risk of barotrauma)",
+        "D": "Filling the breathing circuit initially"
+      },
+      "answer": "C",
+      "explanation": "During mechanical ventilation, activating the flush valve can deliver high pressure to the patient's lungs causing barotrauma/pneumothorax. It should only be used during spontaneous breathing or when the circuit is disconnected.",
+      "chapter": "Chapter 2",
+      "topic": "Safety Features",
+      "reference": "Ch 2, Section: Oxygen Flush, Page 18"
+    },
+    {
+      "id": 25,
+      "question": "The second-stage pressure regulator reduces intermediate pressure to what range before gas reaches the flowmeters?",
+      "options": {
+        "A": "45–60 psi",
+        "B": "15–35 psi (approximately 26 psi)",
+        "C": "5–10 psi",
+        "D": "100 psi"
+      },
+      "answer": "B",
+      "explanation": "The 2nd stage regulator further reduces from 45–60 psi to approximately 15–35 psi (26 psi). This provides a steady pressure for accurate flowmeter readings regardless of fluctuating pipeline pressure.",
+      "chapter": "Chapter 2",
+      "topic": "Intermediate Pressure System",
+      "reference": "Ch 2, Section: Intermediate Pressure System, Page 18"
+    },
+    {
+      "id": 26,
+      "question": "The anti-hypoxia device 'Link-25' or proportioning system ensures that the N₂O:O₂ ratio never exceeds:",
+      "options": {
+        "A": "1:1",
+        "B": "2:1",
+        "C": "3:1",
+        "D": "4:1"
+      },
+      "answer": "C",
+      "explanation": "The proportioning system (Link-25 by Datex-Ohmeda, ORMC by Dräger) ensures N₂O:O₂ never exceeds 3:1, guaranteeing at least 25% O₂ in the fresh gas mixture.",
+      "chapter": "Chapter 2",
+      "topic": "Safety Features",
+      "reference": "Ch 2, Section: Anti-Hypoxia Devices, Page 19"
+    },
+    {
+      "id": 27,
+      "question": "The boiling point of desflurane is:",
+      "options": {
+        "A": "50.2°C",
+        "B": "48.5°C",
+        "C": "23.5°C",
+        "D": "58.5°C"
+      },
+      "answer": "C",
+      "explanation": "Desflurane has a very low boiling point (23.5°C), close to room temperature. This makes it unsuitable for conventional flow-over vaporizers; hence the heated, pressurized Tec 6 is required.",
+      "chapter": "Chapter 2",
+      "topic": "Vaporizers",
+      "reference": "Ch 2, Section: Vaporizers, Page 23"
+    },
+    {
+      "id": 28,
+      "question": "A variable bypass vaporizer (like Tec 5) compensates for temperature changes by using:",
+      "options": {
+        "A": "An electric heater",
+        "B": "A bimetallic strip or expansion element",
+        "C": "External temperature sensor with digital control",
+        "D": "Pressurization of the vaporizing chamber"
+      },
+      "answer": "B",
+      "explanation": "Tec 5 and similar plenum vaporizers use a bimetallic strip (temperature-sensitive valve) to adjust the splitting ratio between bypass and vaporizing chamber as temperature changes, maintaining constant output concentration.",
+      "chapter": "Chapter 2",
+      "topic": "Vaporizers",
+      "reference": "Ch 2, Section: Vaporizers, Page 22"
+    },
+    {
+      "id": 29,
+      "question": "The 'pumping effect' or 'pressurizing effect' in a vaporizer is caused by:",
+      "options": {
+        "A": "High fresh gas flow through the vaporizer",
+        "B": "Positive pressure ventilation transmitting pressure back to the vaporizer",
+        "C": "Overfilling the vaporizer",
+        "D": "Using the wrong agent"
+      },
+      "answer": "B",
+      "explanation": "Intermittent positive pressure from mechanical ventilation is transmitted retrograde to the vaporizer, momentarily compressing gas in the vaporizing chamber, leading to increased agent output. Modern vaporizers have check valves and long inlet tubes to minimize this.",
+      "chapter": "Chapter 2",
+      "topic": "Vaporizers",
+      "reference": "Ch 2, Section: Vaporizers, Page 23"
+    },
+    {
+      "id": 30,
+      "question": "The interlock mechanism on vaporizer mounting prevents:",
+      "options": {
+        "A": "Overfilling of vaporizers",
+        "B": "More than one vaporizer being turned on simultaneously",
+        "C": "Reverse flow through the vaporizer",
+        "D": "Temperature fluctuations"
+      },
+      "answer": "B",
+      "explanation": "The interlock (exclusion) system ensures only one vaporizer can be turned on at a time, preventing contamination and unpredictable agent delivery from simultaneous operation.",
+      "chapter": "Chapter 2",
+      "topic": "Vaporizers",
+      "reference": "Ch 2, Section: Vaporizers, Page 22"
+    },
+    {
+      "id": 31,
+      "question": "Which circuit is classified as the 'T-piece' and is used in pediatric anesthesia without any valve?",
+      "options": {
+        "A": "Mapleson A",
+        "B": "Mapleson C",
+        "C": "Mapleson E (Ayre's T-piece)",
+        "D": "Mapleson B"
+      },
+      "answer": "C",
+      "explanation": "Ayre's T-piece (Mapleson E) is a valveless circuit with minimal dead space and resistance, making it ideal for neonates and small infants. Jackson-Rees (Mapleson F) added a reservoir bag with an opening.",
+      "chapter": "Chapter 2",
+      "topic": "Mapleson Circuits",
+      "reference": "Ch 2, Section: Mapleson Circuits, Page 27"
+    },
+    {
+      "id": 32,
+      "question": "The fresh gas flow requirement for Jackson-Rees (Mapleson F) circuit during spontaneous ventilation is:",
+      "options": {
+        "A": "Equal to minute volume",
+        "B": "2–3 × minute volume",
+        "C": "1.5 × minute volume",
+        "D": "0.5 × minute volume"
+      },
+      "answer": "B",
+      "explanation": "For Mapleson E and F (T-piece systems), the FGF requirement during spontaneous ventilation is 2–3 × minute volume to prevent rebreathing.",
+      "chapter": "Chapter 2",
+      "topic": "Mapleson Circuits",
+      "reference": "Ch 2, Section: Mapleson Circuits, Page 27"
+    },
+    {
+      "id": 33,
+      "question": "In the circle system, the unidirectional valves are made of:",
+      "options": {
+        "A": "Stainless steel",
+        "B": "Thin mica or plastic disc",
+        "C": "Rubber with a spring mechanism",
+        "D": "Glass"
+      },
+      "answer": "B",
+      "explanation": "Unidirectional valves in the circle system are lightweight mica or plastic discs that open with minimal pressure differential, ensuring gas flows in one direction only (preventing rebreathing).",
+      "chapter": "Chapter 2",
+      "topic": "Circle System",
+      "reference": "Ch 2, Section: Circle System, Page 28"
+    },
+    {
+      "id": 34,
+      "question": "The minimum fresh gas flow for a semi-closed circle system is:",
+      "options": {
+        "A": "Equal to patient's oxygen consumption (~250 mL/min)",
+        "B": "1–2 L/min",
+        "C": "4–5 L/min",
+        "D": "Equal to minute ventilation"
+      },
+      "answer": "B",
+      "explanation": "Semi-closed circle system uses low fresh gas flows (1–2 L/min) with CO₂ absorption. True closed circuit uses flow equal only to metabolic O₂ consumption (~250 mL/min) with no gas venting.",
+      "chapter": "Chapter 2",
+      "topic": "Circle System",
+      "reference": "Ch 2, Section: Circle System, Page 28"
+    },
+    {
+      "id": 35,
+      "question": "The dead space of the circle system is located at:",
+      "options": {
+        "A": "The entire inspiratory limb",
+        "B": "The Y-piece and the connection to the patient only",
+        "C": "The CO₂ absorber canister",
+        "D": "The reservoir bag"
+      },
+      "answer": "B",
+      "explanation": "In the circle system, apparatus dead space is limited to the Y-piece and the short connecting piece to the patient (distal to the point where inspiratory and expiratory limbs join), making it minimal.",
+      "chapter": "Chapter 2",
+      "topic": "Circle System",
+      "reference": "Ch 2, Section: Circle System, Page 28"
+    },
+    {
+      "id": 36,
+      "question": "The Miller laryngoscope blade is a:",
+      "options": {
+        "A": "Curved blade placed in the vallecula",
+        "B": "Straight blade placed posterior to (under) the epiglottis",
+        "C": "Flexible fiberoptic blade",
+        "D": "Curved blade with a hinged tip"
+      },
+      "answer": "B",
+      "explanation": "Miller blade is straight and is placed posterior to the epiglottis (directly lifting it). It provides better visualization in infants (floppy, long epiglottis) and in patients with a long epiglottis.",
+      "chapter": "Chapter 3",
+      "topic": "Laryngoscopes",
+      "reference": "Ch 3, Section: Laryngoscopes, Page 37"
+    },
+    {
+      "id": 37,
+      "question": "The McCoy laryngoscope blade has a special feature:",
+      "options": {
+        "A": "Built-in suction channel",
+        "B": "Hinged (flexing) tip activated by a lever to lift the epiglottis",
+        "C": "Fiberoptic light transmission",
+        "D": "Detachable blade segments"
+      },
+      "answer": "B",
+      "explanation": "The McCoy blade has a hinged tip at its distal end. Squeezing the lever flexes the tip upward, lifting the epiglottis with less force — useful in difficult airways (Cormack-Lehane grade III/IV).",
+      "chapter": "Chapter 3",
+      "topic": "Laryngoscopes",
+      "reference": "Ch 3, Section: Laryngoscopes, Page 38"
+    },
+    {
+      "id": 38,
+      "question": "The internal diameter (ID) of an endotracheal tube for an adult male is typically:",
+      "options": {
+        "A": "6.0–6.5 mm",
+        "B": "7.0–7.5 mm",
+        "C": "8.0–8.5 mm",
+        "D": "9.0–9.5 mm"
+      },
+      "answer": "C",
+      "explanation": "Standard ETT sizes: Adult male 8.0–8.5 mm ID, adult female 7.0–7.5 mm ID. Pediatric formula: (Age/4) + 4 for uncuffed tubes.",
+      "chapter": "Chapter 3",
+      "topic": "Endotracheal Tubes",
+      "reference": "Ch 3, Section: Endotracheal Tubes, Page 35"
+    },
+    {
+      "id": 39,
+      "question": "The formula to calculate uncuffed endotracheal tube size in children is:",
+      "options": {
+        "A": "(Age/4) + 3",
+        "B": "(Age/4) + 4",
+        "C": "(Age/2) + 4",
+        "D": "(Age + 16) / 4"
+      },
+      "answer": "B",
+      "explanation": "Cole's formula for uncuffed ETT: ID (mm) = (Age in years / 4) + 4. For cuffed tubes: (Age/4) + 3 or (Age/4) + 3.5.",
+      "chapter": "Chapter 3",
+      "topic": "Endotracheal Tubes",
+      "reference": "Ch 3, Section: Endotracheal Tubes, Page 36"
+    },
+    {
+      "id": 40,
+      "question": "The ETT cuff pressure should be maintained below:",
+      "options": {
+        "A": "10 cm H₂O",
+        "B": "20 cm H₂O",
+        "C": "30 cm H₂O (to prevent tracheal mucosal ischemia)",
+        "D": "50 cm H₂O"
+      },
+      "answer": "C",
+      "explanation": "Cuff pressure should be maintained at 20–30 cm H₂O (15–22 mmHg). Pressure >30 cm H₂O exceeds tracheal mucosal capillary perfusion pressure (~25 mmHg), causing ischemia, necrosis, and tracheal stenosis.",
+      "chapter": "Chapter 3",
+      "topic": "Endotracheal Tubes",
+      "reference": "Ch 3, Section: Endotracheal Tubes, Page 36"
+    },
+    {
+      "id": 41,
+      "question": "The RAE (Ring-Adair-Elwyn) tube is specifically designed for:",
+      "options": {
+        "A": "One-lung ventilation",
+        "B": "Surgery on the head and face (preformed bend away from surgical field)",
+        "C": "Tracheostomy",
+        "D": "Jet ventilation"
+      },
+      "answer": "B",
+      "explanation": "RAE tubes have a preformed bend (south-facing for oral, north-facing for nasal) that directs the tube and circuit away from the surgical field during head, neck, and oral surgery.",
+      "chapter": "Chapter 3",
+      "topic": "Endotracheal Tubes",
+      "reference": "Ch 3, Section: Special Endotracheal Tubes, Page 36"
+    },
+    {
+      "id": 42,
+      "question": "A double-lumen endobronchial tube (e.g., Robertshaw tube) is used for:",
+      "options": {
+        "A": "Pediatric intubation",
+        "B": "One-lung ventilation (lung isolation for thoracic surgery)",
+        "C": "Jet ventilation during airway surgery",
+        "D": "Subglottic drug delivery"
+      },
+      "answer": "B",
+      "explanation": "Double-lumen tubes allow independent ventilation of each lung. They are used for thoracic surgery, bronchopleural fistula, unilateral lung lavage, and to protect healthy lung from contamination.",
+      "chapter": "Chapter 3",
+      "topic": "Endotracheal Tubes",
+      "reference": "Ch 3, Section: Special Endotracheal Tubes, Page 37"
+    },
+    {
+      "id": 43,
+      "question": "The most commonly used double-lumen tube for left-sided thoracic surgery is:",
+      "options": {
+        "A": "Right-sided DLT",
+        "B": "Left-sided DLT",
+        "C": "Univent tube",
+        "D": "Combitube"
+      },
+      "answer": "B",
+      "explanation": "Left-sided DLT is preferred for most thoracic surgeries (including left-sided) because the left main bronchus is longer, providing a safer margin for bronchial cuff placement. Right DLT is used only when the left is contraindicated.",
+      "chapter": "Chapter 3",
+      "topic": "Endotracheal Tubes",
+      "reference": "Ch 3, Section: Double Lumen Tubes, Page 37"
+    },
+    {
+      "id": 44,
+      "question": "A nasal cannula delivering O₂ at 6 L/min provides an approximate FiO₂ of:",
+      "options": {
+        "A": "24%",
+        "B": "32%",
+        "C": "44%",
+        "D": "60%"
+      },
+      "answer": "C",
+      "explanation": "Nasal cannula FiO₂ approximation: each 1 L/min adds ~4% to 21%. So 6 L/min ≈ 21% + 24% = ~44%. Maximum recommended flow is 6 L/min (higher flows dry nasal mucosa without significantly increasing FiO₂).",
+      "chapter": "Chapter 3",
+      "topic": "Oxygen Delivery Systems",
+      "reference": "Ch 3, Section: Oxygen Delivery Systems, Page 41"
+    },
+    {
+      "id": 45,
+      "question": "A simple face mask delivers oxygen at FiO₂ of approximately:",
+      "options": {
+        "A": "21–30%",
+        "B": "35–60%",
+        "C": "60–80%",
+        "D": "90–100%"
+      },
+      "answer": "B",
+      "explanation": "A simple face mask at 5–10 L/min delivers approximately 35–60% FiO₂. Below 5 L/min, rebreathing of CO₂ occurs due to insufficient flow to flush expired air from the mask.",
+      "chapter": "Chapter 3",
+      "topic": "Oxygen Delivery Systems",
+      "reference": "Ch 3, Section: Oxygen Delivery Systems, Page 41"
+    },
+    {
+      "id": 46,
+      "question": "A non-rebreathing mask with a reservoir bag delivers FiO₂ up to:",
+      "options": {
+        "A": "40–50%",
+        "B": "60–70%",
+        "C": "80–95%",
+        "D": "Exactly 100%"
+      },
+      "answer": "C",
+      "explanation": "Non-rebreathing mask has a reservoir bag and one-way valves (preventing inspired room air and preventing expired gas from entering the bag). At 10–15 L/min, it delivers 80–95% FiO₂.",
+      "chapter": "Chapter 3",
+      "topic": "Oxygen Delivery Systems",
+      "reference": "Ch 3, Section: Oxygen Delivery Systems, Page 42"
+    },
+    {
+      "id": 47,
+      "question": "The Combitube (esophageal-tracheal double-lumen airway) is primarily used in:",
+      "options": {
+        "A": "Routine elective intubation",
+        "B": "Emergency difficult airway/cannot intubate-cannot ventilate scenario",
+        "C": "Pediatric airway management",
+        "D": "Awake fiberoptic intubation"
+      },
+      "answer": "B",
+      "explanation": "The Combitube is an emergency rescue airway device for cannot-intubate-cannot-ventilate situations. It can ventilate the patient regardless of whether it enters the esophagus (most common) or trachea.",
+      "chapter": "Chapter 3",
+      "topic": "Airway Equipment",
+      "reference": "Ch 3, Section: Emergency Airways, Page 34"
+    },
+    {
+      "id": 48,
+      "question": "The optimal mesh size of sodalime granules for efficient CO₂ absorption is:",
+      "options": {
+        "A": "1–2 mesh (large granules)",
+        "B": "4–8 mesh (2.5–5 mm)",
+        "C": "10–14 mesh (fine granules)",
+        "D": "20–30 mesh (powder)"
+      },
+      "answer": "B",
+      "explanation": "Optimal granule size is 4–8 mesh (2.5–5 mm). Too small granules (fine): high resistance to flow. Too large: reduced surface area for absorption. This size provides >50% air space for adequate gas contact.",
+      "chapter": "Chapter 2",
+      "topic": "CO2 Absorbents",
+      "reference": "Ch 2, Section: CO2 Absorbents, Page 29"
+    },
+    {
+      "id": 49,
+      "question": "Heat generated during CO₂ absorption by sodalime is called an exothermic reaction. The maximum temperature sodalime can reach during active use is approximately:",
+      "options": {
+        "A": "25°C",
+        "B": "40°C",
+        "C": "60°C",
+        "D": "Over 40°C and can reach 60°C in exhaustion"
+      },
+      "answer": "D",
+      "explanation": "CO₂ absorption by sodalime is exothermic (releases heat and water). Normal operating temperature: 40–60°C. Desiccated sodalime with volatile agents can exceed 100°C (fire risk with barylime + sevoflurane).",
+      "chapter": "Chapter 2",
+      "topic": "CO2 Absorbents",
+      "reference": "Ch 2, Section: CO2 Absorbents, Page 29"
+    },
+    {
+      "id": 50,
+      "question": "The scavenging system in an operating theater has which of the following components?",
+      "options": {
+        "A": "Collecting system, transfer tubing, receiving system (reservoir), and disposal system",
+        "B": "Only a suction pump connected to APL valve",
+        "C": "Only an exhaust fan at the ceiling",
+        "D": "A charcoal filter at the patient end"
+      },
+      "answer": "A",
+      "explanation": "A complete scavenging system has 4 components: (1) Collecting device (at APL valve/ventilator exhaust), (2) Transfer tubing (30mm to distinguish from breathing circuit), (3) Receiving system with reservoir, and (4) Disposal system (active suction or passive exhaust).",
+      "chapter": "Chapter 2",
+      "topic": "Scavenging System",
+      "reference": "Ch 2, Section: Scavenging System, Page 27"
+    }
+  ]
+}

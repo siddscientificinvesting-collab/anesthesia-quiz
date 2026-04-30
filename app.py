@@ -26,6 +26,12 @@ QUIZ_CATALOG = {
         "short": "Equipment (Ch 2–3)",
         "icon": "🔧",
     },
+    "section2_v2": {
+        "file": "questions_v2.json",
+        "label": "Section 2 – Equipment in Anesthesia (Ch 2–3) – Version 2",
+        "short": "Equipment V2 (Ch 2–3)",
+        "icon": "🔧",
+    },
     "ch18": {
         "file": "questions_ch18.json",
         "label": "Chapter 18 – Anesthesia for Cardiovascular Diseases",
