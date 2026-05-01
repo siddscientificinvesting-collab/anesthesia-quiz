@@ -17,8 +17,8 @@
       "answer": "B",
       "explanation": "Correct Answer: B. 25% — The liver receives approximately 25% of cardiac output (~1500 mL/min). Of this, 75% comes from the portal vein and 25% from the hepatic artery.",
       "chapter": "Hepatic Disease",
-      "topic": "Hepatic Blood Flow",
-      "reference": "Ch 21, Page 199, Topic: Hepatic Blood Supply"
+      "topic": "Preoperative Evaluation",
+      "reference": "Ch 21, Page 199, Topic: Preoperative Evaluation"
     },
     {
       "id": 2,
@@ -32,26 +32,11 @@
       "answer": "C",
       "explanation": "Correct Answer: C. 75% — The portal vein provides 75% of hepatic blood flow but only 50% of oxygen supply. The hepatic artery provides 25% of blood flow but 50% of oxygen supply.",
       "chapter": "Hepatic Disease",
-      "topic": "Hepatic Blood Flow",
-      "reference": "Ch 21, Page 199, Topic: Portal Vein Blood Flow"
+      "topic": "Preoperative Evaluation",
+      "reference": "Ch 21, Page 199, Topic: Preoperative Evaluation"
     },
     {
       "id": 3,
-      "question": "The hepatic artery buffer response refers to:",
-      "options": {
-        "A": "Increase in portal vein flow when hepatic artery flow decreases",
-        "B": "Compensatory increase in hepatic artery flow when portal venous flow decreases",
-        "C": "Decrease in both hepatic artery and portal vein flow during anesthesia",
-        "D": "Shunting of blood through portosystemic collaterals"
-      },
-      "answer": "B",
-      "explanation": "Correct Answer: B. Compensatory increase in hepatic artery flow when portal venous flow decreases — The hepatic artery buffer response is a semi-reciprocal mechanism where hepatic arterial flow increases to compensate for reduced portal venous flow, maintaining total hepatic blood flow and oxygen delivery.",
-      "chapter": "Hepatic Disease",
-      "topic": "Hepatic Blood Flow Regulation",
-      "reference": "Ch 21, Page 199, Topic: Hepatic Artery Buffer Response"
-    },
-    {
-      "id": 4,
       "question": "Child-Pugh classification assesses liver function based on all EXCEPT:",
       "options": {
         "A": "Serum bilirubin",
@@ -62,11 +47,11 @@
       "answer": "C",
       "explanation": "Correct Answer: C. Serum creatinine — Child-Pugh score uses 5 parameters: Bilirubin, Albumin, Prothrombin time (INR), Ascites, and Encephalopathy grade. Creatinine is part of the MELD score, not Child-Pugh.",
       "chapter": "Hepatic Disease",
-      "topic": "Child-Pugh Classification",
-      "reference": "Ch 21, Page 199, Topic: Child-Pugh Classification (Table 21.1)"
+      "topic": "Preoperative Evaluation",
+      "reference": "Ch 21, Page 199, Topic: Preoperative Evaluation"
     },
     {
-      "id": 5,
+      "id": 4,
       "question": "Child-Pugh Class C (score 10–15) is associated with perioperative mortality of approximately:",
       "options": {
         "A": "5%",
@@ -77,627 +62,372 @@
       "answer": "C",
       "explanation": "Correct Answer: C. 50% or higher — Child-Pugh C carries perioperative mortality >50% for major abdominal surgery. Class A: ~10%, Class B: ~30%, Class C: >50%.",
       "chapter": "Hepatic Disease",
-      "topic": "Surgical Risk in Liver Disease",
-      "reference": "Ch 21, Page 199, Topic: Operative Risk - Child-Pugh C"
+      "topic": "Preoperative Evaluation",
+      "reference": "Ch 21, Page 199, Topic: Preoperative Evaluation"
+    },
+    {
+      "id": 5,
+      "question": "Which coagulation factor has the shortest half-life and is first to decrease in liver disease?",
+      "options": {
+        "A": "Factor II",
+        "B": "Factor V",
+        "C": "Factor VII",
+        "D": "Factor X"
+      },
+      "answer": "C",
+      "explanation": "Correct Answer: C. Factor VII — Factor VII has the shortest half-life (~6 hours) among coagulation factors and is the first to decline in liver disease. Its level is reflected by PT/INR.",
+      "chapter": "Hepatic Disease",
+      "topic": "Preoperative Evaluation",
+      "reference": "Ch 21, Page 199, Topic: Preoperative Evaluation"
     },
     {
       "id": 6,
-      "question": "The MELD score is calculated from which THREE laboratory values?",
+      "question": "The most sensitive preoperative liver function test for synthetic function is:",
       "options": {
-        "A": "Bilirubin, Creatinine, INR",
-        "B": "Albumin, Bilirubin, INR",
-        "C": "Creatinine, Albumin, Platelet count",
-        "D": "AST, ALT, Bilirubin"
-      },
-      "answer": "A",
-      "explanation": "Correct Answer: A. Bilirubin, Creatinine, INR — MELD (Model for End-Stage Liver Disease) uses serum Bilirubin, Creatinine, and INR. It is primarily used to prioritize organ allocation for liver transplantation.",
-      "chapter": "Hepatic Disease",
-      "topic": "MELD Score",
-      "reference": "Ch 21, Page 199, Topic: MELD Score"
-    },
-    {
-      "id": 7,
-      "question": "In cirrhotic patients, the most reliable liver function test for assessing SYNTHETIC function is:",
-      "options": {
-        "A": "AST/ALT levels",
-        "B": "Serum bilirubin",
-        "C": "Prothrombin time (PT)/INR",
+        "A": "AST/ALT",
+        "B": "Serum albumin",
+        "C": "Prothrombin time (PT/INR)",
         "D": "Alkaline phosphatase"
       },
       "answer": "C",
-      "explanation": "Correct Answer: C. Prothrombin time (PT)/INR — PT/INR is the best indicator of hepatic synthetic function because clotting factors (II, VII, IX, X) are synthesized by the liver. Factor VII has the shortest half-life (6 hours), making PT the earliest indicator of synthetic dysfunction.",
+      "explanation": "Correct Answer: C. Prothrombin time (PT/INR) — PT is the most sensitive indicator of hepatic synthetic function due to the short half-life of Factor VII. Albumin reflects chronic liver function (half-life 21 days).",
       "chapter": "Hepatic Disease",
-      "topic": "Liver Function Assessment",
-      "reference": "Ch 21, Page 199, Topic: Coagulation Tests - PT/INR"
+      "topic": "Preoperative Evaluation",
+      "reference": "Ch 21, Page 199, Topic: Preoperative Evaluation"
+    },
+    {
+      "id": 7,
+      "question": "Serum albumin less than what value indicates severe liver disease and increased surgical risk?",
+      "options": {
+        "A": "4.0 g/dL",
+        "B": "3.5 g/dL",
+        "C": "3.0 g/dL",
+        "D": "2.5 g/dL"
+      },
+      "answer": "C",
+      "explanation": "Correct Answer: C. 3.0 g/dL — Albumin <3.0 g/dL indicates severe hepatic dysfunction. Low albumin causes reduced protein binding of drugs, increased free drug levels, and peripheral edema/ascites.",
+      "chapter": "Hepatic Disease",
+      "topic": "Preoperative Evaluation",
+      "reference": "Ch 21, Page 199, Topic: Preoperative Evaluation"
     },
     {
       "id": 8,
-      "question": "The coagulopathy in liver disease is due to:",
+      "question": "In liver disease, which of the following is TRUE about drug protein binding?",
       "options": {
-        "A": "Decreased synthesis of clotting factors only",
-        "B": "Thrombocytopenia only",
-        "C": "Decreased synthesis of clotting factors, thrombocytopenia, hyperfibrinolysis, and dysfibrinogenemia",
-        "D": "Vitamin K deficiency only"
+        "A": "Increased binding due to elevated albumin",
+        "B": "Decreased binding leading to higher free drug fraction",
+        "C": "No change in drug binding",
+        "D": "Increased binding due to elevated globulin"
       },
-      "answer": "C",
-      "explanation": "Correct Answer: C. Decreased synthesis of clotting factors, thrombocytopenia, hyperfibrinolysis, and dysfibrinogenemia — Coagulopathy in liver disease is multifactorial: reduced synthesis of ALL clotting factors (except VIII and vWF), thrombocytopenia (splenic sequestration), qualitative platelet defects, hyperfibrinolysis, and dysfibrinogenemia.",
+      "answer": "B",
+      "explanation": "Correct Answer: B. Decreased binding leading to higher free drug fraction — Hypoalbuminemia in liver disease results in reduced protein binding of drugs (thiopentone, diazepam), causing increased free drug levels and exaggerated clinical effects.",
       "chapter": "Hepatic Disease",
-      "topic": "Coagulopathy",
-      "reference": "Ch 21, Page 200, Topic: Hemostatic Abnormalities"
+      "topic": "Preoperative Evaluation",
+      "reference": "Ch 21, Page 199, Topic: Preoperative Evaluation"
     },
     {
       "id": 9,
-      "question": "Which clotting factor is NOT synthesized by the liver?",
+      "question": "Preoperative correction of coagulopathy in liver disease includes all EXCEPT:",
       "options": {
-        "A": "Factor VII",
-        "B": "Factor VIII",
-        "C": "Factor X",
-        "D": "Factor II"
+        "A": "Fresh Frozen Plasma (FFP)",
+        "B": "Vitamin K injection",
+        "C": "Platelet transfusion if count <50,000",
+        "D": "Heparin infusion"
       },
-      "answer": "B",
-      "explanation": "Correct Answer: B. Factor VIII — Factor VIII (and von Willebrand factor) is synthesized by vascular endothelium and reticuloendothelial cells, NOT by hepatocytes. All other clotting factors are produced by the liver.",
+      "answer": "D",
+      "explanation": "Correct Answer: D. Heparin infusion — Heparin would worsen coagulopathy. Treatment includes Vitamin K (if cholestatic), FFP for active bleeding, cryoprecipitate for low fibrinogen, and platelet transfusion if <50,000/μL.",
       "chapter": "Hepatic Disease",
-      "topic": "Coagulation",
-      "reference": "Ch 21, Page 200, Topic: Clotting Factor Synthesis"
+      "topic": "Preoperative Evaluation",
+      "reference": "Ch 21, Page 199, Topic: Preoperative Evaluation"
     },
     {
       "id": 10,
-      "question": "Thrombocytopenia in cirrhosis is primarily caused by:",
+      "question": "MELD score is calculated using which three parameters?",
       "options": {
-        "A": "Bone marrow suppression",
-        "B": "Splenic sequestration (hypersplenism) due to portal hypertension",
-        "C": "Autoimmune destruction",
-        "D": "DIC"
+        "A": "Bilirubin, Albumin, PT",
+        "B": "Bilirubin, Creatinine, INR",
+        "C": "Bilirubin, Ascites, Encephalopathy",
+        "D": "Creatinine, Albumin, PT"
       },
       "answer": "B",
-      "explanation": "Correct Answer: B. Splenic sequestration (hypersplenism) due to portal hypertension — Portal hypertension causes splenomegaly (congestive), leading to splenic sequestration of up to 90% of circulating platelets. Decreased thrombopoietin production by the diseased liver also contributes.",
+      "explanation": "Correct Answer: B. Bilirubin, Creatinine, INR — MELD (Model for End-stage Liver Disease) uses serum bilirubin, creatinine, and INR. MELD >15 indicates significant surgical risk.",
       "chapter": "Hepatic Disease",
-      "topic": "Thrombocytopenia",
-      "reference": "Ch 21, Page 200, Topic: Thrombocytopenia - Hypersplenism"
+      "topic": "Preoperative Evaluation",
+      "reference": "Ch 21, Page 199, Topic: Preoperative Evaluation"
     },
     {
       "id": 11,
-      "question": "Hepatopulmonary syndrome is characterized by:",
+      "question": "In cirrhotic patients, preoperative ascites indicates:",
       "options": {
-        "A": "Pulmonary hypertension with right heart failure",
-        "B": "Intrapulmonary vascular dilatation causing hypoxemia",
-        "C": "Pleural effusion with restrictive lung disease",
-        "D": "Pulmonary fibrosis"
+        "A": "Good prognosis for surgery",
+        "B": "Portal hypertension and increased surgical risk",
+        "C": "No impact on anesthetic management",
+        "D": "Need for immediate splenectomy"
       },
       "answer": "B",
-      "explanation": "Correct Answer: B. Intrapulmonary vascular dilatation causing hypoxemia — Hepatopulmonary syndrome (HPS) consists of the triad: liver disease + intrapulmonary vascular dilatation + arterial hypoxemia (PaO2 <80 mmHg). The dilated pulmonary capillaries cause V/Q mismatch and right-to-left shunting.",
+      "explanation": "Correct Answer: B. Portal hypertension and increased surgical risk — Ascites reflects portal hypertension and poor hepatic function. It impairs diaphragmatic excursion, increases aspiration risk, and is associated with higher perioperative mortality.",
       "chapter": "Hepatic Disease",
-      "topic": "Hepatopulmonary Syndrome",
-      "reference": "Ch 21, Page 200, Topic: Hepatopulmonary Syndrome"
+      "topic": "Preoperative Evaluation",
+      "reference": "Ch 21, Page 199, Topic: Preoperative Evaluation"
     },
     {
       "id": 12,
-      "question": "Portopulmonary hypertension differs from hepatopulmonary syndrome in that it involves:",
+      "question": "Hepatic encephalopathy in the preoperative period is graded from:",
       "options": {
-        "A": "Intrapulmonary shunting",
-        "B": "Pulmonary arterial hypertension (mean PAP >25 mmHg)",
-        "C": "Decreased pulmonary vascular resistance",
-        "D": "Improved oxygenation in upright position"
+        "A": "Grade I to III",
+        "B": "Grade I to IV",
+        "C": "Grade A to C",
+        "D": "Stage 1 to 3"
       },
       "answer": "B",
-      "explanation": "Correct Answer: B. Pulmonary arterial hypertension (mean PAP >25 mmHg) — Portopulmonary hypertension (POPH) = portal hypertension + pulmonary arterial hypertension (mean PAP >25 mmHg at rest). Unlike HPS, it involves vasoconstriction and remodeling of pulmonary vessels.",
+      "explanation": "Correct Answer: B. Grade I to IV — Grade I: altered mood/sleep; Grade II: drowsiness, inappropriate behavior; Grade III: stupor, confusion; Grade IV: coma. Surgery should be deferred in Grade III-IV.",
       "chapter": "Hepatic Disease",
-      "topic": "Portopulmonary Hypertension",
-      "reference": "Ch 21, Page 200, Topic: Portopulmonary Hypertension"
+      "topic": "Preoperative Evaluation",
+      "reference": "Ch 21, Page 199, Topic: Preoperative Evaluation"
     },
     {
       "id": 13,
-      "question": "Hepatorenal syndrome (HRS) is characterized by all EXCEPT:",
+      "question": "Preoperative optimization of hepatic disease patient includes all EXCEPT:",
       "options": {
-        "A": "Renal failure in advanced liver disease",
-        "B": "Urine sodium <10 mEq/L",
-        "C": "Structurally normal kidneys",
-        "D": "Urine sodium >40 mEq/L"
+        "A": "Correction of electrolyte imbalances",
+        "B": "Treatment of encephalopathy with lactulose",
+        "C": "Drainage of tense ascites",
+        "D": "Starting high-dose NSAIDs for pain"
       },
       "answer": "D",
-      "explanation": "Correct Answer: D. Urine sodium >40 mEq/L — HRS is functional renal failure with structurally normal kidneys. Urine sodium is characteristically very low (<10 mEq/L) due to intense renal vasoconstriction and sodium retention. High urine sodium suggests intrinsic renal disease.",
+      "explanation": "Correct Answer: D. Starting high-dose NSAIDs for pain — NSAIDs impair renal function (hepatorenal risk), reduce platelet function, and may precipitate GI bleeding. They should be avoided in liver disease patients.",
       "chapter": "Hepatic Disease",
-      "topic": "Hepatorenal Syndrome",
-      "reference": "Ch 21, Page 200, Topic: Hepatorenal Syndrome"
+      "topic": "Preoperative Evaluation",
+      "reference": "Ch 21, Page 199, Topic: Preoperative Evaluation"
     },
     {
       "id": 14,
-      "question": "The hemodynamic profile of advanced cirrhosis is characterized by:",
+      "question": "Hyperdynamic circulation in cirrhosis is characterized by:",
       "options": {
         "A": "High SVR, low cardiac output",
-        "B": "Low SVR, high cardiac output (hyperdynamic circulation)",
+        "B": "Low SVR, high cardiac output, low MAP",
         "C": "Normal SVR, normal cardiac output",
         "D": "High SVR, high cardiac output"
       },
       "answer": "B",
-      "explanation": "Correct Answer: B. Low SVR, high cardiac output (hyperdynamic circulation) — Advanced cirrhosis causes a hyperdynamic circulation: increased cardiac output, decreased SVR, decreased MAP, and increased plasma volume. This is due to splanchnic vasodilation mediated by nitric oxide.",
+      "explanation": "Correct Answer: B. Low SVR, high cardiac output, low MAP — Cirrhotic patients have splanchnic vasodilation (due to nitric oxide), reduced SVR, compensatory high cardiac output, and relatively low mean arterial pressure.",
       "chapter": "Hepatic Disease",
-      "topic": "Cardiovascular Changes",
-      "reference": "Ch 21, Page 200, Topic: Hyperdynamic Circulation"
+      "topic": "Preoperative Evaluation",
+      "reference": "Ch 21, Page 199, Topic: Preoperative Evaluation"
     },
     {
       "id": 15,
-      "question": "The primary mediator of splanchnic vasodilation in cirrhosis is:",
+      "question": "Which volatile anesthetic agent is most preferred in liver disease?",
       "options": {
-        "A": "Prostaglandin",
-        "B": "Nitric oxide",
-        "C": "Endothelin",
-        "D": "Angiotensin II"
+        "A": "Halothane",
+        "B": "Isoflurane",
+        "C": "Enflurane",
+        "D": "Desflurane"
       },
       "answer": "B",
-      "explanation": "Correct Answer: B. Nitric oxide — Nitric oxide (NO) is the primary mediator of splanchnic and systemic vasodilation in cirrhosis. Increased NO production in the splanchnic circulation leads to portal hypertension and the hyperdynamic state.",
+      "explanation": "Correct Answer: B. Isoflurane — Isoflurane maintains hepatic arterial blood flow better than other agents. Halothane reduces hepatic blood flow the most and is associated with halothane hepatitis. Isoflurane and sevoflurane are preferred.",
       "chapter": "Hepatic Disease",
-      "topic": "Pathophysiology of Cirrhosis",
-      "reference": "Ch 21, Page 200, Topic: Nitric Oxide in Cirrhosis"
+      "topic": "Intraoperative",
+      "reference": "Ch 21, Page 199, Topic: Intraoperative"
     },
     {
       "id": 16,
-      "question": "Cirrhotic cardiomyopathy is characterized by all EXCEPT:",
+      "question": "Halothane is avoided in liver disease primarily because:",
       "options": {
-        "A": "Blunted cardiac response to stress",
-        "B": "Prolonged QT interval",
-        "C": "Diastolic dysfunction",
-        "D": "Increased sensitivity to catecholamines"
+        "A": "It causes renal failure",
+        "B": "It reduces hepatic blood flow and can cause halothane hepatitis",
+        "C": "It causes seizures",
+        "D": "It increases portal pressure"
       },
-      "answer": "D",
-      "explanation": "Correct Answer: D. Increased sensitivity to catecholamines — Cirrhotic cardiomyopathy features impaired systolic response to stress (blunted β-receptor response), diastolic dysfunction, QT prolongation, and DECREASED sensitivity to catecholamines (downregulation of β-receptors).",
+      "answer": "B",
+      "explanation": "Correct Answer: B. It reduces hepatic blood flow and can cause halothane hepatitis — Halothane reduces hepatic arterial flow by 25-30% and is associated with immune-mediated fulminant hepatitis (1:35,000 adults). It is contraindicated in liver disease.",
       "chapter": "Hepatic Disease",
-      "topic": "Cirrhotic Cardiomyopathy",
-      "reference": "Ch 21, Page 200, Topic: Cirrhotic Cardiomyopathy"
+      "topic": "Intraoperative",
+      "reference": "Ch 21, Page 199, Topic: Intraoperative"
     },
     {
       "id": 17,
-      "question": "The most common cause of acute liver failure worldwide is:",
+      "question": "Which muscle relaxant is the agent of choice in liver disease?",
       "options": {
-        "A": "Acetaminophen (paracetamol) overdose",
-        "B": "Viral hepatitis",
-        "C": "Drug-induced liver injury (non-paracetamol)",
-        "D": "Autoimmune hepatitis"
+        "A": "Pancuronium",
+        "B": "Vecuronium",
+        "C": "Atracurium/Cisatracurium",
+        "D": "Rocuronium"
       },
-      "answer": "A",
-      "explanation": "Correct Answer: A. Acetaminophen (paracetamol) overdose — Acetaminophen overdose is the most common cause of acute liver failure in developed countries. In developing countries, viral hepatitis (especially Hepatitis B and E) is more common.",
+      "answer": "C",
+      "explanation": "Correct Answer: C. Atracurium/Cisatracurium — Atracurium undergoes Hofmann degradation (organ-independent) and ester hydrolysis. Its metabolism is independent of hepatic and renal function, making it ideal in liver disease.",
       "chapter": "Hepatic Disease",
-      "topic": "Acute Liver Failure",
-      "reference": "Ch 21, Page 200, Topic: Acute Liver Failure - Causes"
+      "topic": "Intraoperative",
+      "reference": "Ch 21, Page 199, Topic: Intraoperative"
     },
     {
       "id": 18,
-      "question": "The antidote for acetaminophen (paracetamol) overdose is:",
+      "question": "Succinylcholine duration may be prolonged in liver disease because:",
       "options": {
-        "A": "Flumazenil",
-        "B": "N-acetylcysteine (NAC)",
-        "C": "Naloxone",
-        "D": "Deferoxamine"
+        "A": "Increased hepatic metabolism",
+        "B": "Reduced plasma cholinesterase (pseudocholinesterase) synthesis",
+        "C": "Increased renal excretion",
+        "D": "Enhanced neuromuscular sensitivity"
       },
       "answer": "B",
-      "explanation": "Correct Answer: B. N-acetylcysteine (NAC) — N-acetylcysteine (NAC) is the specific antidote for paracetamol toxicity. It replenishes hepatic glutathione stores and is most effective within 8 hours of ingestion, but has benefit even up to 72 hours.",
+      "explanation": "Correct Answer: B. Reduced plasma cholinesterase (pseudocholinesterase) synthesis — The liver synthesizes plasma cholinesterase. Severe liver disease reduces its production, prolonging succinylcholine block duration.",
       "chapter": "Hepatic Disease",
-      "topic": "Acetaminophen Toxicity",
-      "reference": "Ch 21, Page 200, Topic: Paracetamol Overdose - NAC"
+      "topic": "Intraoperative",
+      "reference": "Ch 21, Page 199, Topic: Intraoperative"
     },
     {
       "id": 19,
-      "question": "Hepatic encephalopathy is primarily caused by accumulation of:",
-      "options": {
-        "A": "Bilirubin",
-        "B": "Ammonia",
-        "C": "Bile acids",
-        "D": "Urea"
-      },
-      "answer": "B",
-      "explanation": "Correct Answer: B. Ammonia — Ammonia is the primary neurotoxin in hepatic encephalopathy. The failing liver cannot convert ammonia to urea (urea cycle). Ammonia crosses the blood-brain barrier and causes astrocyte swelling and cerebral edema.",
-      "chapter": "Hepatic Disease",
-      "topic": "Hepatic Encephalopathy",
-      "reference": "Ch 21, Page 200, Topic: Hepatic Encephalopathy"
-    },
-    {
-      "id": 20,
-      "question": "The drug of choice for treatment of hepatic encephalopathy is:",
-      "options": {
-        "A": "Neomycin",
-        "B": "Metronidazole",
-        "C": "Lactulose",
-        "D": "Rifaximin"
-      },
-      "answer": "C",
-      "explanation": "Correct Answer: C. Lactulose — Lactulose is the first-line treatment. It acidifies colonic pH, converting ammonia (NH3) to ammonium (NH4+) which cannot be absorbed. It also acts as an osmotic laxative, promoting fecal excretion of ammonia.",
-      "chapter": "Hepatic Disease",
-      "topic": "Hepatic Encephalopathy Treatment",
-      "reference": "Ch 21, Page 200, Topic: Encephalopathy Treatment - Lactulose"
-    },
-    {
-      "id": 21,
-      "question": "In liver disease, the dose of which muscle relaxant needs NO adjustment?",
-      "options": {
-        "A": "Vecuronium",
-        "B": "Rocuronium",
-        "C": "Atracurium/Cisatracurium",
-        "D": "Pancuronium"
-      },
-      "answer": "C",
-      "explanation": "Correct Answer: C. Atracurium/Cisatracurium — Atracurium and cisatracurium undergo Hofmann degradation (spontaneous pH and temperature-dependent breakdown) and ester hydrolysis — both independent of hepatic or renal function. They are the neuromuscular blockers of choice in liver disease.",
-      "chapter": "Hepatic Disease",
-      "topic": "Muscle Relaxants in Liver Disease",
-      "reference": "Ch 21, Page 201, Topic: Atracurium/Cisatracurium - Hofmann Degradation"
-    },
-    {
-      "id": 22,
-      "question": "The duration of action of succinylcholine may be PROLONGED in liver disease because:",
-      "options": {
-        "A": "Increased hepatic metabolism",
-        "B": "Decreased plasma cholinesterase (pseudocholinesterase) synthesis",
-        "C": "Increased renal excretion",
-        "D": "Increased volume of distribution"
-      },
-      "answer": "B",
-      "explanation": "Correct Answer: B. Decreased plasma cholinesterase (pseudocholinesterase) synthesis — Plasma cholinesterase (butyrylcholinesterase) is synthesized by the liver. In severe liver disease, reduced synthesis leads to decreased enzyme levels, prolonging the duration of action of succinylcholine and mivacurium.",
-      "chapter": "Hepatic Disease",
-      "topic": "Succinylcholine in Liver Disease",
-      "reference": "Ch 21, Page 201, Topic: Pseudocholinesterase Deficiency"
-    },
-    {
-      "id": 23,
-      "question": "In patients with liver cirrhosis, the sensitivity to sedative drugs is INCREASED due to:",
-      "options": {
-        "A": "Increased hepatic clearance",
-        "B": "Decreased plasma protein binding, increased free drug, and increased cerebral sensitivity",
-        "C": "Increased renal clearance",
-        "D": "Enzyme induction"
-      },
-      "answer": "B",
-      "explanation": "Correct Answer: B. Decreased plasma protein binding, increased free drug, and increased cerebral sensitivity — Low albumin means more free (unbound) drug, decreased hepatic clearance prolongs drug action, and the encephalopathic brain has increased sensitivity to CNS depressants. All contribute to exaggerated drug effects.",
-      "chapter": "Hepatic Disease",
-      "topic": "Pharmacology in Liver Disease",
-      "reference": "Ch 21, Page 201, Topic: Drug Sensitivity in Liver Disease"
-    },
-    {
-      "id": 24,
-      "question": "Which opioid is safest to use in liver disease due to its organ-independent metabolism?",
+      "question": "Which opioid is preferred in liver disease due to minimal hepatic metabolism?",
       "options": {
         "A": "Morphine",
         "B": "Fentanyl",
         "C": "Remifentanil",
-        "D": "Meperidine"
+        "D": "Codeine"
       },
       "answer": "C",
-      "explanation": "Correct Answer: C. Remifentanil — Remifentanil is metabolized by non-specific plasma and tissue esterases, independent of hepatic and renal function. Its pharmacokinetics are essentially unchanged in liver disease.",
+      "explanation": "Correct Answer: C. Remifentanil — Remifentanil is metabolized by tissue esterases (organ-independent). Morphine has prolonged action due to reduced glucuronidation. Fentanyl metabolism is also hepatic-dependent.",
       "chapter": "Hepatic Disease",
-      "topic": "Opioids in Liver Disease",
-      "reference": "Ch 21, Page 201, Topic: Remifentanil in Liver Disease"
+      "topic": "Intraoperative",
+      "reference": "Ch 21, Page 199, Topic: Intraoperative"
+    },
+    {
+      "id": 20,
+      "question": "Induction agent of choice in liver disease is:",
+      "options": {
+        "A": "Thiopentone in full dose",
+        "B": "Propofol in reduced dose",
+        "C": "Ketamine",
+        "D": "Etomidate in full dose"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Propofol in reduced dose — Propofol has both hepatic and extrahepatic metabolism. Dose should be reduced due to hypoalbuminemia (increased free fraction) and reduced hepatic clearance.",
+      "chapter": "Hepatic Disease",
+      "topic": "Intraoperative",
+      "reference": "Ch 21, Page 199, Topic: Intraoperative"
+    },
+    {
+      "id": 21,
+      "question": "Intraoperative monitoring in liver disease should include:",
+      "options": {
+        "A": "Only standard ASA monitoring",
+        "B": "Invasive arterial BP, CVP, urine output, temperature, and coagulation",
+        "C": "Only pulse oximetry and ECG",
+        "D": "Only BIS monitoring"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Invasive arterial BP, CVP, urine output, temperature, and coagulation — Due to coagulopathy, hemodynamic instability, renal vulnerability, and hypothermia risk, comprehensive invasive monitoring is essential.",
+      "chapter": "Hepatic Disease",
+      "topic": "Intraoperative",
+      "reference": "Ch 21, Page 199, Topic: Intraoperative"
+    },
+    {
+      "id": 22,
+      "question": "Regional anesthesia in liver disease is relatively contraindicated when:",
+      "options": {
+        "A": "Albumin is normal",
+        "B": "INR >1.5 or platelets <80,000",
+        "C": "Patient has mild ascites",
+        "D": "Bilirubin is mildly elevated"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. INR >1.5 or platelets <80,000 — Neuraxial techniques carry risk of epidural/spinal hematoma in coagulopathy. Generally contraindicated if INR >1.5, platelets <80,000, or active coagulopathy.",
+      "chapter": "Hepatic Disease",
+      "topic": "Intraoperative",
+      "reference": "Ch 21, Page 199, Topic: Intraoperative"
+    },
+    {
+      "id": 23,
+      "question": "Intraoperative hypoglycemia in liver disease occurs because:",
+      "options": {
+        "A": "Excess insulin production",
+        "B": "Impaired hepatic glycogenolysis and gluconeogenesis",
+        "C": "Increased peripheral glucose utilization",
+        "D": "Renal glucose wasting"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Impaired hepatic glycogenolysis and gluconeogenesis — The liver is the primary organ for maintaining blood glucose. In severe disease, depleted glycogen stores and impaired gluconeogenesis cause hypoglycemia.",
+      "chapter": "Hepatic Disease",
+      "topic": "Intraoperative",
+      "reference": "Ch 21, Page 199, Topic: Intraoperative"
+    },
+    {
+      "id": 24,
+      "question": "Intraoperative fluid management in liver disease should avoid:",
+      "options": {
+        "A": "Normal saline",
+        "B": "Lactated Ringer's solution in severe liver disease",
+        "C": "Albumin",
+        "D": "Packed red blood cells"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Lactated Ringer's solution in severe liver disease — The diseased liver cannot metabolize lactate to bicarbonate efficiently. Lactate accumulation may worsen acidosis. Normal saline or balanced crystalloids without lactate are preferred.",
+      "chapter": "Hepatic Disease",
+      "topic": "Intraoperative",
+      "reference": "Ch 21, Page 199, Topic: Intraoperative"
     },
     {
       "id": 25,
-      "question": "Which volatile anesthetic should be AVOIDED in liver disease due to its potential for hepatotoxicity?",
+      "question": "Which factor most decreases hepatic blood flow during anesthesia?",
       "options": {
-        "A": "Sevoflurane",
-        "B": "Isoflurane",
-        "C": "Halothane",
-        "D": "Desflurane"
+        "A": "IPPV with high airway pressures",
+        "B": "Adequate hydration",
+        "C": "Supine position",
+        "D": "Use of isoflurane"
       },
-      "answer": "C",
-      "explanation": "Correct Answer: C. Halothane — Halothane can cause two types of hepatotoxicity: Type 1 (mild, self-limiting, 20% incidence) and Type 2 (immune-mediated fulminant hepatic necrosis — 'halothane hepatitis', 1 in 35,000). It is avoided in liver disease patients.",
+      "answer": "A",
+      "explanation": "Correct Answer: A. IPPV with high airway pressures — Positive pressure ventilation increases intrathoracic pressure, reducing venous return and thereby reducing portal venous flow. High PEEP worsens this effect.",
       "chapter": "Hepatic Disease",
-      "topic": "Volatile Agents and Liver",
-      "reference": "Ch 21, Page 201, Topic: Halothane Hepatitis"
+      "topic": "Intraoperative",
+      "reference": "Ch 21, Page 199, Topic: Intraoperative"
     },
     {
       "id": 26,
-      "question": "Halothane hepatitis (Type 2) is mediated by:",
+      "question": "Factors that reduce hepatic blood flow intraoperatively include all EXCEPT:",
       "options": {
-        "A": "Direct toxic metabolite",
-        "B": "Immune mechanism (trifluoroacetyl hapten antibody)",
-        "C": "Hepatic ischemia",
-        "D": "Cholestatic mechanism"
+        "A": "Hypotension",
+        "B": "High sympathetic stimulation",
+        "C": "IPPV",
+        "D": "Adequate intravascular volume"
       },
-      "answer": "B",
-      "explanation": "Correct Answer: B. Immune mechanism (trifluoroacetyl hapten antibody) — Type 2 halothane hepatitis is immune-mediated. The oxidative metabolite trifluoroacetyl chloride (TFA) binds to liver proteins forming a hapten, triggering an antibody-mediated immune response causing massive hepatic necrosis.",
+      "answer": "D",
+      "explanation": "Correct Answer: D. Adequate intravascular volume — Maintaining intravascular volume preserves hepatic perfusion. Hypotension, sympathetic stimulation (surgical stress), IPPV, and vasoconstrictors all reduce hepatic blood flow.",
       "chapter": "Hepatic Disease",
-      "topic": "Halothane Hepatitis",
-      "reference": "Ch 21, Page 201, Topic: TFA Hapten - Immune Mechanism"
+      "topic": "Intraoperative",
+      "reference": "Ch 21, Page 199, Topic: Intraoperative"
     },
     {
       "id": 27,
-      "question": "Among modern volatile agents, which reduces hepatic blood flow the LEAST?",
+      "question": "Temperature regulation in liver disease is impaired due to:",
       "options": {
-        "A": "Halothane",
-        "B": "Isoflurane",
-        "C": "Sevoflurane",
-        "D": "Desflurane"
+        "A": "Increased basal metabolic rate",
+        "B": "Reduced hepatic heat production and vasodilation",
+        "C": "Increased shivering threshold",
+        "D": "Hypermetabolic state"
       },
       "answer": "B",
-      "explanation": "Correct Answer: B. Isoflurane — Isoflurane maintains hepatic arterial blood flow better than other volatile agents due to preservation of the hepatic artery buffer response. Halothane significantly reduces hepatic blood flow.",
+      "explanation": "Correct Answer: B. Reduced hepatic heat production and vasodilation — The liver contributes significantly to heat production. Cirrhotic vasodilation increases heat loss. Active warming and temperature monitoring are essential.",
       "chapter": "Hepatic Disease",
-      "topic": "Volatile Agents and Hepatic Blood Flow",
-      "reference": "Ch 21, Page 201, Topic: Isoflurane and Hepatic Blood Flow"
+      "topic": "Intraoperative",
+      "reference": "Ch 21, Page 199, Topic: Intraoperative"
     },
     {
       "id": 28,
-      "question": "Ascites in cirrhosis is primarily due to:",
+      "question": "Benzodiazepines in liver disease have:",
       "options": {
-        "A": "Portal hypertension + hypoalbuminemia + sodium/water retention",
-        "B": "Left heart failure",
-        "C": "Lymphatic obstruction only",
-        "D": "Increased oncotic pressure"
+        "A": "Shorter duration of action",
+        "B": "Prolonged duration due to reduced metabolism and increased free fraction",
+        "C": "No change in pharmacokinetics",
+        "D": "Increased hepatic clearance"
       },
-      "answer": "A",
-      "explanation": "Correct Answer: A. Portal hypertension + hypoalbuminemia + sodium/water retention — Ascites formation requires: portal hypertension (increased hydrostatic pressure), hypoalbuminemia (decreased oncotic pressure), and renal sodium/water retention (due to RAAS activation from splanchnic vasodilation).",
+      "answer": "B",
+      "explanation": "Correct Answer: B. Prolonged duration due to reduced metabolism and increased free fraction — Hepatic oxidation of benzodiazepines is impaired in liver disease. Combined with hypoalbuminemia, this causes prolonged and exaggerated sedation.",
       "chapter": "Hepatic Disease",
-      "topic": "Ascites",
-      "reference": "Ch 21, Page 200, Topic: Pathogenesis of Ascites"
+      "topic": "Intraoperative",
+      "reference": "Ch 21, Page 199, Topic: Intraoperative"
     },
     {
       "id": 29,
-      "question": "What is the anesthetic significance of large-volume ascites?",
-      "options": {
-        "A": "Increased functional residual capacity",
-        "B": "Decreased intra-abdominal pressure, improved ventilation",
-        "C": "Increased risk of aspiration, reduced FRC, splinting of diaphragm",
-        "D": "Improved venous return"
-      },
-      "answer": "C",
-      "explanation": "Correct Answer: C. Increased risk of aspiration, reduced FRC, splinting of diaphragm — Large ascites causes diaphragmatic splinting, reduced FRC, rapid desaturation, increased aspiration risk (full stomach consideration), and may reduce venous return by IVC compression. Rapid sequence intubation may be indicated.",
-      "chapter": "Hepatic Disease",
-      "topic": "Anesthetic Implications of Ascites",
-      "reference": "Ch 21, Page 200, Topic: Ascites - Anesthetic Implications"
-    },
-    {
-      "id": 30,
-      "question": "Spontaneous bacterial peritonitis (SBP) in a cirrhotic patient with ascites is diagnosed by ascitic fluid neutrophil count of:",
-      "options": {
-        "A": ">100 cells/mm3",
-        "B": ">250 cells/mm3",
-        "C": ">500 cells/mm3",
-        "D": ">1000 cells/mm3"
-      },
-      "answer": "B",
-      "explanation": "Correct Answer: B. >250 cells/mm3 — SBP is diagnosed when ascitic fluid absolute neutrophil count exceeds 250 cells/mm3 (with or without positive culture). Empiric antibiotic therapy (cefotaxime) should be started immediately.",
-      "chapter": "Hepatic Disease",
-      "topic": "Spontaneous Bacterial Peritonitis",
-      "reference": "Ch 21, Page 200, Topic: Spontaneous Bacterial Peritonitis"
-    },
-    {
-      "id": 31,
-      "question": "Regional anesthesia (spinal/epidural) in liver disease patients is relatively contraindicated primarily because of:",
-      "options": {
-        "A": "Risk of hepatotoxicity",
-        "B": "Coagulopathy and thrombocytopenia (risk of epidural hematoma)",
-        "C": "Increased sensitivity to local anesthetics",
-        "D": "Risk of hepatorenal syndrome"
-      },
-      "answer": "B",
-      "explanation": "Correct Answer: B. Coagulopathy and thrombocytopenia (risk of epidural hematoma) — The main concern is coagulopathy (elevated INR) and thrombocytopenia, which increase the risk of epidural/spinal hematoma. Neuraxial block is generally avoided if INR >1.5 or platelets <80,000.",
-      "chapter": "Hepatic Disease",
-      "topic": "Regional Anesthesia in Liver Disease",
-      "reference": "Ch 21, Page 201, Topic: Regional Anesthesia - Coagulopathy Risk"
-    },
-    {
-      "id": 32,
-      "question": "Fresh frozen plasma (FFP) is given in liver disease to correct coagulopathy because it contains:",
-      "options": {
-        "A": "Platelets and red blood cells",
-        "B": "All coagulation factors including fibrinogen",
-        "C": "Only Factor VII and Factor IX",
-        "D": "Only antithrombin III"
-      },
-      "answer": "B",
-      "explanation": "Correct Answer: B. All coagulation factors including fibrinogen — FFP contains all coagulation factors at near-physiological concentrations, including fibrinogen. It is the mainstay for correcting coagulopathy in liver disease, particularly before invasive procedures.",
-      "chapter": "Hepatic Disease",
-      "topic": "Coagulopathy Correction",
-      "reference": "Ch 21, Page 200, Topic: Fresh Frozen Plasma"
-    },
-    {
-      "id": 33,
-      "question": "Vitamin K administration corrects coagulopathy in:",
-      "options": {
-        "A": "All types of liver disease",
-        "B": "Only obstructive jaundice (cholestasis)",
-        "C": "Only hepatocellular disease",
-        "D": "Only DIC"
-      },
-      "answer": "B",
-      "explanation": "Correct Answer: B. Only obstructive jaundice (cholestasis) — Vitamin K corrects coagulopathy in obstructive jaundice because the problem is malabsorption of fat-soluble vitamins (K), not impaired synthesis. In hepatocellular disease, the hepatocytes themselves are damaged and cannot synthesize clotting factors even with adequate Vitamin K.",
-      "chapter": "Hepatic Disease",
-      "topic": "Vitamin K in Liver Disease",
-      "reference": "Ch 21, Page 199, Topic: Vitamin K in Obstructive Jaundice"
-    },
-    {
-      "id": 34,
-      "question": "Portal hypertension is defined as portal venous pressure above:",
-      "options": {
-        "A": "3 mmHg",
-        "B": "5 mmHg",
-        "C": "10 mmHg",
-        "D": "15 mmHg"
-      },
-      "answer": "C",
-      "explanation": "Correct Answer: C. 10 mmHg — Normal portal pressure is 5–10 mmHg. Portal hypertension is defined as hepatic venous pressure gradient (HVPG) >5 mmHg or portal pressure >10 mmHg. Clinically significant portal hypertension is HVPG >10 mmHg.",
-      "chapter": "Hepatic Disease",
-      "topic": "Portal Hypertension",
-      "reference": "Ch 21, Page 200, Topic: Portal Hypertension Definition"
-    },
-    {
-      "id": 35,
-      "question": "Esophageal variceal bleeding occurs when portal pressure gradient exceeds:",
-      "options": {
-        "A": "5 mmHg",
-        "B": "8 mmHg",
-        "C": "12 mmHg",
-        "D": "20 mmHg"
-      },
-      "answer": "C",
-      "explanation": "Correct Answer: C. 12 mmHg — Variceal bleeding occurs when HVPG exceeds 12 mmHg. The risk of bleeding increases with variceal size, red color signs on varices, and severity of liver disease.",
-      "chapter": "Hepatic Disease",
-      "topic": "Variceal Bleeding",
-      "reference": "Ch 21, Page 200, Topic: Variceal Bleeding Threshold"
-    },
-    {
-      "id": 36,
-      "question": "The TIPS (Transjugular Intrahepatic Portosystemic Shunt) procedure is used to treat:",
-      "options": {
-        "A": "Hepatic artery thrombosis",
-        "B": "Refractory ascites and variceal bleeding",
-        "C": "Hepatopulmonary syndrome",
-        "D": "Hepatic encephalopathy"
-      },
-      "answer": "B",
-      "explanation": "Correct Answer: B. Refractory ascites and variceal bleeding — TIPS creates a shunt between the hepatic vein and portal vein, decompressing the portal system. It is used for refractory variceal bleeding and refractory ascites. A major side effect is worsening hepatic encephalopathy.",
-      "chapter": "Hepatic Disease",
-      "topic": "TIPS Procedure",
-      "reference": "Ch 21, Page 200, Topic: TIPS Procedure"
-    },
-    {
-      "id": 37,
-      "question": "During liver transplantation, the MOST hemodynamically unstable phase is:",
-      "options": {
-        "A": "Pre-anhepatic phase (dissection)",
-        "B": "Anhepatic phase",
-        "C": "Reperfusion (neohepatic) phase",
-        "D": "Closure phase"
-      },
-      "answer": "C",
-      "explanation": "Correct Answer: C. Reperfusion (neohepatic) phase — The reperfusion phase (unclamping the new liver) is the most dangerous. Post-reperfusion syndrome occurs in ~30% of patients: severe hypotension (>30% decrease in MAP), bradycardia, hyperkalemia, hypothermia, and possible cardiac arrest.",
-      "chapter": "Hepatic Disease",
-      "topic": "Liver Transplantation",
-      "reference": "Ch 21, Page 201, Topic: Liver Transplant - Reperfusion Phase"
-    },
-    {
-      "id": 38,
-      "question": "Post-reperfusion syndrome during liver transplant is defined as:",
-      "options": {
-        "A": ">10% decrease in MAP lasting >1 minute",
-        "B": ">30% decrease in MAP lasting >1 minute within 5 minutes of reperfusion",
-        "C": "Any hypotension after graft implantation",
-        "D": ">50% decrease in heart rate"
-      },
-      "answer": "B",
-      "explanation": "Correct Answer: B. >30% decrease in MAP lasting >1 minute within 5 minutes of reperfusion — Post-reperfusion syndrome = decrease in MAP >30% from baseline, lasting >1 minute, occurring within 5 minutes of portal vein unclamping. It is caused by release of cold, acidotic, hyperkalemic preservation solution and vasoactive mediators from the graft.",
-      "chapter": "Hepatic Disease",
-      "topic": "Post-Reperfusion Syndrome",
-      "reference": "Ch 21, Page 201, Topic: Post-Reperfusion Syndrome"
-    },
-    {
-      "id": 39,
-      "question": "The MOST life-threatening electrolyte abnormality during liver transplant reperfusion is:",
-      "options": {
-        "A": "Hyponatremia",
-        "B": "Hyperkalemia",
-        "C": "Hypocalcemia",
-        "D": "Hypomagnesemia"
-      },
-      "answer": "B",
-      "explanation": "Correct Answer: B. Hyperkalemia — Severe hyperkalemia (from preservation solution and ischemic graft washout) during reperfusion can cause fatal cardiac arrhythmias. Calcium chloride, insulin/glucose, and sodium bicarbonate should be readily available.",
-      "chapter": "Hepatic Disease",
-      "topic": "Liver Transplantation",
-      "reference": "Ch 21, Page 201, Topic: Hyperkalemia During Reperfusion"
-    },
-    {
-      "id": 40,
-      "question": "Hypoglycemia during the anhepatic phase of liver transplant occurs because:",
-      "options": {
-        "A": "Excessive insulin administration",
-        "B": "Absence of hepatic gluconeogenesis and glycogenolysis",
-        "C": "Increased peripheral glucose utilization",
-        "D": "Citrate toxicity"
-      },
-      "answer": "B",
-      "explanation": "Correct Answer: B. Absence of hepatic gluconeogenesis and glycogenolysis — During the anhepatic phase, there is no functional liver for gluconeogenesis or glycogenolysis. Blood glucose must be monitored frequently and 5–10% dextrose infusion may be needed.",
-      "chapter": "Hepatic Disease",
-      "topic": "Anhepatic Phase",
-      "reference": "Ch 21, Page 201, Topic: Anhepatic Phase - Hypoglycemia"
-    },
-    {
-      "id": 41,
-      "question": "Citrate toxicity from massive blood transfusion in liver transplant causes:",
-      "options": {
-        "A": "Hyperkalemia",
-        "B": "Hypocalcemia (citrate chelates ionized calcium)",
-        "C": "Hypernatremia",
-        "D": "Metabolic alkalosis"
-      },
-      "answer": "B",
-      "explanation": "Correct Answer: B. Hypocalcemia (citrate chelates ionized calcium) — Citrate (anticoagulant in stored blood) chelates ionized calcium, causing hypocalcemia. The failing/absent liver cannot metabolize citrate. Hypocalcemia leads to myocardial depression, coagulopathy, and hypotension.",
-      "chapter": "Hepatic Disease",
-      "topic": "Massive Transfusion",
-      "reference": "Ch 21, Page 201, Topic: Citrate Toxicity - Hypocalcemia"
-    },
-    {
-      "id": 42,
-      "question": "The BEST intraoperative monitor for coagulation during liver transplant is:",
-      "options": {
-        "A": "PT/INR",
-        "B": "aPTT",
-        "C": "Thromboelastography (TEG)/ROTEM",
-        "D": "Bleeding time"
-      },
-      "answer": "C",
-      "explanation": "Correct Answer: C. Thromboelastography (TEG)/ROTEM — TEG/ROTEM provides a comprehensive, rapid, point-of-care assessment of the entire coagulation cascade (including fibrinolysis). It guides targeted blood product therapy during liver transplant.",
-      "chapter": "Hepatic Disease",
-      "topic": "Coagulation Monitoring",
-      "reference": "Ch 21, Page 201, Topic: TEG/ROTEM in Liver Transplant"
-    },
-    {
-      "id": 43,
-      "question": "Obstructive jaundice increases the risk of all EXCEPT:",
-      "options": {
-        "A": "Renal failure (hepatorenal syndrome)",
-        "B": "Coagulopathy (Vitamin K malabsorption)",
-        "C": "Increased sensitivity to neuromuscular blockers",
-        "D": "Sepsis and wound infection (impaired immune function)"
-      },
-      "answer": "C",
-      "explanation": "Correct Answer: C. Increased sensitivity to neuromuscular blockers — Obstructive jaundice increases risk of renal failure, coagulopathy (malabsorption of fat-soluble Vitamin K), sepsis/wound infection, and endotoxemia. Neuromuscular blocker sensitivity is not specifically increased.",
-      "chapter": "Hepatic Disease",
-      "topic": "Obstructive Jaundice",
-      "reference": "Ch 21, Page 199, Topic: Obstructive Jaundice Risks"
-    },
-    {
-      "id": 44,
-      "question": "Preoperative biliary drainage before surgery for obstructive jaundice is recommended to:",
-      "options": {
-        "A": "Improve nutritional status",
-        "B": "Reduce the risk of renal failure and sepsis",
-        "C": "Correct anemia",
-        "D": "Prevent pancreatitis"
-      },
-      "answer": "B",
-      "explanation": "Correct Answer: B. Reduce the risk of renal failure and sepsis — Preoperative biliary drainage reduces serum bilirubin, improves coagulation (Vitamin K absorption), and reduces the risk of postoperative renal failure and sepsis, particularly when bilirubin is >10 mg/dL.",
-      "chapter": "Hepatic Disease",
-      "topic": "Obstructive Jaundice",
-      "reference": "Ch 21, Page 199, Topic: Preoperative Biliary Drainage"
-    },
-    {
-      "id": 45,
-      "question": "To prevent renal failure in patients with obstructive jaundice, the key preoperative measure is:",
-      "options": {
-        "A": "Dopamine infusion",
-        "B": "Adequate hydration and mannitol diuresis",
-        "C": "Furosemide infusion",
-        "D": "Dialysis"
-      },
-      "answer": "B",
-      "explanation": "Correct Answer: B. Adequate hydration and mannitol diuresis — Adequate preoperative hydration is crucial. Mannitol infusion (to maintain urine output) before surgery helps prevent renal tubular damage from bile salt nephrotoxicity in obstructive jaundice.",
-      "chapter": "Hepatic Disease",
-      "topic": "Renal Protection in Jaundice",
-      "reference": "Ch 21, Page 199, Topic: Renal Protection - Mannitol"
-    },
-    {
-      "id": 46,
-      "question": "Phase I drug metabolism (oxidation, reduction, hydrolysis) in liver disease is:",
-      "options": {
-        "A": "Significantly increased",
-        "B": "Significantly impaired",
-        "C": "Unchanged",
-        "D": "Only affected in cholestatic disease"
-      },
-      "answer": "B",
-      "explanation": "Correct Answer: B. Significantly impaired — Phase I reactions (cytochrome P450-dependent) are significantly impaired in liver disease due to reduced enzyme activity and hepatic blood flow. Phase II reactions (conjugation) are relatively preserved until advanced disease.",
-      "chapter": "Hepatic Disease",
-      "topic": "Drug Metabolism",
-      "reference": "Ch 21, Page 201, Topic: Phase I Drug Metabolism"
-    },
-    {
-      "id": 47,
-      "question": "Which benzodiazepine is preferred in liver disease due to its simpler metabolism?",
+      "question": "Which benzodiazepine is relatively safer in liver disease due to glucuronidation (Phase II) metabolism?",
       "options": {
         "A": "Diazepam",
         "B": "Midazolam",
@@ -705,55 +435,325 @@
         "D": "Chlordiazepoxide"
       },
       "answer": "C",
-      "explanation": "Correct Answer: C. Oxazepam/Lorazepam — Oxazepam and lorazepam undergo only Phase II conjugation (glucuronidation), which is preserved in liver disease. Diazepam and midazolam require Phase I oxidation, which is impaired in liver disease.",
+      "explanation": "Correct Answer: C. Oxazepam/Lorazepam — Oxazepam and lorazepam undergo Phase II conjugation (glucuronidation) which is relatively preserved in liver disease, unlike Phase I oxidation (diazepam, midazolam).",
       "chapter": "Hepatic Disease",
-      "topic": "Benzodiazepines in Liver Disease",
-      "reference": "Ch 21, Page 201, Topic: Oxazepam/Lorazepam - Phase II Only"
+      "topic": "Intraoperative",
+      "reference": "Ch 21, Page 199, Topic: Intraoperative"
+    },
+    {
+      "id": 30,
+      "question": "The hepatic artery buffer response refers to:",
+      "options": {
+        "A": "Increase in portal vein flow when hepatic artery flow decreases",
+        "B": "Compensatory increase in hepatic artery flow when portal venous flow decreases",
+        "C": "Shunting of blood through portosystemic collaterals",
+        "D": "Decrease in both hepatic artery and portal vein flow"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Compensatory increase in hepatic artery flow when portal venous flow decreases — This semi-reciprocal mechanism maintains total hepatic blood flow and oxygen delivery when portal flow is reduced.",
+      "chapter": "Hepatic Disease",
+      "topic": "Intraoperative",
+      "reference": "Ch 21, Page 199, Topic: Intraoperative"
+    },
+    {
+      "id": 31,
+      "question": "Intraoperative management of ascites includes:",
+      "options": {
+        "A": "Ignoring it during surgery",
+        "B": "Rapid paracentesis of all fluid at induction",
+        "C": "Careful drainage with albumin replacement to prevent cardiovascular collapse",
+        "D": "Using high-dose diuretics during surgery"
+      },
+      "answer": "C",
+      "explanation": "Correct Answer: C. Careful drainage with albumin replacement to prevent cardiovascular collapse — Large volume paracentesis (>5L) requires albumin replacement (6-8g per liter removed) to prevent post-paracentesis circulatory dysfunction.",
+      "chapter": "Hepatic Disease",
+      "topic": "Intraoperative",
+      "reference": "Ch 21, Page 199, Topic: Intraoperative"
+    },
+    {
+      "id": 32,
+      "question": "Hepatorenal syndrome is characterized by:",
+      "options": {
+        "A": "Structural renal damage",
+        "B": "Functional renal failure due to splanchnic vasodilation and renal vasoconstriction",
+        "C": "Obstructive uropathy",
+        "D": "Glomerulonephritis"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Functional renal failure due to splanchnic vasodilation and renal vasoconstriction — Hepatorenal syndrome is functional (kidneys are structurally normal). Splanchnic vasodilation causes underfilling, activating RAAS and causing renal vasoconstriction.",
+      "chapter": "Hepatic Disease",
+      "topic": "Preoperative Evaluation",
+      "reference": "Ch 21, Page 199, Topic: Preoperative Evaluation"
+    },
+    {
+      "id": 33,
+      "question": "Obstructive jaundice (biliary obstruction) is characterized by:",
+      "options": {
+        "A": "Elevated unconjugated bilirubin only",
+        "B": "Elevated conjugated bilirubin, raised ALP, pale stools, dark urine",
+        "C": "Normal bilirubin with elevated transaminases",
+        "D": "Elevated unconjugated bilirubin with normal ALP"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Elevated conjugated bilirubin, raised ALP, pale stools, dark urine — Biliary obstruction causes conjugated hyperbilirubinemia, markedly elevated alkaline phosphatase and GGT, acholic stools, and choluria.",
+      "chapter": "Hepatic Disease",
+      "topic": "Anesthesia for Biliary Obstruction",
+      "reference": "Ch 21, Page 200, Topic: Anesthesia for Patients with Biliary Obstruction"
+    },
+    {
+      "id": 34,
+      "question": "In obstructive jaundice, Vitamin K deficiency occurs because:",
+      "options": {
+        "A": "Increased renal excretion of Vitamin K",
+        "B": "Lack of bile salts prevents fat-soluble vitamin absorption from gut",
+        "C": "Increased hepatic metabolism of Vitamin K",
+        "D": "Dietary deficiency"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Lack of bile salts prevents fat-soluble vitamin absorption from gut — Bile salts are essential for absorption of fat-soluble vitamins (A, D, E, K). Without bile in the gut, Vitamin K malabsorption causes coagulopathy.",
+      "chapter": "Hepatic Disease",
+      "topic": "Anesthesia for Biliary Obstruction",
+      "reference": "Ch 21, Page 200, Topic: Anesthesia for Patients with Biliary Obstruction"
+    },
+    {
+      "id": 35,
+      "question": "In obstructive jaundice, coagulopathy from Vitamin K deficiency responds to parenteral Vitamin K within:",
+      "options": {
+        "A": "1-2 hours",
+        "B": "6-12 hours",
+        "C": "24-48 hours",
+        "D": "5-7 days"
+      },
+      "answer": "C",
+      "explanation": "Correct Answer: C. 24-48 hours — Parenteral Vitamin K corrects coagulopathy in obstructive jaundice within 24-48 hours. If PT does not correct with Vitamin K, it suggests hepatocellular damage rather than pure obstruction.",
+      "chapter": "Hepatic Disease",
+      "topic": "Anesthesia for Biliary Obstruction",
+      "reference": "Ch 21, Page 200, Topic: Anesthesia for Patients with Biliary Obstruction"
+    },
+    {
+      "id": 36,
+      "question": "The major renal risk in obstructive jaundice is:",
+      "options": {
+        "A": "Renal calculi",
+        "B": "Acute tubular necrosis (hepatorenal syndrome/bile nephropathy)",
+        "C": "Renal artery stenosis",
+        "D": "Pyelonephritis"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Acute tubular necrosis (hepatorenal syndrome/bile nephropathy) — Obstructive jaundice predisposes to renal failure due to direct bilirubin toxicity to renal tubules, endotoxemia, and reduced renal perfusion.",
+      "chapter": "Hepatic Disease",
+      "topic": "Anesthesia for Biliary Obstruction",
+      "reference": "Ch 21, Page 200, Topic: Anesthesia for Patients with Biliary Obstruction"
+    },
+    {
+      "id": 37,
+      "question": "Renal protection in obstructive jaundice includes:",
+      "options": {
+        "A": "Fluid restriction",
+        "B": "Adequate preoperative hydration and maintaining urine output",
+        "C": "Use of nephrotoxic antibiotics",
+        "D": "High-dose loop diuretics"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Adequate preoperative hydration and maintaining urine output — Preoperative IV fluids, maintaining urine output >0.5-1 mL/kg/hr, and avoiding nephrotoxic drugs are essential for renal protection in jaundiced patients.",
+      "chapter": "Hepatic Disease",
+      "topic": "Anesthesia for Biliary Obstruction",
+      "reference": "Ch 21, Page 200, Topic: Anesthesia for Patients with Biliary Obstruction"
+    },
+    {
+      "id": 38,
+      "question": "Endotoxemia in obstructive jaundice occurs because:",
+      "options": {
+        "A": "Excess bile production",
+        "B": "Absence of bile in gut allows bacterial overgrowth and endotoxin absorption",
+        "C": "Direct liver cell necrosis",
+        "D": "Renal failure"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Absence of bile in gut allows bacterial overgrowth and endotoxin absorption — Bile salts normally prevent bacterial overgrowth and endotoxin absorption from the gut. Their absence leads to endotoxemia, predisposing to sepsis and renal failure.",
+      "chapter": "Hepatic Disease",
+      "topic": "Anesthesia for Biliary Obstruction",
+      "reference": "Ch 21, Page 200, Topic: Anesthesia for Patients with Biliary Obstruction"
+    },
+    {
+      "id": 39,
+      "question": "Preoperative biliary drainage (PTBD/stenting) before surgery in obstructive jaundice is considered when:",
+      "options": {
+        "A": "Bilirubin is mildly elevated",
+        "B": "Bilirubin >10 mg/dL with planned major surgery, to reduce complications",
+        "C": "Patient is asymptomatic",
+        "D": "Only for cosmetic reasons"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Bilirubin >10 mg/dL with planned major surgery, to reduce complications — Preoperative biliary drainage may reduce renal complications, sepsis, and wound healing problems in severely jaundiced patients undergoing major procedures.",
+      "chapter": "Hepatic Disease",
+      "topic": "Anesthesia for Biliary Obstruction",
+      "reference": "Ch 21, Page 200, Topic: Anesthesia for Patients with Biliary Obstruction"
+    },
+    {
+      "id": 40,
+      "question": "Anesthetic technique for patients with biliary obstruction preferably avoids:",
+      "options": {
+        "A": "Propofol",
+        "B": "Morphine and drugs causing sphincter of Oddi spasm",
+        "C": "Fentanyl",
+        "D": "Atracurium"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Morphine and drugs causing sphincter of Oddi spasm — Morphine causes sphincter of Oddi spasm (up to 50-fold increase in biliary pressure). Fentanyl has less effect; glucagon or naloxone can reverse spasm if needed.",
+      "chapter": "Hepatic Disease",
+      "topic": "Anesthesia for Biliary Obstruction",
+      "reference": "Ch 21, Page 200, Topic: Anesthesia for Patients with Biliary Obstruction"
+    },
+    {
+      "id": 41,
+      "question": "Which drug can relieve morphine-induced sphincter of Oddi spasm?",
+      "options": {
+        "A": "Atropine",
+        "B": "Glucagon",
+        "C": "Adrenaline",
+        "D": "Propranolol"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Glucagon — Glucagon relaxes the sphincter of Oddi smooth muscle. Naloxone (opioid reversal), nitroglycerin, and volatile anesthetics also help relieve opioid-induced biliary spasm.",
+      "chapter": "Hepatic Disease",
+      "topic": "Anesthesia for Biliary Obstruction",
+      "reference": "Ch 21, Page 200, Topic: Anesthesia for Patients with Biliary Obstruction"
+    },
+    {
+      "id": 42,
+      "question": "Pruritus in obstructive jaundice is caused by:",
+      "options": {
+        "A": "Elevated bilirubin directly",
+        "B": "Deposition of bile salts in the skin",
+        "C": "Bacterial infection",
+        "D": "Vitamin K deficiency"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Deposition of bile salts in the skin — Retained bile salts deposit in the skin and stimulate nerve endings causing intense pruritus. Cholestyramine (bile salt binder) and rifampin may provide relief.",
+      "chapter": "Hepatic Disease",
+      "topic": "Anesthesia for Biliary Obstruction",
+      "reference": "Ch 21, Page 200, Topic: Anesthesia for Patients with Biliary Obstruction"
+    },
+    {
+      "id": 43,
+      "question": "Wound healing in obstructive jaundice is impaired due to:",
+      "options": {
+        "A": "Excess Vitamin A",
+        "B": "Malnutrition, Vitamin K deficiency, and reduced immunity",
+        "C": "Excess collagen production",
+        "D": "Increased blood supply to wound"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Malnutrition, Vitamin K deficiency, and reduced immunity — Obstructive jaundice impairs wound healing through protein malnutrition, fat-soluble vitamin deficiency, impaired immune function, and endotoxemia.",
+      "chapter": "Hepatic Disease",
+      "topic": "Anesthesia for Biliary Obstruction",
+      "reference": "Ch 21, Page 200, Topic: Anesthesia for Patients with Biliary Obstruction"
+    },
+    {
+      "id": 44,
+      "question": "Bradycardia is more common in jaundiced patients because:",
+      "options": {
+        "A": "Pain",
+        "B": "Bile salts sensitize the myocardium to vagal stimulation",
+        "C": "Hypovolemia",
+        "D": "Hypoglycemia"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Bile salts sensitize the myocardium to vagal stimulation — Elevated bile salts increase cardiac sensitivity to vagal tone and depress myocardial contractility. Atropine should be readily available.",
+      "chapter": "Hepatic Disease",
+      "topic": "Anesthesia for Biliary Obstruction",
+      "reference": "Ch 21, Page 200, Topic: Anesthesia for Patients with Biliary Obstruction"
+    },
+    {
+      "id": 45,
+      "question": "In obstructive jaundice, which antibiotic prophylaxis is important preoperatively?",
+      "options": {
+        "A": "Not needed",
+        "B": "Broad-spectrum antibiotics covering gram-negative and anaerobic organisms",
+        "C": "Only antifungals",
+        "D": "Only gram-positive coverage"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Broad-spectrum antibiotics covering gram-negative and anaerobic organisms — Cholangitis is common; biliary organisms include E. coli, Klebsiella, Enterococcus, and anaerobes. Prophylaxis with piperacillin-tazobactam or similar is important.",
+      "chapter": "Hepatic Disease",
+      "topic": "Anesthesia for Biliary Obstruction",
+      "reference": "Ch 21, Page 200, Topic: Anesthesia for Patients with Biliary Obstruction"
+    },
+    {
+      "id": 46,
+      "question": "Vecuronium and rocuronium should be used cautiously in liver disease because:",
+      "options": {
+        "A": "They cause histamine release",
+        "B": "They undergo significant hepatic metabolism and biliary excretion",
+        "C": "They worsen hepatic encephalopathy",
+        "D": "They cause liver necrosis"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. They undergo significant hepatic metabolism and biliary excretion — Vecuronium (40-60% biliary excretion) and rocuronium (hepatic uptake) have prolonged duration in liver disease. Atracurium/cisatracurium are preferred alternatives.",
+      "chapter": "Hepatic Disease",
+      "topic": "Intraoperative",
+      "reference": "Ch 21, Page 199, Topic: Intraoperative"
+    },
+    {
+      "id": 47,
+      "question": "Postoperative jaundice in previously healthy patient may be caused by all EXCEPT:",
+      "options": {
+        "A": "Blood transfusion (hemolysis)",
+        "B": "Halothane hepatitis",
+        "C": "Hypotension-related hepatic ischemia",
+        "D": "Use of atracurium"
+      },
+      "answer": "D",
+      "explanation": "Correct Answer: D. Use of atracurium — Atracurium does not affect the liver. Postoperative jaundice can result from blood transfusion hemolysis, drug-induced hepatitis (halothane), hepatic ischemia (hypotension), or sepsis.",
+      "chapter": "Hepatic Disease",
+      "topic": "Intraoperative",
+      "reference": "Ch 21, Page 199, Topic: Intraoperative"
     },
     {
       "id": 48,
-      "question": "The most common cause of postoperative jaundice is:",
+      "question": "In biliary surgery, intraoperative cholangiography may produce false positive results if which drug has been given?",
       "options": {
-        "A": "Halothane hepatitis",
-        "B": "Increased bilirubin load (blood transfusion, hematoma reabsorption)",
-        "C": "Common bile duct injury",
-        "D": "Gilbert's syndrome"
+        "A": "Propofol",
+        "B": "Morphine (sphincter of Oddi spasm mimics stone)",
+        "C": "Atracurium",
+        "D": "Sevoflurane"
       },
       "answer": "B",
-      "explanation": "Correct Answer: B. Increased bilirubin load (blood transfusion, hematoma reabsorption) — The most common cause of postoperative jaundice is increased bilirubin production from blood transfusions (hemolysis of stored blood), hematoma reabsorption, and hemolytic reactions, not hepatocellular damage.",
+      "explanation": "Correct Answer: B. Morphine (sphincter of Oddi spasm mimics stone) — Morphine-induced sphincter of Oddi spasm can prevent contrast flow into the duodenum, mimicking a common bile duct stone on cholangiography.",
       "chapter": "Hepatic Disease",
-      "topic": "Postoperative Jaundice",
-      "reference": "Ch 21, Page 201, Topic: Postoperative Jaundice Causes"
+      "topic": "Anesthesia for Biliary Obstruction",
+      "reference": "Ch 21, Page 200, Topic: Anesthesia for Patients with Biliary Obstruction"
     },
     {
       "id": 49,
-      "question": "In a patient with liver cirrhosis undergoing emergency surgery, the MOST important preoperative correction is:",
+      "question": "Mannitol is sometimes used in obstructive jaundice surgery to:",
       "options": {
-        "A": "Serum albumin",
-        "B": "Coagulopathy (FFP, platelets, Vitamin K)",
-        "C": "Ascites drainage",
-        "D": "Encephalopathy treatment"
+        "A": "Reduce intracranial pressure",
+        "B": "Maintain renal perfusion and urine output (renal protection)",
+        "C": "Reduce portal pressure",
+        "D": "Treat hyperkalemia"
       },
       "answer": "B",
-      "explanation": "Correct Answer: B. Coagulopathy (FFP, platelets, Vitamin K) — Correction of coagulopathy is the highest priority before surgery to prevent catastrophic intraoperative bleeding. Target INR <1.5 (with FFP), platelets >50,000 (with platelet transfusion), and fibrinogen >100 mg/dL.",
+      "explanation": "Correct Answer: B. Maintain renal perfusion and urine output (renal protection) — Mannitol (osmotic diuretic) helps maintain renal tubular flow and prevent bile pigment-induced tubular damage in jaundiced patients.",
       "chapter": "Hepatic Disease",
-      "topic": "Preoperative Preparation",
-      "reference": "Ch 21, Page 199, Topic: Emergency Surgery - Coagulopathy Correction"
+      "topic": "Anesthesia for Biliary Obstruction",
+      "reference": "Ch 21, Page 200, Topic: Anesthesia for Patients with Biliary Obstruction"
     },
     {
       "id": 50,
-      "question": "Which monitoring is essential during major surgery in a cirrhotic patient?",
+      "question": "Which is the safest volatile agent regarding hepatic blood flow preservation?",
       "options": {
-        "A": "Only standard ASA monitors",
-        "B": "Invasive arterial BP, CVP, urine output, temperature, and serial ABGs/electrolytes",
-        "C": "Only non-invasive BP and pulse oximetry",
-        "D": "BIS monitoring only"
+        "A": "Halothane",
+        "B": "Enflurane",
+        "C": "Isoflurane/Sevoflurane",
+        "D": "Desflurane at high MAC"
       },
-      "answer": "B",
-      "explanation": "Correct Answer: B. Invasive arterial BP, CVP, urine output, temperature, and serial ABGs/electrolytes — Major surgery in cirrhotic patients requires invasive arterial monitoring (beat-to-beat BP and ABG sampling), CVP (fluid management), urinary catheter (renal function), temperature monitoring, and serial labs (glucose, electrolytes, coagulation).",
+      "answer": "C",
+      "explanation": "Correct Answer: C. Isoflurane/Sevoflurane — Isoflurane and sevoflurane best preserve hepatic arterial buffer response and total hepatic blood flow. Halothane causes the greatest reduction in hepatic blood flow.",
       "chapter": "Hepatic Disease",
-      "topic": "Monitoring in Liver Disease",
-      "reference": "Ch 21, Page 201, Topic: Invasive Monitoring in Cirrhosis"
+      "topic": "Intraoperative",
+      "reference": "Ch 21, Page 199, Topic: Intraoperative"
     }
   ]
 }

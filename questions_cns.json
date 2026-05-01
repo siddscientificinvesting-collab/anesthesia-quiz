@@ -7,753 +7,753 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is the normal intracranial pressure (ICP) in a supine adult?",
+      "question": "In a patient with Parkinson's disease, which drug should be continued on the morning of surgery?",
       "options": {
-        "A": "0–5 mmHg",
-        "B": "5–15 mmHg",
-        "C": "15–25 mmHg",
-        "D": "25–35 mmHg"
+        "A": "Anticholinergics",
+        "B": "Levodopa/Carbidopa",
+        "C": "Benzodiazepines",
+        "D": "MAO-B inhibitors"
       },
       "answer": "B",
-      "explanation": "Correct Answer: B. 5–15 mmHg — Normal ICP in a supine adult ranges from 5–15 mmHg. Values above 20 mmHg are considered raised and require treatment.",
+      "explanation": "Correct Answer: B. Levodopa/Carbidopa — Levodopa should be continued perioperatively to prevent rigidity, tremor, and difficulty with ventilation. Abrupt withdrawal can cause neuroleptic malignant-like syndrome.",
       "chapter": "CNS Diseases",
-      "topic": "Intracranial Pressure",
-      "reference": "Ch 20, Page 196, Topic: Intracranial Pressure"
+      "topic": "Parkinson's Disease",
+      "reference": "Ch 20, Page 196, Topic: Parkinson's Disease"
     },
     {
       "id": 2,
-      "question": "The Monro-Kellie doctrine states that the cranial vault contains three components. Which of the following is NOT one of them?",
-      "options": {
-        "A": "Brain parenchyma (80%)",
-        "B": "Cerebrospinal fluid (10%)",
-        "C": "Blood (10%)",
-        "D": "Bone marrow (10%)"
-      },
-      "answer": "D",
-      "explanation": "Correct Answer: D. Bone marrow (10%) — The Monro-Kellie doctrine states the skull contains brain tissue (~80%), CSF (~10%), and blood (~10%). An increase in any one must be compensated by a decrease in another.",
-      "chapter": "CNS Diseases",
-      "topic": "Monro-Kellie Doctrine",
-      "reference": "Ch 20, Page 196, Topic: Monro-Kellie Doctrine"
-    },
-    {
-      "id": 3,
-      "question": "Which of the following is the most important determinant of cerebral blood flow (CBF)?",
-      "options": {
-        "A": "PaO2",
-        "B": "PaCO2",
-        "C": "Mean arterial pressure",
-        "D": "Central venous pressure"
-      },
-      "answer": "B",
-      "explanation": "Correct Answer: B. PaCO2 — PaCO2 is the most potent physiological regulator of CBF. For every 1 mmHg change in PaCO2, CBF changes by approximately 1–2 mL/100g/min.",
-      "chapter": "CNS Diseases",
-      "topic": "Cerebral Blood Flow",
-      "reference": "Ch 20, Page 196, Topic: Cerebral Blood Flow Regulation"
-    },
-    {
-      "id": 4,
-      "question": "Normal cerebral blood flow (CBF) in an adult is approximately:",
-      "options": {
-        "A": "25 mL/100g/min",
-        "B": "50 mL/100g/min",
-        "C": "75 mL/100g/min",
-        "D": "100 mL/100g/min"
-      },
-      "answer": "B",
-      "explanation": "Correct Answer: B. 50 mL/100g/min — Normal CBF is approximately 50 mL/100g/min, with grey matter receiving 80 mL/100g/min and white matter 20 mL/100g/min.",
-      "chapter": "CNS Diseases",
-      "topic": "Cerebral Blood Flow",
-      "reference": "Ch 20, Page 196, Topic: Normal CBF Values"
-    },
-    {
-      "id": 5,
-      "question": "Cerebral autoregulation maintains constant CBF over a MAP range of:",
-      "options": {
-        "A": "30–80 mmHg",
-        "B": "50–150 mmHg",
-        "C": "70–170 mmHg",
-        "D": "90–200 mmHg"
-      },
-      "answer": "B",
-      "explanation": "Correct Answer: B. 50–150 mmHg — Cerebral autoregulation operates between MAP of 50–150 mmHg. Below 50 mmHg, ischemia occurs; above 150 mmHg, breakthrough edema may result.",
-      "chapter": "CNS Diseases",
-      "topic": "Cerebral Autoregulation",
-      "reference": "Ch 20, Page 196, Topic: Cerebral Autoregulation"
-    },
-    {
-      "id": 6,
-      "question": "At what PaO2 level does significant cerebral vasodilation begin?",
-      "options": {
-        "A": "Below 100 mmHg",
-        "B": "Below 80 mmHg",
-        "C": "Below 60 mmHg",
-        "D": "Below 40 mmHg"
-      },
-      "answer": "C",
-      "explanation": "Correct Answer: C. Below 60 mmHg — Significant cerebral vasodilation occurs when PaO2 falls below 60 mmHg. Above this threshold, oxygen has minimal effect on CBF.",
-      "chapter": "CNS Diseases",
-      "topic": "Cerebral Blood Flow",
-      "reference": "Ch 20, Page 196, Topic: Effect of PaO2 on CBF"
-    },
-    {
-      "id": 7,
-      "question": "Which intravenous anesthetic agent causes the GREATEST reduction in cerebral metabolic rate (CMRO2)?",
-      "options": {
-        "A": "Ketamine",
-        "B": "Thiopentone",
-        "C": "Midazolam",
-        "D": "Fentanyl"
-      },
-      "answer": "B",
-      "explanation": "Correct Answer: B. Thiopentone — Thiopentone (and other barbiturates) produce the greatest reduction in CMRO2, up to 55–60% reduction. They are used for cerebral protection ('barbiturate coma').",
-      "chapter": "CNS Diseases",
-      "topic": "Effects of IV Agents on CBF",
-      "reference": "Ch 20, Page 197, Topic: IV Anesthetics and CMRO2"
-    },
-    {
-      "id": 8,
-      "question": "Which intravenous anesthetic agent INCREASES cerebral blood flow and ICP?",
+      "question": "Which anesthetic agent should be AVOIDED in Parkinson's disease due to its antidopaminergic effects?",
       "options": {
         "A": "Propofol",
-        "B": "Etomidate",
-        "C": "Ketamine",
+        "B": "Ketamine",
+        "C": "Droperidol",
         "D": "Thiopentone"
       },
       "answer": "C",
-      "explanation": "Correct Answer: C. Ketamine — Ketamine increases CMRO2, CBF, and ICP. It is generally avoided in patients with raised intracranial pressure.",
+      "explanation": "Correct Answer: C. Droperidol — Droperidol and other butyrophenones have antidopaminergic activity and can worsen parkinsonian symptoms. Metoclopramide should also be avoided for the same reason.",
       "chapter": "CNS Diseases",
-      "topic": "Effects of IV Agents on CBF",
-      "reference": "Ch 20, Page 197, Topic: Ketamine and ICP"
+      "topic": "Parkinson's Disease",
+      "reference": "Ch 20, Page 196, Topic: Parkinson's Disease"
+    },
+    {
+      "id": 3,
+      "question": "Parkinson's disease patients are at increased risk of which respiratory complication?",
+      "options": {
+        "A": "Bronchospasm",
+        "B": "Aspiration pneumonia",
+        "C": "Pneumothorax",
+        "D": "Pulmonary embolism"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Aspiration pneumonia — Parkinsonian patients have swallowing dysfunction and pharyngeal muscle rigidity leading to increased risk of aspiration. Rapid sequence induction may be considered.",
+      "chapter": "CNS Diseases",
+      "topic": "Parkinson's Disease",
+      "reference": "Ch 20, Page 196, Topic: Parkinson's Disease"
+    },
+    {
+      "id": 4,
+      "question": "Which interaction is most dangerous in a patient taking Selegiline (MAO-B inhibitor) for Parkinson's disease?",
+      "options": {
+        "A": "Propofol causing bradycardia",
+        "B": "Meperidine (Pethidine) causing serotonin syndrome",
+        "C": "Succinylcholine causing hyperkalemia",
+        "D": "Atracurium causing histamine release"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Meperidine (Pethidine) causing serotonin syndrome — MAO inhibitors with meperidine can cause fatal serotonin syndrome (hyperthermia, rigidity, seizures). Meperidine must be avoided in these patients.",
+      "chapter": "CNS Diseases",
+      "topic": "Parkinson's Disease",
+      "reference": "Ch 20, Page 196, Topic: Parkinson's Disease"
+    },
+    {
+      "id": 5,
+      "question": "In Alzheimer's disease, which enzyme inhibitor is used for treatment and may prolong the action of succinylcholine?",
+      "options": {
+        "A": "MAO inhibitors",
+        "B": "Anticholinesterase inhibitors (Donepezil)",
+        "C": "ACE inhibitors",
+        "D": "Proton pump inhibitors"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Anticholinesterase inhibitors (Donepezil) — Donepezil inhibits cholinesterase, which can prolong the duration of succinylcholine and antagonize non-depolarizing neuromuscular blocking agents.",
+      "chapter": "CNS Diseases",
+      "topic": "Alzheimer's Disease",
+      "reference": "Ch 20, Page 196, Topic: Alzheimer's Disease"
+    },
+    {
+      "id": 6,
+      "question": "Which of the following is a primary anesthetic concern in Alzheimer's disease?",
+      "options": {
+        "A": "Malignant hyperthermia",
+        "B": "Postoperative cognitive dysfunction (POCD)",
+        "C": "Autonomic hyperreflexia",
+        "D": "Latex allergy"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Postoperative cognitive dysfunction (POCD) — Alzheimer's patients are at increased risk of POCD and postoperative delirium. Centrally acting anticholinergics (atropine) should be avoided.",
+      "chapter": "CNS Diseases",
+      "topic": "Alzheimer's Disease",
+      "reference": "Ch 20, Page 196, Topic: Alzheimer's Disease"
+    },
+    {
+      "id": 7,
+      "question": "Which anticholinergic is preferred in Alzheimer's disease patients?",
+      "options": {
+        "A": "Atropine",
+        "B": "Scopolamine (Hyoscine)",
+        "C": "Glycopyrrolate",
+        "D": "Ipratropium"
+      },
+      "answer": "C",
+      "explanation": "Correct Answer: C. Glycopyrrolate — Glycopyrrolate does not cross the blood-brain barrier and is preferred over atropine or scopolamine, which can worsen confusion and cognitive dysfunction in Alzheimer's patients.",
+      "chapter": "CNS Diseases",
+      "topic": "Alzheimer's Disease",
+      "reference": "Ch 20, Page 196, Topic: Alzheimer's Disease"
+    },
+    {
+      "id": 8,
+      "question": "The primary anesthetic concern in epilepsy is:",
+      "options": {
+        "A": "Avoiding all inhalational agents",
+        "B": "Perioperative seizure prevention and drug interactions",
+        "C": "Mandatory use of regional anesthesia",
+        "D": "Avoiding opioids completely"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Perioperative seizure prevention and drug interactions — Antiepileptic drugs must be continued perioperatively. Many anticonvulsants induce hepatic enzymes, altering metabolism of anesthetic drugs.",
+      "chapter": "CNS Diseases",
+      "topic": "Epilepsy",
+      "reference": "Ch 20, Page 196, Topic: Epilepsy"
     },
     {
       "id": 9,
-      "question": "Among volatile anesthetic agents, which causes the LEAST increase in ICP?",
+      "question": "Which anesthetic agent has the HIGHEST seizure-provoking potential?",
       "options": {
-        "A": "Halothane",
-        "B": "Isoflurane",
-        "C": "Sevoflurane",
-        "D": "Desflurane"
+        "A": "Propofol",
+        "B": "Sevoflurane",
+        "C": "Enflurane",
+        "D": "Isoflurane"
       },
       "answer": "C",
-      "explanation": "Correct Answer: C. Sevoflurane — Sevoflurane causes the least cerebral vasodilation among volatile agents and has minimal effect on ICP at concentrations <1 MAC. Halothane causes the most increase in ICP.",
+      "explanation": "Correct Answer: C. Enflurane — Enflurane at high concentrations (>2 MAC) especially with hypocapnia produces epileptiform EEG activity. It should be avoided in epileptic patients.",
       "chapter": "CNS Diseases",
-      "topic": "Volatile Agents and ICP",
-      "reference": "Ch 20, Page 197, Topic: Inhalational Agents and ICP"
+      "topic": "Epilepsy",
+      "reference": "Ch 20, Page 196, Topic: Epilepsy"
     },
     {
       "id": 10,
-      "question": "The cerebral perfusion pressure (CPP) is calculated as:",
+      "question": "Chronic phenytoin therapy affects neuromuscular blocking agents by:",
       "options": {
-        "A": "MAP – CVP",
-        "B": "MAP – ICP",
-        "C": "Systolic BP – ICP",
-        "D": "Diastolic BP – CVP"
+        "A": "Prolonging the action of non-depolarizing agents",
+        "B": "Causing resistance to non-depolarizing agents",
+        "C": "Prolonging the action of succinylcholine",
+        "D": "Having no effect on muscle relaxants"
       },
       "answer": "B",
-      "explanation": "Correct Answer: B. MAP – ICP — CPP = MAP – ICP. Normal CPP is 70–80 mmHg. CPP below 50 mmHg may lead to cerebral ischemia.",
+      "explanation": "Correct Answer: B. Causing resistance to non-depolarizing agents — Chronic anticonvulsant therapy (phenytoin, carbamazepine) causes resistance to non-depolarizing muscle relaxants due to hepatic enzyme induction and upregulation of acetylcholine receptors.",
       "chapter": "CNS Diseases",
-      "topic": "Cerebral Perfusion Pressure",
-      "reference": "Ch 20, Page 196, Topic: Cerebral Perfusion Pressure"
+      "topic": "Epilepsy",
+      "reference": "Ch 20, Page 196, Topic: Epilepsy"
     },
     {
       "id": 11,
-      "question": "What is the minimum acceptable CPP to avoid cerebral ischemia?",
+      "question": "Which intravenous anesthetic has anticonvulsant properties and is suitable for epileptic patients?",
       "options": {
-        "A": "30 mmHg",
-        "B": "50 mmHg",
-        "C": "70 mmHg",
-        "D": "90 mmHg"
+        "A": "Ketamine",
+        "B": "Etomidate",
+        "C": "Thiopentone",
+        "D": "Methohexitone"
       },
-      "answer": "B",
-      "explanation": "Correct Answer: B. 50 mmHg — CPP should be maintained above 50–60 mmHg to prevent cerebral ischemia. Below 50 mmHg, ischemic changes begin to occur.",
+      "answer": "C",
+      "explanation": "Correct Answer: C. Thiopentone — Thiopentone and propofol have anticonvulsant properties. Methohexitone and ketamine may provoke seizures and should be avoided in epileptic patients.",
       "chapter": "CNS Diseases",
-      "topic": "Cerebral Perfusion Pressure",
-      "reference": "Ch 20, Page 196, Topic: CPP Thresholds"
+      "topic": "Epilepsy",
+      "reference": "Ch 20, Page 196, Topic: Epilepsy"
     },
     {
       "id": 12,
-      "question": "The most effective method to rapidly reduce raised ICP during neurosurgery is:",
+      "question": "Status epilepticus is defined as continuous seizure activity lasting more than:",
       "options": {
-        "A": "Mannitol infusion",
-        "B": "Hyperventilation",
-        "C": "Dexamethasone",
-        "D": "CSF drainage"
+        "A": "2 minutes",
+        "B": "5 minutes",
+        "C": "15 minutes",
+        "D": "30 minutes"
       },
       "answer": "B",
-      "explanation": "Correct Answer: B. Hyperventilation — Hyperventilation (reducing PaCO2 to 30–35 mmHg) causes cerebral vasoconstriction and is the fastest method to reduce ICP. However, its effect is transient (6–12 hours).",
+      "explanation": "Correct Answer: B. 5 minutes — Current definition: continuous seizure activity ≥5 minutes or ≥2 seizures without full recovery between them. First-line treatment is IV benzodiazepines (diazepam/lorazepam).",
       "chapter": "CNS Diseases",
-      "topic": "ICP Reduction",
-      "reference": "Ch 20, Page 197, Topic: Management of Raised ICP"
+      "topic": "Epilepsy",
+      "reference": "Ch 20, Page 196, Topic: Epilepsy"
     },
     {
       "id": 13,
-      "question": "The target PaCO2 during hyperventilation for ICP control is:",
+      "question": "In a patient with acute stroke presenting for emergency surgery, the most important anesthetic goal is:",
       "options": {
-        "A": "20–25 mmHg",
-        "B": "25–30 mmHg",
-        "C": "30–35 mmHg",
-        "D": "40–45 mmHg"
+        "A": "Controlled hypotension",
+        "B": "Maintenance of cerebral perfusion pressure",
+        "C": "Deep anesthesia to reduce CMRO2",
+        "D": "Induced hypothermia to 32°C"
       },
-      "answer": "C",
-      "explanation": "Correct Answer: C. 30–35 mmHg — Target PaCO2 of 30–35 mmHg is recommended. Excessive hyperventilation (PaCO2 <25 mmHg) can cause cerebral ischemia due to excessive vasoconstriction.",
+      "answer": "B",
+      "explanation": "Correct Answer: B. Maintenance of cerebral perfusion pressure — In stroke patients, the ischemic penumbra depends on adequate perfusion. Avoiding hypotension and maintaining CPP is the primary anesthetic goal.",
       "chapter": "CNS Diseases",
-      "topic": "Hyperventilation",
-      "reference": "Ch 20, Page 197, Topic: Hyperventilation"
+      "topic": "Stroke",
+      "reference": "Ch 20, Page 196, Topic: Stroke"
     },
     {
       "id": 14,
-      "question": "What is the dose of mannitol used for ICP reduction?",
+      "question": "Elective surgery should ideally be postponed for how long after an ischemic stroke?",
       "options": {
-        "A": "0.1–0.25 g/kg",
-        "B": "0.25–1 g/kg",
-        "C": "1–2 g/kg",
-        "D": "2–4 g/kg"
+        "A": "2 weeks",
+        "B": "4 weeks",
+        "C": "6 weeks",
+        "D": "3 months"
       },
-      "answer": "B",
-      "explanation": "Correct Answer: B. 0.25–1 g/kg — Mannitol is administered at 0.25–1 g/kg IV over 15–20 minutes. It acts as an osmotic diuretic, drawing water from brain tissue into the intravascular space.",
+      "answer": "C",
+      "explanation": "Correct Answer: C. 6 weeks — Elective surgery should be delayed at least 6 weeks after a stroke to allow stabilization of the blood-brain barrier and reduction of hemorrhagic transformation risk.",
       "chapter": "CNS Diseases",
-      "topic": "Osmotic Therapy",
-      "reference": "Ch 20, Page 197, Topic: Mannitol Therapy"
+      "topic": "Stroke",
+      "reference": "Ch 20, Page 196, Topic: Stroke"
     },
     {
       "id": 15,
-      "question": "Which muscle relaxant is CONTRAINDICATED in patients with raised ICP?",
+      "question": "Which of the following is TRUE regarding anesthesia for carotid endarterectomy in stroke patients?",
       "options": {
-        "A": "Vecuronium",
-        "B": "Rocuronium",
-        "C": "Succinylcholine",
-        "D": "Atracurium"
+        "A": "General anesthesia is always superior to regional",
+        "B": "Regional anesthesia allows neurological monitoring during cross-clamp",
+        "C": "Hypotension is desirable during cross-clamping",
+        "D": "Hypothermia below 33°C is mandatory"
       },
-      "answer": "C",
-      "explanation": "Correct Answer: C. Succinylcholine — Succinylcholine can transiently increase ICP due to muscle fasciculations and its effect on cerebral vasculature. However, it may still be used for rapid sequence intubation when the benefit outweighs the risk.",
+      "answer": "B",
+      "explanation": "Correct Answer: B. Regional anesthesia allows neurological monitoring during cross-clamp — Cervical plexus block allows continuous neurological assessment during carotid cross-clamping to detect cerebral ischemia.",
       "chapter": "CNS Diseases",
-      "topic": "Muscle Relaxants in Neurosurgery",
-      "reference": "Ch 20, Page 197, Topic: Muscle Relaxants in Neurosurgery"
+      "topic": "Stroke",
+      "reference": "Ch 20, Page 196, Topic: Stroke"
     },
     {
       "id": 16,
-      "question": "The preferred induction agent for neurosurgical patients is:",
+      "question": "In patients with chronic headache/migraine, which of the following agents may trigger an attack?",
       "options": {
-        "A": "Ketamine",
-        "B": "Propofol",
-        "C": "Midazolam",
-        "D": "Etomidate"
+        "A": "Propofol",
+        "B": "Nitroglycerin (GTN)",
+        "C": "Fentanyl",
+        "D": "Lidocaine"
       },
       "answer": "B",
-      "explanation": "Correct Answer: B. Propofol — Propofol is preferred because it reduces CMRO2, CBF, and ICP while maintaining cerebral autoregulation. It also provides smooth induction and rapid recovery.",
+      "explanation": "Correct Answer: B. Nitroglycerin (GTN) — Nitroglycerin is a potent vasodilator and well-known migraine trigger. It should be used cautiously in patients with a history of migraines.",
       "chapter": "CNS Diseases",
-      "topic": "Induction in Neurosurgery",
-      "reference": "Ch 20, Page 197, Topic: Induction Agents"
+      "topic": "Headache",
+      "reference": "Ch 20, Page 196, Topic: Headache"
     },
     {
       "id": 17,
-      "question": "During craniotomy in the sitting position, the most feared complication is:",
+      "question": "Post-dural puncture headache is characteristically:",
       "options": {
-        "A": "Postural hypotension",
-        "B": "Venous air embolism",
-        "C": "Pneumocephalus",
-        "D": "Brachial plexus injury"
+        "A": "Worse when lying down",
+        "B": "Worse when sitting or standing (postural)",
+        "C": "Associated with fever",
+        "D": "Unilateral and throbbing"
       },
       "answer": "B",
-      "explanation": "Correct Answer: B. Venous air embolism — Venous air embolism (VAE) is the most dangerous complication of sitting position craniotomy. Incidence can be as high as 25–50%. Air enters through open dural venous sinuses.",
+      "explanation": "Correct Answer: B. Worse when sitting or standing (postural) — PDPH is a postural headache that worsens in the upright position and improves on lying flat, caused by CSF leak and reduced intracranial pressure.",
       "chapter": "CNS Diseases",
-      "topic": "Sitting Position Craniotomy",
-      "reference": "Ch 20, Page 198, Topic: Sitting Position Craniotomy"
+      "topic": "Headache",
+      "reference": "Ch 20, Page 196, Topic: Headache"
     },
     {
       "id": 18,
-      "question": "The most sensitive monitor for detecting venous air embolism is:",
+      "question": "Multiple Sclerosis is characterized by:",
       "options": {
-        "A": "Precordial Doppler",
-        "B": "Transesophageal echocardiography (TEE)",
-        "C": "End-tidal CO2",
-        "D": "Pulmonary artery catheter"
+        "A": "Destruction of anterior horn cells",
+        "B": "Demyelination in the central nervous system",
+        "C": "Peripheral nerve demyelination",
+        "D": "Neuromuscular junction dysfunction"
       },
       "answer": "B",
-      "explanation": "Correct Answer: B. Transesophageal echocardiography (TEE) — TEE is the most sensitive monitor for VAE, detecting as little as 0.02 mL/kg of air. Precordial Doppler is the most sensitive non-invasive monitor.",
+      "explanation": "Correct Answer: B. Demyelination in the central nervous system — MS is an autoimmune disease causing patchy demyelination in the brain and spinal cord, leading to relapsing-remitting neurological deficits.",
       "chapter": "CNS Diseases",
-      "topic": "Venous Air Embolism Detection",
-      "reference": "Ch 20, Page 198, Topic: Venous Air Embolism Monitoring"
+      "topic": "Multiple Sclerosis",
+      "reference": "Ch 20, Page 197, Topic: Multiple Sclerosis"
     },
     {
       "id": 19,
-      "question": "The most sensitive NON-INVASIVE monitor for venous air embolism is:",
+      "question": "In Multiple Sclerosis, which of the following may cause relapse/exacerbation?",
       "options": {
-        "A": "End-tidal CO2",
-        "B": "Precordial Doppler",
-        "C": "Pulse oximetry",
-        "D": "ECG"
+        "A": "Hypothermia",
+        "B": "Hyperthermia (fever/increased body temperature)",
+        "C": "General anesthesia always",
+        "D": "Regional anesthesia always"
       },
       "answer": "B",
-      "explanation": "Correct Answer: B. Precordial Doppler — Precordial Doppler is the most sensitive non-invasive monitor for VAE, capable of detecting 0.05 mL/kg of air. It produces a characteristic 'mill-wheel' murmur.",
+      "explanation": "Correct Answer: B. Hyperthermia (fever/increased body temperature) — Even small increases in body temperature can worsen symptoms in MS (Uhthoff's phenomenon). Perioperative temperature control is essential.",
       "chapter": "CNS Diseases",
-      "topic": "Venous Air Embolism Detection",
-      "reference": "Ch 20, Page 198, Topic: VAE Detection (Non-Invasive)"
+      "topic": "Multiple Sclerosis",
+      "reference": "Ch 20, Page 197, Topic: Multiple Sclerosis"
     },
     {
       "id": 20,
-      "question": "In the event of venous air embolism, the IMMEDIATE first step is:",
+      "question": "Regarding regional anesthesia in Multiple Sclerosis:",
       "options": {
-        "A": "Place patient in left lateral decubitus position",
-        "B": "Flood the surgical field with saline and cover with wet gauze",
-        "C": "Aspirate air through central venous catheter",
-        "D": "Start CPR"
+        "A": "Epidural anesthesia is absolutely contraindicated",
+        "B": "Spinal anesthesia may worsen symptoms due to direct exposure of demyelinated cord to local anesthetic",
+        "C": "Peripheral nerve blocks are contraindicated",
+        "D": "All regional techniques are completely safe"
       },
       "answer": "B",
-      "explanation": "Correct Answer: B. Flood the surgical field with saline and cover with wet gauze — The immediate step is to inform the surgeon to flood the field with saline and apply bone wax to stop further air entry. Other measures follow: discontinue N2O, aspirate air via CVP, and left lateral/Trendelenburg position if hemodynamically unstable.",
+      "explanation": "Correct Answer: B. Spinal anesthesia may worsen symptoms due to direct exposure of demyelinated cord to local anesthetic — Spinal anesthesia exposes the already demyelinated cord to local anesthetic. Epidural is relatively safer; lowest effective concentration should be used.",
       "chapter": "CNS Diseases",
-      "topic": "Venous Air Embolism Management",
-      "reference": "Ch 20, Page 198, Topic: VAE Treatment"
+      "topic": "Multiple Sclerosis",
+      "reference": "Ch 20, Page 197, Topic: Multiple Sclerosis"
     },
     {
       "id": 21,
-      "question": "Why should nitrous oxide (N2O) be avoided or discontinued during venous air embolism?",
+      "question": "Succinylcholine should be AVOIDED in Multiple Sclerosis because of:",
       "options": {
-        "A": "It increases CMRO2",
-        "B": "It expands the air bubble (34 times more soluble than nitrogen)",
-        "C": "It causes bronchospasm",
-        "D": "It reduces cardiac output"
+        "A": "Malignant hyperthermia risk",
+        "B": "Hyperkalemia from denervation-type receptor changes",
+        "C": "Prolonged neuromuscular block",
+        "D": "Anaphylaxis risk"
       },
       "answer": "B",
-      "explanation": "Correct Answer: B. It expands the air bubble (34 times more soluble than nitrogen) — N2O is 34 times more soluble in blood than nitrogen. It rapidly diffuses into air bubbles, expanding them and worsening the hemodynamic effects of air embolism.",
+      "explanation": "Correct Answer: B. Hyperkalemia from denervation-type receptor changes — Upper motor neuron lesions in MS lead to extrajunctional acetylcholine receptor proliferation, causing hyperkalemic response to succinylcholine.",
       "chapter": "CNS Diseases",
-      "topic": "Venous Air Embolism",
-      "reference": "Ch 20, Page 198, Topic: N2O and Air Embolism"
+      "topic": "Multiple Sclerosis",
+      "reference": "Ch 20, Page 197, Topic: Multiple Sclerosis"
     },
     {
       "id": 22,
-      "question": "Glasgow Coma Scale (GCS) score ranges from:",
+      "question": "Syringomyelia is characterized by:",
       "options": {
-        "A": "0 to 15",
-        "B": "1 to 15",
-        "C": "3 to 15",
-        "D": "3 to 12"
+        "A": "Cavity formation in the cerebral cortex",
+        "B": "Fluid-filled cavity (syrinx) within the spinal cord",
+        "C": "Demyelination of peripheral nerves",
+        "D": "Inflammation of the meninges"
       },
-      "answer": "C",
-      "explanation": "Correct Answer: C. 3 to 15 — GCS ranges from 3 (deep coma) to 15 (fully conscious). It assesses Eye opening (1–4), Verbal response (1–5), and Motor response (1–6).",
+      "answer": "B",
+      "explanation": "Correct Answer: B. Fluid-filled cavity (syrinx) within the spinal cord — Syringomyelia is a condition where a fluid-filled cyst (syrinx) forms within the spinal cord, often in the cervical region.",
       "chapter": "CNS Diseases",
-      "topic": "Glasgow Coma Scale",
-      "reference": "Ch 20, Page 196, Topic: Glasgow Coma Scale"
+      "topic": "Syringomyelia",
+      "reference": "Ch 20, Page 197, Topic: Syringomyelia"
     },
     {
       "id": 23,
-      "question": "A GCS score of 8 or below indicates:",
+      "question": "The classic sensory finding in syringomyelia is:",
       "options": {
-        "A": "Mild head injury",
-        "B": "Moderate head injury",
-        "C": "Severe head injury requiring intubation",
-        "D": "Brain death"
+        "A": "Glove and stocking sensory loss",
+        "B": "Dissociated sensory loss (loss of pain/temperature with preserved touch)",
+        "C": "Complete loss of all sensations below lesion",
+        "D": "Loss of proprioception only"
       },
-      "answer": "C",
-      "explanation": "Correct Answer: C. Severe head injury requiring intubation — GCS ≤8 = severe head injury and is an indication for endotracheal intubation to protect the airway. GCS 9–12 = moderate, GCS 13–15 = mild.",
+      "answer": "B",
+      "explanation": "Correct Answer: B. Dissociated sensory loss (loss of pain/temperature with preserved touch) — The syrinx destroys the crossing spinothalamic fibers causing cape-like loss of pain and temperature while posterior column sensation (touch, proprioception) is preserved.",
       "chapter": "CNS Diseases",
-      "topic": "Head Injury Classification",
-      "reference": "Ch 20, Page 196, Topic: GCS Classification"
+      "topic": "Syringomyelia",
+      "reference": "Ch 20, Page 197, Topic: Syringomyelia"
     },
     {
       "id": 24,
-      "question": "Which IV fluid is preferred in neurosurgical patients?",
+      "question": "Anesthetic concern in syringomyelia includes:",
       "options": {
-        "A": "5% Dextrose",
-        "B": "Dextrose Normal Saline",
-        "C": "Normal Saline (0.9% NaCl)",
-        "D": "Ringer Lactate"
+        "A": "Difficult airway due to limited neck extension",
+        "B": "Mandatory use of spinal anesthesia",
+        "C": "Succinylcholine is safe to use",
+        "D": "Temperature monitoring is not needed"
       },
-      "answer": "C",
-      "explanation": "Correct Answer: C. Normal Saline (0.9% NaCl) — Normal saline (0.9% NaCl, 308 mOsm/L) is the preferred fluid because it is slightly hyperosmolar and does not worsen cerebral edema. Glucose-containing fluids are avoided as hyperglycemia worsens ischemic brain injury.",
+      "answer": "A",
+      "explanation": "Correct Answer: A. Difficult airway due to limited neck extension — Syringomyelia often coexists with Arnold-Chiari malformation causing limited neck mobility. Careful airway management with minimal neck manipulation is essential.",
       "chapter": "CNS Diseases",
-      "topic": "Fluid Management in Neurosurgery",
-      "reference": "Ch 20, Page 197, Topic: Fluid Management in Neurosurgery"
+      "topic": "Syringomyelia",
+      "reference": "Ch 20, Page 197, Topic: Syringomyelia"
     },
     {
       "id": 25,
-      "question": "Why are glucose-containing IV fluids AVOIDED in neurosurgical patients?",
+      "question": "Amyotrophic Lateral Sclerosis (ALS) affects:",
       "options": {
-        "A": "They cause hyponatremia",
-        "B": "Hyperglycemia worsens ischemic neurological injury",
-        "C": "They increase blood viscosity",
-        "D": "They cause osmotic diuresis"
+        "A": "Only upper motor neurons",
+        "B": "Only lower motor neurons",
+        "C": "Both upper and lower motor neurons",
+        "D": "Only sensory neurons"
       },
-      "answer": "B",
-      "explanation": "Correct Answer: B. Hyperglycemia worsens ischemic neurological injury — Hyperglycemia promotes anaerobic glycolysis in ischemic brain tissue, leading to lactic acidosis and worsening neuronal injury. Blood glucose should be maintained below 180 mg/dL.",
+      "answer": "C",
+      "explanation": "Correct Answer: C. Both upper and lower motor neurons — ALS (Motor Neuron Disease) is a progressive neurodegenerative disease affecting both upper and lower motor neurons, leading to muscle weakness, wasting, and spasticity.",
       "chapter": "CNS Diseases",
-      "topic": "Fluid Management in Neurosurgery",
-      "reference": "Ch 20, Page 197, Topic: Glucose and Brain Injury"
+      "topic": "Amyotrophic Lateral Sclerosis",
+      "reference": "Ch 20, Page 197, Topic: Amyotrophic Lateral Sclerosis"
     },
     {
       "id": 26,
-      "question": "The brain receives what percentage of cardiac output?",
+      "question": "In ALS patients, succinylcholine is contraindicated because of:",
       "options": {
-        "A": "5%",
-        "B": "10%",
-        "C": "15%",
-        "D": "20%"
+        "A": "Risk of malignant hyperthermia",
+        "B": "Life-threatening hyperkalemia",
+        "C": "Prolonged apnea",
+        "D": "Histamine release"
       },
-      "answer": "C",
-      "explanation": "Correct Answer: C. 15% — The brain receives approximately 15% of cardiac output (about 750 mL/min) despite constituting only 2% of body weight. It consumes approximately 20% of total body oxygen.",
+      "answer": "B",
+      "explanation": "Correct Answer: B. Life-threatening hyperkalemia — Lower motor neuron involvement in ALS causes denervation and extrajunctional receptor proliferation, making succinylcholine extremely dangerous due to massive potassium release.",
       "chapter": "CNS Diseases",
-      "topic": "Cerebral Physiology",
-      "reference": "Ch 20, Page 196, Topic: Cerebral Blood Supply"
+      "topic": "Amyotrophic Lateral Sclerosis",
+      "reference": "Ch 20, Page 197, Topic: Amyotrophic Lateral Sclerosis"
     },
     {
       "id": 27,
-      "question": "Cerebral metabolic rate of oxygen (CMRO2) in an adult is approximately:",
+      "question": "The most important postoperative concern in ALS patients is:",
       "options": {
-        "A": "1.5 mL/100g/min",
-        "B": "3.5 mL/100g/min",
-        "C": "5.5 mL/100g/min",
-        "D": "7.5 mL/100g/min"
+        "A": "Pain management",
+        "B": "Respiratory failure requiring prolonged ventilation",
+        "C": "Urinary retention",
+        "D": "Hypothermia"
       },
       "answer": "B",
-      "explanation": "Correct Answer: B. 3.5 mL/100g/min — Normal CMRO2 is approximately 3.5 mL/100g/min. The ratio of CBF to CMRO2 (flow-metabolism coupling) is normally maintained at approximately 14:1.",
+      "explanation": "Correct Answer: B. Respiratory failure requiring prolonged ventilation — ALS patients have progressive respiratory muscle weakness. They are extremely sensitive to respiratory depressants and may require postoperative ventilatory support.",
       "chapter": "CNS Diseases",
-      "topic": "Cerebral Metabolism",
-      "reference": "Ch 20, Page 196, Topic: CMRO2"
+      "topic": "Amyotrophic Lateral Sclerosis",
+      "reference": "Ch 20, Page 197, Topic: Amyotrophic Lateral Sclerosis"
     },
     {
       "id": 28,
-      "question": "Which of the following is the BEST position for a patient with raised ICP?",
+      "question": "ALS patients show increased sensitivity to:",
       "options": {
-        "A": "Supine flat",
-        "B": "Trendelenburg (head down)",
-        "C": "Head elevated 15–30 degrees",
-        "D": "Left lateral decubitus"
+        "A": "Inhalational agents only",
+        "B": "Non-depolarizing neuromuscular blocking agents",
+        "C": "Local anesthetics",
+        "D": "Antiemetics"
       },
-      "answer": "C",
-      "explanation": "Correct Answer: C. Head elevated 15–30 degrees — Head-up position (15–30°) promotes venous drainage from the brain, reducing ICP. The head should be kept midline to avoid jugular venous compression.",
+      "answer": "B",
+      "explanation": "Correct Answer: B. Non-depolarizing neuromuscular blocking agents — Due to decreased muscle mass and denervation, ALS patients are very sensitive to non-depolarizing agents. Reduced doses should be used with careful monitoring.",
       "chapter": "CNS Diseases",
-      "topic": "ICP Management",
-      "reference": "Ch 20, Page 197, Topic: Positioning for Raised ICP"
+      "topic": "Amyotrophic Lateral Sclerosis",
+      "reference": "Ch 20, Page 197, Topic: Amyotrophic Lateral Sclerosis"
     },
     {
       "id": 29,
-      "question": "Cushing's triad (sign of severely raised ICP) consists of:",
+      "question": "Guillain-Barré Syndrome (GBS) is characterized by:",
       "options": {
-        "A": "Hypertension, bradycardia, irregular respiration",
-        "B": "Hypotension, tachycardia, apnea",
-        "C": "Hypertension, tachycardia, Cheyne-Stokes breathing",
-        "D": "Hypotension, bradycardia, tachypnea"
+        "A": "Ascending central demyelination",
+        "B": "Acute inflammatory demyelinating polyradiculoneuropathy (peripheral)",
+        "C": "Anterior horn cell destruction",
+        "D": "Neuromuscular junction antibodies"
       },
-      "answer": "A",
-      "explanation": "Correct Answer: A. Hypertension, bradycardia, irregular respiration — Cushing's triad consists of systemic hypertension, reflex bradycardia, and irregular (often slow) respiration. It is a late and ominous sign of brainstem compression.",
+      "answer": "B",
+      "explanation": "Correct Answer: B. Acute inflammatory demyelinating polyradiculoneuropathy (peripheral) — GBS is an autoimmune peripheral nerve demyelination causing ascending flaccid paralysis, often post-infectious.",
       "chapter": "CNS Diseases",
-      "topic": "Raised ICP Signs",
-      "reference": "Ch 20, Page 196, Topic: Cushing Response"
+      "topic": "Guillain-Barré Syndrome",
+      "reference": "Ch 20, Page 197, Topic: Guillain-Barré Syndrome (GBS)"
     },
     {
       "id": 30,
-      "question": "Which volatile agent is most commonly used for maintenance of anesthesia in neurosurgery?",
+      "question": "The most dangerous complication of GBS requiring ICU admission is:",
       "options": {
-        "A": "Halothane",
-        "B": "Isoflurane",
-        "C": "Sevoflurane",
-        "D": "Desflurane"
+        "A": "Renal failure",
+        "B": "Respiratory failure from diaphragmatic weakness",
+        "C": "Seizures",
+        "D": "Hepatic failure"
       },
-      "answer": "C",
-      "explanation": "Correct Answer: C. Sevoflurane — Sevoflurane is preferred because it has minimal effect on ICP at <1 MAC, preserves cerebral autoregulation better than other agents, and allows smooth induction and rapid emergence for neurological assessment.",
+      "answer": "B",
+      "explanation": "Correct Answer: B. Respiratory failure from diaphragmatic weakness — Ascending paralysis may involve respiratory muscles. FVC <20 mL/kg, NIF <-25 cmH2O, or >30% decline in FVC indicates need for intubation.",
       "chapter": "CNS Diseases",
-      "topic": "Maintenance of Anesthesia",
-      "reference": "Ch 20, Page 197, Topic: Inhalational Agent Selection"
+      "topic": "Guillain-Barré Syndrome",
+      "reference": "Ch 20, Page 197, Topic: Guillain-Barré Syndrome (GBS)"
     },
     {
       "id": 31,
-      "question": "In a patient with supratentorial tumor, the MOST common presenting symptom is:",
+      "question": "In GBS, succinylcholine is contraindicated due to:",
       "options": {
-        "A": "Seizures",
-        "B": "Headache",
-        "C": "Focal neurological deficit",
-        "D": "Vomiting"
+        "A": "Prolonged block only",
+        "B": "Risk of hyperkalemia from denervation",
+        "C": "Histamine release",
+        "D": "Bradycardia"
       },
       "answer": "B",
-      "explanation": "Correct Answer: B. Headache — Headache (often morning headache that improves on standing) is the most common presenting symptom of supratentorial tumors, caused by raised ICP. Seizures are the second most common.",
+      "explanation": "Correct Answer: B. Risk of hyperkalemia from denervation — Succinylcholine should be avoided from the onset of GBS due to risk of hyperkalemia from denervation-induced upregulation of acetylcholine receptors at the neuromuscular junction.",
       "chapter": "CNS Diseases",
-      "topic": "Supratentorial Tumors",
-      "reference": "Ch 20, Page 198, Topic: Supratentorial Tumors"
+      "topic": "Guillain-Barré Syndrome",
+      "reference": "Ch 20, Page 197, Topic: Guillain-Barré Syndrome (GBS)"
     },
     {
       "id": 32,
-      "question": "Posterior fossa tumors are most commonly associated with which sign?",
+      "question": "Autonomic dysfunction in GBS may manifest as:",
       "options": {
-        "A": "Seizures",
-        "B": "Hemiparesis",
-        "C": "Cerebellar signs and raised ICP (hydrocephalus)",
-        "D": "Aphasia"
+        "A": "Only hypertension",
+        "B": "Labile blood pressure, tachycardia, bradycardia, cardiac arrest",
+        "C": "Only bradycardia",
+        "D": "Only urinary retention"
       },
-      "answer": "C",
-      "explanation": "Correct Answer: C. Cerebellar signs and raised ICP (hydrocephalus) — Posterior fossa tumors commonly present with cerebellar signs (ataxia, nystagmus, dysmetria) and raised ICP due to obstructive hydrocephalus from compression of the 4th ventricle.",
+      "answer": "B",
+      "explanation": "Correct Answer: B. Labile blood pressure, tachycardia, bradycardia, cardiac arrest — Autonomic instability in GBS can cause unpredictable hemodynamic swings. Invasive monitoring is recommended.",
       "chapter": "CNS Diseases",
-      "topic": "Posterior Fossa Tumors",
-      "reference": "Ch 20, Page 198, Topic: Posterior Fossa Surgery"
+      "topic": "Guillain-Barré Syndrome",
+      "reference": "Ch 20, Page 197, Topic: Guillain-Barré Syndrome (GBS)"
     },
     {
       "id": 33,
-      "question": "During posterior fossa surgery, stimulation of which cranial nerve can cause sudden bradycardia?",
+      "question": "Autonomic dysfunction (dysautonomia) is characterized by:",
       "options": {
-        "A": "Trigeminal (V)",
-        "B": "Facial (VII)",
-        "C": "Vagus (X)",
-        "D": "Glossopharyngeal (IX)"
+        "A": "Stable hemodynamics",
+        "B": "Failure of the autonomic nervous system to regulate BP, HR, and temperature",
+        "C": "Only parasympathetic overactivity",
+        "D": "Only sympathetic overactivity"
       },
-      "answer": "C",
-      "explanation": "Correct Answer: C. Vagus (X) — Surgical stimulation near the vagus nerve (CN X) or its nuclei in the floor of the 4th ventricle can cause sudden profound bradycardia or even asystole. Atropine should be readily available.",
+      "answer": "B",
+      "explanation": "Correct Answer: B. Failure of the autonomic nervous system to regulate BP, HR, and temperature — Autonomic dysfunction involves both sympathetic and parasympathetic failure, causing orthostatic hypotension, temperature dysregulation, and labile hemodynamics.",
       "chapter": "CNS Diseases",
-      "topic": "Posterior Fossa Surgery Complications",
-      "reference": "Ch 20, Page 198, Topic: Cranial Nerve Stimulation"
+      "topic": "Autonomic Dysfunction",
+      "reference": "Ch 20, Page 197, Topic: Autonomic Dysfunction"
     },
     {
       "id": 34,
-      "question": "Hypertonic saline used for ICP reduction is available in which concentration?",
+      "question": "In patients with autonomic dysfunction, the anesthetic concern includes:",
       "options": {
-        "A": "1.8%",
-        "B": "3%",
-        "C": "7.5%",
-        "D": "All of the above"
+        "A": "Exaggerated hypotensive response to anesthetic agents",
+        "B": "Need for higher doses of vasopressors",
+        "C": "Resistance to all anesthetic agents",
+        "D": "Increased risk of bronchospasm"
       },
-      "answer": "D",
-      "explanation": "Correct Answer: D. All of the above — Hypertonic saline is available in various concentrations (1.8%, 3%, 7.5%, 23.4%). It is an alternative to mannitol for osmotic therapy in ICP reduction, especially in hypovolemic patients.",
+      "answer": "A",
+      "explanation": "Correct Answer: A. Exaggerated hypotensive response to anesthetic agents — Loss of compensatory sympathetic reflexes causes profound hypotension with induction agents, neuraxial blocks, and positive pressure ventilation.",
       "chapter": "CNS Diseases",
-      "topic": "Osmotic Therapy",
-      "reference": "Ch 20, Page 197, Topic: Hypertonic Saline"
+      "topic": "Autonomic Dysfunction",
+      "reference": "Ch 20, Page 197, Topic: Autonomic Dysfunction"
     },
     {
       "id": 35,
-      "question": "The advantage of hypertonic saline over mannitol for ICP reduction is:",
+      "question": "Orthostatic hypotension in autonomic dysfunction is defined as a fall in systolic BP of:",
       "options": {
-        "A": "It does not cause rebound increase in ICP",
-        "B": "It expands intravascular volume",
-        "C": "It does not cause electrolyte imbalance",
-        "D": "Both A and B"
+        "A": ">10 mmHg on standing",
+        "B": ">20 mmHg on standing",
+        "C": ">30 mmHg on standing",
+        "D": ">40 mmHg on standing"
       },
-      "answer": "D",
-      "explanation": "Correct Answer: D. Both A and B — Unlike mannitol, hypertonic saline does not cause osmotic diuresis (so no hypovolemia) and has less rebound ICP elevation. It also augments intravascular volume, which is beneficial in trauma patients.",
+      "answer": "B",
+      "explanation": "Correct Answer: B. >20 mmHg on standing — Orthostatic hypotension is a sustained reduction of ≥20 mmHg systolic or ≥10 mmHg diastolic within 3 minutes of standing, indicating autonomic failure.",
       "chapter": "CNS Diseases",
-      "topic": "Osmotic Therapy",
-      "reference": "Ch 20, Page 197, Topic: Hypertonic Saline vs Mannitol"
+      "topic": "Autonomic Dysfunction",
+      "reference": "Ch 20, Page 197, Topic: Autonomic Dysfunction"
     },
     {
       "id": 36,
-      "question": "Diabetes insipidus (DI) after pituitary surgery is characterized by:",
+      "question": "Spinal cord transection above T6 may result in:",
       "options": {
-        "A": "Low urine output, high urine specific gravity",
-        "B": "High urine output, low urine specific gravity (<1.005)",
-        "C": "Low urine output, low urine specific gravity",
-        "D": "Normal urine output, high serum sodium"
+        "A": "Hypothermia only",
+        "B": "Autonomic hyperreflexia",
+        "C": "Hyperthermia only",
+        "D": "No cardiovascular changes"
       },
       "answer": "B",
-      "explanation": "Correct Answer: B. High urine output, low urine specific gravity (<1.005) — Central DI presents with polyuria (urine output >250 mL/hr), dilute urine (specific gravity <1.005, osmolality <200 mOsm/kg), and rising serum sodium (hypernatremia). It results from ADH deficiency.",
+      "explanation": "Correct Answer: B. Autonomic hyperreflexia — Lesions above T6 can trigger autonomic hyperreflexia: massive sympathetic discharge below the lesion causing severe hypertension, reflex bradycardia, headache, and flushing above the lesion.",
       "chapter": "CNS Diseases",
-      "topic": "Pituitary Surgery Complications",
-      "reference": "Ch 20, Page 198, Topic: Pituitary Surgery - Diabetes Insipidus"
+      "topic": "Spinal Cord Transection",
+      "reference": "Ch 20, Page 197, Topic: Spinal Cord Transection"
     },
     {
       "id": 37,
-      "question": "The treatment of central diabetes insipidus after pituitary surgery is:",
+      "question": "The most common trigger for autonomic hyperreflexia is:",
       "options": {
-        "A": "Fluid restriction",
-        "B": "Desmopressin (DDAVP)",
-        "C": "Frusemide",
-        "D": "Hydrocortisone"
+        "A": "Emotional stress",
+        "B": "Bladder distension",
+        "C": "Cold environment",
+        "D": "Exercise"
       },
       "answer": "B",
-      "explanation": "Correct Answer: B. Desmopressin (DDAVP) — Desmopressin (DDAVP), a synthetic ADH analog, is the treatment of choice for central DI. It can be given intranasally (10–40 mcg), IV, or subcutaneously (1–4 mcg).",
+      "explanation": "Correct Answer: B. Bladder distension — Bladder distension (full catheter, bladder surgery) is the most common trigger. Other triggers include bowel distension, skin stimulation below the lesion level.",
       "chapter": "CNS Diseases",
-      "topic": "Pituitary Surgery Complications",
-      "reference": "Ch 20, Page 198, Topic: DI Treatment (DDAVP)"
+      "topic": "Spinal Cord Transection",
+      "reference": "Ch 20, Page 197, Topic: Spinal Cord Transection"
     },
     {
       "id": 38,
-      "question": "Aneurysmal subarachnoid hemorrhage (SAH) is most commonly graded using which scale?",
+      "question": "Treatment of autonomic hyperreflexia includes all EXCEPT:",
       "options": {
-        "A": "Glasgow Coma Scale",
-        "B": "Hunt and Hess scale",
-        "C": "Rankin scale",
-        "D": "APACHE score"
+        "A": "Remove the stimulus",
+        "B": "Sit the patient upright",
+        "C": "Administer vasopressors",
+        "D": "Give vasodilators (GTN/nifedipine)"
       },
-      "answer": "B",
-      "explanation": "Correct Answer: B. Hunt and Hess scale — The Hunt and Hess scale (Grades I–V) is the most commonly used clinical grading system for SAH severity, correlating with surgical risk and prognosis.",
+      "answer": "C",
+      "explanation": "Correct Answer: C. Administer vasopressors — Vasopressors would worsen the hypertension. Treatment: remove stimulus, sit up patient, give vasodilators (GTN sublingual/nifedipine), deepen anesthesia if intraoperative.",
       "chapter": "CNS Diseases",
-      "topic": "Subarachnoid Hemorrhage",
-      "reference": "Ch 20, Page 198, Topic: SAH Grading (Hunt & Hess)"
+      "topic": "Spinal Cord Transection",
+      "reference": "Ch 20, Page 197, Topic: Spinal Cord Transection"
     },
     {
       "id": 39,
-      "question": "The most serious complication of aneurysmal SAH that occurs between days 4–14 is:",
+      "question": "In acute spinal cord injury (spinal shock phase), the hemodynamic picture is:",
       "options": {
-        "A": "Rebleeding",
-        "B": "Cerebral vasospasm",
-        "C": "Hydrocephalus",
-        "D": "Seizures"
+        "A": "Hypertension and tachycardia",
+        "B": "Hypotension and bradycardia (neurogenic shock)",
+        "C": "Normal blood pressure with tachycardia",
+        "D": "Hypertension and bradycardia"
       },
       "answer": "B",
-      "explanation": "Correct Answer: B. Cerebral vasospasm — Cerebral vasospasm is the most serious delayed complication of SAH, peaking between days 4–14. It can lead to delayed ischemic neurological deficit (DIND) and infarction.",
+      "explanation": "Correct Answer: B. Hypotension and bradycardia (neurogenic shock) — Acute spinal cord injury causes loss of sympathetic tone below the lesion resulting in vasodilation (hypotension) and unopposed vagal tone (bradycardia).",
       "chapter": "CNS Diseases",
-      "topic": "Subarachnoid Hemorrhage",
-      "reference": "Ch 20, Page 198, Topic: Cerebral Vasospasm"
+      "topic": "Spinal Cord Transection",
+      "reference": "Ch 20, Page 197, Topic: Spinal Cord Transection"
     },
     {
       "id": 40,
-      "question": "Triple-H therapy for cerebral vasospasm after SAH includes all EXCEPT:",
+      "question": "Succinylcholine is safe to use after spinal cord injury only within:",
       "options": {
-        "A": "Hypertension",
-        "B": "Hypervolemia",
-        "C": "Hemodilution",
-        "D": "Hypothermia"
+        "A": "First 24 hours",
+        "B": "First 48 hours",
+        "C": "First 72 hours",
+        "D": "First week"
       },
-      "answer": "D",
-      "explanation": "Correct Answer: D. Hypothermia — Triple-H therapy = Hypertension + Hypervolemia + Hemodilution. It aims to increase CBF through the vasospastic vessels. Hypothermia is not part of triple-H therapy.",
+      "answer": "B",
+      "explanation": "Correct Answer: B. First 48 hours — Succinylcholine is relatively safe within the first 48 hours after spinal cord injury. After that, denervation causes receptor upregulation and life-threatening hyperkalemia risk, lasting for 6-9 months or more.",
       "chapter": "CNS Diseases",
-      "topic": "Vasospasm Treatment",
-      "reference": "Ch 20, Page 198, Topic: Triple-H Therapy"
+      "topic": "Spinal Cord Transection",
+      "reference": "Ch 20, Page 197, Topic: Spinal Cord Transection"
     },
     {
       "id": 41,
-      "question": "Nimodipine is given after SAH because it:",
+      "question": "Which psychiatric medication has the most significant anesthetic interaction?",
       "options": {
-        "A": "Reduces systemic blood pressure",
-        "B": "Prevents cerebral vasospasm and improves neurological outcome",
-        "C": "Prevents rebleeding",
-        "D": "Reduces ICP"
+        "A": "SSRIs",
+        "B": "MAO inhibitors",
+        "C": "Benzodiazepines",
+        "D": "Atypical antipsychotics"
       },
       "answer": "B",
-      "explanation": "Correct Answer: B. Prevents cerebral vasospasm and improves neurological outcome — Nimodipine (a calcium channel blocker with cerebral selectivity) is given for 21 days after SAH. It has been shown to reduce the incidence of ischemic deficits and improve outcomes, though it may not prevent angiographic vasospasm.",
+      "explanation": "Correct Answer: B. MAO inhibitors — MAOIs have the most dangerous interactions: hypertensive crisis with indirect sympathomimetics, serotonin syndrome with meperidine/tramadol. Traditionally stopped 2 weeks preoperatively.",
       "chapter": "CNS Diseases",
-      "topic": "Subarachnoid Hemorrhage",
-      "reference": "Ch 20, Page 198, Topic: Nimodipine in SAH"
+      "topic": "Psychiatric Disorders",
+      "reference": "Ch 20, Page 197, Topic: Psychiatric Disorders"
     },
     {
       "id": 42,
-      "question": "During aneurysm clipping, temporary clipping of the parent vessel is used for. What neuroprotective agent may be administered?",
+      "question": "Lithium therapy affects anesthesia by:",
       "options": {
-        "A": "Mannitol",
-        "B": "Thiopentone (burst suppression)",
-        "C": "Dexamethasone",
-        "D": "Nimodipine"
+        "A": "Shortening the action of muscle relaxants",
+        "B": "Prolonging the action of both depolarizing and non-depolarizing muscle relaxants",
+        "C": "Having no effect on anesthetic drugs",
+        "D": "Reducing the MAC of volatile agents"
       },
       "answer": "B",
-      "explanation": "Correct Answer: B. Thiopentone (burst suppression) — Thiopentone is administered to achieve burst suppression on EEG during temporary clipping, providing cerebral protection by reducing CMRO2 during the period of focal ischemia.",
+      "explanation": "Correct Answer: B. Prolonging the action of both depolarizing and non-depolarizing muscle relaxants — Lithium inhibits acetylcholine synthesis and release, potentiating all neuromuscular blocking agents. It also reduces renal concentrating ability (diabetes insipidus-like).",
       "chapter": "CNS Diseases",
-      "topic": "Aneurysm Surgery",
-      "reference": "Ch 20, Page 198, Topic: Cerebral Protection"
+      "topic": "Psychiatric Disorders",
+      "reference": "Ch 20, Page 197, Topic: Psychiatric Disorders"
     },
     {
       "id": 43,
-      "question": "In traumatic brain injury (TBI), secondary brain injury is caused by all EXCEPT:",
+      "question": "Tricyclic antidepressants (TCAs) may cause which of the following during anesthesia?",
       "options": {
-        "A": "Hypotension",
-        "B": "Hypoxia",
-        "C": "The initial mechanical impact",
-        "D": "Hyperglycemia"
+        "A": "Exaggerated response to indirect sympathomimetics (ephedrine)",
+        "B": "Resistance to vasopressors",
+        "C": "Bronchospasm",
+        "D": "Malignant hyperthermia"
       },
-      "answer": "C",
-      "explanation": "Correct Answer: C. The initial mechanical impact — The initial mechanical impact causes PRIMARY brain injury. Secondary brain injury is caused by systemic insults like hypotension (most detrimental), hypoxia, hypercarbia, hyperglycemia, hyperthermia, and seizures.",
+      "answer": "A",
+      "explanation": "Correct Answer: A. Exaggerated response to indirect sympathomimetics (ephedrine) — TCAs block norepinephrine reuptake, potentiating the action of both direct and indirect sympathomimetics. Arrhythmias and hypertensive crisis may occur.",
       "chapter": "CNS Diseases",
-      "topic": "Traumatic Brain Injury",
-      "reference": "Ch 20, Page 196, Topic: Primary vs Secondary Brain Injury"
+      "topic": "Psychiatric Disorders",
+      "reference": "Ch 20, Page 197, Topic: Psychiatric Disorders"
     },
     {
       "id": 44,
-      "question": "The SINGLE most detrimental systemic insult in traumatic brain injury is:",
+      "question": "Electroconvulsive therapy (ECT) requires anesthesia with:",
       "options": {
-        "A": "Hypoxia",
-        "B": "Hypotension",
-        "C": "Hyperglycemia",
-        "D": "Hyperthermia"
+        "A": "Deep general anesthesia with intubation",
+        "B": "Brief general anesthesia with short-acting agents (methohexitone/propofol + succinylcholine)",
+        "C": "Spinal anesthesia",
+        "D": "Local anesthesia only"
       },
       "answer": "B",
-      "explanation": "Correct Answer: B. Hypotension — Hypotension (SBP <90 mmHg) is the single most detrimental secondary insult in TBI, doubling mortality. Even a single episode of hypotension significantly worsens outcome.",
+      "explanation": "Correct Answer: B. Brief general anesthesia with short-acting agents (methohexitone/propofol + succinylcholine) — ECT requires brief GA to prevent injuries from seizure-induced muscle contraction. Methohexitone is traditional; propofol may reduce seizure duration.",
       "chapter": "CNS Diseases",
-      "topic": "Traumatic Brain Injury",
-      "reference": "Ch 20, Page 196, Topic: Secondary Insults in TBI"
+      "topic": "Psychiatric Disorders",
+      "reference": "Ch 20, Page 197, Topic: Psychiatric Disorders"
     },
     {
       "id": 45,
-      "question": "Awake craniotomy is indicated for surgery near:",
+      "question": "Neuroleptic Malignant Syndrome (NMS) is characterized by all EXCEPT:",
       "options": {
-        "A": "Posterior fossa structures",
-        "B": "Eloquent cortex (speech and motor areas)",
-        "C": "Pituitary tumors",
-        "D": "Cerebellopontine angle tumors"
+        "A": "Hyperthermia",
+        "B": "Muscle rigidity",
+        "C": "Hypotension and hypothermia",
+        "D": "Autonomic instability"
       },
-      "answer": "B",
-      "explanation": "Correct Answer: B. Eloquent cortex (speech and motor areas) — Awake craniotomy allows intraoperative cortical mapping of eloquent areas (speech, motor, sensory cortex) to maximize tumor resection while preserving neurological function.",
+      "answer": "C",
+      "explanation": "Correct Answer: C. Hypotension and hypothermia — NMS presents with hyperthermia, severe rigidity, altered consciousness, autonomic instability (tachycardia, labile BP), and elevated CK. Treatment includes dantrolene and dopamine agonists.",
       "chapter": "CNS Diseases",
-      "topic": "Awake Craniotomy",
-      "reference": "Ch 20, Page 198, Topic: Awake Craniotomy"
+      "topic": "Psychiatric Disorders",
+      "reference": "Ch 20, Page 197, Topic: Psychiatric Disorders"
     },
     {
       "id": 46,
-      "question": "Lumbar CSF drain placement is contraindicated in:",
+      "question": "In a patient with Parkinson's disease, which anesthetic technique may be preferred for lower limb surgery?",
       "options": {
-        "A": "Supratentorial tumors with midline shift",
-        "B": "Normal pressure hydrocephalus",
-        "C": "Aortic surgery (spinal cord protection)",
-        "D": "Pseudotumor cerebri"
+        "A": "General anesthesia with enflurane",
+        "B": "Regional anesthesia (spinal/epidural)",
+        "C": "Deep sedation with ketamine",
+        "D": "Only local infiltration"
       },
-      "answer": "A",
-      "explanation": "Correct Answer: A. Supratentorial tumors with midline shift — Lumbar CSF drainage is contraindicated when there is supratentorial mass with midline shift, as sudden CSF removal from below can cause transtentorial (uncal) herniation.",
+      "answer": "B",
+      "explanation": "Correct Answer: B. Regional anesthesia (spinal/epidural) — Regional anesthesia avoids drug interactions, aspiration risk, and respiratory depression. It is often preferred when feasible in Parkinsonian patients.",
       "chapter": "CNS Diseases",
-      "topic": "CSF Drainage",
-      "reference": "Ch 20, Page 197, Topic: CSF Drainage Contraindications"
+      "topic": "Parkinson's Disease",
+      "reference": "Ch 20, Page 196, Topic: Parkinson's Disease"
     },
     {
       "id": 47,
-      "question": "Propofol infusion syndrome is characterized by all EXCEPT:",
+      "question": "In Multiple Sclerosis, which factor does NOT increase the risk of perioperative relapse?",
       "options": {
-        "A": "Metabolic acidosis",
-        "B": "Rhabdomyolysis",
-        "C": "Cardiac failure",
-        "D": "Hypernatremia"
+        "A": "Infection/fever",
+        "B": "Emotional stress",
+        "C": "Propofol administration",
+        "D": "Surgery itself"
       },
-      "answer": "D",
-      "explanation": "Correct Answer: D. Hypernatremia — Propofol infusion syndrome (with prolonged high-dose infusion >48h, >4 mg/kg/hr) causes severe metabolic acidosis, rhabdomyolysis, hyperkalemia, renal failure, cardiac failure, and lipemia. Hypernatremia is not a feature.",
+      "answer": "C",
+      "explanation": "Correct Answer: C. Propofol administration — There is no evidence that propofol triggers MS relapse. However, infection, fever, stress, and the physiological stress of surgery are known triggers for MS exacerbation.",
       "chapter": "CNS Diseases",
-      "topic": "Propofol in Neuro-ICU",
-      "reference": "Ch 20, Page 197, Topic: Propofol Infusion Syndrome"
+      "topic": "Multiple Sclerosis",
+      "reference": "Ch 20, Page 197, Topic: Multiple Sclerosis"
     },
     {
       "id": 48,
-      "question": "Emergence from anesthesia in neurosurgery should ideally be:",
+      "question": "Guillain-Barré Syndrome typically presents how many weeks after a respiratory or GI infection?",
       "options": {
-        "A": "Rapid with immediate extubation",
-        "B": "Smooth, avoiding coughing and straining (to prevent ICP spikes)",
-        "C": "Delayed by 24 hours in all cases",
-        "D": "Preceded by reversal of all neuromuscular blockade with neostigmine"
+        "A": "1–4 weeks",
+        "B": "6–8 weeks",
+        "C": "3 months",
+        "D": "6 months"
       },
-      "answer": "B",
-      "explanation": "Correct Answer: B. Smooth, avoiding coughing and straining (to prevent ICP spikes) — Smooth emergence is critical in neurosurgery to avoid coughing, straining, and hypertension, all of which can raise ICP and cause postoperative bleeding. IV lidocaine (1.5 mg/kg) before extubation can help.",
+      "answer": "A",
+      "explanation": "Correct Answer: A. 1–4 weeks — GBS typically develops 1–4 weeks after a viral illness (commonly Campylobacter jejuni, CMV, EBV). It presents as ascending symmetrical weakness with areflexia.",
       "chapter": "CNS Diseases",
-      "topic": "Emergence in Neurosurgery",
-      "reference": "Ch 20, Page 198, Topic: Emergence in Neurosurgery"
+      "topic": "Guillain-Barré Syndrome",
+      "reference": "Ch 20, Page 197, Topic: Guillain-Barré Syndrome (GBS)"
     },
     {
       "id": 49,
-      "question": "The cerebral steal phenomenon occurs when:",
+      "question": "In autonomic dysfunction, which monitoring is ESSENTIAL during anesthesia?",
       "options": {
-        "A": "A vasodilator diverts blood away from ischemic areas to normal areas",
-        "B": "A vasoconstrictor shunts blood to ischemic areas",
-        "C": "Hyperventilation improves perfusion to all brain regions equally",
-        "D": "Mannitol selectively improves flow to ischemic brain"
+        "A": "Only pulse oximetry",
+        "B": "Invasive arterial blood pressure monitoring",
+        "C": "Only NIBP every 15 minutes",
+        "D": "BIS monitoring"
       },
-      "answer": "A",
-      "explanation": "Correct Answer: A. A vasodilator diverts blood away from ischemic areas to normal areas — Cerebral steal occurs when vasodilators (like volatile agents) dilate vessels in normal brain, diverting blood AWAY from ischemic regions (which have maximally dilated vessels that cannot dilate further). The inverse (Robin Hood) phenomenon redirects blood TO ischemic areas.",
+      "answer": "B",
+      "explanation": "Correct Answer: B. Invasive arterial blood pressure monitoring — Due to labile hemodynamics and exaggerated responses to anesthetic drugs, continuous invasive BP monitoring is essential for titration of drugs and fluids.",
       "chapter": "CNS Diseases",
-      "topic": "Cerebral Blood Flow",
-      "reference": "Ch 20, Page 196, Topic: Cerebral Steal Phenomenon"
+      "topic": "Autonomic Dysfunction",
+      "reference": "Ch 20, Page 197, Topic: Autonomic Dysfunction"
     },
     {
       "id": 50,
-      "question": "Intraoperative neurophysiological monitoring during neurosurgery includes all EXCEPT:",
+      "question": "Which anticonvulsant medication is associated with aplastic anemia, requiring preoperative blood count check?",
       "options": {
-        "A": "Somatosensory evoked potentials (SSEP)",
-        "B": "Motor evoked potentials (MEP)",
-        "C": "Electroencephalography (EEG)",
-        "D": "Electromyography of the diaphragm"
+        "A": "Phenytoin",
+        "B": "Carbamazepine",
+        "C": "Sodium valproate",
+        "D": "Gabapentin"
       },
-      "answer": "D",
-      "explanation": "Correct Answer: D. Electromyography of the diaphragm — Common neuromonitoring modalities include SSEP (sensory pathway), MEP (motor pathway), EEG (cortical activity), BAEP (brainstem auditory), and direct nerve stimulation. Diaphragm EMG is not a standard neurological monitor.",
+      "answer": "B",
+      "explanation": "Correct Answer: B. Carbamazepine — Carbamazepine can cause aplastic anemia and agranulocytosis. Preoperative full blood count is essential. Sodium valproate can cause thrombocytopenia and platelet dysfunction.",
       "chapter": "CNS Diseases",
-      "topic": "Neuromonitoring",
-      "reference": "Ch 20, Page 198, Topic: Intraoperative Neuromonitoring"
+      "topic": "Epilepsy",
+      "reference": "Ch 20, Page 196, Topic: Epilepsy"
     }
   ]
 }
