@@ -71,7 +71,7 @@ QUIZ_CATALOG = {
 }
 
 # ─── Load Questions ──────────────────────────────────────────────────────────
-@st.cache_data
+@st.cache_data(ttl=60)
 def load_questions(filename):
     path = os.path.join(os.path.dirname(__file__), filename)
     with open(path, "r", encoding="utf-8") as f:
