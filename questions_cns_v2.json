@@ -1,0 +1,760 @@
+{
+  "title": "Anesthesia for Central Nervous System Diseases V2 – MCQ",
+  "source": "Short Textbook of Anesthesia – Ajay Yadav",
+  "section": "Anesthesia for Central Nervous System Diseases",
+  "version": 2,
+  "total_questions": 50,
+  "time_limit_minutes": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Parkinson's disease occurs due to progressive loss of which neurotransmitter in the brain?",
+      "options": {
+        "A": "Serotonin",
+        "B": "Dopamine",
+        "C": "Acetylcholine",
+        "D": "GABA"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Dopamine — Parkinson occurs due to progressive loss of dopamine deficiency in the brain. All medications including levodopa should be continued perioperatively.",
+      "chapter": "CNS Diseases",
+      "topic": "Parkinson's Disease",
+      "reference": "Ch 20, Page 196, Topic: Parkinson's Disease"
+    },
+    {
+      "id": 2,
+      "question": "Why are Parkinson's disease patients prone to arrhythmias perioperatively?",
+      "options": {
+        "A": "Due to electrolyte imbalance",
+        "B": "Due to increased levels of dopamine in body (levodopa gets converted to dopamine)",
+        "C": "Due to vagal stimulation",
+        "D": "Due to coronary artery disease"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Due to increased levels of dopamine in body (levodopa gets converted to dopamine) — PD patients are prone for arrhythmias due to increased levels of dopamine in the body as levodopa gets converted to dopamine.",
+      "chapter": "CNS Diseases",
+      "topic": "Parkinson's Disease",
+      "reference": "Ch 20, Page 196, Topic: Parkinson's Disease"
+    },
+    {
+      "id": 3,
+      "question": "Parkinson's disease patients develop hypotension due to:",
+      "options": {
+        "A": "Blood loss",
+        "B": "Depletion of catecholamines by chronically elevated dopamine levels",
+        "C": "Adrenal insufficiency",
+        "D": "Cardiac failure"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Depletion of catecholamines by chronically elevated dopamine levels — Hypotension occurs due to depletion of catecholamines by chronically elevated dopamine levels. These patients are also volume depleted due to dopaminergic effect on kidneys.",
+      "chapter": "CNS Diseases",
+      "topic": "Parkinson's Disease",
+      "reference": "Ch 20, Page 196, Topic: Parkinson's Disease"
+    },
+    {
+      "id": 4,
+      "question": "Parkinson's disease patients are volume depleted because of:",
+      "options": {
+        "A": "Poor oral intake only",
+        "B": "Dopaminergic effect on kidneys",
+        "C": "Excessive sweating",
+        "D": "Diarrhea from medications"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Dopaminergic effect on kidneys — PD patients are volume depleted due to dopaminergic effect on kidneys, therefore adequate fluid replacement is a must.",
+      "chapter": "CNS Diseases",
+      "topic": "Parkinson's Disease",
+      "reference": "Ch 20, Page 196, Topic: Parkinson's Disease"
+    },
+    {
+      "id": 5,
+      "question": "Which anesthetic drugs should be avoided in Parkinson's disease as they increase muscle tone?",
+      "options": {
+        "A": "Propofol and thiopentone",
+        "B": "Ketamine and alfentanil",
+        "C": "Midazolam and fentanyl",
+        "D": "Isoflurane and sevoflurane"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Ketamine and alfentanil — Anesthetic drugs which increase the muscle tone (ketamine, alfentanil) should be avoided in PD patients as rigidity is already a major concern.",
+      "chapter": "CNS Diseases",
+      "topic": "Parkinson's Disease",
+      "reference": "Ch 20, Page 196, Topic: Parkinson's Disease"
+    },
+    {
+      "id": 6,
+      "question": "Regarding Alzheimer's disease and general anesthesia, the textbook states:",
+      "options": {
+        "A": "General anesthesia definitely worsens dementia",
+        "B": "The rising concern that general anesthesia worsens dementia is not yet fully substantiated by studies",
+        "C": "General anesthesia improves cognitive function",
+        "D": "Only regional anesthesia must be used"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. The rising concern that general anesthesia worsens dementia is not yet fully substantiated by studies — This is directly stated in the textbook regarding the relationship between GA and Alzheimer's disease.",
+      "chapter": "CNS Diseases",
+      "topic": "Alzheimer's Disease",
+      "reference": "Ch 20, Page 196, Topic: Alzheimer's Disease"
+    },
+    {
+      "id": 7,
+      "question": "The major concern of Alzheimer's disease patients presenting for surgery includes all EXCEPT:",
+      "options": {
+        "A": "Geriatric and dementic",
+        "B": "Non-cooperative",
+        "C": "Prone to postoperative psychosis",
+        "D": "Prone to malignant hyperthermia"
+      },
+      "answer": "D",
+      "explanation": "Correct Answer: D. Prone to malignant hyperthermia — Alzheimer's patients are geriatric, dementic, non-cooperative, and prone to develop postoperative psychosis. Malignant hyperthermia is not a specific concern.",
+      "chapter": "CNS Diseases",
+      "topic": "Alzheimer's Disease",
+      "reference": "Ch 20, Page 196, Topic: Alzheimer's Disease"
+    },
+    {
+      "id": 8,
+      "question": "In epileptic patients, anticonvulsants especially affect which organ system requiring preoperative assessment?",
+      "options": {
+        "A": "Renal function",
+        "B": "Liver function",
+        "C": "Cardiac function",
+        "D": "Pulmonary function"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Liver function — As anticonvulsants affect the organ systems (especially liver function), evaluation of organ function is must in preoperative assessment.",
+      "chapter": "CNS Diseases",
+      "topic": "Epilepsy",
+      "reference": "Ch 20, Page 196, Topic: Epilepsy"
+    },
+    {
+      "id": 9,
+      "question": "Which of the following drugs has epileptogenic potential due to its preservative?",
+      "options": {
+        "A": "Propofol",
+        "B": "Ketamine",
+        "C": "Etomidate",
+        "D": "Thiopentone"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Ketamine — Ketamine has epileptogenic potential due to its preservative. Other drugs with epileptogenic potential include methohexitone, propofol (rare opisthotonus), etomidate (myoclonic activity), enflurane, sevoflurane.",
+      "chapter": "CNS Diseases",
+      "topic": "Epilepsy",
+      "reference": "Ch 20, Page 196, Topic: Epilepsy"
+    },
+    {
+      "id": 10,
+      "question": "Atracurium should be used with caution in epileptics because of:",
+      "options": {
+        "A": "Histamine release",
+        "B": "Its metabolite Laudanosine has epileptogenic potential",
+        "C": "Prolonged neuromuscular block",
+        "D": "Direct CNS stimulation"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Its metabolite Laudanosine has epileptogenic potential — Atracurium's metabolite Laudanosine has epileptogenic potential and should be used with caution in epileptic patients.",
+      "chapter": "CNS Diseases",
+      "topic": "Epilepsy",
+      "reference": "Ch 20, Page 196, Topic: Epilepsy"
+    },
+    {
+      "id": 11,
+      "question": "Which induction agent is the agent of CHOICE for epileptic patients?",
+      "options": {
+        "A": "Methohexitone",
+        "B": "Ketamine",
+        "C": "Thiopentone",
+        "D": "Etomidate"
+      },
+      "answer": "C",
+      "explanation": "Correct Answer: C. Thiopentone — Due to its anticonvulsant property, thiopentone is the induction agent of choice for epileptics.",
+      "chapter": "CNS Diseases",
+      "topic": "Epilepsy",
+      "reference": "Ch 20, Page 196, Topic: Epilepsy"
+    },
+    {
+      "id": 12,
+      "question": "Phenytoin and carbamazepine can potentiate the effect of:",
+      "options": {
+        "A": "Depolarizing muscle relaxants",
+        "B": "Non-depolarizing muscle relaxants",
+        "C": "Opioids",
+        "D": "Benzodiazepines"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Non-depolarizing muscle relaxants — Phenytoin and carbamazepine can potentiate the effect of non-depolarizing muscle relaxants.",
+      "chapter": "CNS Diseases",
+      "topic": "Epilepsy",
+      "reference": "Ch 20, Page 196, Topic: Epilepsy"
+    },
+    {
+      "id": 13,
+      "question": "Spinal/epidural anesthesia in epileptic patients can be given safely if:",
+      "options": {
+        "A": "Patient is on multiple anticonvulsants",
+        "B": "There are no signs and symptoms of raised intracranial tension (ICT)",
+        "C": "Patient had seizure more than 24 hours ago",
+        "D": "Patient is on phenytoin only"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. There are no signs and symptoms of raised intracranial tension (ICT) — Spinal/epidural can be given safely if there are no signs and symptoms of raised intracranial tension (ICT).",
+      "chapter": "CNS Diseases",
+      "topic": "Epilepsy",
+      "reference": "Ch 20, Page 196, Topic: Epilepsy"
+    },
+    {
+      "id": 14,
+      "question": "After a cerebrovascular accident, elective surgery should be deferred for:",
+      "options": {
+        "A": "3 months",
+        "B": "6 months",
+        "C": "9 months",
+        "D": "12 months"
+      },
+      "answer": "C",
+      "explanation": "Correct Answer: C. 9 months — After cerebrovascular accident, elective surgery should be deferred for 9 months. The odds are stabilized at 3 times after 9 months.",
+      "chapter": "CNS Diseases",
+      "topic": "Stroke",
+      "reference": "Ch 20, Page 196, Topic: Stroke"
+    },
+    {
+      "id": 15,
+      "question": "If elective surgery is performed within 3 months after stroke, the risk of complications is how many times higher?",
+      "options": {
+        "A": "3 times",
+        "B": "5 times",
+        "C": "9 times",
+        "D": "14 times"
+      },
+      "answer": "D",
+      "explanation": "Correct Answer: D. 14 times — The possibility of serious complications like another stroke, heart attack or even death is 14 times higher if elective surgery is performed within three months after stroke.",
+      "chapter": "CNS Diseases",
+      "topic": "Stroke",
+      "reference": "Ch 20, Page 196, Topic: Stroke"
+    },
+    {
+      "id": 16,
+      "question": "If elective surgery is performed within 6 months after stroke, the risk is how many times higher?",
+      "options": {
+        "A": "2 times",
+        "B": "5 times",
+        "C": "10 times",
+        "D": "14 times"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. 5 times — Risk is 5 times higher if surgery is performed within 6 months after stroke, and 14 times higher within 3 months.",
+      "chapter": "CNS Diseases",
+      "topic": "Stroke",
+      "reference": "Ch 20, Page 196, Topic: Stroke"
+    },
+    {
+      "id": 17,
+      "question": "Suxamethonium is contraindicated in stroke patients because of:",
+      "options": {
+        "A": "Risk of malignant hyperthermia",
+        "B": "Extrajunctional receptor proliferation causing hyperkalemia",
+        "C": "Histamine release",
+        "D": "Prolonged action"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Extrajunctional receptor proliferation causing hyperkalemia — Due to extrajunctional receptors, suxamethonium is contraindicated for stroke patients.",
+      "chapter": "CNS Diseases",
+      "topic": "Stroke",
+      "reference": "Ch 20, Page 196, Topic: Stroke"
+    },
+    {
+      "id": 18,
+      "question": "Patients with history of transient ischemic attacks must have which investigation before considering anesthesia?",
+      "options": {
+        "A": "CT brain",
+        "B": "MRI brain",
+        "C": "Carotid Doppler",
+        "D": "EEG"
+      },
+      "answer": "C",
+      "explanation": "Correct Answer: C. Carotid Doppler — Patients with history of transient ischemic attacks must have at least carotid Doppler before considering for anesthesia.",
+      "chapter": "CNS Diseases",
+      "topic": "Stroke",
+      "reference": "Ch 20, Page 196, Topic: Stroke"
+    },
+    {
+      "id": 19,
+      "question": "In patients with chronic headache, analgesics especially affect which organ system?",
+      "options": {
+        "A": "Liver function",
+        "B": "Renal function",
+        "C": "Cardiac function",
+        "D": "Hematologic function"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Renal function — As analgesics affect the organ systems (especially renal function), evaluation of organ function is must in preoperative assessment of chronic headache patients.",
+      "chapter": "CNS Diseases",
+      "topic": "Headache",
+      "reference": "Ch 20, Page 196, Topic: Headache"
+    },
+    {
+      "id": 20,
+      "question": "Chronic headache patients are prone to develop post-spinal headache, therefore:",
+      "options": {
+        "A": "Use the smallest needle",
+        "B": "Spinal should be avoided",
+        "C": "Prophylactic blood patch should be given",
+        "D": "Use hyperbaric solution"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Spinal should be avoided — These patients are prone to develop post-spinal headache therefore, spinal should be avoided.",
+      "chapter": "CNS Diseases",
+      "topic": "Headache",
+      "reference": "Ch 20, Page 196, Topic: Headache"
+    },
+    {
+      "id": 21,
+      "question": "In Multiple Sclerosis, which type of regional anesthesia can precipitate the disease?",
+      "options": {
+        "A": "Epidural anesthesia",
+        "B": "Spinal anesthesia",
+        "C": "Peripheral nerve blocks",
+        "D": "Brachial plexus block"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Spinal anesthesia — Spinal anesthesia (but not epidural) and stress can precipitate multiple sclerosis, probably because of direct exposure of local anesthetic to sheath of spinal cord.",
+      "chapter": "CNS Diseases",
+      "topic": "Multiple Sclerosis",
+      "reference": "Ch 20, Page 197, Topic: Multiple Sclerosis"
+    },
+    {
+      "id": 22,
+      "question": "In Multiple Sclerosis, peripheral nerve blocks:",
+      "options": {
+        "A": "Are absolutely contraindicated",
+        "B": "Can be given safely as peripheral nerves are not involved in MS",
+        "C": "Should only be given under ultrasound guidance",
+        "D": "Require reduced local anesthetic doses"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Can be given safely as peripheral nerves are not involved in MS — As peripheral nerves are not involved in MS, peripheral nerve blocks can be given safely.",
+      "chapter": "CNS Diseases",
+      "topic": "Multiple Sclerosis",
+      "reference": "Ch 20, Page 197, Topic: Multiple Sclerosis"
+    },
+    {
+      "id": 23,
+      "question": "In Multiple Sclerosis patients, immunosuppressant drugs especially affect which evaluation?",
+      "options": {
+        "A": "Liver function",
+        "B": "Hematologic evaluation",
+        "C": "Cardiac evaluation",
+        "D": "Pulmonary function"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Hematologic evaluation — As immunosuppressant drugs affect the organ systems (especially hematologic), evaluation of organ function is must in preoperative assessment.",
+      "chapter": "CNS Diseases",
+      "topic": "Multiple Sclerosis",
+      "reference": "Ch 20, Page 197, Topic: Multiple Sclerosis"
+    },
+    {
+      "id": 24,
+      "question": "During general anesthesia in MS patients, which aspect is most important to prevent disease precipitation?",
+      "options": {
+        "A": "Avoiding all opioids",
+        "B": "Blunting stress response to intubation and maintaining good depth of anesthesia",
+        "C": "Using total intravenous anesthesia only",
+        "D": "Keeping the patient hypothermic"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Blunting stress response to intubation and maintaining good depth of anesthesia — As stress can precipitate MS, blunting stress response to intubation and maintaining good depth of anesthesia is a must.",
+      "chapter": "CNS Diseases",
+      "topic": "Multiple Sclerosis",
+      "reference": "Ch 20, Page 197, Topic: Multiple Sclerosis"
+    },
+    {
+      "id": 25,
+      "question": "Hyperthermia in Multiple Sclerosis patients:",
+      "options": {
+        "A": "Has no effect on the disease",
+        "B": "Is a very important risk factor to precipitate MS and must be avoided at any cost",
+        "C": "Is beneficial for recovery",
+        "D": "Only affects patients in relapse"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Is a very important risk factor to precipitate MS and must be avoided at any cost — Hyperthermia is one of a very important risk factor to precipitate MS therefore, must be avoided at any cost.",
+      "chapter": "CNS Diseases",
+      "topic": "Multiple Sclerosis",
+      "reference": "Ch 20, Page 197, Topic: Multiple Sclerosis"
+    },
+    {
+      "id": 26,
+      "question": "In syringomyelia, suxamethonium must not be used because:",
+      "options": {
+        "A": "Risk of malignant hyperthermia",
+        "B": "There is lower motor neuron (LMN) paralysis",
+        "C": "Histamine release",
+        "D": "Pseudocholinesterase deficiency"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. There is lower motor neuron (LMN) paralysis — As there is lower motor neuron (LMN) paralysis in syringomyelia, suxamethonium must not be used and exaggerated response to non-depolarizer is expected.",
+      "chapter": "CNS Diseases",
+      "topic": "Syringomyelia",
+      "reference": "Ch 20, Page 197, Topic: Syringomyelia"
+    },
+    {
+      "id": 27,
+      "question": "In syringomyelia, response to non-depolarizing muscle relaxants is:",
+      "options": {
+        "A": "Reduced (resistance)",
+        "B": "Normal",
+        "C": "Exaggerated",
+        "D": "Unpredictable but not exaggerated"
+      },
+      "answer": "C",
+      "explanation": "Correct Answer: C. Exaggerated — In syringomyelia, exaggerated response to non-depolarizer is expected due to lower motor neuron involvement.",
+      "chapter": "CNS Diseases",
+      "topic": "Syringomyelia",
+      "reference": "Ch 20, Page 197, Topic: Syringomyelia"
+    },
+    {
+      "id": 28,
+      "question": "Central neuraxial blocks in syringomyelia should be avoided because of:",
+      "options": {
+        "A": "Coagulopathy",
+        "B": "Neurological deficits and possibility of raised ICT",
+        "C": "Technical difficulty only",
+        "D": "Risk of infection"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Neurological deficits and possibility of raised ICT — Neurological deficits and possibility of raised ICT warrants the avoidance of central neuraxial blocks in syringomyelia.",
+      "chapter": "CNS Diseases",
+      "topic": "Syringomyelia",
+      "reference": "Ch 20, Page 197, Topic: Syringomyelia"
+    },
+    {
+      "id": 29,
+      "question": "Associated scoliosis in syringomyelia can cause which problem during general anesthesia?",
+      "options": {
+        "A": "Difficult IV access",
+        "B": "Ventilation perfusion mismatch",
+        "C": "Cardiac tamponade",
+        "D": "Pneumothorax"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Ventilation perfusion mismatch — Associated scoliosis in syringomyelia can cause ventilation perfusion mismatch during general anesthesia.",
+      "chapter": "CNS Diseases",
+      "topic": "Syringomyelia",
+      "reference": "Ch 20, Page 197, Topic: Syringomyelia"
+    },
+    {
+      "id": 30,
+      "question": "In ALS (Motor Neuron Disease), central neuraxial anesthesia:",
+      "options": {
+        "A": "Is the preferred technique",
+        "B": "Can exacerbate the disease",
+        "C": "Has no effect on the disease",
+        "D": "Is mandatory for lower limb surgery"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Can exacerbate the disease — In ALS, central neuraxial can exacerbate the disease and should be avoided.",
+      "chapter": "CNS Diseases",
+      "topic": "Amyotrophic Lateral Sclerosis",
+      "reference": "Ch 20, Page 197, Topic: Amyotrophic Lateral Sclerosis"
+    },
+    {
+      "id": 31,
+      "question": "In Guillain-Barré Syndrome, central neuraxial blocks can worsen the disease due to:",
+      "options": {
+        "A": "Coagulopathy",
+        "B": "Double crush syndrome",
+        "C": "Autonomic dysfunction",
+        "D": "Hypotension"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Double crush syndrome — Central neuraxial blocks can worsen the already diseased nerve (double crush syndrome) in GBS, therefore should be avoided.",
+      "chapter": "CNS Diseases",
+      "topic": "Guillain-Barré Syndrome",
+      "reference": "Ch 20, Page 197, Topic: Guillain-Barré Syndrome (GBS)"
+    },
+    {
+      "id": 32,
+      "question": "In autonomic dysfunction, hypotension must be treated by:",
+      "options": {
+        "A": "Ephedrine (indirect acting vasopressor)",
+        "B": "Phenylephrine (directly acting vasopressor)",
+        "C": "Fluid bolus only",
+        "D": "Atropine"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Phenylephrine (directly acting vasopressor) — Hypotension must be treated by directly acting vasopressors (phenylephrine), not by indirectly acting (ephedrine) vasopressors which act by releasing catecholamines (which are already depleted).",
+      "chapter": "CNS Diseases",
+      "topic": "Autonomic Dysfunction",
+      "reference": "Ch 20, Page 197, Topic: Autonomic Dysfunction"
+    },
+    {
+      "id": 33,
+      "question": "Why is ephedrine NOT the vasopressor of choice in autonomic dysfunction?",
+      "options": {
+        "A": "It causes bradycardia",
+        "B": "It acts by releasing catecholamines which are already depleted",
+        "C": "It causes bronchospasm",
+        "D": "It has a very short duration"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. It acts by releasing catecholamines which are already depleted — Indirectly acting vasopressors (ephedrine) work by releasing catecholamines, which are depleted in autonomic dysfunction, making them ineffective.",
+      "chapter": "CNS Diseases",
+      "topic": "Autonomic Dysfunction",
+      "reference": "Ch 20, Page 197, Topic: Autonomic Dysfunction"
+    },
+    {
+      "id": 34,
+      "question": "In acute spinal cord transection, the spinal shock phase lasts for:",
+      "options": {
+        "A": "24-48 hours",
+        "B": "1-3 weeks",
+        "C": "3-6 months",
+        "D": "6-12 months"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. 1-3 weeks — During the first 1-3 weeks patients are in spinal shock due to sympathetic cut off, and are very vulnerable for hypotension and bradycardia.",
+      "chapter": "CNS Diseases",
+      "topic": "Spinal Cord Transection",
+      "reference": "Ch 20, Page 197, Topic: Spinal Cord Transection"
+    },
+    {
+      "id": 35,
+      "question": "Patients with chronic spinal cord transection above T6 have no sensations below transection. Why do they still need anesthesia for surgery?",
+      "options": {
+        "A": "For anxiolysis only",
+        "B": "Surgery is a potent stimulus for developing autonomic hyper-reflexia",
+        "C": "To prevent awareness",
+        "D": "For muscle relaxation only"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Surgery is a potent stimulus for developing autonomic hyper-reflexia — Although these patients have no sensations below transection, they need anesthesia because surgery is a potent stimulus for developing autonomic hyper-reflexia.",
+      "chapter": "CNS Diseases",
+      "topic": "Spinal Cord Transection",
+      "reference": "Ch 20, Page 197, Topic: Spinal Cord Transection"
+    },
+    {
+      "id": 36,
+      "question": "Which anesthetic techniques can prevent autonomic hyper-reflexia in chronic spinal cord transection?",
+      "options": {
+        "A": "Only general anesthesia",
+        "B": "Regional anesthesia and deep general anesthesia",
+        "C": "Only local infiltration",
+        "D": "Monitored anesthesia care"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Regional anesthesia and deep general anesthesia — Regional anesthesia and deep GA can prevent autonomic hyper-reflexia in patients with chronic spinal cord transection above T6.",
+      "chapter": "CNS Diseases",
+      "topic": "Spinal Cord Transection",
+      "reference": "Ch 20, Page 197, Topic: Spinal Cord Transection"
+    },
+    {
+      "id": 37,
+      "question": "Regarding MAO inhibitors in psychiatric patients, the CURRENT recommendation is:",
+      "options": {
+        "A": "Stop 2-3 weeks before surgery",
+        "B": "All antidepressants including MAO inhibitors should be continued",
+        "C": "Stop only MAO inhibitors, continue others",
+        "D": "Switch to SSRIs 4 weeks before surgery"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. All antidepressants including MAO inhibitors should be continued — Contrary to previous recommendation of stopping MAO inhibitors 2-3 weeks prior, all antidepressants including MAO inhibitors should be continued.",
+      "chapter": "CNS Diseases",
+      "topic": "Psychiatric Disorders – Depression",
+      "reference": "Ch 20, Page 197, Topic: Psychiatric Disorders"
+    },
+    {
+      "id": 38,
+      "question": "Antidepressants increase the level of brain neurotransmitters, which causes:",
+      "options": {
+        "A": "Decreased anesthetic requirement",
+        "B": "Increased anesthetic requirement",
+        "C": "No change in anesthetic requirement",
+        "D": "Resistance to muscle relaxants"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Increased anesthetic requirement — Antidepressants increase the level of brain neurotransmitters, increasing the anesthetic requirement.",
+      "chapter": "CNS Diseases",
+      "topic": "Psychiatric Disorders – Depression",
+      "reference": "Ch 20, Page 197, Topic: Psychiatric Disorders"
+    },
+    {
+      "id": 39,
+      "question": "Acute intake of tricyclic antidepressants (up to 3 weeks) increases which catecholamines, leading to arrhythmias?",
+      "options": {
+        "A": "Dopamine and serotonin",
+        "B": "Epinephrine and norepinephrine",
+        "C": "Acetylcholine and GABA",
+        "D": "Histamine and bradykinin"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Epinephrine and norepinephrine — Acute intake of tricyclic antidepressants (up to 3 weeks) increases the epinephrine and norepinephrine, increasing chances of arrhythmias (particularly with halothane) and hypertensive crisis.",
+      "chapter": "CNS Diseases",
+      "topic": "Psychiatric Disorders – Depression",
+      "reference": "Ch 20, Page 197, Topic: Psychiatric Disorders"
+    },
+    {
+      "id": 40,
+      "question": "In patients on acute TCAs, which drugs should NOT be used?",
+      "options": {
+        "A": "Propofol, fentanyl, atracurium",
+        "B": "Pancuronium, ketamine, local anesthetics with adrenaline",
+        "C": "Thiopentone, morphine, vecuronium",
+        "D": "Sevoflurane, remifentanil, cisatracurium"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Pancuronium, ketamine, local anesthetics with adrenaline — Drugs like pancuronium, ketamine and local anesthetics with adrenaline should not be used due to sympathomimetic effects potentiating catecholamine excess.",
+      "chapter": "CNS Diseases",
+      "topic": "Psychiatric Disorders – Depression",
+      "reference": "Ch 20, Page 197, Topic: Psychiatric Disorders"
+    },
+    {
+      "id": 41,
+      "question": "Chronic use of antidepressants causes catecholamine depletion, which increases the risk of:",
+      "options": {
+        "A": "Hypertension",
+        "B": "Hypotension",
+        "C": "Tachycardia",
+        "D": "Bronchospasm"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Hypotension — Chronic use causes catecholamine depletion increasing the risk of hypotension. This is opposite to acute TCA intake which causes sympathetic excess.",
+      "chapter": "CNS Diseases",
+      "topic": "Psychiatric Disorders – Depression",
+      "reference": "Ch 20, Page 197, Topic: Psychiatric Disorders"
+    },
+    {
+      "id": 42,
+      "question": "Patients on MAO inhibitors must NOT receive which opioid?",
+      "options": {
+        "A": "Morphine",
+        "B": "Fentanyl",
+        "C": "Pethidine (Meperidine)",
+        "D": "Remifentanil"
+      },
+      "answer": "C",
+      "explanation": "Correct Answer: C. Pethidine (Meperidine) — Patients on MAO inhibitors must not receive pethidine due to the risk of fatal serotonin syndrome.",
+      "chapter": "CNS Diseases",
+      "topic": "Psychiatric Disorders – Depression",
+      "reference": "Ch 20, Page 197, Topic: Psychiatric Disorders"
+    },
+    {
+      "id": 43,
+      "question": "The induction agent of choice for Electroconvulsive Therapy (ECT) is:",
+      "options": {
+        "A": "Thiopentone",
+        "B": "Propofol",
+        "C": "Methohexital",
+        "D": "Ketamine"
+      },
+      "answer": "C",
+      "explanation": "Correct Answer: C. Methohexital — Methohexital, being epileptogenic, is the induction agent of choice for ECT. Propofol may shorten seizure duration.",
+      "chapter": "CNS Diseases",
+      "topic": "Psychiatric Disorders – ECT",
+      "reference": "Ch 20, Page 197, Topic: Psychiatric Disorders"
+    },
+    {
+      "id": 44,
+      "question": "During ECT, when succinylcholine is used, a tourniquet is applied on one hand before giving succinylcholine in order to:",
+      "options": {
+        "A": "Prevent IV extravasation",
+        "B": "See the seizure activity in that hand",
+        "C": "Reduce the dose required",
+        "D": "Prevent hyperkalemia"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. See the seizure activity in that hand — If succinylcholine is used to prevent muscle contraction, tourniquet should be applied in one hand before giving succinylcholine to see the seizure activity.",
+      "chapter": "CNS Diseases",
+      "topic": "Psychiatric Disorders – ECT",
+      "reference": "Ch 20, Page 197, Topic: Psychiatric Disorders"
+    },
+    {
+      "id": 45,
+      "question": "Lithium, used for mania, can produce which endocrine side effect?",
+      "options": {
+        "A": "Cushing's syndrome",
+        "B": "Diabetes insipidus and electrolyte imbalance",
+        "C": "Hypothyroidism only",
+        "D": "Addison's disease"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Diabetes insipidus and electrolyte imbalance — Patients on lithium can develop diabetes insipidus and electrolyte imbalance. Current recommendation is to continue lithium perioperatively.",
+      "chapter": "CNS Diseases",
+      "topic": "Psychiatric Disorders – Mania",
+      "reference": "Ch 20, Page 197, Topic: Psychiatric Disorders"
+    },
+    {
+      "id": 46,
+      "question": "Regarding lithium and surgery, the CURRENT recommendation is:",
+      "options": {
+        "A": "Stop 48 hours before surgery",
+        "B": "Stop 1 week before surgery",
+        "C": "Continue lithium",
+        "D": "Replace with valproate"
+      },
+      "answer": "C",
+      "explanation": "Correct Answer: C. Continue lithium — In contrary to older guidelines of stopping lithium 48 before surgery, current recommendation is to continue lithium. Lamotrigine is the other drug approved for bipolar disorder.",
+      "chapter": "CNS Diseases",
+      "topic": "Psychiatric Disorders – Mania",
+      "reference": "Ch 20, Page 197, Topic: Psychiatric Disorders"
+    },
+    {
+      "id": 47,
+      "question": "In schizophrenic patients, antipsychotic drugs make them more vulnerable for which complication during anesthesia?",
+      "options": {
+        "A": "Malignant hyperthermia",
+        "B": "Hypotension (alpha blocking property) and QTc prolongation",
+        "C": "Bronchospasm",
+        "D": "Hyperkalemia"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Hypotension (alpha blocking property) and QTc prolongation — Antipsychotic patients are more vulnerable for hypotension (alpha blocking property), arrhythmias (QTc prolongation and torsade de pointes).",
+      "chapter": "CNS Diseases",
+      "topic": "Psychiatric Disorders – Schizophrenia",
+      "reference": "Ch 20, Page 197, Topic: Psychiatric Disorders"
+    },
+    {
+      "id": 48,
+      "question": "Ketamine is contraindicated in schizophrenic patients because:",
+      "options": {
+        "A": "It causes seizures",
+        "B": "These patients can become very violent after ketamine in the postoperative period",
+        "C": "It causes hypotension",
+        "D": "It prolongs QTc interval"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. These patients can become very violent after ketamine in the postoperative period — Ketamine is contraindicated because these patients can become very violent after ketamine in the postoperative period.",
+      "chapter": "CNS Diseases",
+      "topic": "Psychiatric Disorders – Schizophrenia",
+      "reference": "Ch 20, Page 197, Topic: Psychiatric Disorders"
+    },
+    {
+      "id": 49,
+      "question": "In drug abusers, regarding acute vs chronic drug intake and anesthetic requirement:",
+      "options": {
+        "A": "Both increase anesthetic requirement",
+        "B": "Acute intake decreases while chronic intake increases the anesthetic requirement",
+        "C": "Both decrease anesthetic requirement",
+        "D": "Acute intake increases while chronic intake decreases"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Acute intake decreases while chronic intake increases the anesthetic requirement — Acute drug intake decreases while chronic intake increases the anesthetic requirement due to tolerance and cross-tolerance.",
+      "chapter": "CNS Diseases",
+      "topic": "Psychiatric Disorders – Drug Abuse",
+      "reference": "Ch 20, Page 197, Topic: Psychiatric Disorders"
+    },
+    {
+      "id": 50,
+      "question": "Alcoholic patients presenting for surgery must be evaluated for all EXCEPT:",
+      "options": {
+        "A": "Dilated cardiomyopathy and cirrhosis",
+        "B": "Pancreatitis and metabolic disorders (hypoglycemia)",
+        "C": "Wernicke-Korsakoff syndrome",
+        "D": "Rheumatoid arthritis"
+      },
+      "answer": "D",
+      "explanation": "Correct Answer: D. Rheumatoid arthritis — Alcoholic patients must be evaluated for dilated cardiomyopathy, cirrhosis, pancreatitis, metabolic disorders (hypoglycemia), nutritional disorders (Wernicke-Korsakoff syndrome). Rheumatoid arthritis is not associated.",
+      "chapter": "CNS Diseases",
+      "topic": "Psychiatric Disorders – Drug Abuse",
+      "reference": "Ch 20, Page 197, Topic: Psychiatric Disorders"
+    }
+  ]
+}
