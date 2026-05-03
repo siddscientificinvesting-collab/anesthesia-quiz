@@ -74,6 +74,12 @@ QUIZ_CATALOG = {
         "short": "CNS Diseases V2",
         "icon": "🧠",
     },
+    "hepatic_v2": {
+        "file": "questions_hepatic_v2.json",
+        "label": "Anesthesia for Hepatic Disease – Version 2",
+        "short": "Hepatic Disease V2",
+        "icon": "🫁",
+    },
 }
 
 # ─── Load Questions ──────────────────────────────────────────────────────────

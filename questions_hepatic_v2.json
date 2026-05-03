@@ -1,0 +1,760 @@
+{
+  "title": "Anesthesia for Hepatic Disease V2 – MCQ",
+  "source": "Short Textbook of Anesthesia – Ajay Yadav",
+  "section": "Anesthesia for Hepatic Disease",
+  "version": 2,
+  "total_questions": 50,
+  "time_limit_minutes": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the gold standard scoring system to assess the severity of hepatic disease and risk assessment?",
+      "options": {
+        "A": "MELD score",
+        "B": "Child-Pugh classification",
+        "C": "APACHE score",
+        "D": "Glasgow Coma Scale"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Child-Pugh classification — Child-Pugh classification is the gold standard scoring system to assess the severity of hepatic disease and hence the risk assessment (Table 21.1).",
+      "chapter": "Hepatic Disease",
+      "topic": "Preoperative Evaluation",
+      "reference": "Ch 21, Page 199, Topic: Preoperative Evaluation"
+    },
+    {
+      "id": 2,
+      "question": "The aim of preoperative evaluation in hepatic patients is to assess the severity of disease AND:",
+      "options": {
+        "A": "Only the liver enzymes",
+        "B": "The damage caused to other organs by hepatic dysfunction",
+        "C": "Only the coagulation profile",
+        "D": "Only the nutritional status"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. The damage caused to other organs by hepatic dysfunction — The aim is not only to assess severity but also to assess the damage caused to other organs by hepatic dysfunction: coagulopathy, renal damage (hepatorenal syndrome), pulmonary dysfunction (hepatopulmonary syndrome), portopulmonary hypertension, encephalopathy, ascites, cardiac functions, electrolyte and metabolic abnormalities.",
+      "chapter": "Hepatic Disease",
+      "topic": "Preoperative Evaluation",
+      "reference": "Ch 21, Page 199, Topic: Preoperative Evaluation"
+    },
+    {
+      "id": 3,
+      "question": "In Child-Pugh classification, serum bilirubin value for Group C is:",
+      "options": {
+        "A": "< 2 mg%",
+        "B": "2–3 mg%",
+        "C": "> 3 mg%",
+        "D": "> 5 mg%"
+      },
+      "answer": "C",
+      "explanation": "Correct Answer: C. > 3 mg% — In Child-Pugh classification: Group A: bilirubin < 2, Group B: 2–3, Group C: > 3 mg%.",
+      "chapter": "Hepatic Disease",
+      "topic": "Preoperative Evaluation",
+      "reference": "Ch 21, Page 199, Topic: Preoperative Evaluation (Table 21.1)"
+    },
+    {
+      "id": 4,
+      "question": "In Child-Pugh classification, serum albumin for Group A is:",
+      "options": {
+        "A": "< 3 gm%",
+        "B": "3–3.5 gm%",
+        "C": "> 3.5 gm%",
+        "D": "> 4.5 gm%"
+      },
+      "answer": "C",
+      "explanation": "Correct Answer: C. > 3.5 gm% — Child-Pugh Group A: albumin > 3.5, Group B: 3–3.5, Group C: < 3 gm%.",
+      "chapter": "Hepatic Disease",
+      "topic": "Preoperative Evaluation",
+      "reference": "Ch 21, Page 199, Topic: Preoperative Evaluation (Table 21.1)"
+    },
+    {
+      "id": 5,
+      "question": "Child-Pugh Class C has a mortality of:",
+      "options": {
+        "A": "2–5%",
+        "B": "10%",
+        "C": "> 50%",
+        "D": "25%"
+      },
+      "answer": "C",
+      "explanation": "Correct Answer: C. > 50% — Per Table 21.1: Group A mortality 2–5%, Group B 10%, Group C > 50%.",
+      "chapter": "Hepatic Disease",
+      "topic": "Preoperative Evaluation",
+      "reference": "Ch 21, Page 199, Topic: Preoperative Evaluation (Table 21.1)"
+    },
+    {
+      "id": 6,
+      "question": "Hepatic patients should always be screened for:",
+      "options": {
+        "A": "HIV only",
+        "B": "Hepatitis B and C",
+        "C": "Hepatitis A only",
+        "D": "Tuberculosis"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Hepatitis B and C — Always screen the hepatic patients for hepatitis B and C. Universal precautions must be taken intraoperatively if the patient is positive.",
+      "chapter": "Hepatic Disease",
+      "topic": "Preoperative Evaluation",
+      "reference": "Ch 21, Page 199, Topic: Preoperative Evaluation"
+    },
+    {
+      "id": 7,
+      "question": "When should elective surgery be deferred in acute liver disease?",
+      "options": {
+        "A": "For a fixed period of 6 weeks",
+        "B": "Till the liver functions are stabilized",
+        "C": "For 3 months always",
+        "D": "Only if bilirubin > 10"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Till the liver functions are stabilized — Elective surgery should be deferred in acute liver disease till the liver functions are stabilized. No need to defer in asymptomatic patients with mildly elevated liver enzymes.",
+      "chapter": "Hepatic Disease",
+      "topic": "Preoperative Evaluation",
+      "reference": "Ch 21, Page 199, Topic: Timing of Surgery"
+    },
+    {
+      "id": 8,
+      "question": "Patients with moderate to severe chronic hepatic disease should have restoration of coagulation abnormalities by:",
+      "options": {
+        "A": "Heparin infusion",
+        "B": "Vitamin K, cryoprecipitate or fresh frozen plasma",
+        "C": "Warfarin",
+        "D": "Aspirin discontinuation only"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Vitamin K, cryoprecipitate or fresh frozen plasma — Restoration of coagulation abnormalities (by vitamin K, cryoprecipitate or fresh frozen plasma) is essential before surgery.",
+      "chapter": "Hepatic Disease",
+      "topic": "Preoperative Evaluation",
+      "reference": "Ch 21, Page 199, Topic: Timing of Surgery"
+    },
+    {
+      "id": 9,
+      "question": "Premedication with benzodiazepines in hepatic patients:",
+      "options": {
+        "A": "Is the preferred premedicant",
+        "B": "Should not be given as hepatic patients are oversensitive to sedative effects",
+        "C": "Can be given in full dose",
+        "D": "Is mandatory for anxiolysis"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Should not be given as hepatic patients are oversensitive to sedative effects — As hepatic patients may be oversensitive to the sedative effects of benzodiazepine, premedication with benzodiazepines should not be given.",
+      "chapter": "Hepatic Disease",
+      "topic": "Preoperative Evaluation",
+      "reference": "Ch 21, Page 199, Topic: Premedication"
+    },
+    {
+      "id": 10,
+      "question": "Why is central venous pressure (CVP) monitoring highly recommended in hepatic patients?",
+      "options": {
+        "A": "To measure cardiac output",
+        "B": "Due to fluid loss to 3rd space and intravascular volume depletion",
+        "C": "To administer drugs centrally",
+        "D": "To monitor for air embolism"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Due to fluid loss to 3rd space and intravascular volume depletion — As there is fluid loss to 3rd space, the intravascular volume is depleted in these patients therefore, central venous pressure monitoring is highly recommended.",
+      "chapter": "Hepatic Disease",
+      "topic": "Intraoperative",
+      "reference": "Ch 21, Page 199, Topic: Intraoperative – Monitoring"
+    },
+    {
+      "id": 11,
+      "question": "Due to high volume of distribution in hepatic patients, the initial dose of intravenous agents is:",
+      "options": {
+        "A": "Reduced",
+        "B": "More (higher than normal)",
+        "C": "Same as normal patients",
+        "D": "Half the normal dose"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. More (higher than normal) — Due to high volume of distribution the initial dose of intravenous agents is more while due to decreased metabolism the action of repeated/maintenance doses may be prolonged.",
+      "chapter": "Hepatic Disease",
+      "topic": "Intraoperative",
+      "reference": "Ch 21, Page 199, Topic: Intraoperative – General Anesthesia"
+    },
+    {
+      "id": 12,
+      "question": "In hepatic patients, repeated/maintenance doses of IV agents may be prolonged because of:",
+      "options": {
+        "A": "Increased renal excretion",
+        "B": "Decreased metabolism",
+        "C": "Increased protein binding",
+        "D": "Enhanced biliary excretion"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Decreased metabolism — While initial doses are higher (high Vd), the action of repeated/maintenance doses may be prolonged due to decreased metabolism. Also decreased albumin may increase the unbound fraction of drugs.",
+      "chapter": "Hepatic Disease",
+      "topic": "Intraoperative",
+      "reference": "Ch 21, Page 199, Topic: Intraoperative – General Anesthesia"
+    },
+    {
+      "id": 13,
+      "question": "The induction agent of choice for hepatic patients is Propofol because:",
+      "options": {
+        "A": "It has the longest duration",
+        "B": "It has short half-life and extrahepatic metabolism",
+        "C": "It is completely metabolized by the liver",
+        "D": "It increases hepatic blood flow"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. It has short half-life and extrahepatic metabolism — Propofol, due to its short half-life and extrahepatic metabolism, is the induction agent of choice for hepatic patients.",
+      "chapter": "Hepatic Disease",
+      "topic": "Intraoperative",
+      "reference": "Ch 21, Page 199, Topic: Intraoperative – Induction"
+    },
+    {
+      "id": 14,
+      "question": "The inhalational agent of choice for hepatic patients is:",
+      "options": {
+        "A": "Halothane",
+        "B": "Isoflurane",
+        "C": "Sevoflurane",
+        "D": "Nitrous oxide"
+      },
+      "answer": "C",
+      "explanation": "Correct Answer: C. Sevoflurane — Sevoflurane is the inhalational agent of choice for two reasons: (1) Maximum perseverance of hepatic blood flow, (2) It does not produce Trifluoroacetic acid avoiding any possibility of hepatitis.",
+      "chapter": "Hepatic Disease",
+      "topic": "Intraoperative",
+      "reference": "Ch 21, Page 199, Topic: Intraoperative – Maintenance"
+    },
+    {
+      "id": 15,
+      "question": "The most important goal during maintenance of anesthesia in hepatic patients is:",
+      "options": {
+        "A": "Maintaining adequate depth of anesthesia",
+        "B": "Maximum perseverance of hepatic blood flow",
+        "C": "Keeping heart rate stable",
+        "D": "Avoiding awareness"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Maximum perseverance of hepatic blood flow — Maintaining hepatic blood flow should be the most important goal in these patients.",
+      "chapter": "Hepatic Disease",
+      "topic": "Intraoperative",
+      "reference": "Ch 21, Page 199, Topic: Intraoperative – Maintenance"
+    },
+    {
+      "id": 16,
+      "question": "Halothane must not be used in hepatic patients for TWO reasons:",
+      "options": {
+        "A": "Seizures and bronchospasm",
+        "B": "May cause hepatitis AND causes significant decrease in hepatic and portal blood flow",
+        "C": "Renal toxicity and cardiac depression",
+        "D": "Malignant hyperthermia and hyperkalemia"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. May cause hepatitis AND causes significant decrease in hepatic and portal blood flow — Halothane must not be used due to two reasons: firstly, it may cause hepatitis and secondly it causes significant decrease in hepatic as well as portal blood flow.",
+      "chapter": "Hepatic Disease",
+      "topic": "Intraoperative",
+      "reference": "Ch 21, Page 199, Topic: Intraoperative – Maintenance"
+    },
+    {
+      "id": 17,
+      "question": "Nitrous oxide should be avoided in hepatic patients for TWO reasons:",
+      "options": {
+        "A": "It causes seizures and hepatitis",
+        "B": "It can increase pulmonary artery pressure (portopulmonary hypertension) AND requires higher O2 concentration (hepatopulmonary syndrome)",
+        "C": "It causes renal failure and coagulopathy",
+        "D": "It causes hypoglycemia and encephalopathy"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. It can increase pulmonary artery pressure (portopulmonary hypertension) AND requires higher O2 concentration (hepatopulmonary syndrome) — Nitrous oxide should be avoided for two reasons: it can increase pulmonary artery pressure (portopulmonary hypertension) and it allows only lower oxygen concentration when higher concentration is needed due to significant right to left shunt (hepatopulmonary syndrome).",
+      "chapter": "Hepatic Disease",
+      "topic": "Intraoperative",
+      "reference": "Ch 21, Page 199, Topic: Intraoperative – Maintenance"
+    },
+    {
+      "id": 18,
+      "question": "Why are desflurane and isoflurane considered good alternatives to sevoflurane in hepatic patients?",
+      "options": {
+        "A": "They are cheaper",
+        "B": "They preserve hepatic blood flow and produce minimal trifluoroacetic acid (hepatotoxicity is just theoretical)",
+        "C": "They have the strongest analgesic properties",
+        "D": "They do not require a vaporizer"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. They preserve hepatic blood flow and produce minimal trifluoroacetic acid (hepatotoxicity is just theoretical) — Desflurane (least metabolism) and isoflurane preserve hepatic blood flow. The amount of trifluoroacetic acid produced is too minimal that hepatotoxicity appears to be just theoretical.",
+      "chapter": "Hepatic Disease",
+      "topic": "Intraoperative",
+      "reference": "Ch 21, Page 199, Topic: Intraoperative – Maintenance"
+    },
+    {
+      "id": 19,
+      "question": "Succinylcholine can produce prolonged block in hepatic patients because of:",
+      "options": {
+        "A": "Increased sensitivity of receptors",
+        "B": "Decreased pseudocholinesterase",
+        "C": "Increased volume of distribution",
+        "D": "Electrolyte imbalance"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Decreased pseudocholinesterase — Succinylcholine can produce prolonged block due to decreased pseudocholinesterase synthesized by the liver.",
+      "chapter": "Hepatic Disease",
+      "topic": "Intraoperative",
+      "reference": "Ch 21, Page 199, Topic: Intraoperative – Muscle Relaxants"
+    },
+    {
+      "id": 20,
+      "question": "The muscle relaxants of choice for hepatic patients are:",
+      "options": {
+        "A": "Vecuronium and Pancuronium",
+        "B": "Atracurium and Cis-atracurium",
+        "C": "Rocuronium and Vecuronium",
+        "D": "Succinylcholine and Mivacurium"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Atracurium and Cis-atracurium — As atracurium and cis-atracurium are metabolized by Hoffman degradation, they are the muscle relaxants of choice for hepatic patients (organ-independent metabolism).",
+      "chapter": "Hepatic Disease",
+      "topic": "Intraoperative",
+      "reference": "Ch 21, Page 199, Topic: Intraoperative – Muscle Relaxants"
+    },
+    {
+      "id": 21,
+      "question": "Atracurium and Cis-atracurium are preferred in hepatic patients because they are metabolized by:",
+      "options": {
+        "A": "Hepatic cytochrome P450",
+        "B": "Hoffman degradation",
+        "C": "Renal excretion",
+        "D": "Biliary excretion"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Hoffman degradation — Hoffman degradation is organ-independent, making atracurium and cis-atracurium ideal for patients with hepatic dysfunction.",
+      "chapter": "Hepatic Disease",
+      "topic": "Intraoperative",
+      "reference": "Ch 21, Page 199, Topic: Intraoperative – Muscle Relaxants"
+    },
+    {
+      "id": 22,
+      "question": "Remifentanil is the opioid of choice in hepatic patients because:",
+      "options": {
+        "A": "It has the longest duration",
+        "B": "It is metabolized by plasma esterases",
+        "C": "It is excreted unchanged by kidneys",
+        "D": "It has no respiratory depression"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. It is metabolized by plasma esterases — Remifentanil is the opioid of choice because it is metabolized by plasma esterases, independent of hepatic function.",
+      "chapter": "Hepatic Disease",
+      "topic": "Intraoperative",
+      "reference": "Ch 21, Page 199, Topic: Intraoperative – Muscle Relaxants"
+    },
+    {
+      "id": 23,
+      "question": "In hepatic patients, decreased metabolism of citrate (from blood transfusion) means these patients should receive:",
+      "options": {
+        "A": "Magnesium supplementation",
+        "B": "Calcium after blood transfusion",
+        "C": "Potassium replacement",
+        "D": "Sodium bicarbonate"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Calcium after blood transfusion — As there is decreased metabolism of citrate (which can chelate calcium), these patients should receive calcium after blood transfusion.",
+      "chapter": "Hepatic Disease",
+      "topic": "Intraoperative",
+      "reference": "Ch 21, Page 199, Topic: Intraoperative"
+    },
+    {
+      "id": 24,
+      "question": "Which of the following is NOT acceptable intraoperatively in hepatic patients?",
+      "options": {
+        "A": "Normothermia",
+        "B": "Hypotension",
+        "C": "Adequate urine output",
+        "D": "Normal blood glucose"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Hypotension — Hypotension can severely impair hepatic blood flow and is not acceptable intraoperatively. Other unacceptable conditions: alkalosis, hypoglycemia, sepsis, decreased urinary output.",
+      "chapter": "Hepatic Disease",
+      "topic": "Intraoperative",
+      "reference": "Ch 21, Page 199, Topic: Not Acceptable Intraoperatively"
+    },
+    {
+      "id": 25,
+      "question": "Albumin is the preferred colloid for hepatic patients because hypotension:",
+      "options": {
+        "A": "Causes bronchospasm",
+        "B": "Can severely impair hepatic blood flow",
+        "C": "Increases portal pressure",
+        "D": "Causes seizures"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Can severely impair hepatic blood flow — Hypotension can severely impair hepatic blood flow. Albumin is the preferred colloid for a patient with compromised hepatic functions.",
+      "chapter": "Hepatic Disease",
+      "topic": "Intraoperative",
+      "reference": "Ch 21, Page 199, Topic: Not Acceptable Intraoperatively"
+    },
+    {
+      "id": 26,
+      "question": "Alkalosis is dangerous in hepatic patients because it:",
+      "options": {
+        "A": "Causes hypokalemia",
+        "B": "Increases the conversion of ammonium to ammonia which crosses blood brain barrier to precipitate hepatic encephalopathy",
+        "C": "Causes hypocalcemia only",
+        "D": "Decreases cardiac output"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Increases the conversion of ammonium to ammonia which crosses blood brain barrier to precipitate hepatic encephalopathy — Alkalosis increases conversion of ammonium to ammonia which crosses blood brain barrier to precipitate hepatic encephalopathy.",
+      "chapter": "Hepatic Disease",
+      "topic": "Intraoperative",
+      "reference": "Ch 21, Page 199, Topic: Not Acceptable Intraoperatively"
+    },
+    {
+      "id": 27,
+      "question": "Hepatic disease patients are prone for hypoglycemia because:",
+      "options": {
+        "A": "They have excessive insulin production",
+        "B": "They have impaired gluconeogenesis and exhausted glucose stores",
+        "C": "They have increased glucose utilization",
+        "D": "They have renal glucose wasting"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. They have impaired gluconeogenesis and exhausted glucose stores — Hepatic disease patients have impaired gluconeogenesis and exhausted glucose stores therefore, they are prone for hypoglycemia.",
+      "chapter": "Hepatic Disease",
+      "topic": "Intraoperative",
+      "reference": "Ch 21, Page 199, Topic: Not Acceptable Intraoperatively"
+    },
+    {
+      "id": 28,
+      "question": "Sepsis in hepatic patients is dangerous because it can precipitate:",
+      "options": {
+        "A": "Bronchospasm",
+        "B": "Hepatic encephalopathy",
+        "C": "Malignant hyperthermia",
+        "D": "Anaphylaxis"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Hepatic encephalopathy — Sepsis can precipitate encephalopathy in hepatic patients. It is one of the conditions not acceptable intraoperatively.",
+      "chapter": "Hepatic Disease",
+      "topic": "Intraoperative",
+      "reference": "Ch 21, Page 199, Topic: Not Acceptable Intraoperatively"
+    },
+    {
+      "id": 29,
+      "question": "Decreased urinary output in hepatic patients can precipitate:",
+      "options": {
+        "A": "Pulmonary edema",
+        "B": "Hepatorenal syndrome",
+        "C": "Cardiac failure",
+        "D": "Cerebral edema"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Hepatorenal syndrome — Decreased urinary output can precipitate hepatorenal syndrome in hepatic patients and is not acceptable intraoperatively.",
+      "chapter": "Hepatic Disease",
+      "topic": "Intraoperative",
+      "reference": "Ch 21, Page 199, Topic: Not Acceptable Intraoperatively"
+    },
+    {
+      "id": 30,
+      "question": "Postoperatively in hepatic patients, which functions should be closely monitored?",
+      "options": {
+        "A": "Only cardiac function",
+        "B": "Renal functions and urine output",
+        "C": "Only respiratory function",
+        "D": "Only neurological function"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Renal functions and urine output — Postoperatively, renal functions and urine output should be monitored along with good antibiotic cover and oxygenation.",
+      "chapter": "Hepatic Disease",
+      "topic": "Intraoperative",
+      "reference": "Ch 21, Page 199, Topic: Postoperatively"
+    },
+    {
+      "id": 31,
+      "question": "Cirrhotic patients have intrapulmonary shunt, therefore postoperatively they are more prone for:",
+      "options": {
+        "A": "Hyperoxia",
+        "B": "Hypoxia",
+        "C": "Hypercarbia",
+        "D": "Metabolic alkalosis"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Hypoxia — Cirrhotic patients have intrapulmonary shunt therefore, are more prone for hypoxia. Oxygenation should be closely monitored postoperatively.",
+      "chapter": "Hepatic Disease",
+      "topic": "Intraoperative",
+      "reference": "Ch 21, Page 199, Topic: Postoperatively – Oxygenation"
+    },
+    {
+      "id": 32,
+      "question": "Due to existing coagulopathy and intravascular volume depletion, which anesthetic technique should be avoided in hepatic patients?",
+      "options": {
+        "A": "General anesthesia",
+        "B": "Central neuraxial blocks",
+        "C": "Peripheral nerve blocks",
+        "D": "Local infiltration"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Central neuraxial blocks — Due to the possibility of existing coagulopathy and intravascular volume depletion, central neuraxial blocks should be avoided in hepatic patients.",
+      "chapter": "Hepatic Disease",
+      "topic": "Intraoperative",
+      "reference": "Ch 21, Page 199, Topic: Choice of Anesthesia"
+    },
+    {
+      "id": 33,
+      "question": "When can central neuraxial block be considered in hepatic patients?",
+      "options": {
+        "A": "Never",
+        "B": "If there is no associated coagulopathy and hypotension can be prevented",
+        "C": "Only in Child-Pugh A",
+        "D": "Only with platelet transfusion cover"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. If there is no associated coagulopathy and hypotension can be prevented — If there is no associated coagulopathy, central neuraxial block can be considered if hypotension can be prevented.",
+      "chapter": "Hepatic Disease",
+      "topic": "Intraoperative",
+      "reference": "Ch 21, Page 199, Topic: Choice of Anesthesia"
+    },
+    {
+      "id": 34,
+      "question": "Patients with biliary obstruction exhibit bradycardia because of:",
+      "options": {
+        "A": "Vagal stimulation from pain",
+        "B": "Direct effect of bile salts on Sinoatrial (SA) node",
+        "C": "Hypothermia",
+        "D": "Beta-blocker effect of bilirubin"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Direct effect of bile salts on Sinoatrial (SA) node — These patients exhibit bradycardia because of direct effect of bile salts on Sinoatrial (SA) node.",
+      "chapter": "Hepatic Disease",
+      "topic": "Anesthesia for Biliary Obstruction",
+      "reference": "Ch 21, Page 200, Topic: Anesthesia for Patients with Biliary Obstruction"
+    },
+    {
+      "id": 35,
+      "question": "Just after the release of biliary obstruction, which drug should be given to wash out the bile salts?",
+      "options": {
+        "A": "Furosemide",
+        "B": "Mannitol",
+        "C": "Dexamethasone",
+        "D": "Normal saline bolus"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Mannitol — Just after the release of obstruction, mannitol should be given to wash out the bile salts.",
+      "chapter": "Hepatic Disease",
+      "topic": "Anesthesia for Biliary Obstruction",
+      "reference": "Ch 21, Page 200, Topic: Anesthesia for Patients with Biliary Obstruction"
+    },
+    {
+      "id": 36,
+      "question": "Vecuronium should not be used in patients with biliary obstruction because:",
+      "options": {
+        "A": "It causes histamine release",
+        "B": "It has 30–40% excretion through bile",
+        "C": "It causes bradycardia",
+        "D": "It is metabolized to toxic metabolites"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. It has 30–40% excretion through bile — Muscle relaxant vecuronium which has 30–40% excretion through bile should not be used in biliary obstruction patients.",
+      "chapter": "Hepatic Disease",
+      "topic": "Anesthesia for Biliary Obstruction",
+      "reference": "Ch 21, Page 200, Topic: Anesthesia for Patients with Biliary Obstruction"
+    },
+    {
+      "id": 37,
+      "question": "Regarding opioids and sphincter of Oddi spasm, the textbook states that the incidence of opioid-induced spasm is:",
+      "options": {
+        "A": "More than 20%",
+        "B": "Around 10%",
+        "C": "Less than 3%",
+        "D": "More than 50%"
+      },
+      "answer": "C",
+      "explanation": "Correct Answer: C. Less than 3% — The incidence of opioid-induced spasm of sphincter of Oddi is less than 3%, therefore strict guidelines of not using opioids for biliary colic has been questioned in current day practice.",
+      "chapter": "Hepatic Disease",
+      "topic": "Anesthesia for Biliary Obstruction",
+      "reference": "Ch 21, Page 200, Topic: Anesthesia for Patients with Biliary Obstruction"
+    },
+    {
+      "id": 38,
+      "question": "The strict guideline of not using opioids for biliary colic has been:",
+      "options": {
+        "A": "Reinforced by recent studies",
+        "B": "Questioned in current day practice",
+        "C": "Made into a law",
+        "D": "Unchanged for decades"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Questioned in current day practice — As the incidence of opioid-induced sphincter of Oddi spasm is less than 3%, strict guidelines of not using opioids for biliary colic has been questioned in current day practice.",
+      "chapter": "Hepatic Disease",
+      "topic": "Anesthesia for Biliary Obstruction",
+      "reference": "Ch 21, Page 200, Topic: Anesthesia for Patients with Biliary Obstruction"
+    },
+    {
+      "id": 39,
+      "question": "In Child-Pugh classification, prothrombin time prolongation from control for Group B is:",
+      "options": {
+        "A": "1–4 seconds",
+        "B": "4–6 seconds",
+        "C": "> 6 seconds",
+        "D": "No prolongation"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. 4–6 seconds — Per Table 21.1: Group A: PT prolongation 1–4 sec, Group B: 4–6 sec, Group C: > 6 seconds.",
+      "chapter": "Hepatic Disease",
+      "topic": "Preoperative Evaluation",
+      "reference": "Ch 21, Page 199, Topic: Preoperative Evaluation (Table 21.1)"
+    },
+    {
+      "id": 40,
+      "question": "In Child-Pugh classification, ascites in Group A is:",
+      "options": {
+        "A": "Moderate",
+        "B": "Marked",
+        "C": "None",
+        "D": "Mild"
+      },
+      "answer": "C",
+      "explanation": "Correct Answer: C. None — Per Table 21.1: Group A: No ascites, Group B: Moderate, Group C: Marked.",
+      "chapter": "Hepatic Disease",
+      "topic": "Preoperative Evaluation",
+      "reference": "Ch 21, Page 199, Topic: Preoperative Evaluation (Table 21.1)"
+    },
+    {
+      "id": 41,
+      "question": "Child-Pugh Group B has a surgical risk of:",
+      "options": {
+        "A": "Minimal",
+        "B": "Moderate",
+        "C": "Marked",
+        "D": "None"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Moderate — Per Table 21.1: Group A: Minimal surgical risk, Group B: Moderate, Group C: Marked.",
+      "chapter": "Hepatic Disease",
+      "topic": "Preoperative Evaluation",
+      "reference": "Ch 21, Page 199, Topic: Preoperative Evaluation (Table 21.1)"
+    },
+    {
+      "id": 42,
+      "question": "Why should sevoflurane be preferred over halothane — what metabolite does sevoflurane NOT produce?",
+      "options": {
+        "A": "Fluoride ions",
+        "B": "Trifluoroacetic acid",
+        "C": "Compound A",
+        "D": "Carbon monoxide"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Trifluoroacetic acid — Sevoflurane does not produce Trifluoroacetic acid on metabolism, thereby avoiding any possibility of hepatitis (unlike halothane).",
+      "chapter": "Hepatic Disease",
+      "topic": "Intraoperative",
+      "reference": "Ch 21, Page 199, Topic: Intraoperative – Maintenance"
+    },
+    {
+      "id": 43,
+      "question": "Encephalopathy in hepatic patients should be corrected preoperatively by:",
+      "options": {
+        "A": "Phenytoin and carbamazepine",
+        "B": "Lactulose and neomycin",
+        "C": "Mannitol and furosemide",
+        "D": "Dexamethasone and hypertonic saline"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Lactulose and neomycin — Correction of encephalopathy (by lactulose and neomycin) should be done before taking patients for surgery.",
+      "chapter": "Hepatic Disease",
+      "topic": "Preoperative Evaluation",
+      "reference": "Ch 21, Page 199, Topic: Timing of Surgery"
+    },
+    {
+      "id": 44,
+      "question": "If ascites is significant enough to impair respiratory functions, what should be done preoperatively?",
+      "options": {
+        "A": "Diuretics only",
+        "B": "Tapping of ascites",
+        "C": "TIPS procedure",
+        "D": "Paracentesis is contraindicated"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Tapping of ascites — Tapping of ascites (if significant enough to impair respiratory functions) should be done as part of preoperative optimization.",
+      "chapter": "Hepatic Disease",
+      "topic": "Preoperative Evaluation",
+      "reference": "Ch 21, Page 199, Topic: Timing of Surgery"
+    },
+    {
+      "id": 45,
+      "question": "Child-Pugh classification includes all of the following parameters EXCEPT:",
+      "options": {
+        "A": "Encephalopathy",
+        "B": "Nutrition",
+        "C": "Creatinine",
+        "D": "Ascites"
+      },
+      "answer": "C",
+      "explanation": "Correct Answer: C. Creatinine — Child-Pugh includes: Bilirubin, Albumin, Prothrombin time, Ascites, Encephalopathy, Nutrition, Surgical risk, and Mortality. Creatinine is part of MELD score, not Child-Pugh.",
+      "chapter": "Hepatic Disease",
+      "topic": "Preoperative Evaluation",
+      "reference": "Ch 21, Page 199, Topic: Preoperative Evaluation (Table 21.1)"
+    },
+    {
+      "id": 46,
+      "question": "Decreased albumin in hepatic patients may increase the unbound fraction of which aspect of drug pharmacology?",
+      "options": {
+        "A": "Drug absorption",
+        "B": "Drug binding — increasing the free fraction of the drug",
+        "C": "Drug excretion",
+        "D": "Drug distribution volume only"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Drug binding — increasing the free fraction of the drug — Decreased albumin may increase the unbound fraction of the drug, leading to exaggerated clinical effects of protein-bound drugs.",
+      "chapter": "Hepatic Disease",
+      "topic": "Intraoperative",
+      "reference": "Ch 21, Page 199, Topic: Intraoperative – General Anesthesia"
+    },
+    {
+      "id": 47,
+      "question": "Universal precautions intraoperatively in hepatic patients must be taken if the patient is positive for:",
+      "options": {
+        "A": "H. pylori",
+        "B": "Hepatitis B or C",
+        "C": "CMV",
+        "D": "EBV"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Hepatitis B or C — Universal precautions must be taken if the patient is positive for hepatitis B or C to protect the operating room staff.",
+      "chapter": "Hepatic Disease",
+      "topic": "Intraoperative",
+      "reference": "Ch 21, Page 199, Topic: Intraoperative"
+    },
+    {
+      "id": 48,
+      "question": "Preoperative evaluation of hepatic patients should rule out all of the following EXCEPT:",
+      "options": {
+        "A": "Coagulopathy and renal damage (hepatorenal syndrome)",
+        "B": "Pulmonary dysfunction (hepatopulmonary syndrome)",
+        "C": "Rheumatoid arthritis",
+        "D": "Portopulmonary hypertension and encephalopathy"
+      },
+      "answer": "C",
+      "explanation": "Correct Answer: C. Rheumatoid arthritis — Important to rule out: coagulopathy, renal damage (hepatorenal syndrome), pulmonary dysfunction (hepatopulmonary syndrome), portopulmonary hypertension, encephalopathy, ascites, gastroesophageal varices, cardiac functions, electrolyte and metabolic abnormalities.",
+      "chapter": "Hepatic Disease",
+      "topic": "Preoperative Evaluation",
+      "reference": "Ch 21, Page 199, Topic: Preoperative Evaluation"
+    },
+    {
+      "id": 49,
+      "question": "In the management of biliary obstruction patients, what is stated about the general principles of hepatic disease management?",
+      "options": {
+        "A": "Completely different guidelines apply",
+        "B": "Whatever discussed for hepatic disease is applicable, with additional points to be taken care",
+        "C": "Only regional anesthesia should be used",
+        "D": "No special considerations needed"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Whatever discussed for hepatic disease is applicable, with additional points to be taken care — Whatever discussed for the management of patients with hepatic disease, the same is applicable for patients with biliary obstruction with additional points (bradycardia, mannitol, vecuronium avoidance, opioid caution).",
+      "chapter": "Hepatic Disease",
+      "topic": "Anesthesia for Biliary Obstruction",
+      "reference": "Ch 21, Page 200, Topic: Anesthesia for Patients with Biliary Obstruction"
+    },
+    {
+      "id": 50,
+      "question": "Alcoholism should always be ruled out in hepatic patients because of associated:",
+      "options": {
+        "A": "Only liver damage",
+        "B": "Comorbidities including cardiomyopathy, pancreatitis, and nutritional deficiencies",
+        "C": "Only psychiatric issues",
+        "D": "Only renal damage"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Comorbidities including cardiomyopathy, pancreatitis, and nutritional deficiencies — Always rule out alcoholism and associated comorbidities in hepatic patients.",
+      "chapter": "Hepatic Disease",
+      "topic": "Preoperative Evaluation",
+      "reference": "Ch 21, Page 199, Topic: Preoperative Evaluation"
+    }
+  ]
+}
