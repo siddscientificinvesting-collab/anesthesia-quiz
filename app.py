@@ -80,6 +80,12 @@ QUIZ_CATALOG = {
         "short": "Hepatic Disease V2",
         "icon": "🫁",
     },
+    "ch22": {
+        "file": "questions_ch22.json",
+        "label": "Chapter 22 – Anesthesia for Renal Diseases & Electrolyte Imbalances",
+        "short": "Renal & Electrolytes (Ch 22)",
+        "icon": "🫘",
+    },
 }
 
 # ─── Load Questions ──────────────────────────────────────────────────────────

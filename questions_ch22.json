@@ -1,0 +1,759 @@
+{
+  "title": "Anesthesia for Renal Diseases and Electrolyte Imbalances MCQ – Chapter 22",
+  "source": "Short Textbook of Anesthesia – Ajay Yadav",
+  "section": "Section 7: Anesthesia for Coexisting Diseases (Chapter 22)",
+  "total_questions": 50,
+  "time_limit_minutes": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the cause of anemia in patients with renal impairment?",
+      "options": {
+        "A": "Iron deficiency",
+        "B": "Decreased erythropoietin or decreased intake due to anorexia",
+        "C": "Vitamin B12 deficiency",
+        "D": "Folate deficiency"
+      },
+      "answer": "B",
+      "explanation": "The anemia in renal impairment is due to decrease erythropoietin or decrease intake due to anorexia seen in uremia.",
+      "chapter": "Chapter 22",
+      "topic": "Preoperative Evaluation – Anemia",
+      "reference": "Ch 22, Page 202"
+    },
+    {
+      "id": 2,
+      "question": "What percentage of patients with chronic renal disease exhibit hypertension?",
+      "options": {
+        "A": "More than 50%",
+        "B": "More than 60%",
+        "C": "More than 70%",
+        "D": "More than 80%"
+      },
+      "answer": "D",
+      "explanation": "More than 80% patients with chronic renal disease exhibit hypertension.",
+      "chapter": "Chapter 22",
+      "topic": "Preoperative Evaluation – Hypertension",
+      "reference": "Ch 22, Page 202"
+    },
+    {
+      "id": 3,
+      "question": "What is the most common endocrine cause of chronic kidney disease?",
+      "options": {
+        "A": "Hypothyroidism",
+        "B": "Cushing's syndrome",
+        "C": "Diabetes",
+        "D": "Hyperparathyroidism"
+      },
+      "answer": "C",
+      "explanation": "Diabetes is the most common cause of chronic kidney disease as an endocrine abnormality.",
+      "chapter": "Chapter 22",
+      "topic": "Preoperative Evaluation – Endocrine Abnormalities",
+      "reference": "Ch 22, Page 202"
+    },
+    {
+      "id": 4,
+      "question": "Patients with acute kidney injury (AKI) should not undergo elective surgery until:",
+      "options": {
+        "A": "Hemoglobin normalizes",
+        "B": "The injury is fully resolved",
+        "C": "Blood pressure is controlled",
+        "D": "Potassium is less than 4 mEq/L"
+      },
+      "answer": "B",
+      "explanation": "Patients with acute kidney injury (AKI) should not undergo elective surgery until the injury is fully resolved.",
+      "chapter": "Chapter 22",
+      "topic": "Timing and Preparation before Surgery",
+      "reference": "Ch 22, Page 202"
+    },
+    {
+      "id": 5,
+      "question": "What should be the target blood pressure before surgery in CKD patients?",
+      "options": {
+        "A": "< 120/80 mm Hg",
+        "B": "< 130/80 mm Hg",
+        "C": "< 140/90 mm Hg",
+        "D": "< 150/90 mm Hg"
+      },
+      "answer": "B",
+      "explanation": "Control of blood pressure target should be < 130/80 mm Hg in CKD patients before surgery.",
+      "chapter": "Chapter 22",
+      "topic": "Timing and Preparation before Surgery",
+      "reference": "Ch 22, Page 202"
+    },
+    {
+      "id": 6,
+      "question": "How many hours before surgery should dialysis be performed in CKD patients?",
+      "options": {
+        "A": "12 hours",
+        "B": "24 hours",
+        "C": "48 hours",
+        "D": "6 hours"
+      },
+      "answer": "B",
+      "explanation": "Dialysis should be performed within 24 hours before surgery.",
+      "chapter": "Chapter 22",
+      "topic": "Timing and Preparation before Surgery",
+      "reference": "Ch 22, Page 202"
+    },
+    {
+      "id": 7,
+      "question": "Why should premedication with benzodiazepines be avoided in renal patients?",
+      "options": {
+        "A": "They are nephrotoxic",
+        "B": "They cause hyperkalemia",
+        "C": "CNS of these patients is extremely sensitive to sedatives and narcotics",
+        "D": "They increase bleeding tendency"
+      },
+      "answer": "C",
+      "explanation": "Premedication with benzodiazepines should be avoided as CNS of these patients is extremely sensitive to effect of sedatives and narcotics.",
+      "chapter": "Chapter 22",
+      "topic": "Premedication",
+      "reference": "Ch 22, Page 202"
+    },
+    {
+      "id": 8,
+      "question": "What is the minimum urine output that should be maintained intraoperatively in renal patients?",
+      "options": {
+        "A": "> 0.3 mL/kg/hr",
+        "B": "> 0.5 mL/kg/hr",
+        "C": "> 1.0 mL/kg/hr",
+        "D": "> 2.0 mL/kg/hr"
+      },
+      "answer": "B",
+      "explanation": "Aim should be to maintain urine output > 0.5 mL/kg/hr intraoperatively.",
+      "chapter": "Chapter 22",
+      "topic": "Intraoperative Monitoring – Urine Output",
+      "reference": "Ch 22, Page 202"
+    },
+    {
+      "id": 9,
+      "question": "Which selective dopamine-1 agonist is preferred over dopamine for maintaining urine output in major surgeries on renal patients?",
+      "options": {
+        "A": "Dobutamine",
+        "B": "Fenoldopam",
+        "C": "Milrinone",
+        "D": "Noradrenaline"
+      },
+      "answer": "B",
+      "explanation": "Fenoldopam (selective dopamine-1 agonist) is chosen over dopamine if required for very major surgeries in renal patients.",
+      "chapter": "Chapter 22",
+      "topic": "Intraoperative Monitoring – Urine Output",
+      "reference": "Ch 22, Page 202"
+    },
+    {
+      "id": 10,
+      "question": "Why should radial and ulnar artery be spared in renal patients requiring invasive blood pressure monitoring?",
+      "options": {
+        "A": "They have high infection risk",
+        "B": "They may be required for hemodialysis in future",
+        "C": "They are calcified in renal patients",
+        "D": "They give inaccurate readings"
+      },
+      "answer": "B",
+      "explanation": "If invasive blood pressure monitoring is required then radial and ulnar artery should be spared as they may be required for hemodialysis in future.",
+      "chapter": "Chapter 22",
+      "topic": "Intraoperative Monitoring",
+      "reference": "Ch 22, Page 202-203"
+    },
+    {
+      "id": 11,
+      "question": "Which artery is most often chosen for invasive BP monitoring in renal patients?",
+      "options": {
+        "A": "Radial artery",
+        "B": "Ulnar artery",
+        "C": "Dorsalis pedis",
+        "D": "Brachial artery"
+      },
+      "answer": "C",
+      "explanation": "Dorsalis pedis is most often chosen in these patients for invasive BP monitoring.",
+      "chapter": "Chapter 22",
+      "topic": "Intraoperative Monitoring",
+      "reference": "Ch 22, Page 203"
+    },
+    {
+      "id": 12,
+      "question": "BP cuff should not be applied in the limb having:",
+      "options": {
+        "A": "Peripheral neuropathy",
+        "B": "AV fistula",
+        "C": "Edema",
+        "D": "Cellulitis"
+      },
+      "answer": "B",
+      "explanation": "BP cuff should not be applied in the limb having AV fistula.",
+      "chapter": "Chapter 22",
+      "topic": "Intraoperative Monitoring",
+      "reference": "Ch 22, Page 203"
+    },
+    {
+      "id": 13,
+      "question": "Why should central neuraxial blocks be avoided in renal patients?",
+      "options": {
+        "A": "Risk of epidural abscess",
+        "B": "Associated uremic coagulopathy, uremic polyneuropathy, and intolerance to extra fluids",
+        "C": "High failure rate",
+        "D": "Risk of nephrotoxicity from local anesthetics"
+      },
+      "answer": "B",
+      "explanation": "Central neuraxial blocks should be avoided due to associated uremic coagulopathy, uremic polyneuropathy and intolerance of renal patients to extra fluids to treat hypotension.",
+      "chapter": "Chapter 22",
+      "topic": "Choice of Anesthesia",
+      "reference": "Ch 22, Page 203"
+    },
+    {
+      "id": 14,
+      "question": "What is the induction agent of choice in renal patients?",
+      "options": {
+        "A": "Thiopentone",
+        "B": "Ketamine",
+        "C": "Propofol",
+        "D": "Etomidate"
+      },
+      "answer": "C",
+      "explanation": "Due to shorter half-life and all inactive metabolites, propofol is the induction agent of choice in renal patients.",
+      "chapter": "Chapter 22",
+      "topic": "General Anesthesia – Induction",
+      "reference": "Ch 22, Page 203"
+    },
+    {
+      "id": 15,
+      "question": "Why should propofol be used in small doses in renal patients?",
+      "options": {
+        "A": "It is nephrotoxic in high doses",
+        "B": "It causes hyperkalemia",
+        "C": "Exaggerated response of CNS due to disrupted blood brain barrier in uremia",
+        "D": "It causes metabolic acidosis"
+      },
+      "answer": "C",
+      "explanation": "Propofol may be required in small doses because of exaggerated response of CNS due to disrupted blood brain barrier in uremia.",
+      "chapter": "Chapter 22",
+      "topic": "General Anesthesia – Induction",
+      "reference": "Ch 22, Page 203"
+    },
+    {
+      "id": 16,
+      "question": "What is the inhalational agent of choice for maintenance in renal patients?",
+      "options": {
+        "A": "Sevoflurane",
+        "B": "Isoflurane",
+        "C": "Desflurane",
+        "D": "Halothane"
+      },
+      "answer": "C",
+      "explanation": "Desflurane is the inhalational agent of choice because it does not produce fluoride.",
+      "chapter": "Chapter 22",
+      "topic": "General Anesthesia – Maintenance",
+      "reference": "Ch 22, Page 203"
+    },
+    {
+      "id": 17,
+      "question": "Why should sevoflurane not be used in renal patients?",
+      "options": {
+        "A": "It causes bronchospasm",
+        "B": "It produces high levels of fluoride approaching renal threshold of 50 µmol/L",
+        "C": "It is hepatotoxic",
+        "D": "It causes malignant hyperthermia"
+      },
+      "answer": "B",
+      "explanation": "Sevoflurane should not be used in renal patients as it produces high levels of fluoride approaching renal threshold of 50 µmol/L.",
+      "chapter": "Chapter 22",
+      "topic": "General Anesthesia – Maintenance",
+      "reference": "Ch 22, Page 203"
+    },
+    {
+      "id": 18,
+      "question": "Why should succinylcholine not be used in renal patients?",
+      "options": {
+        "A": "It causes malignant hyperthermia",
+        "B": "It is metabolized by kidneys",
+        "C": "These patients exhibit hyperkalemia",
+        "D": "It causes prolonged block"
+      },
+      "answer": "C",
+      "explanation": "As these patients exhibit hyperkalemia, succinylcholine should not be used.",
+      "chapter": "Chapter 22",
+      "topic": "Muscle Relaxants",
+      "reference": "Ch 22, Page 203"
+    },
+    {
+      "id": 19,
+      "question": "Which non-depolarizing muscle relaxants are the agents of choice in renal patients?",
+      "options": {
+        "A": "Pancuronium and Vecuronium",
+        "B": "Atracurium and Cis-atracurium",
+        "C": "Rocuronium and Vecuronium",
+        "D": "Mivacurium and Doxacurium"
+      },
+      "answer": "B",
+      "explanation": "Due to Hoffman degradation, non-depolarizing muscle relaxants of choice are Atracurium and Cis-atracurium.",
+      "chapter": "Chapter 22",
+      "topic": "Muscle Relaxants",
+      "reference": "Ch 22, Page 203"
+    },
+    {
+      "id": 20,
+      "question": "What is the opioid of choice in renal patients?",
+      "options": {
+        "A": "Morphine",
+        "B": "Pethidine",
+        "C": "Remifentanil",
+        "D": "Codeine"
+      },
+      "answer": "C",
+      "explanation": "Remifentanil is the opioid of choice because it is rapidly metabolized in plasma by esterases.",
+      "chapter": "Chapter 22",
+      "topic": "Opioids",
+      "reference": "Ch 22, Page 203"
+    },
+    {
+      "id": 21,
+      "question": "Which long-acting opioids are NOT recommended in renal patients?",
+      "options": {
+        "A": "Fentanyl and Alfentanil",
+        "B": "Morphine and Pethidine",
+        "C": "Remifentanil and Sufentanil",
+        "D": "Alfentanil and Sufentanil"
+      },
+      "answer": "B",
+      "explanation": "Long acting like morphine and pethidine are not recommended in renal patients.",
+      "chapter": "Chapter 22",
+      "topic": "Opioids",
+      "reference": "Ch 22, Page 203"
+    },
+    {
+      "id": 22,
+      "question": "Why is the traditional concept of avoiding ringer lactate in renal patients no longer valid?",
+      "options": {
+        "A": "Ringer lactate is cheaper",
+        "B": "Normal saline causes hyperchloremic metabolic acidosis producing more hyperkalemia",
+        "C": "Ringer lactate has less sodium",
+        "D": "Normal saline causes hyponatremia"
+      },
+      "answer": "B",
+      "explanation": "Recent studies have shown that normal saline causes hyperchloremic metabolic acidosis producing more hyperkalemia. Therefore, ringer lactate is preferred over normal saline with close monitoring of potassium levels.",
+      "chapter": "Chapter 22",
+      "topic": "Selection of Fluids",
+      "reference": "Ch 22, Page 203"
+    },
+    {
+      "id": 23,
+      "question": "Which fluid is preferred in renal patients for intraoperative use?",
+      "options": {
+        "A": "Normal saline (0.9%)",
+        "B": "Ringer lactate",
+        "C": "5% Dextrose",
+        "D": "Hetastarch"
+      },
+      "answer": "B",
+      "explanation": "Ringer lactate is preferred over normal saline with close monitoring of potassium levels.",
+      "chapter": "Chapter 22",
+      "topic": "Selection of Fluids",
+      "reference": "Ch 22, Page 203"
+    },
+    {
+      "id": 24,
+      "question": "If ringer lactate cannot be used, which alternative fluid is preferred in renal patients?",
+      "options": {
+        "A": "Normal saline 0.9%",
+        "B": "0.45% saline or 0.18% saline with dextrose",
+        "C": "Hetastarch 6%",
+        "D": "5% albumin"
+      },
+      "answer": "B",
+      "explanation": "If ringer lactate cannot be used then 0.45% saline or 0.18% saline with dextrose is preferred over normal saline (0.9%).",
+      "chapter": "Chapter 22",
+      "topic": "Selection of Fluids",
+      "reference": "Ch 22, Page 203"
+    },
+    {
+      "id": 25,
+      "question": "Why should colloids (hydroxyethyl starch) be avoided in renal patients?",
+      "options": {
+        "A": "They cause anaphylaxis",
+        "B": "They have been found to exacerbate renal injury",
+        "C": "They cause hypernatremia",
+        "D": "They are expensive"
+      },
+      "answer": "B",
+      "explanation": "Colloids (hydroxyethyl starch) have been found to exacerbate renal injury.",
+      "chapter": "Chapter 22",
+      "topic": "Selection of Fluids",
+      "reference": "Ch 22, Page 203"
+    },
+    {
+      "id": 26,
+      "question": "If a colloid must be used in renal patients, which one is preferred?",
+      "options": {
+        "A": "Hetastarch",
+        "B": "Dextran",
+        "C": "Gelatins (Gelofusine)",
+        "D": "Albumin 20%"
+      },
+      "answer": "C",
+      "explanation": "If it is mandatory to use a colloid then Gelatins (Gelofusine) is preferred.",
+      "chapter": "Chapter 22",
+      "topic": "Selection of Fluids",
+      "reference": "Ch 22, Page 203"
+    },
+    {
+      "id": 27,
+      "question": "What molecular weight colloids must NOT be used in renal patients?",
+      "options": {
+        "A": "> 100 kDa",
+        "B": "> 150 kDa",
+        "C": "> 200 kDa",
+        "D": "> 250 kDa"
+      },
+      "answer": "C",
+      "explanation": "High molecular weight colloids (>MW 200 kDa) must not be used for renal patients.",
+      "chapter": "Chapter 22",
+      "topic": "Selection of Fluids",
+      "reference": "Ch 22, Page 203"
+    },
+    {
+      "id": 28,
+      "question": "Which drugs should be avoided postoperatively in renal patients for pain management?",
+      "options": {
+        "A": "Paracetamol",
+        "B": "Non-steroidal anti-inflammatory drugs (NSAIDs)",
+        "C": "Tramadol",
+        "D": "Fentanyl"
+      },
+      "answer": "B",
+      "explanation": "Postoperatively, avoid non-steroidal anti-inflammatory drugs (NSAIDs) for pain management in renal patients.",
+      "chapter": "Chapter 22",
+      "topic": "Postoperative",
+      "reference": "Ch 22, Page 203"
+    },
+    {
+      "id": 29,
+      "question": "Which type of anesthesia is preferred for transurethral resection of prostate (TURP)?",
+      "options": {
+        "A": "General anesthesia",
+        "B": "Spinal anesthesia",
+        "C": "Epidural anesthesia",
+        "D": "Local anesthesia"
+      },
+      "answer": "B",
+      "explanation": "Spinal anesthesia is preferred over general anesthesia for TURP.",
+      "chapter": "Chapter 22",
+      "topic": "Anesthesia for TURP",
+      "reference": "Ch 22, Page 203"
+    },
+    {
+      "id": 30,
+      "question": "Why is spinal anesthesia preferred for TURP?",
+      "options": {
+        "A": "It is cheaper",
+        "B": "Old patients have decreased pulmonary reserve and awake patient can tell central signs of TURP syndrome",
+        "C": "General anesthesia is contraindicated",
+        "D": "It provides better muscle relaxation"
+      },
+      "answer": "B",
+      "explanation": "Spinal anesthesia is preferred because old patients have decreased pulmonary reserve and awake patient can tell central signs of TURP syndrome and bladder perforation.",
+      "chapter": "Chapter 22",
+      "topic": "Anesthesia for TURP",
+      "reference": "Ch 22, Page 203"
+    },
+    {
+      "id": 31,
+      "question": "What is the most common irrigating fluid used in TURP?",
+      "options": {
+        "A": "Normal saline",
+        "B": "Glycine",
+        "C": "Mannitol",
+        "D": "Sorbitol"
+      },
+      "answer": "B",
+      "explanation": "A large amount of irrigating fluid (most commonly glycine) is used to distend the bladder and wash away blood in TURP.",
+      "chapter": "Chapter 22",
+      "topic": "TURP Syndrome",
+      "reference": "Ch 22, Page 203"
+    },
+    {
+      "id": 32,
+      "question": "How much fluid is estimated to be absorbed every minute during TURP?",
+      "options": {
+        "A": "5-15 mL",
+        "B": "10-30 mL",
+        "C": "30-50 mL",
+        "D": "50-100 mL"
+      },
+      "answer": "B",
+      "explanation": "It is estimated that 10-30 mL of fluid is absorbed every minute during TURP.",
+      "chapter": "Chapter 22",
+      "topic": "TURP Syndrome",
+      "reference": "Ch 22, Page 203"
+    },
+    {
+      "id": 33,
+      "question": "TURP syndrome is characterized by all of the following EXCEPT:",
+      "options": {
+        "A": "Fluid overloading",
+        "B": "Dilutional hyponatremia",
+        "C": "Hypo-osmolality",
+        "D": "Hypernatremia"
+      },
+      "answer": "D",
+      "explanation": "TURP syndrome produces fluid overloading, dilutional hyponatremia, and hypo-osmolality — not hypernatremia.",
+      "chapter": "Chapter 22",
+      "topic": "TURP Syndrome",
+      "reference": "Ch 22, Page 203"
+    },
+    {
+      "id": 34,
+      "question": "Glycine absorbed during TURP can produce:",
+      "options": {
+        "A": "Hyperglycemia and hyperammonemia",
+        "B": "Hypoglycemia and hyponatremia",
+        "C": "Hyperkalemia and acidosis",
+        "D": "Hypercalcemia and alkalosis"
+      },
+      "answer": "A",
+      "explanation": "Glycine can also produce hyperglycemia and hyperammonemia.",
+      "chapter": "Chapter 22",
+      "topic": "TURP Syndrome",
+      "reference": "Ch 22, Page 203"
+    },
+    {
+      "id": 35,
+      "question": "Hypo-osmolality and hyponatremia in TURP syndrome can produce:",
+      "options": {
+        "A": "Peripheral neuropathy",
+        "B": "Cerebral edema causing restlessness, confusion, or seizures",
+        "C": "Renal failure",
+        "D": "Cardiac arrest"
+      },
+      "answer": "B",
+      "explanation": "Hypo-osmolality and hyponatremia by producing cerebral edema produces restlessness, confusion or even seizures.",
+      "chapter": "Chapter 22",
+      "topic": "TURP Syndrome – Signs and Symptoms",
+      "reference": "Ch 22, Page 203"
+    },
+    {
+      "id": 36,
+      "question": "Hypergycinemia during TURP can produce:",
+      "options": {
+        "A": "Hypertension and tachycardia",
+        "B": "Transient visual disturbances including transient blindness",
+        "C": "Permanent blindness",
+        "D": "Hearing loss"
+      },
+      "answer": "B",
+      "explanation": "Hypergycinemia can produce visual disturbances including transient blindness.",
+      "chapter": "Chapter 22",
+      "topic": "TURP Syndrome – Signs and Symptoms",
+      "reference": "Ch 22, Page 203"
+    },
+    {
+      "id": 37,
+      "question": "What is the treatment of fluid overload in TURP syndrome?",
+      "options": {
+        "A": "Mannitol",
+        "B": "Furosemide",
+        "C": "Dialysis",
+        "D": "Fluid restriction alone"
+      },
+      "answer": "B",
+      "explanation": "Furosemide is used to treat fluid overload in TURP syndrome.",
+      "chapter": "Chapter 22",
+      "topic": "TURP Syndrome – Treatment",
+      "reference": "Ch 22, Page 204"
+    },
+    {
+      "id": 38,
+      "question": "What is used to treat symptomatic hyponatremia in TURP syndrome?",
+      "options": {
+        "A": "Normal saline",
+        "B": "Hypertonic saline",
+        "C": "Ringer lactate",
+        "D": "5% Dextrose"
+      },
+      "answer": "B",
+      "explanation": "Hypertonic saline may be required to treat symptomatic hyponatremia and hypo-osmolality.",
+      "chapter": "Chapter 22",
+      "topic": "TURP Syndrome – Treatment",
+      "reference": "Ch 22, Page 204"
+    },
+    {
+      "id": 39,
+      "question": "What serum potassium level should be corrected before taking the patient for surgery in hyperkalemia?",
+      "options": {
+        "A": "< 4.5 mEq/L",
+        "B": "< 5.0 mEq/L",
+        "C": "< 5.5 mEq/L",
+        "D": "< 6.0 mEq/L"
+      },
+      "answer": "C",
+      "explanation": "Hyperkalemia must be corrected (serum potassium should be < 5.5 mEq/L) before taking the patient for surgery.",
+      "chapter": "Chapter 22",
+      "topic": "Hyperkalemia",
+      "reference": "Ch 22, Page 204"
+    },
+    {
+      "id": 40,
+      "question": "Which of the following is TRUE about anesthetic management of hyperkalemia?",
+      "options": {
+        "A": "Ringer lactate is preferred",
+        "B": "Succinylcholine is safe to use",
+        "C": "Potassium-rich fluids should be avoided and succinylcholine is contraindicated",
+        "D": "Hyperventilation should be avoided"
+      },
+      "answer": "C",
+      "explanation": "Potassium rich fluids should be avoided and succinylcholine is contraindicated in hyperkalemia.",
+      "chapter": "Chapter 22",
+      "topic": "Hyperkalemia – Anesthetic Considerations",
+      "reference": "Ch 22, Page 204"
+    },
+    {
+      "id": 41,
+      "question": "Why is mild hyperventilation beneficial during general anesthesia in hyperkalemic patients?",
+      "options": {
+        "A": "It increases oxygen delivery",
+        "B": "It causes alkalosis which pushes potassium intracellularly",
+        "C": "It reduces anesthetic requirement",
+        "D": "It prevents bronchospasm"
+      },
+      "answer": "B",
+      "explanation": "Mild hyperventilation is beneficial because hyperventilation causes alkalosis which pushes the potassium intracellularly.",
+      "chapter": "Chapter 22",
+      "topic": "Hyperkalemia – Anesthetic Considerations",
+      "reference": "Ch 22, Page 204"
+    },
+    {
+      "id": 42,
+      "question": "What is the general consensus for mild chronic hypokalemia (serum K+ >3 mEq/L) before surgery?",
+      "options": {
+        "A": "Must be corrected in all cases",
+        "B": "No need to treat if there are no ECG changes or organ dysfunction",
+        "C": "Surgery must be postponed",
+        "D": "Potassium supplementation is mandatory"
+      },
+      "answer": "B",
+      "explanation": "The general consensus is not to treat mild (serum potassium >3 mEq/L) chronic hypokalemia if there are no ECG changes or any organ dysfunction.",
+      "chapter": "Chapter 22",
+      "topic": "Hypokalemia",
+      "reference": "Ch 22, Page 204"
+    },
+    {
+      "id": 43,
+      "question": "In hypokalemic patients on digoxin, what serum potassium level should be achieved before surgery?",
+      "options": {
+        "A": "> 3 mEq/L",
+        "B": "> 3.5 mEq/L",
+        "C": "> 4 mEq/L",
+        "D": "> 4.5 mEq/L"
+      },
+      "answer": "C",
+      "explanation": "The exception is patients on digoxin where serum potassium should be >4 mEq/L before taking them for surgery.",
+      "chapter": "Chapter 22",
+      "topic": "Hypokalemia",
+      "reference": "Ch 22, Page 204"
+    },
+    {
+      "id": 44,
+      "question": "In hypokalemia, the dose of non-depolarizing muscle relaxant should be:",
+      "options": {
+        "A": "Increased",
+        "B": "Decreased as prolonged block is expected",
+        "C": "Unchanged",
+        "D": "Doubled"
+      },
+      "answer": "B",
+      "explanation": "Dose of non-depolarizing muscle relaxant is decreased as prolonged block is expected due to muscle weakness in hypokalemia.",
+      "chapter": "Chapter 22",
+      "topic": "Hypokalemia – Anesthetic Considerations",
+      "reference": "Ch 22, Page 204"
+    },
+    {
+      "id": 45,
+      "question": "Why must rapid correction of hyponatremia never be done?",
+      "options": {
+        "A": "It causes hyperkalemia",
+        "B": "It can cause pontine myelinolysis",
+        "C": "It causes renal failure",
+        "D": "It causes cardiac arrest"
+      },
+      "answer": "B",
+      "explanation": "Rapid correction must never be done; rapid correction can cause pontine myelinolysis.",
+      "chapter": "Chapter 22",
+      "topic": "Hyponatremia and Hypernatremia",
+      "reference": "Ch 22, Page 204"
+    },
+    {
+      "id": 46,
+      "question": "What is the key principle in anesthetic management of hypercalcemia?",
+      "options": {
+        "A": "Avoiding calcium-containing fluids",
+        "B": "Maintenance of hydration and urine output",
+        "C": "Using calcium channel blockers",
+        "D": "Avoiding all muscle relaxants"
+      },
+      "answer": "B",
+      "explanation": "The key principle in hypercalcemia is maintenance of hydration and urine output.",
+      "chapter": "Chapter 22",
+      "topic": "Hypercalcemia – Anesthetic Considerations",
+      "reference": "Ch 22, Page 204"
+    },
+    {
+      "id": 47,
+      "question": "Hypocalcemia can produce which of the following during anesthesia?",
+      "options": {
+        "A": "Hypertension and tachycardia",
+        "B": "Laryngospasm and hypotension",
+        "C": "Bronchospasm and hyperkalemia",
+        "D": "Malignant hyperthermia"
+      },
+      "answer": "B",
+      "explanation": "Hypocalcemia can produce laryngospasm and hypotension.",
+      "chapter": "Chapter 22",
+      "topic": "Hypocalcemia – Anesthetic Considerations",
+      "reference": "Ch 22, Page 204"
+    },
+    {
+      "id": 48,
+      "question": "Hypermagnesemia potentiates the action of:",
+      "options": {
+        "A": "Only depolarizing muscle relaxants",
+        "B": "Only non-depolarizing muscle relaxants",
+        "C": "Both depolarizing and non-depolarizing muscle relaxants",
+        "D": "Neither depolarizing nor non-depolarizing muscle relaxants"
+      },
+      "answer": "C",
+      "explanation": "Hypermagnesemia potentiates the action of both depolarizing and non-depolarizing muscle relaxants.",
+      "chapter": "Chapter 22",
+      "topic": "Hypermagnesemia – Anesthetic Considerations",
+      "reference": "Ch 22, Page 204"
+    },
+    {
+      "id": 49,
+      "question": "Hypomagnesemia may be associated with:",
+      "options": {
+        "A": "Hyperkalemia and hypercalcemia",
+        "B": "Refractory hypokalemia and hypocalcemia",
+        "C": "Hypernatremia and metabolic alkalosis",
+        "D": "Polycythemia"
+      },
+      "answer": "B",
+      "explanation": "Hypomagnesemia may be associated with refractory hypokalemia and hypocalcemia.",
+      "chapter": "Chapter 22",
+      "topic": "Hypomagnesemia – Anesthetic Considerations",
+      "reference": "Ch 22, Page 204"
+    },
+    {
+      "id": 50,
+      "question": "What is the effect of excess fluid administration in renal patients?",
+      "options": {
+        "A": "It improves renal perfusion",
+        "B": "It can precipitate pulmonary edema and fluid deficiency can worsen kidney injury",
+        "C": "It has no significant effect",
+        "D": "It always improves urine output"
+      },
+      "answer": "B",
+      "explanation": "Excess fluid can precipitate pulmonary edema and fluid deficiency can worsen kidney injury. Therefore, maintaining fluid balance is essential.",
+      "chapter": "Chapter 22",
+      "topic": "Intraoperative Monitoring – Fluid Balance",
+      "reference": "Ch 22, Page 202"
+    }
+  ]
+}
