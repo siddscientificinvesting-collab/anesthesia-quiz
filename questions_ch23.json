@@ -1,0 +1,759 @@
+{
+  "title": "Anesthesia for Endocrinal Disorders MCQ – Chapter 23",
+  "source": "Short Textbook of Anesthesia – Ajay Yadav",
+  "section": "Section 7: Anesthesia for Coexisting Diseases (Chapter 23)",
+  "total_questions": 50,
+  "time_limit_minutes": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What are the basic goals of preoperative evaluation in a diabetic patient?",
+      "options": {
+        "A": "Only checking blood sugar levels",
+        "B": "Assess severity by blood sugar & HbA1c, rule out autonomic and peripheral neuropathy, and organ damage",
+        "C": "Only ruling out nephropathy",
+        "D": "Only checking HbA1c levels"
+      },
+      "answer": "B",
+      "explanation": "The basic goals are to assess severity by checking blood sugar and HbA1c, rule out autonomic neuropathy, peripheral neuropathy, and organ damage especially nephropathy.",
+      "chapter": "Chapter 23",
+      "topic": "Diabetes Mellitus – Preoperative Evaluation",
+      "reference": "Ch 23, Page 206"
+    },
+    {
+      "id": 2,
+      "question": "Why should premedication against aspiration be given to diabetic patients?",
+      "options": {
+        "A": "They have increased gastric acid production",
+        "B": "They have delayed gastric emptying",
+        "C": "They are on multiple medications",
+        "D": "They have esophageal dysfunction"
+      },
+      "answer": "B",
+      "explanation": "Diabetic patients have delayed gastric emptying, therefore premedication against aspiration should be given.",
+      "chapter": "Chapter 23",
+      "topic": "Diabetes Mellitus – Premedication",
+      "reference": "Ch 23, Page 206"
+    },
+    {
+      "id": 3,
+      "question": "How long before surgery should sulfonyl urea and metformin be stopped?",
+      "options": {
+        "A": "On the morning of surgery",
+        "B": "12 hours before",
+        "C": "24–48 hours prior to surgery",
+        "D": "1 week before surgery"
+      },
+      "answer": "C",
+      "explanation": "Due to long half-lives, sulfonyl urea and metformin should be stopped 24–48 hours prior to surgery.",
+      "chapter": "Chapter 23",
+      "topic": "Diabetes Mellitus – Management of Sugar",
+      "reference": "Ch 23, Page 206"
+    },
+    {
+      "id": 4,
+      "question": "In the traditional insulin regime, what fraction of the AM dose of insulin is given on the morning of surgery?",
+      "options": {
+        "A": "1/4 of the AM dose",
+        "B": "1/3 of the AM dose",
+        "C": "1/2 of the AM dose",
+        "D": "Full AM dose"
+      },
+      "answer": "C",
+      "explanation": "The most widespread traditionally employed regime is to give 1/2 of the AM dose of insulin on the morning of surgery after starting 5% dextrose infusion.",
+      "chapter": "Chapter 23",
+      "topic": "Diabetes Mellitus – Insulin Management",
+      "reference": "Ch 23, Page 206"
+    },
+    {
+      "id": 5,
+      "question": "At what rate should 5% dextrose be infused when giving insulin on the morning of surgery?",
+      "options": {
+        "A": "50 mL/hour",
+        "B": "100 mL/hour",
+        "C": "125 mL/hour",
+        "D": "150 mL/hour"
+      },
+      "answer": "C",
+      "explanation": "5% dextrose is infused at a rate of 125 mL/hour to avoid the possibility of hypoglycemia.",
+      "chapter": "Chapter 23",
+      "topic": "Diabetes Mellitus – Insulin Management",
+      "reference": "Ch 23, Page 206"
+    },
+    {
+      "id": 6,
+      "question": "By how much does 1 unit of regular insulin decrease blood sugar?",
+      "options": {
+        "A": "10–15 mg/dL",
+        "B": "15–20 mg/dL",
+        "C": "25–30 mg/dL",
+        "D": "40–50 mg/dL"
+      },
+      "answer": "C",
+      "explanation": "1 unit of insulin decreases blood sugar levels by 25–30 mg/dL.",
+      "chapter": "Chapter 23",
+      "topic": "Diabetes Mellitus – Insulin Management",
+      "reference": "Ch 23, Page 206"
+    },
+    {
+      "id": 7,
+      "question": "What is the formula for regular insulin infusion rate (units/hour) as per current guidelines?",
+      "options": {
+        "A": "Plasma glucose (mg/dL) / 100",
+        "B": "Plasma glucose (mg/dL) / 150",
+        "C": "Plasma glucose (mg/dL) / 200",
+        "D": "Plasma glucose (mg/dL) / 250"
+      },
+      "answer": "B",
+      "explanation": "Insulin is given by the formula: Units/hour = plasma glucose (mg/dL)/150.",
+      "chapter": "Chapter 23",
+      "topic": "Diabetes Mellitus – Insulin Infusion",
+      "reference": "Ch 23, Page 206"
+    },
+    {
+      "id": 8,
+      "question": "What is the target plasma sugar level during the perioperative period?",
+      "options": {
+        "A": "100–130 mg/dL",
+        "B": "130–150 mg/dL",
+        "C": "150–180 mg/dL",
+        "D": "180–220 mg/dL"
+      },
+      "answer": "C",
+      "explanation": "The target should be to keep plasma sugar level between 150 and 180 mg/dL.",
+      "chapter": "Chapter 23",
+      "topic": "Diabetes Mellitus – Glucose Monitoring",
+      "reference": "Ch 23, Page 206"
+    },
+    {
+      "id": 9,
+      "question": "What is the most common cause of death in the perioperative period in diabetic patients?",
+      "options": {
+        "A": "Hypoglycemia",
+        "B": "Diabetic ketoacidosis",
+        "C": "Myocardial ischemia",
+        "D": "Renal failure"
+      },
+      "answer": "C",
+      "explanation": "Myocardial ischemia is the most common cause of death in the perioperative period in diabetic patients.",
+      "chapter": "Chapter 23",
+      "topic": "Diabetes Mellitus – Monitoring",
+      "reference": "Ch 23, Page 206"
+    },
+    {
+      "id": 10,
+      "question": "Why may MI go silent in the postoperative period in diabetic patients?",
+      "options": {
+        "A": "Due to analgesics masking pain",
+        "B": "Due to autonomic neuropathy",
+        "C": "Due to sedation",
+        "D": "Due to peripheral neuropathy"
+      },
+      "answer": "B",
+      "explanation": "The MI may go silent in postoperative period if the patient has autonomic neuropathy.",
+      "chapter": "Chapter 23",
+      "topic": "Diabetes Mellitus – Monitoring",
+      "reference": "Ch 23, Page 206"
+    },
+    {
+      "id": 11,
+      "question": "Which patients with diabetes can safely receive regional anesthesia?",
+      "options": {
+        "A": "All diabetic patients",
+        "B": "Patients not having peripheral and/or autonomic neuropathy",
+        "C": "Only type 2 diabetic patients",
+        "D": "Only insulin-dependent patients"
+      },
+      "answer": "B",
+      "explanation": "Patients not having peripheral and/or autonomic neuropathy can safely receive regional anesthesia.",
+      "chapter": "Chapter 23",
+      "topic": "Diabetes Mellitus – Choice of Anesthesia",
+      "reference": "Ch 23, Page 207"
+    },
+    {
+      "id": 12,
+      "question": "Why may difficult intubation be anticipated in diabetic patients?",
+      "options": {
+        "A": "Due to obesity",
+        "B": "Due to involvement of atlanto-occipital and temporomandibular joint (stiff joint syndrome)",
+        "C": "Due to macroglossia",
+        "D": "Due to tracheal compression"
+      },
+      "answer": "B",
+      "explanation": "Difficult intubation may be anticipated due to involvement of atlanto-occipital and temporomandibular joint (stiff joint syndrome).",
+      "chapter": "Chapter 23",
+      "topic": "Diabetes Mellitus – General Anesthesia",
+      "reference": "Ch 23, Page 207"
+    },
+    {
+      "id": 13,
+      "question": "What may act as a savior when hypotension and bradycardia in diabetic patients with autonomic neuropathy do not respond to atropine and ephedrine?",
+      "options": {
+        "A": "Dopamine",
+        "B": "Noradrenaline",
+        "C": "Intravenous adrenaline",
+        "D": "Phenylephrine"
+      },
+      "answer": "C",
+      "explanation": "Hypotension and bradycardia in patients with autonomic neuropathy may not respond to atropine and ephedrine; intravenous adrenaline may act as savior.",
+      "chapter": "Chapter 23",
+      "topic": "Diabetes Mellitus – General Anesthesia",
+      "reference": "Ch 23, Page 207"
+    },
+    {
+      "id": 14,
+      "question": "Which of the following drugs should be avoided in diabetic patients because they cause sympathetic stimulation and hyperglycemia?",
+      "options": {
+        "A": "Propofol, Vecuronium, Isoflurane",
+        "B": "Ketamine, Pancuronium, Atropine, Desflurane >6%",
+        "C": "Thiopentone, Sevoflurane, Glycopyrrolate",
+        "D": "Etomidate, Atracurium, Fentanyl"
+      },
+      "answer": "B",
+      "explanation": "Drugs causing sympathetic stimulation like ketamine, pancuronium, atropine, desflurane >6% should be avoided as they cause hyperglycemia.",
+      "chapter": "Chapter 23",
+      "topic": "Diabetes Mellitus – General Anesthesia",
+      "reference": "Ch 23, Page 207"
+    },
+    {
+      "id": 15,
+      "question": "When should elective surgery be performed in a hyperthyroid patient?",
+      "options": {
+        "A": "Immediately with beta-blocker cover",
+        "B": "After the patient is euthyroid",
+        "C": "After 2 weeks of antithyroid drugs",
+        "D": "Only after total thyroidectomy"
+      },
+      "answer": "B",
+      "explanation": "Elective surgery should be deferred till the patient is euthyroid.",
+      "chapter": "Chapter 23",
+      "topic": "Hyperthyroidism",
+      "reference": "Ch 23, Page 207"
+    },
+    {
+      "id": 16,
+      "question": "What should be brought down to normal with beta blockers before taking a hyperthyroid patient for surgery?",
+      "options": {
+        "A": "Blood pressure",
+        "B": "Sleeping pulse rate",
+        "C": "Thyroid hormone levels",
+        "D": "Temperature"
+      },
+      "answer": "B",
+      "explanation": "Sleeping pulse rate should be brought down to normal with beta blockers before taking the patient for surgery.",
+      "chapter": "Chapter 23",
+      "topic": "Hyperthyroidism – Preoperative Evaluation",
+      "reference": "Ch 23, Page 207"
+    },
+    {
+      "id": 17,
+      "question": "Why should airway assessment be done in hyperthyroid patients with large thyroid?",
+      "options": {
+        "A": "Risk of vocal cord paralysis",
+        "B": "Large thyroid can produce tracheal compression",
+        "C": "Risk of aspiration",
+        "D": "Difficulty in mask ventilation"
+      },
+      "answer": "B",
+      "explanation": "As large thyroid can produce tracheal compression, airway assessment by indirect laryngoscopy, X-ray neck or CT scan is must.",
+      "chapter": "Chapter 23",
+      "topic": "Hyperthyroidism – Preoperative Evaluation",
+      "reference": "Ch 23, Page 207"
+    },
+    {
+      "id": 18,
+      "question": "Why should local anesthetics with adrenaline NOT be used in hyperthyroid patients?",
+      "options": {
+        "A": "They are less effective",
+        "B": "They can cause sympathetic stimulation",
+        "C": "They are metabolized faster",
+        "D": "They cause hypothermia"
+      },
+      "answer": "B",
+      "explanation": "Regional anesthesia can be safely given in hyperthyroid patients however local anesthetics with adrenaline must not be used as they cause sympathetic stimulation.",
+      "chapter": "Chapter 23",
+      "topic": "Hyperthyroidism – Choice of Anesthesia",
+      "reference": "Ch 23, Page 207"
+    },
+    {
+      "id": 19,
+      "question": "Why are central neuraxial blocks preferred in hyperthyroid patients?",
+      "options": {
+        "A": "They provide better analgesia",
+        "B": "They block the sympathetic response",
+        "C": "They are easier to administer",
+        "D": "They reduce thyroid hormone levels"
+      },
+      "answer": "B",
+      "explanation": "Central neuraxial blocks are preferred because of their capacity to block the sympathetic response.",
+      "chapter": "Chapter 23",
+      "topic": "Hyperthyroidism – Choice of Anesthesia",
+      "reference": "Ch 23, Page 207"
+    },
+    {
+      "id": 20,
+      "question": "Which is the induction agent of choice in hyperthyroid patients and why?",
+      "options": {
+        "A": "Propofol – fast onset",
+        "B": "Thiopentone – possesses antithyroid property",
+        "C": "Etomidate – cardiovascular stability",
+        "D": "Ketamine – bronchodilator"
+      },
+      "answer": "B",
+      "explanation": "As thiopentone possesses antithyroid property, it is the induction agent of choice for hyperthyroid patients.",
+      "chapter": "Chapter 23",
+      "topic": "Hyperthyroidism – General Anesthesia",
+      "reference": "Ch 23, Page 207"
+    },
+    {
+      "id": 21,
+      "question": "What is the preferred maintenance agent for hyperthyroid patients prone to arrhythmias?",
+      "options": {
+        "A": "Halothane",
+        "B": "Sevoflurane",
+        "C": "Isoflurane",
+        "D": "Desflurane"
+      },
+      "answer": "C",
+      "explanation": "As hyperthyroid patients are more prone for arrhythmias, most cardiac stable i.e. Isoflurane should be the preferred agent.",
+      "chapter": "Chapter 23",
+      "topic": "Hyperthyroidism – General Anesthesia",
+      "reference": "Ch 23, Page 207"
+    },
+    {
+      "id": 22,
+      "question": "Does the MAC of inhalational agents change in hyperthyroidism?",
+      "options": {
+        "A": "Yes, it increases significantly",
+        "B": "Yes, it decreases significantly",
+        "C": "No, MAC remains the same",
+        "D": "It varies depending on the agent"
+      },
+      "answer": "C",
+      "explanation": "Minimum alveolar concentration (MAC) of inhalational agents remains same in hyperthyroidism.",
+      "chapter": "Chapter 23",
+      "topic": "Hyperthyroidism – General Anesthesia",
+      "reference": "Ch 23, Page 207"
+    },
+    {
+      "id": 23,
+      "question": "What is a thyroid storm and when does it most often occur?",
+      "options": {
+        "A": "A benign condition occurring preoperatively",
+        "B": "A life-threatening condition most often occurring in postoperative period",
+        "C": "An allergic reaction during induction",
+        "D": "A transient condition during maintenance"
+      },
+      "answer": "B",
+      "explanation": "Thyroid storm is a life-threatening condition most often occurring in postoperative period, however can occur intraoperatively also.",
+      "chapter": "Chapter 23",
+      "topic": "Hyperthyroidism – Postoperative Complications",
+      "reference": "Ch 23, Page 207"
+    },
+    {
+      "id": 24,
+      "question": "Which drug is used in thyroid storm to block conversion of T4 to T3?",
+      "options": {
+        "A": "Hydrocortisone",
+        "B": "Dexamethasone",
+        "C": "Prednisolone",
+        "D": "Methylprednisolone"
+      },
+      "answer": "B",
+      "explanation": "Management of thyroid storm includes dexamethasone which blocks conversion of T4 to T3.",
+      "chapter": "Chapter 23",
+      "topic": "Hyperthyroidism – Thyroid Storm",
+      "reference": "Ch 23, Page 207"
+    },
+    {
+      "id": 25,
+      "question": "What is the most common cause of upper airway obstruction after thyroid surgery?",
+      "options": {
+        "A": "Laryngeal edema",
+        "B": "Tracheal compression by expanding hematoma",
+        "C": "Vocal cord paralysis",
+        "D": "Tracheomalacia"
+      },
+      "answer": "B",
+      "explanation": "Upper airway obstruction is most often due to tracheal compression caused by expanding hematoma, treated immediately by opening the sutures.",
+      "chapter": "Chapter 23",
+      "topic": "Hyperthyroidism – Postoperative Complications",
+      "reference": "Ch 23, Page 207-208"
+    },
+    {
+      "id": 26,
+      "question": "What can hypoparathyroidism after thyroidectomy cause?",
+      "options": {
+        "A": "Hyperkalemia",
+        "B": "Hypocalcemia leading to laryngospasm",
+        "C": "Hypernatremia",
+        "D": "Metabolic alkalosis"
+      },
+      "answer": "B",
+      "explanation": "Hypocalcemia caused by hypoparathyroidism can precipitate laryngospasm.",
+      "chapter": "Chapter 23",
+      "topic": "Hyperthyroidism – Postoperative Complications",
+      "reference": "Ch 23, Page 208"
+    },
+    {
+      "id": 27,
+      "question": "What is the emergency treatment of choice for a hyperthyroid patient undergoing emergency surgery?",
+      "options": {
+        "A": "IV hydrocortisone only",
+        "B": "IV esmolol or propranolol to settle tachycardia",
+        "C": "Oral antithyroid drugs only",
+        "D": "Plasmapheresis"
+      },
+      "answer": "B",
+      "explanation": "At least tachycardia should be settled with IV esmolol or IV propranolol. Propranolol has the added advantage of inhibiting conversion of T4 to T3.",
+      "chapter": "Chapter 23",
+      "topic": "Emergency Surgery in Hyperthyroid Patient",
+      "reference": "Ch 23, Page 208"
+    },
+    {
+      "id": 28,
+      "question": "Should elective surgery be deferred in all hypothyroid patients?",
+      "options": {
+        "A": "Yes, in all cases",
+        "B": "No, mild hypothyroidism should not be a deterrent to postpone the surgery",
+        "C": "Only in patients above 60 years",
+        "D": "Only in patients with goiter"
+      },
+      "answer": "B",
+      "explanation": "Ideally elective surgery should be deferred till euthyroid, however mild hypothyroidism should not be a deterrent to postpone the surgery.",
+      "chapter": "Chapter 23",
+      "topic": "Hypothyroidism",
+      "reference": "Ch 23, Page 208"
+    },
+    {
+      "id": 29,
+      "question": "Which of the following are associated conditions with hypothyroidism that should be ruled out preoperatively?",
+      "options": {
+        "A": "Hypertension, tachycardia, hyperthermia",
+        "B": "Congestive cardiac failure, anemia, hypothermia, hyponatremia, hypoglycemia",
+        "C": "Hyperglycemia, hyperkalemia, polycythemia",
+        "D": "Pulmonary hypertension, renal failure"
+      },
+      "answer": "B",
+      "explanation": "Associated conditions like CCF, anemia, hypothermia, hyponatremia, and hypoglycemia should be ruled out.",
+      "chapter": "Chapter 23",
+      "topic": "Hypothyroidism – Preoperative Evaluation",
+      "reference": "Ch 23, Page 208"
+    },
+    {
+      "id": 30,
+      "question": "Why should premedication with benzodiazepines be avoided in hypothyroid patients?",
+      "options": {
+        "A": "They are metabolized faster",
+        "B": "They cause hypothermia",
+        "C": "These patients are extremely sensitive to depressant drugs",
+        "D": "They cause hyponatremia"
+      },
+      "answer": "C",
+      "explanation": "Hypothyroid patients are extremely sensitive to depressant drugs therefore premedication with benzodiazepines should be avoided.",
+      "chapter": "Chapter 23",
+      "topic": "Hypothyroidism – Preoperative Evaluation",
+      "reference": "Ch 23, Page 208"
+    },
+    {
+      "id": 31,
+      "question": "What is the induction agent of choice in hypothyroid patients with normal cardiac output?",
+      "options": {
+        "A": "Thiopentone",
+        "B": "Propofol",
+        "C": "Etomidate",
+        "D": "Ketamine"
+      },
+      "answer": "B",
+      "explanation": "Induction is normally done with propofol; however, if there is evidence of low cardiac output then ketamine is preferred.",
+      "chapter": "Chapter 23",
+      "topic": "Hypothyroidism – General Anesthesia",
+      "reference": "Ch 23, Page 208"
+    },
+    {
+      "id": 32,
+      "question": "Which muscle relaxants are preferred in hypothyroid patients?",
+      "options": {
+        "A": "Pancuronium and Vecuronium",
+        "B": "Mivacurium, Atracurium/Cis-atracurium",
+        "C": "Succinylcholine",
+        "D": "Rocuronium"
+      },
+      "answer": "B",
+      "explanation": "As mivacurium, atracurium/Cis-atracurium do not have the possibility of accumulation, they are preferred muscle relaxants in hypothyroidism.",
+      "chapter": "Chapter 23",
+      "topic": "Hypothyroidism – General Anesthesia",
+      "reference": "Ch 23, Page 208"
+    },
+    {
+      "id": 33,
+      "question": "Why should all drugs be used in minimal possible doses in hypothyroid patients?",
+      "options": {
+        "A": "They have increased renal clearance",
+        "B": "They have increased hepatic metabolism",
+        "C": "The metabolism of drugs is reduced in hypothyroidism",
+        "D": "They have increased protein binding"
+      },
+      "answer": "C",
+      "explanation": "As the metabolism of drugs is reduced in hypothyroidism, they should be used in minimal possible doses.",
+      "chapter": "Chapter 23",
+      "topic": "Hypothyroidism – General Anesthesia",
+      "reference": "Ch 23, Page 208"
+    },
+    {
+      "id": 34,
+      "question": "What additional cover is needed for emergency surgery in severely hypothyroid patients?",
+      "options": {
+        "A": "IV antibiotics only",
+        "B": "IV T3 and T4, and steroid cover",
+        "C": "IV calcium only",
+        "D": "IV magnesium only"
+      },
+      "answer": "B",
+      "explanation": "IV T3 and T4 should be given, and as adrenal function is often decreased, steroid cover also becomes a must.",
+      "chapter": "Chapter 23",
+      "topic": "Emergency Surgery in Hypothyroid Patient",
+      "reference": "Ch 23, Page 208"
+    },
+    {
+      "id": 35,
+      "question": "What drug is used to stabilize hypertension preoperatively in pheochromocytoma?",
+      "options": {
+        "A": "Propranolol",
+        "B": "Atenolol",
+        "C": "Phenoxybenzamine (alpha blocker)",
+        "D": "Nifedipine"
+      },
+      "answer": "C",
+      "explanation": "Patient's hypertension must be stabilized by alpha blocker; most often used is phenoxybenzamine.",
+      "chapter": "Chapter 23",
+      "topic": "Pheochromocytoma",
+      "reference": "Ch 23, Page 208"
+    },
+    {
+      "id": 36,
+      "question": "Why must beta blockers NOT be started before alpha blockers in pheochromocytoma?",
+      "options": {
+        "A": "Beta blockers are ineffective alone",
+        "B": "Unopposed alpha action can cause malignant hypertension",
+        "C": "Beta blockers cause hyperglycemia",
+        "D": "Alpha blockers take longer to act"
+      },
+      "answer": "B",
+      "explanation": "Beta blockers must not be started before initiating therapy with alpha blocker otherwise unopposed action can cause malignant hypertension.",
+      "chapter": "Chapter 23",
+      "topic": "Pheochromocytoma",
+      "reference": "Ch 23, Page 208"
+    },
+    {
+      "id": 37,
+      "question": "Why is halothane absolutely contraindicated in pheochromocytoma?",
+      "options": {
+        "A": "It causes bronchospasm",
+        "B": "It sensitizes myocardium to catecholamines",
+        "C": "It causes hepatotoxicity",
+        "D": "It causes malignant hyperthermia"
+      },
+      "answer": "B",
+      "explanation": "Halothane is absolutely contraindicated because it sensitizes myocardium to catecholamines.",
+      "chapter": "Chapter 23",
+      "topic": "Pheochromocytoma",
+      "reference": "Ch 23, Page 209"
+    },
+    {
+      "id": 38,
+      "question": "What can happen during tumor handling in pheochromocytoma surgery?",
+      "options": {
+        "A": "Hypothermia",
+        "B": "Profound hypertension and life-threatening arrhythmias due to increased catecholamines",
+        "C": "Hypoglycemia only",
+        "D": "Bradycardia only"
+      },
+      "answer": "B",
+      "explanation": "Increase in catecholamines during tumor handling can cause profound hypertension and life-threatening arrhythmias.",
+      "chapter": "Chapter 23",
+      "topic": "Pheochromocytoma",
+      "reference": "Ch 23, Page 209"
+    },
+    {
+      "id": 39,
+      "question": "What is the most common cause of death in the immediate postoperative period in pheochromocytoma patients?",
+      "options": {
+        "A": "Arrhythmia",
+        "B": "Hypertensive crisis",
+        "C": "Hypotension",
+        "D": "Hypoglycemia"
+      },
+      "answer": "C",
+      "explanation": "Hypotension is the most common cause of death in immediate postoperative period in pheochromocytoma patients, caused by abrupt withdrawal of catecholamines after ligation of tumor vein.",
+      "chapter": "Chapter 23",
+      "topic": "Pheochromocytoma",
+      "reference": "Ch 23, Page 209"
+    },
+    {
+      "id": 40,
+      "question": "What should be started immediately after tumor vein ligation in pheochromocytoma surgery?",
+      "options": {
+        "A": "Normal saline",
+        "B": "Ringer lactate",
+        "C": "Dextrose normal saline",
+        "D": "Colloids"
+      },
+      "answer": "C",
+      "explanation": "Dextrose normal saline should be started immediately after vein ligation to prevent hypotension and hypoglycemia.",
+      "chapter": "Chapter 23",
+      "topic": "Pheochromocytoma",
+      "reference": "Ch 23, Page 209"
+    },
+    {
+      "id": 41,
+      "question": "For how long should hydrocortisone be continued after unilateral adrenalectomy for pheochromocytoma?",
+      "options": {
+        "A": "12 hours",
+        "B": "1–2 days",
+        "C": "3–6 days",
+        "D": "1 week"
+      },
+      "answer": "B",
+      "explanation": "Hydrocortisone (100 mg/day) is continued for 1–2 days for unilateral and 3–6 days for bilateral adrenalectomy.",
+      "chapter": "Chapter 23",
+      "topic": "Pheochromocytoma",
+      "reference": "Ch 23, Page 209"
+    },
+    {
+      "id": 42,
+      "question": "What effects of cortisol must be corrected before elective surgery in Cushing syndrome?",
+      "options": {
+        "A": "Only hypertension",
+        "B": "Hypertension, hyperglycemia, volume overload, and hypokalemia",
+        "C": "Only hyperglycemia",
+        "D": "Only hypokalemia"
+      },
+      "answer": "B",
+      "explanation": "Hypertension, hyperglycemia, volume overload and hypokalemia must be corrected before elective surgery.",
+      "chapter": "Chapter 23",
+      "topic": "Cushing Syndrome",
+      "reference": "Ch 23, Page 209"
+    },
+    {
+      "id": 43,
+      "question": "What is the most common cause of secondary adrenal insufficiency?",
+      "options": {
+        "A": "Pituitary tumor",
+        "B": "Autoimmune adrenalitis",
+        "C": "Exogenous steroids",
+        "D": "Tuberculosis"
+      },
+      "answer": "C",
+      "explanation": "Exogenous steroids are the most common cause of secondary adrenal insufficiency.",
+      "chapter": "Chapter 23",
+      "topic": "Glucocorticoid Deficiency",
+      "reference": "Ch 23, Page 209"
+    },
+    {
+      "id": 44,
+      "question": "Any patient who has taken steroids (prednisone >5 mg/day) for more than how many weeks in the last 1 year must receive intraoperative steroid supplementation?",
+      "options": {
+        "A": "1 week",
+        "B": "2 weeks",
+        "C": "3 weeks",
+        "D": "4 weeks"
+      },
+      "answer": "C",
+      "explanation": "Any patient who has taken steroid for more than 3 weeks in the last 1 year must receive intraoperative supplementation with hydrocortisone.",
+      "chapter": "Chapter 23",
+      "topic": "Glucocorticoid Deficiency",
+      "reference": "Ch 23, Page 209"
+    },
+    {
+      "id": 45,
+      "question": "What is the dose of hydrocortisone supplementation for patients with adrenal insufficiency?",
+      "options": {
+        "A": "50 mg 8 hourly",
+        "B": "100 mg 8 hourly",
+        "C": "200 mg 12 hourly",
+        "D": "50 mg 12 hourly"
+      },
+      "answer": "B",
+      "explanation": "100 mg of hydrocortisone 8 hourly beginning on the day of surgery and continued for 24–48 hours; continuous infusion at 10 mg/hour is considered better.",
+      "chapter": "Chapter 23",
+      "topic": "Glucocorticoid Deficiency",
+      "reference": "Ch 23, Page 209"
+    },
+    {
+      "id": 46,
+      "question": "Why is etomidate contraindicated in adrenal insufficiency?",
+      "options": {
+        "A": "It causes hypotension",
+        "B": "It causes adrenocortical suppression",
+        "C": "It causes tachycardia",
+        "D": "It is poorly metabolized"
+      },
+      "answer": "B",
+      "explanation": "Etomidate is contraindicated as it causes adrenocortical suppression.",
+      "chapter": "Chapter 23",
+      "topic": "Glucocorticoid Deficiency",
+      "reference": "Ch 23, Page 209"
+    },
+    {
+      "id": 47,
+      "question": "Why should sevoflurane be avoided in mineralocorticoid excess with hypokalemic nephropathy?",
+      "options": {
+        "A": "It causes bronchospasm",
+        "B": "It produces fluoride that can worsen nephropathy",
+        "C": "It causes hyperkalemia",
+        "D": "It causes tachycardia"
+      },
+      "answer": "B",
+      "explanation": "Sevoflurane should be avoided if there is hypokalemic nephropathy due to its fluoride production.",
+      "chapter": "Chapter 23",
+      "topic": "Mineralocorticoid Excess",
+      "reference": "Ch 23, Page 209"
+    },
+    {
+      "id": 48,
+      "question": "What is the most important concern for acromegaly patients undergoing anesthesia?",
+      "options": {
+        "A": "Hyperglycemia",
+        "B": "Difficult airway management",
+        "C": "Cardiac arrhythmias",
+        "D": "Renal dysfunction"
+      },
+      "answer": "B",
+      "explanation": "The most important concern for acromegaly patients is difficult airway management due to prognathism, macroglossia, overgrowth of epiglottis, and narrowed glottis.",
+      "chapter": "Chapter 23",
+      "topic": "Pituitary Dysfunction – Acromegaly",
+      "reference": "Ch 23, Page 209"
+    },
+    {
+      "id": 49,
+      "question": "How long does recovery of hypothalamic-pituitary axis (HPA) take after exogenous steroid use?",
+      "options": {
+        "A": "3 months",
+        "B": "6 months",
+        "C": "1 year",
+        "D": "2 years"
+      },
+      "answer": "C",
+      "explanation": "Recovery of HPA takes 1 year after exogenous steroid use.",
+      "chapter": "Chapter 23",
+      "topic": "Glucocorticoid Deficiency",
+      "reference": "Ch 23, Page 209"
+    },
+    {
+      "id": 50,
+      "question": "What can happen in hypothyroid patients in the postoperative period due to hypoventilation?",
+      "options": {
+        "A": "Hyperglycemia",
+        "B": "Hypoxia",
+        "C": "Hypertension",
+        "D": "Tachycardia"
+      },
+      "answer": "B",
+      "explanation": "Hypothyroid patients can go into hypoxia in postoperative period due to hypoventilation.",
+      "chapter": "Chapter 23",
+      "topic": "Hypothyroidism – Postoperative",
+      "reference": "Ch 23, Page 208"
+    }
+  ]
+}

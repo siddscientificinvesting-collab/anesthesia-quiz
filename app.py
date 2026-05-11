@@ -86,6 +86,12 @@ QUIZ_CATALOG = {
         "short": "Renal & Electrolytes (Ch 22)",
         "icon": "🫘",
     },
+    "ch23": {
+        "file": "questions_ch23.json",
+        "label": "Chapter 23 – Anesthesia for Endocrinal Disorders",
+        "short": "Endocrinal Disorders (Ch 23)",
+        "icon": "🦋",
+    },
 }
 
 # ─── Load Questions ──────────────────────────────────────────────────────────
