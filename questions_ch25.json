@@ -1,0 +1,759 @@
+{
+  "title": "Anesthesia for Immune Mediated and Infectious Diseases MCQ – Chapter 25",
+  "source": "Short Textbook of Anesthesia – Ajay Yadav",
+  "section": "Section 7: Anesthesia for Coexisting Diseases (Chapter 25)",
+  "total_questions": 50,
+  "time_limit_minutes": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the underlying pathology of rheumatoid arthritis?",
+      "options": {
+        "A": "Immune-mediated vasculitis",
+        "B": "Immune-mediated synovitis",
+        "C": "Degenerative joint disease",
+        "D": "Autoimmune myositis"
+      },
+      "answer": "B",
+      "explanation": "Rheumatoid arthritis is a disease characterized by immune-mediated synovitis.",
+      "chapter": "Chapter 25",
+      "topic": "Rheumatoid Arthritis",
+      "reference": "Ch 25, Page 214"
+    },
+    {
+      "id": 2,
+      "question": "Which associated comorbidities should be ruled out in rheumatoid arthritis patients preoperatively?",
+      "options": {
+        "A": "Renal failure, hepatitis, diabetes",
+        "B": "Cardiac valvular lesions, pericarditis, and pulmonary fibrosis",
+        "C": "Thyroid dysfunction and adrenal insufficiency",
+        "D": "Peptic ulcer and esophageal varices"
+      },
+      "answer": "B",
+      "explanation": "Associated comorbidities like cardiac valvular lesions, pericarditis, and pulmonary fibrosis should be ruled out.",
+      "chapter": "Chapter 25",
+      "topic": "Rheumatoid Arthritis – Preoperative Evaluation",
+      "reference": "Ch 25, Page 214"
+    },
+    {
+      "id": 3,
+      "question": "What is the most important concern in anesthetic management of rheumatoid arthritis?",
+      "options": {
+        "A": "Drug interactions",
+        "B": "Difficult airway",
+        "C": "Renal dysfunction",
+        "D": "Coagulopathy"
+      },
+      "answer": "B",
+      "explanation": "As difficult airway is the most important concern, airway evaluation should be done very meticulously.",
+      "chapter": "Chapter 25",
+      "topic": "Rheumatoid Arthritis – Preoperative Evaluation",
+      "reference": "Ch 25, Page 214"
+    },
+    {
+      "id": 4,
+      "question": "Which side effects should be considered preoperatively in rheumatoid arthritis patients?",
+      "options": {
+        "A": "Side effects of antihypertensives",
+        "B": "Side effects of DMARDs, NSAIDs, and corticosteroids",
+        "C": "Side effects of antibiotics",
+        "D": "Side effects of anticoagulants only"
+      },
+      "answer": "B",
+      "explanation": "Side effects of disease modifying antirheumatic drugs (DMARDs), NSAIDs and corticosteroids should be taken into consideration.",
+      "chapter": "Chapter 25",
+      "topic": "Rheumatoid Arthritis – Preoperative Evaluation",
+      "reference": "Ch 25, Page 214"
+    },
+    {
+      "id": 5,
+      "question": "What is the preferred choice of anesthesia in rheumatoid arthritis patients?",
+      "options": {
+        "A": "General anesthesia",
+        "B": "Regional anesthesia",
+        "C": "Local anesthesia only",
+        "D": "Monitored anesthesia care"
+      },
+      "answer": "B",
+      "explanation": "Regional anesthesia is the choice. Lumbar spine is usually not involved in rheumatoid arthritis therefore spinal/epidural can be given easily.",
+      "chapter": "Chapter 25",
+      "topic": "Rheumatoid Arthritis – Choice of Anesthesia",
+      "reference": "Ch 25, Page 214"
+    },
+    {
+      "id": 6,
+      "question": "Why is the lumbar spine usually suitable for spinal/epidural in rheumatoid arthritis?",
+      "options": {
+        "A": "It has better blood supply",
+        "B": "Lumbar spine is usually not involved in rheumatoid arthritis",
+        "C": "It is easier to access",
+        "D": "It provides better block"
+      },
+      "answer": "B",
+      "explanation": "Lumbar spine is usually not involved in rheumatoid arthritis therefore spinal/epidural can be given easily.",
+      "chapter": "Chapter 25",
+      "topic": "Rheumatoid Arthritis – Choice of Anesthesia",
+      "reference": "Ch 25, Page 214"
+    },
+    {
+      "id": 7,
+      "question": "Why is general anesthesia difficult and risky in rheumatoid arthritis patients?",
+      "options": {
+        "A": "Due to drug resistance",
+        "B": "Due to difficult intubation",
+        "C": "Due to cardiac instability",
+        "D": "Due to renal dysfunction"
+      },
+      "answer": "B",
+      "explanation": "General anesthesia is difficult and risky due to difficult intubation caused by atlantoaxial instability, stiffness of cervical spine, and temporomandibular and cricoarytenoid arthritis.",
+      "chapter": "Chapter 25",
+      "topic": "Rheumatoid Arthritis – General Anesthesia",
+      "reference": "Ch 25, Page 214"
+    },
+    {
+      "id": 8,
+      "question": "What can happen if the neck is flexed in patients with atlantoaxial subluxation?",
+      "options": {
+        "A": "Cervical disc herniation",
+        "B": "Odontoid process can compress spinal cord leading to quadriplegia",
+        "C": "Vertebral artery dissection",
+        "D": "Esophageal injury"
+      },
+      "answer": "B",
+      "explanation": "Flexion of neck can cause odontoid process to compress spinal cord leading to quadriplegia.",
+      "chapter": "Chapter 25",
+      "topic": "Rheumatoid Arthritis – Atlantoaxial Instability",
+      "reference": "Ch 25, Page 214"
+    },
+    {
+      "id": 9,
+      "question": "How should intubation be performed in rheumatoid arthritis patients with atlantoaxial subluxation?",
+      "options": {
+        "A": "Rapid sequence intubation with neck flexion",
+        "B": "Awake intubation under topical anesthesia, or under GA with neck in extension",
+        "C": "Blind nasal intubation",
+        "D": "Tracheostomy"
+      },
+      "answer": "B",
+      "explanation": "Intubation is best performed under topical anesthesia with awake patient. If under GA, intubation should be done with neck in extension.",
+      "chapter": "Chapter 25",
+      "topic": "Rheumatoid Arthritis – Intubation",
+      "reference": "Ch 25, Page 214"
+    },
+    {
+      "id": 10,
+      "question": "What are the three causes of difficult intubation in rheumatoid arthritis?",
+      "options": {
+        "A": "Macroglossia, prognathism, epiglottic overgrowth",
+        "B": "Atlantoaxial instability, stiffness of cervical spine, temporomandibular and cricoarytenoid arthritis",
+        "C": "Tracheal stenosis, vocal cord paralysis, subglottic edema",
+        "D": "Obesity, short neck, large tongue"
+      },
+      "answer": "B",
+      "explanation": "Difficult intubation is due to atlantoaxial instability, stiffness of cervical spine, and temporomandibular and cricoarytenoid arthritis.",
+      "chapter": "Chapter 25",
+      "topic": "Rheumatoid Arthritis – General Anesthesia",
+      "reference": "Ch 25, Page 214"
+    },
+    {
+      "id": 11,
+      "question": "Why may arterial cannulation be difficult in rheumatoid arthritis patients?",
+      "options": {
+        "A": "Due to small vessel caliber",
+        "B": "Due to calcified radial arteries",
+        "C": "Due to vasospasm",
+        "D": "Due to thrombosed vessels"
+      },
+      "answer": "B",
+      "explanation": "Arterial cannulation may be difficult due to calcified radial arteries.",
+      "chapter": "Chapter 25",
+      "topic": "Rheumatoid Arthritis – Vascular Access",
+      "reference": "Ch 25, Page 214"
+    },
+    {
+      "id": 12,
+      "question": "Why may central venous cannulation be difficult in rheumatoid arthritis?",
+      "options": {
+        "A": "Due to thrombosis",
+        "B": "Due to cervical spine fusion",
+        "C": "Due to superior vena cava obstruction",
+        "D": "Due to coagulopathy"
+      },
+      "answer": "B",
+      "explanation": "Central venous cannulation may be difficult due to cervical spine fusion.",
+      "chapter": "Chapter 25",
+      "topic": "Rheumatoid Arthritis – Vascular Access",
+      "reference": "Ch 25, Page 214"
+    },
+    {
+      "id": 13,
+      "question": "Why can ankylosing spondylitis be the most difficult case from anesthesia point of view?",
+      "options": {
+        "A": "Due to cardiac involvement",
+        "B": "Fusion of lumbar spine makes CNB impossible and fusion of cervical spine makes intubation impossible",
+        "C": "Due to renal involvement",
+        "D": "Due to coagulopathy"
+      },
+      "answer": "B",
+      "explanation": "Fusion of lumbar spine may make central neuraxial blocks impossible and fusion of cervical spine may make intubation impossible.",
+      "chapter": "Chapter 25",
+      "topic": "Ankylosing Spondylitis",
+      "reference": "Ch 25, Page 214"
+    },
+    {
+      "id": 14,
+      "question": "How should intubation be performed in ankylosing spondylitis patients with cervical spine fusion?",
+      "options": {
+        "A": "Direct laryngoscopy under GA",
+        "B": "Awake state under fiberoptic bronchoscopy",
+        "C": "Blind nasal intubation",
+        "D": "Rapid sequence intubation"
+      },
+      "answer": "B",
+      "explanation": "Intubation in such patients should be performed in awake state under fiberoptic bronchoscopy.",
+      "chapter": "Chapter 25",
+      "topic": "Ankylosing Spondylitis",
+      "reference": "Ch 25, Page 214"
+    },
+    {
+      "id": 15,
+      "question": "Which cardiac conditions are common in ankylosing spondylitis?",
+      "options": {
+        "A": "Mitral stenosis and atrial fibrillation",
+        "B": "Aortic regurgitation and bundle branch block",
+        "C": "Ventricular septal defect",
+        "D": "Pericardial effusion"
+      },
+      "answer": "B",
+      "explanation": "Aortic regurgitation and bundle branch block are common in ankylosing spondylitis.",
+      "chapter": "Chapter 25",
+      "topic": "Ankylosing Spondylitis",
+      "reference": "Ch 25, Page 214"
+    },
+    {
+      "id": 16,
+      "question": "What determines the perioperative morbidity in systemic lupus erythematosus (SLE)?",
+      "options": {
+        "A": "Duration of disease",
+        "B": "Involvement of major organ functions",
+        "C": "Age of the patient",
+        "D": "Type of surgery"
+      },
+      "answer": "B",
+      "explanation": "The involvement of major organ functions determines the perioperative morbidity in SLE.",
+      "chapter": "Chapter 25",
+      "topic": "Systemic Lupus Erythematosus",
+      "reference": "Ch 25, Page 214"
+    },
+    {
+      "id": 17,
+      "question": "What laryngeal involvement in SLE can make intubation difficult?",
+      "options": {
+        "A": "Laryngeal edema only",
+        "B": "Cricoarytenoid arthritis and laryngeal nerve palsy",
+        "C": "Vocal cord polyps",
+        "D": "Subglottic stenosis"
+      },
+      "answer": "B",
+      "explanation": "Laryngeal involvement including cricoarytenoid arthritis and laryngeal nerve palsy can make intubation difficult in SLE.",
+      "chapter": "Chapter 25",
+      "topic": "Systemic Lupus Erythematosus",
+      "reference": "Ch 25, Page 214"
+    },
+    {
+      "id": 18,
+      "question": "Which organ involvement in scleroderma significantly affects perioperative morbidity?",
+      "options": {
+        "A": "Renal failure and hepatic dysfunction",
+        "B": "Pulmonary fibrosis and pulmonary hypertension",
+        "C": "Cardiac tamponade",
+        "D": "Cerebrovascular disease"
+      },
+      "answer": "B",
+      "explanation": "Multiorgan involvement, particularly pulmonary fibrosis and pulmonary hypertension can significantly affect perioperative morbidity.",
+      "chapter": "Chapter 25",
+      "topic": "Scleroderma",
+      "reference": "Ch 25, Page 214"
+    },
+    {
+      "id": 19,
+      "question": "Why can intubation be difficult in scleroderma?",
+      "options": {
+        "A": "Due to cervical spine fusion",
+        "B": "Due to small oral aperture",
+        "C": "Due to macroglossia",
+        "D": "Due to tracheal compression"
+      },
+      "answer": "B",
+      "explanation": "Small oral aperture can make intubation difficult in scleroderma.",
+      "chapter": "Chapter 25",
+      "topic": "Scleroderma",
+      "reference": "Ch 25, Page 214"
+    },
+    {
+      "id": 20,
+      "question": "Why can IV cannulation be difficult in scleroderma?",
+      "options": {
+        "A": "Due to vasospasm",
+        "B": "Due to dermal thickening",
+        "C": "Due to edema",
+        "D": "Due to calcification of vessels"
+      },
+      "answer": "B",
+      "explanation": "Dermal thickening can make intravenous cannulation difficult in scleroderma.",
+      "chapter": "Chapter 25",
+      "topic": "Scleroderma",
+      "reference": "Ch 25, Page 214"
+    },
+    {
+      "id": 21,
+      "question": "How are HIV positive patients classified according to ASA grading?",
+      "options": {
+        "A": "ASA I",
+        "B": "ASA II",
+        "C": "ASA III",
+        "D": "ASA IV"
+      },
+      "answer": "B",
+      "explanation": "Due to involvement of multiple organs all HIV positive patients are categorized as ASA grade II.",
+      "chapter": "Chapter 25",
+      "topic": "HIV and AIDS",
+      "reference": "Ch 25, Page 215"
+    },
+    {
+      "id": 22,
+      "question": "How are patients with AIDS classified according to ASA grading?",
+      "options": {
+        "A": "ASA I/II",
+        "B": "ASA II/III",
+        "C": "ASA III/IV",
+        "D": "ASA IV/V"
+      },
+      "answer": "C",
+      "explanation": "Patients with AIDS are categorized as ASA III/IV.",
+      "chapter": "Chapter 25",
+      "topic": "HIV and AIDS",
+      "reference": "Ch 25, Page 215"
+    },
+    {
+      "id": 23,
+      "question": "Which side effects of HAART should be ruled out preoperatively?",
+      "options": {
+        "A": "Hypothyroidism and osteoporosis",
+        "B": "Diabetes, coronary and cerebrovascular disease, deranged liver function",
+        "C": "Renal failure only",
+        "D": "Anemia only"
+      },
+      "answer": "B",
+      "explanation": "Side effects of HAART including diabetes, coronary and cerebrovascular disease, deranged liver function must be ruled out preoperatively.",
+      "chapter": "Chapter 25",
+      "topic": "HIV and AIDS – Preoperative Evaluation",
+      "reference": "Ch 25, Page 215"
+    },
+    {
+      "id": 24,
+      "question": "Patients who started HAART within how many months of surgery suffer more from perioperative complications?",
+      "options": {
+        "A": "3 months",
+        "B": "6 months",
+        "C": "9 months",
+        "D": "12 months"
+      },
+      "answer": "B",
+      "explanation": "Patients who have started HAART within 6 months of surgery suffer more from perioperative complications.",
+      "chapter": "Chapter 25",
+      "topic": "HIV and AIDS",
+      "reference": "Ch 25, Page 215"
+    },
+    {
+      "id": 25,
+      "question": "Do CD4 count and viral load increase perioperative anesthetic complications?",
+      "options": {
+        "A": "Yes, significantly",
+        "B": "Yes, but only in emergency surgery",
+        "C": "No, they affect overall prognosis but not perioperative anesthetic complications",
+        "D": "Only viral load increases complications"
+      },
+      "answer": "C",
+      "explanation": "CD4 count and viral load do affect the overall prognosis after surgery but have not been found to increase perioperative anesthetic complications.",
+      "chapter": "Chapter 25",
+      "topic": "HIV and AIDS",
+      "reference": "Ch 25, Page 215"
+    },
+    {
+      "id": 26,
+      "question": "Can regional anesthesia be given to HIV/AIDS patients?",
+      "options": {
+        "A": "Never, it is contraindicated",
+        "B": "Yes, safely if there are no associated neuropathies",
+        "C": "Only epidural is safe",
+        "D": "Only spinal is safe"
+      },
+      "answer": "B",
+      "explanation": "Regional anesthesia can be given safely if there are no associated neuropathies.",
+      "chapter": "Chapter 25",
+      "topic": "HIV and AIDS – Choice of Anesthesia",
+      "reference": "Ch 25, Page 215"
+    },
+    {
+      "id": 27,
+      "question": "What can make intubation difficult in HIV/AIDS patients?",
+      "options": {
+        "A": "Cervical spine fusion",
+        "B": "Fat redistribution around the neck",
+        "C": "Tracheal compression",
+        "D": "Vocal cord paralysis"
+      },
+      "answer": "B",
+      "explanation": "Fat redistribution around the neck can make intubation difficult in HIV/AIDS patients.",
+      "chapter": "Chapter 25",
+      "topic": "HIV and AIDS",
+      "reference": "Ch 25, Page 215"
+    },
+    {
+      "id": 28,
+      "question": "What is vital during any procedure in HIV/AIDS patients?",
+      "options": {
+        "A": "Use of specialized equipment",
+        "B": "Maintaining universal precautions and high degree of asepsis",
+        "C": "Avoiding all regional blocks",
+        "D": "Using only disposable equipment"
+      },
+      "answer": "B",
+      "explanation": "Maintaining universal precautions and high degree of asepsis during any procedure is vital.",
+      "chapter": "Chapter 25",
+      "topic": "HIV and AIDS",
+      "reference": "Ch 25, Page 215"
+    },
+    {
+      "id": 29,
+      "question": "In rheumatoid arthritis, intubation should be performed with the neck in which position?",
+      "options": {
+        "A": "Neutral position",
+        "B": "Flexion",
+        "C": "Extension",
+        "D": "Lateral rotation"
+      },
+      "answer": "C",
+      "explanation": "Due to atlantoaxial instability, intubation in RA patients should be performed with neck in extension.",
+      "chapter": "Chapter 25",
+      "topic": "Rheumatoid Arthritis – Key Points",
+      "reference": "Ch 25, Page 214"
+    },
+    {
+      "id": 30,
+      "question": "Which joint involvement in rheumatoid arthritis contributes to difficult intubation besides atlantoaxial and cervical spine?",
+      "options": {
+        "A": "Shoulder and elbow joints",
+        "B": "Temporomandibular and cricoarytenoid joints",
+        "C": "Hip and knee joints",
+        "D": "Sacroiliac joints"
+      },
+      "answer": "B",
+      "explanation": "Temporomandibular and cricoarytenoid arthritis contribute to difficult intubation in rheumatoid arthritis.",
+      "chapter": "Chapter 25",
+      "topic": "Rheumatoid Arthritis – Difficult Intubation",
+      "reference": "Ch 25, Page 214"
+    },
+    {
+      "id": 31,
+      "question": "Which of the following is TRUE about ankylosing spondylitis and anesthesia?",
+      "options": {
+        "A": "Spinal anesthesia is always easy",
+        "B": "General anesthesia with direct laryngoscopy is preferred",
+        "C": "It may turn out to be the most difficult case from anesthesia point of view",
+        "D": "Epidural is the preferred technique"
+      },
+      "answer": "C",
+      "explanation": "From anesthesia point of view ankylosing spondylitis may turn out to be the most difficult case at times.",
+      "chapter": "Chapter 25",
+      "topic": "Ankylosing Spondylitis",
+      "reference": "Ch 25, Page 214"
+    },
+    {
+      "id": 32,
+      "question": "In ankylosing spondylitis, fusion of which spine makes central neuraxial blocks impossible?",
+      "options": {
+        "A": "Cervical spine",
+        "B": "Thoracic spine",
+        "C": "Lumbar spine",
+        "D": "Sacral spine"
+      },
+      "answer": "C",
+      "explanation": "Fusion of lumbar spine may make central neuraxial blocks impossible.",
+      "chapter": "Chapter 25",
+      "topic": "Ankylosing Spondylitis",
+      "reference": "Ch 25, Page 214"
+    },
+    {
+      "id": 33,
+      "question": "In ankylosing spondylitis, fusion of which spine makes intubation impossible?",
+      "options": {
+        "A": "Lumbar spine",
+        "B": "Thoracic spine",
+        "C": "Cervical spine",
+        "D": "Sacral spine"
+      },
+      "answer": "C",
+      "explanation": "Fusion of cervical spine may make intubation impossible in ankylosing spondylitis.",
+      "chapter": "Chapter 25",
+      "topic": "Ankylosing Spondylitis",
+      "reference": "Ch 25, Page 214"
+    },
+    {
+      "id": 34,
+      "question": "What type of valvular disease is commonly associated with ankylosing spondylitis?",
+      "options": {
+        "A": "Mitral stenosis",
+        "B": "Mitral regurgitation",
+        "C": "Aortic regurgitation",
+        "D": "Aortic stenosis"
+      },
+      "answer": "C",
+      "explanation": "Aortic regurgitation is common in ankylosing spondylitis.",
+      "chapter": "Chapter 25",
+      "topic": "Ankylosing Spondylitis",
+      "reference": "Ch 25, Page 214"
+    },
+    {
+      "id": 35,
+      "question": "What conduction abnormality is common in ankylosing spondylitis?",
+      "options": {
+        "A": "Atrial fibrillation",
+        "B": "Bundle branch block",
+        "C": "Complete heart block",
+        "D": "Ventricular tachycardia"
+      },
+      "answer": "B",
+      "explanation": "Bundle branch block is common in ankylosing spondylitis.",
+      "chapter": "Chapter 25",
+      "topic": "Ankylosing Spondylitis",
+      "reference": "Ch 25, Page 214"
+    },
+    {
+      "id": 36,
+      "question": "Which condition is characterized by immune-mediated synovitis?",
+      "options": {
+        "A": "Ankylosing spondylitis",
+        "B": "Systemic lupus erythematosus",
+        "C": "Rheumatoid arthritis",
+        "D": "Scleroderma"
+      },
+      "answer": "C",
+      "explanation": "Rheumatoid arthritis is a disease characterized by immune-mediated synovitis.",
+      "chapter": "Chapter 25",
+      "topic": "Rheumatoid Arthritis",
+      "reference": "Ch 25, Page 214"
+    },
+    {
+      "id": 37,
+      "question": "In which condition can small oral aperture cause difficult intubation?",
+      "options": {
+        "A": "Rheumatoid arthritis",
+        "B": "Ankylosing spondylitis",
+        "C": "Scleroderma",
+        "D": "SLE"
+      },
+      "answer": "C",
+      "explanation": "In scleroderma, small oral aperture can make intubation difficult.",
+      "chapter": "Chapter 25",
+      "topic": "Scleroderma",
+      "reference": "Ch 25, Page 214"
+    },
+    {
+      "id": 38,
+      "question": "Which condition can cause cricoarytenoid arthritis leading to difficult intubation — BOTH rheumatoid arthritis AND SLE?",
+      "options": {
+        "A": "True – both RA and SLE can cause cricoarytenoid arthritis",
+        "B": "False – only RA causes it",
+        "C": "False – only SLE causes it",
+        "D": "False – neither causes it"
+      },
+      "answer": "A",
+      "explanation": "Both rheumatoid arthritis (temporomandibular and cricoarytenoid arthritis) and SLE (laryngeal involvement including cricoarytenoid arthritis) can cause difficult intubation.",
+      "chapter": "Chapter 25",
+      "topic": "RA and SLE – Airway Management",
+      "reference": "Ch 25, Page 214"
+    },
+    {
+      "id": 39,
+      "question": "Which is the best method of intubation in a patient with atlantoaxial subluxation under general anesthesia?",
+      "options": {
+        "A": "Direct laryngoscopy with neck flexion",
+        "B": "Intubation with neck in extension",
+        "C": "Blind nasal intubation",
+        "D": "Laryngeal mask airway"
+      },
+      "answer": "B",
+      "explanation": "If intubation has to be done under general anesthesia, it should be done with neck in extension to avoid odontoid compression of spinal cord.",
+      "chapter": "Chapter 25",
+      "topic": "Rheumatoid Arthritis – Intubation",
+      "reference": "Ch 25, Page 214"
+    },
+    {
+      "id": 40,
+      "question": "Patients with atlantoaxial subluxation cannot tolerate which neck movement?",
+      "options": {
+        "A": "Extension",
+        "B": "Flexion",
+        "C": "Lateral rotation",
+        "D": "All movements"
+      },
+      "answer": "B",
+      "explanation": "Patients of atlantoaxial subluxation cannot tolerate flexion as it can cause odontoid process to compress spinal cord.",
+      "chapter": "Chapter 25",
+      "topic": "Rheumatoid Arthritis – Atlantoaxial Instability",
+      "reference": "Ch 25, Page 214"
+    },
+    {
+      "id": 41,
+      "question": "What is HAART in the context of HIV management?",
+      "options": {
+        "A": "Highly Active Antimicrobial Therapy",
+        "B": "Highly Active Antiretroviral Therapy",
+        "C": "High Altitude Antiviral Regimen Therapy",
+        "D": "Hepatic Active Antiretroviral Treatment"
+      },
+      "answer": "B",
+      "explanation": "HAART stands for Highly Active Antiretroviral Therapy used in HIV management.",
+      "chapter": "Chapter 25",
+      "topic": "HIV and AIDS",
+      "reference": "Ch 25, Page 215"
+    },
+    {
+      "id": 42,
+      "question": "Which pulmonary conditions in scleroderma affect perioperative outcome?",
+      "options": {
+        "A": "Bronchiectasis and emphysema",
+        "B": "Pulmonary fibrosis and pulmonary hypertension",
+        "C": "Pleural effusion and pneumothorax",
+        "D": "Asthma and COPD"
+      },
+      "answer": "B",
+      "explanation": "Pulmonary fibrosis and pulmonary hypertension in scleroderma significantly affect perioperative morbidity.",
+      "chapter": "Chapter 25",
+      "topic": "Scleroderma",
+      "reference": "Ch 25, Page 214"
+    },
+    {
+      "id": 43,
+      "question": "What is the awake intubation technique of choice for ankylosing spondylitis with cervical spine fusion?",
+      "options": {
+        "A": "Direct laryngoscopy",
+        "B": "Video laryngoscopy",
+        "C": "Fiberoptic bronchoscopy",
+        "D": "Blind nasal intubation"
+      },
+      "answer": "C",
+      "explanation": "Intubation should be performed in awake state under fiberoptic bronchoscopy in ankylosing spondylitis patients.",
+      "chapter": "Chapter 25",
+      "topic": "Ankylosing Spondylitis",
+      "reference": "Ch 25, Page 214"
+    },
+    {
+      "id": 44,
+      "question": "Why are HIV positive patients classified as at least ASA II?",
+      "options": {
+        "A": "Due to high risk of bleeding",
+        "B": "Due to involvement of multiple organs",
+        "C": "Due to immunosuppression only",
+        "D": "Due to drug interactions"
+      },
+      "answer": "B",
+      "explanation": "Due to involvement of multiple organs all HIV positive patients are categorized as ASA grade II.",
+      "chapter": "Chapter 25",
+      "topic": "HIV and AIDS",
+      "reference": "Ch 25, Page 215"
+    },
+    {
+      "id": 45,
+      "question": "Which condition among the immune mediated diseases can cause laryngeal nerve palsy?",
+      "options": {
+        "A": "Rheumatoid arthritis",
+        "B": "Ankylosing spondylitis",
+        "C": "Systemic lupus erythematosus",
+        "D": "Scleroderma"
+      },
+      "answer": "C",
+      "explanation": "In SLE, laryngeal involvement including laryngeal nerve palsy can make intubation difficult.",
+      "chapter": "Chapter 25",
+      "topic": "Systemic Lupus Erythematosus",
+      "reference": "Ch 25, Page 214"
+    },
+    {
+      "id": 46,
+      "question": "What is the cause of fat redistribution around the neck in HIV/AIDS patients?",
+      "options": {
+        "A": "The disease itself",
+        "B": "Side effect of HAART (lipodystrophy)",
+        "C": "Malnutrition",
+        "D": "Opportunistic infections"
+      },
+      "answer": "B",
+      "explanation": "Fat redistribution (lipodystrophy) is a known side effect of HAART which can cause fat accumulation around the neck making intubation difficult.",
+      "chapter": "Chapter 25",
+      "topic": "HIV and AIDS",
+      "reference": "Ch 25, Page 215"
+    },
+    {
+      "id": 47,
+      "question": "Which immune mediated disease most commonly involves the cervical spine causing intubation difficulty?",
+      "options": {
+        "A": "SLE",
+        "B": "Scleroderma",
+        "C": "Rheumatoid arthritis and Ankylosing spondylitis",
+        "D": "HIV/AIDS"
+      },
+      "answer": "C",
+      "explanation": "Both RA (atlantoaxial instability, cervical spine stiffness) and ankylosing spondylitis (cervical spine fusion) commonly involve the cervical spine causing difficult intubation.",
+      "chapter": "Chapter 25",
+      "topic": "RA and Ankylosing Spondylitis",
+      "reference": "Ch 25, Page 214"
+    },
+    {
+      "id": 48,
+      "question": "In which condition should neuropathies be ruled out before giving regional anesthesia?",
+      "options": {
+        "A": "Scleroderma",
+        "B": "HIV/AIDS",
+        "C": "Ankylosing spondylitis",
+        "D": "Rheumatoid arthritis"
+      },
+      "answer": "B",
+      "explanation": "In HIV/AIDS patients, regional anesthesia can be given safely if there are no associated neuropathies.",
+      "chapter": "Chapter 25",
+      "topic": "HIV and AIDS – Choice of Anesthesia",
+      "reference": "Ch 25, Page 215"
+    },
+    {
+      "id": 49,
+      "question": "Pericarditis is an associated comorbidity of which immune mediated disease?",
+      "options": {
+        "A": "Ankylosing spondylitis",
+        "B": "Scleroderma",
+        "C": "Rheumatoid arthritis",
+        "D": "HIV/AIDS"
+      },
+      "answer": "C",
+      "explanation": "Associated comorbidities like cardiac valvular lesions, pericarditis, and pulmonary fibrosis should be ruled out in rheumatoid arthritis.",
+      "chapter": "Chapter 25",
+      "topic": "Rheumatoid Arthritis – Preoperative Evaluation",
+      "reference": "Ch 25, Page 214"
+    },
+    {
+      "id": 50,
+      "question": "Pulmonary fibrosis is a comorbidity associated with which TWO immune mediated diseases from this chapter?",
+      "options": {
+        "A": "RA and SLE",
+        "B": "Rheumatoid arthritis and Scleroderma",
+        "C": "SLE and Scleroderma",
+        "D": "Ankylosing spondylitis and Scleroderma"
+      },
+      "answer": "B",
+      "explanation": "Pulmonary fibrosis is mentioned as a comorbidity of both rheumatoid arthritis (preoperative evaluation) and scleroderma (multiorgan involvement).",
+      "chapter": "Chapter 25",
+      "topic": "RA and Scleroderma",
+      "reference": "Ch 25, Page 214"
+    }
+  ]
+}

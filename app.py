@@ -92,6 +92,12 @@ QUIZ_CATALOG = {
         "short": "Endocrinal Disorders (Ch 23)",
         "icon": "🦋",
     },
+    "ch25": {
+        "file": "questions_ch25.json",
+        "label": "Chapter 25 – Anesthesia for Immune Mediated & Infectious Diseases",
+        "short": "Immune & Infectious (Ch 25)",
+        "icon": "🛡️",
+    },
 }
 
 # ─── Load Questions ──────────────────────────────────────────────────────────
