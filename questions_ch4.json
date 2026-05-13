@@ -1,0 +1,759 @@
+{
+  "title": "Preoperative Assessment and Premedication MCQ – Chapter 4",
+  "source": "Short Textbook of Anesthesia – Ajay Yadav",
+  "section": "Section 3: Quintessential in Anesthesia (Chapter 4)",
+  "total_questions": 50,
+  "time_limit_minutes": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the primary purpose of preoperative assessment?",
+      "options": {
+        "A": "To delay the surgery",
+        "B": "To evaluate the patient's fitness for anesthesia and surgery",
+        "C": "To prescribe antibiotics",
+        "D": "To schedule follow-up visits"
+      },
+      "answer": "B",
+      "explanation": "The primary purpose of preoperative assessment is to evaluate the patient's fitness for anesthesia and the planned surgical procedure.",
+      "chapter": "Chapter 4",
+      "topic": "Preoperative Assessment",
+      "reference": "Ch 4, Page 47"
+    },
+    {
+      "id": 2,
+      "question": "Which ASA physical status classification denotes a normal healthy patient?",
+      "options": {
+        "A": "ASA I",
+        "B": "ASA II",
+        "C": "ASA III",
+        "D": "ASA IV"
+      },
+      "answer": "A",
+      "explanation": "ASA I denotes a normal healthy patient with no organic, physiological, or psychiatric disturbance.",
+      "chapter": "Chapter 4",
+      "topic": "Preoperative Assessment",
+      "reference": "Ch 4, Page 47"
+    },
+    {
+      "id": 3,
+      "question": "ASA II classification refers to a patient with:",
+      "options": {
+        "A": "Severe systemic disease that limits activity",
+        "B": "Mild systemic disease with no functional limitation",
+        "C": "Incapacitating disease that is a constant threat to life",
+        "D": "A moribund patient not expected to survive 24 hours"
+      },
+      "answer": "B",
+      "explanation": "ASA II refers to a patient with mild systemic disease with no functional limitation (e.g., controlled hypertension, mild diabetes).",
+      "chapter": "Chapter 4",
+      "topic": "Preoperative Assessment",
+      "reference": "Ch 4, Page 47"
+    },
+    {
+      "id": 4,
+      "question": "Which ASA classification is given to a moribund patient not expected to survive 24 hours with or without surgery?",
+      "options": {
+        "A": "ASA III",
+        "B": "ASA IV",
+        "C": "ASA V",
+        "D": "ASA VI"
+      },
+      "answer": "C",
+      "explanation": "ASA V is assigned to a moribund patient who is not expected to survive 24 hours with or without surgery.",
+      "chapter": "Chapter 4",
+      "topic": "Preoperative Assessment",
+      "reference": "Ch 4, Page 47"
+    },
+    {
+      "id": 5,
+      "question": "The suffix 'E' in ASA classification denotes:",
+      "options": {
+        "A": "Elderly patient",
+        "B": "Emergency surgery",
+        "C": "Endocrine disorder",
+        "D": "Extremity surgery"
+      },
+      "answer": "B",
+      "explanation": "The suffix 'E' is added to denote an emergency surgical procedure.",
+      "chapter": "Chapter 4",
+      "topic": "Preoperative Assessment",
+      "reference": "Ch 4, Page 47"
+    },
+    {
+      "id": 6,
+      "question": "During preoperative assessment, Mallampati classification is used to assess:",
+      "options": {
+        "A": "Cardiac function",
+        "B": "Airway and ease of intubation",
+        "C": "Renal function",
+        "D": "Respiratory reserve"
+      },
+      "answer": "B",
+      "explanation": "Mallampati classification assesses the oropharyngeal structures to predict ease of intubation.",
+      "chapter": "Chapter 4",
+      "topic": "Preoperative Assessment",
+      "reference": "Ch 4, Page 47"
+    },
+    {
+      "id": 7,
+      "question": "Mallampati Class I visualization includes:",
+      "options": {
+        "A": "Soft palate only",
+        "B": "Soft palate, fauces, uvula, and anterior and posterior tonsillar pillars",
+        "C": "Soft palate and base of uvula",
+        "D": "Hard palate only"
+      },
+      "answer": "B",
+      "explanation": "Mallampati Class I shows soft palate, fauces, uvula, and both tonsillar pillars fully visible.",
+      "chapter": "Chapter 4",
+      "topic": "Preoperative Assessment",
+      "reference": "Ch 4, Page 47"
+    },
+    {
+      "id": 8,
+      "question": "Mallampati Class IV indicates visualization of:",
+      "options": {
+        "A": "Full uvula and tonsillar pillars",
+        "B": "Soft palate and base of uvula",
+        "C": "Hard palate only (soft palate not visible)",
+        "D": "Soft palate, fauces, and uvula"
+      },
+      "answer": "C",
+      "explanation": "In Mallampati Class IV, only the hard palate is visible, indicating potentially difficult intubation.",
+      "chapter": "Chapter 4",
+      "topic": "Preoperative Assessment",
+      "reference": "Ch 4, Page 47"
+    },
+    {
+      "id": 9,
+      "question": "Which of the following is NOT a component of the preoperative airway assessment?",
+      "options": {
+        "A": "Thyromental distance",
+        "B": "Mallampati score",
+        "C": "Neck mobility",
+        "D": "Ankle-brachial index"
+      },
+      "answer": "D",
+      "explanation": "Ankle-brachial index is used for peripheral vascular disease assessment, not airway evaluation.",
+      "chapter": "Chapter 4",
+      "topic": "Preoperative Assessment",
+      "reference": "Ch 4, Page 47"
+    },
+    {
+      "id": 10,
+      "question": "A thyromental distance of less than 6 cm suggests:",
+      "options": {
+        "A": "Easy intubation",
+        "B": "Difficult intubation",
+        "C": "Normal airway",
+        "D": "Need for tracheostomy"
+      },
+      "answer": "B",
+      "explanation": "A thyromental distance less than 6 cm (3 finger breadths) suggests potential difficulty in intubation.",
+      "chapter": "Chapter 4",
+      "topic": "Preoperative Assessment",
+      "reference": "Ch 4, Page 47"
+    },
+    {
+      "id": 11,
+      "question": "Preoperative fasting guidelines recommend NPO for clear fluids for how many hours before elective surgery in adults?",
+      "options": {
+        "A": "1 hour",
+        "B": "2 hours",
+        "C": "4 hours",
+        "D": "6 hours"
+      },
+      "answer": "B",
+      "explanation": "Current guidelines recommend fasting from clear fluids for at least 2 hours before elective surgery.",
+      "chapter": "Chapter 4",
+      "topic": "Instructions",
+      "reference": "Ch 4, Page 48"
+    },
+    {
+      "id": 12,
+      "question": "The recommended fasting time for solid food before elective surgery in adults is:",
+      "options": {
+        "A": "2 hours",
+        "B": "4 hours",
+        "C": "6 hours",
+        "D": "8 hours"
+      },
+      "answer": "C",
+      "explanation": "Patients should fast from solid food for at least 6 hours before elective surgery.",
+      "chapter": "Chapter 4",
+      "topic": "Instructions",
+      "reference": "Ch 4, Page 48"
+    },
+    {
+      "id": 13,
+      "question": "Which investigation is mandatory in all patients above 40 years of age undergoing surgery?",
+      "options": {
+        "A": "CT scan of brain",
+        "B": "ECG",
+        "C": "Echocardiography",
+        "D": "Pulmonary function test"
+      },
+      "answer": "B",
+      "explanation": "ECG is recommended as a routine investigation for all patients above 40 years of age.",
+      "chapter": "Chapter 4",
+      "topic": "Preoperative Assessment",
+      "reference": "Ch 4, Page 48"
+    },
+    {
+      "id": 14,
+      "question": "Which of the following drugs should be continued on the morning of surgery?",
+      "options": {
+        "A": "Oral hypoglycemics",
+        "B": "Antihypertensive medications",
+        "C": "Warfarin",
+        "D": "Aspirin (for minor surgery)"
+      },
+      "answer": "B",
+      "explanation": "Antihypertensive medications should generally be continued on the morning of surgery to avoid rebound hypertension.",
+      "chapter": "Chapter 4",
+      "topic": "Instructions",
+      "reference": "Ch 4, Page 48"
+    },
+    {
+      "id": 15,
+      "question": "Preoperative instructions include stopping aspirin how many days before elective surgery?",
+      "options": {
+        "A": "1 day",
+        "B": "3 days",
+        "C": "7 days",
+        "D": "14 days"
+      },
+      "answer": "C",
+      "explanation": "Aspirin should be stopped 7 days before elective surgery as it irreversibly inhibits platelet function.",
+      "chapter": "Chapter 4",
+      "topic": "Instructions",
+      "reference": "Ch 4, Page 48"
+    },
+    {
+      "id": 16,
+      "question": "The primary goal of premedication is:",
+      "options": {
+        "A": "To induce general anesthesia",
+        "B": "To allay anxiety and facilitate smooth induction",
+        "C": "To replace intraoperative anesthetics",
+        "D": "To provide postoperative analgesia only"
+      },
+      "answer": "B",
+      "explanation": "The primary goal of premedication is to allay anxiety, reduce secretions, and facilitate smooth induction of anesthesia.",
+      "chapter": "Chapter 4",
+      "topic": "Premedication",
+      "reference": "Ch 4, Page 50"
+    },
+    {
+      "id": 17,
+      "question": "Which of the following is a desired effect of premedication?",
+      "options": {
+        "A": "Increased salivation",
+        "B": "Anxiolysis",
+        "C": "Hypertension",
+        "D": "Bronchospasm"
+      },
+      "answer": "B",
+      "explanation": "Anxiolysis (relief of anxiety) is one of the primary desired effects of premedication.",
+      "chapter": "Chapter 4",
+      "topic": "Premedication",
+      "reference": "Ch 4, Page 50"
+    },
+    {
+      "id": 18,
+      "question": "Which benzodiazepine is most commonly used for premedication?",
+      "options": {
+        "A": "Chlordiazepoxide",
+        "B": "Midazolam",
+        "C": "Flurazepam",
+        "D": "Clonazepam"
+      },
+      "answer": "B",
+      "explanation": "Midazolam is the most commonly used benzodiazepine for premedication due to its rapid onset, short duration, and amnestic properties.",
+      "chapter": "Chapter 4",
+      "topic": "Premedication",
+      "reference": "Ch 4, Page 50"
+    },
+    {
+      "id": 19,
+      "question": "The antisialagogue effect of premedication is achieved by using:",
+      "options": {
+        "A": "Midazolam",
+        "B": "Glycopyrrolate",
+        "C": "Fentanyl",
+        "D": "Ondansetron"
+      },
+      "answer": "B",
+      "explanation": "Glycopyrrolate is an anticholinergic agent used as a premedicant primarily for its antisialagogue (drying) effect.",
+      "chapter": "Chapter 4",
+      "topic": "Premedication",
+      "reference": "Ch 4, Page 50"
+    },
+    {
+      "id": 20,
+      "question": "Which anticholinergic drug crosses the blood-brain barrier and can cause central effects?",
+      "options": {
+        "A": "Glycopyrrolate",
+        "B": "Atropine",
+        "C": "Ipratropium",
+        "D": "Hyoscine butylbromide"
+      },
+      "answer": "B",
+      "explanation": "Atropine is a tertiary amine that crosses the blood-brain barrier and can cause central anticholinergic effects.",
+      "chapter": "Chapter 4",
+      "topic": "Premedication",
+      "reference": "Ch 4, Page 50"
+    },
+    {
+      "id": 21,
+      "question": "Which of the following is NOT a goal of premedication?",
+      "options": {
+        "A": "Reduction of gastric volume and acidity",
+        "B": "Prevention of autonomic reflexes",
+        "C": "Induction of surgical anesthesia",
+        "D": "Reduction of postoperative nausea and vomiting"
+      },
+      "answer": "C",
+      "explanation": "Induction of surgical anesthesia is not a goal of premedication; it is achieved by induction agents.",
+      "chapter": "Chapter 4",
+      "topic": "Premedication",
+      "reference": "Ch 4, Page 50"
+    },
+    {
+      "id": 22,
+      "question": "Ranitidine given as premedication acts by:",
+      "options": {
+        "A": "Blocking muscarinic receptors",
+        "B": "Blocking H2 receptors to reduce gastric acid secretion",
+        "C": "Blocking dopamine receptors",
+        "D": "Enhancing gastric motility"
+      },
+      "answer": "B",
+      "explanation": "Ranitidine is an H2 receptor antagonist that reduces gastric acid volume and increases pH.",
+      "chapter": "Chapter 4",
+      "topic": "Premedication",
+      "reference": "Ch 4, Page 50"
+    },
+    {
+      "id": 23,
+      "question": "Metoclopramide given as premedication helps by:",
+      "options": {
+        "A": "Reducing anxiety",
+        "B": "Increasing gastric emptying and increasing lower esophageal sphincter tone",
+        "C": "Providing analgesia",
+        "D": "Reducing bronchial secretions"
+      },
+      "answer": "B",
+      "explanation": "Metoclopramide promotes gastric emptying and increases lower esophageal sphincter tone, reducing aspiration risk.",
+      "chapter": "Chapter 4",
+      "topic": "Premedication",
+      "reference": "Ch 4, Page 50"
+    },
+    {
+      "id": 24,
+      "question": "Sodium citrate given preoperatively is used to:",
+      "options": {
+        "A": "Reduce bronchial secretions",
+        "B": "Neutralize gastric acidity",
+        "C": "Provide sedation",
+        "D": "Prevent bradycardia"
+      },
+      "answer": "B",
+      "explanation": "Sodium citrate (0.3 M) is a non-particulate antacid used to neutralize gastric acid and raise gastric pH.",
+      "chapter": "Chapter 4",
+      "topic": "Premedication",
+      "reference": "Ch 4, Page 50"
+    },
+    {
+      "id": 25,
+      "question": "Which opioid is commonly used as premedication for its analgesic and sedative properties?",
+      "options": {
+        "A": "Naloxone",
+        "B": "Morphine",
+        "C": "Naltrexone",
+        "D": "Flumazenil"
+      },
+      "answer": "B",
+      "explanation": "Morphine is used as a premedicant for analgesia and sedation, especially in patients with pain.",
+      "chapter": "Chapter 4",
+      "topic": "Premedication",
+      "reference": "Ch 4, Page 50"
+    },
+    {
+      "id": 26,
+      "question": "The ideal time for giving oral premedication before surgery is:",
+      "options": {
+        "A": "15 minutes",
+        "B": "30–60 minutes",
+        "C": "60–90 minutes",
+        "D": "2–3 hours"
+      },
+      "answer": "C",
+      "explanation": "Oral premedication is generally given 60–90 minutes before surgery for adequate absorption and effect.",
+      "chapter": "Chapter 4",
+      "topic": "Premedication",
+      "reference": "Ch 4, Page 50"
+    },
+    {
+      "id": 27,
+      "question": "Which of the following systems must be evaluated during preoperative assessment?",
+      "options": {
+        "A": "Only cardiovascular system",
+        "B": "Cardiovascular, respiratory, hepatic, renal, and nervous systems",
+        "C": "Only respiratory system",
+        "D": "Only the surgical site"
+      },
+      "answer": "B",
+      "explanation": "A thorough preoperative assessment evaluates all major organ systems including cardiovascular, respiratory, hepatic, renal, and nervous systems.",
+      "chapter": "Chapter 4",
+      "topic": "Preoperative Assessment",
+      "reference": "Ch 4, Page 47"
+    },
+    {
+      "id": 28,
+      "question": "A patient with controlled diabetes mellitus on oral hypoglycemics is classified as:",
+      "options": {
+        "A": "ASA I",
+        "B": "ASA II",
+        "C": "ASA III",
+        "D": "ASA IV"
+      },
+      "answer": "B",
+      "explanation": "A patient with well-controlled systemic disease like mild diabetes is classified as ASA II.",
+      "chapter": "Chapter 4",
+      "topic": "Preoperative Assessment",
+      "reference": "Ch 4, Page 47"
+    },
+    {
+      "id": 29,
+      "question": "A patient with unstable angina is classified as:",
+      "options": {
+        "A": "ASA II",
+        "B": "ASA III",
+        "C": "ASA IV",
+        "D": "ASA V"
+      },
+      "answer": "C",
+      "explanation": "Unstable angina represents a severe systemic disease that is a constant threat to life, hence ASA IV.",
+      "chapter": "Chapter 4",
+      "topic": "Preoperative Assessment",
+      "reference": "Ch 4, Page 47"
+    },
+    {
+      "id": 30,
+      "question": "Which preoperative investigation is essential before major surgery with expected blood loss?",
+      "options": {
+        "A": "Echocardiography",
+        "B": "Blood grouping and cross-matching",
+        "C": "CT angiography",
+        "D": "MRI brain"
+      },
+      "answer": "B",
+      "explanation": "Blood grouping and cross-matching is essential before any major surgery where significant blood loss is anticipated.",
+      "chapter": "Chapter 4",
+      "topic": "Preoperative Assessment",
+      "reference": "Ch 4, Page 48"
+    },
+    {
+      "id": 31,
+      "question": "Glycopyrrolate differs from atropine in that it:",
+      "options": {
+        "A": "Crosses the blood-brain barrier",
+        "B": "Does not cross the blood-brain barrier",
+        "C": "Causes more tachycardia",
+        "D": "Has a longer duration of action on the heart"
+      },
+      "answer": "B",
+      "explanation": "Glycopyrrolate is a quaternary ammonium compound that does not cross the blood-brain barrier, hence no central effects.",
+      "chapter": "Chapter 4",
+      "topic": "Premedication",
+      "reference": "Ch 4, Page 50"
+    },
+    {
+      "id": 32,
+      "question": "Which drug is used as premedication to prevent aspiration pneumonitis in high-risk patients?",
+      "options": {
+        "A": "Midazolam",
+        "B": "Ranitidine + Metoclopramide + Sodium citrate",
+        "C": "Morphine",
+        "D": "Diazepam"
+      },
+      "answer": "B",
+      "explanation": "The combination of H2 blocker, prokinetic, and non-particulate antacid is used to reduce aspiration risk.",
+      "chapter": "Chapter 4",
+      "topic": "Premedication",
+      "reference": "Ch 4, Page 50"
+    },
+    {
+      "id": 33,
+      "question": "Preoperative instructions regarding smoking cessation recommend stopping at least:",
+      "options": {
+        "A": "6 hours before surgery",
+        "B": "24 hours before surgery",
+        "C": "6–8 weeks before surgery",
+        "D": "1 week before surgery"
+      },
+      "answer": "C",
+      "explanation": "Ideally, smoking should be stopped 6–8 weeks before surgery to allow improvement in mucociliary function and reduction in secretions.",
+      "chapter": "Chapter 4",
+      "topic": "Instructions",
+      "reference": "Ch 4, Page 48"
+    },
+    {
+      "id": 34,
+      "question": "Which of the following is a contraindication to the use of atropine as premedication?",
+      "options": {
+        "A": "Bradycardia",
+        "B": "Glaucoma",
+        "C": "Excessive secretions",
+        "D": "Vagal-mediated reflex"
+      },
+      "answer": "B",
+      "explanation": "Atropine is contraindicated in patients with narrow-angle glaucoma as it can precipitate an acute attack.",
+      "chapter": "Chapter 4",
+      "topic": "Premedication",
+      "reference": "Ch 4, Page 50"
+    },
+    {
+      "id": 35,
+      "question": "Which premedication drug has both antiemetic and anxiolytic properties?",
+      "options": {
+        "A": "Glycopyrrolate",
+        "B": "Promethazine",
+        "C": "Ranitidine",
+        "D": "Sodium citrate"
+      },
+      "answer": "B",
+      "explanation": "Promethazine (a phenothiazine) has antiemetic, sedative, and mild anxiolytic properties making it useful as premedication.",
+      "chapter": "Chapter 4",
+      "topic": "Premedication",
+      "reference": "Ch 4, Page 50"
+    },
+    {
+      "id": 36,
+      "question": "The MET (Metabolic Equivalent of Task) is used in preoperative assessment to evaluate:",
+      "options": {
+        "A": "Airway difficulty",
+        "B": "Functional cardiac capacity",
+        "C": "Hepatic function",
+        "D": "Coagulation status"
+      },
+      "answer": "B",
+      "explanation": "METs are used to assess a patient's functional cardiac capacity and exercise tolerance preoperatively.",
+      "chapter": "Chapter 4",
+      "topic": "Preoperative Assessment",
+      "reference": "Ch 4, Page 47"
+    },
+    {
+      "id": 37,
+      "question": "A patient who can climb two flights of stairs without symptoms has a functional capacity of at least:",
+      "options": {
+        "A": "1 MET",
+        "B": "2 METs",
+        "C": "4 METs",
+        "D": "10 METs"
+      },
+      "answer": "C",
+      "explanation": "Climbing two flights of stairs corresponds to approximately 4 METs, which is considered adequate for most surgeries.",
+      "chapter": "Chapter 4",
+      "topic": "Preoperative Assessment",
+      "reference": "Ch 4, Page 47"
+    },
+    {
+      "id": 38,
+      "question": "Preoperative consent for anesthesia should include information about:",
+      "options": {
+        "A": "Only the type of anesthesia",
+        "B": "Risks, benefits, alternatives, and plan of anesthesia",
+        "C": "Only the surgical procedure",
+        "D": "Only postoperative care"
+      },
+      "answer": "B",
+      "explanation": "Informed consent for anesthesia must cover the anesthetic plan, risks, benefits, and available alternatives.",
+      "chapter": "Chapter 4",
+      "topic": "Instructions",
+      "reference": "Ch 4, Page 48"
+    },
+    {
+      "id": 39,
+      "question": "Which of the following oral hypoglycemic drugs should be stopped before surgery?",
+      "options": {
+        "A": "Metformin",
+        "B": "Ranitidine",
+        "C": "Atenolol",
+        "D": "Amlodipine"
+      },
+      "answer": "A",
+      "explanation": "Metformin should be withheld before surgery due to the risk of lactic acidosis, especially if renal function is compromised.",
+      "chapter": "Chapter 4",
+      "topic": "Instructions",
+      "reference": "Ch 4, Page 48"
+    },
+    {
+      "id": 40,
+      "question": "Warfarin is typically stopped how many days before elective surgery?",
+      "options": {
+        "A": "1 day",
+        "B": "2 days",
+        "C": "3–5 days",
+        "D": "10 days"
+      },
+      "answer": "C",
+      "explanation": "Warfarin is typically stopped 3–5 days before elective surgery to allow INR to normalize.",
+      "chapter": "Chapter 4",
+      "topic": "Instructions",
+      "reference": "Ch 4, Page 48"
+    },
+    {
+      "id": 41,
+      "question": "In preoperative assessment, the term 'NPO' stands for:",
+      "options": {
+        "A": "No Pain Observed",
+        "B": "Nil Per Oram (nothing by mouth)",
+        "C": "Normal Preoperative Order",
+        "D": "Non-Prescribed Opioid"
+      },
+      "answer": "B",
+      "explanation": "NPO stands for Nil Per Oram, meaning nothing by mouth, referring to preoperative fasting.",
+      "chapter": "Chapter 4",
+      "topic": "Instructions",
+      "reference": "Ch 4, Page 48"
+    },
+    {
+      "id": 42,
+      "question": "The dose of midazolam commonly used for oral premedication in adults is:",
+      "options": {
+        "A": "0.1 mg",
+        "B": "0.25–0.5 mg/kg",
+        "C": "7.5–15 mg",
+        "D": "50 mg"
+      },
+      "answer": "C",
+      "explanation": "Oral midazolam 7.5–15 mg is commonly used for adult premedication.",
+      "chapter": "Chapter 4",
+      "topic": "Premedication",
+      "reference": "Ch 4, Page 50"
+    },
+    {
+      "id": 43,
+      "question": "Which of the following is an advantage of midazolam over diazepam as premedication?",
+      "options": {
+        "A": "Longer duration of action",
+        "B": "Water soluble, less painful on injection, and produces anterograde amnesia",
+        "C": "Greater respiratory depression",
+        "D": "Cheaper cost"
+      },
+      "answer": "B",
+      "explanation": "Midazolam is water-soluble (less painful on IV injection), has a shorter duration, and provides reliable anterograde amnesia.",
+      "chapter": "Chapter 4",
+      "topic": "Premedication",
+      "reference": "Ch 4, Page 50"
+    },
+    {
+      "id": 44,
+      "question": "Preoperative assessment of the cervical spine is important in patients with:",
+      "options": {
+        "A": "Diabetes mellitus",
+        "B": "Rheumatoid arthritis and Down syndrome",
+        "C": "Hypertension",
+        "D": "Asthma"
+      },
+      "answer": "B",
+      "explanation": "Patients with rheumatoid arthritis and Down syndrome may have atlantoaxial instability requiring cervical spine assessment.",
+      "chapter": "Chapter 4",
+      "topic": "Preoperative Assessment",
+      "reference": "Ch 4, Page 47"
+    },
+    {
+      "id": 45,
+      "question": "Which preoperative blood test is essential for all female patients of reproductive age?",
+      "options": {
+        "A": "Thyroid function test",
+        "B": "Pregnancy test (urine/serum beta-hCG)",
+        "C": "Lipid profile",
+        "D": "Vitamin D levels"
+      },
+      "answer": "B",
+      "explanation": "A pregnancy test should be considered for all female patients of childbearing age before elective surgery.",
+      "chapter": "Chapter 4",
+      "topic": "Preoperative Assessment",
+      "reference": "Ch 4, Page 48"
+    },
+    {
+      "id": 46,
+      "question": "Preoperative instruction to patients about dentures includes:",
+      "options": {
+        "A": "Keeping them in place during surgery",
+        "B": "Removing all dental prostheses before entering the operating room",
+        "C": "Gluing them in place",
+        "D": "Covering them with gauze"
+      },
+      "answer": "B",
+      "explanation": "All removable dental prostheses should be removed preoperatively to prevent airway obstruction or damage during intubation.",
+      "chapter": "Chapter 4",
+      "topic": "Instructions",
+      "reference": "Ch 4, Page 48"
+    },
+    {
+      "id": 47,
+      "question": "Dexmedetomidine used as premedication acts on:",
+      "options": {
+        "A": "GABA receptors",
+        "B": "Alpha-2 adrenergic receptors",
+        "C": "Opioid receptors",
+        "D": "Dopamine receptors"
+      },
+      "answer": "B",
+      "explanation": "Dexmedetomidine is a selective alpha-2 adrenergic agonist that provides sedation, anxiolysis, and analgesia.",
+      "chapter": "Chapter 4",
+      "topic": "Premedication",
+      "reference": "Ch 4, Page 50"
+    },
+    {
+      "id": 48,
+      "question": "Which of the following is true about premedication in pediatric patients?",
+      "options": {
+        "A": "Anticholinergics are never used",
+        "B": "Midazolam syrup (0.5 mg/kg) is commonly used for anxiolysis",
+        "C": "Opioids are the first choice",
+        "D": "Premedication is not required"
+      },
+      "answer": "B",
+      "explanation": "Oral midazolam (0.5 mg/kg) is the most commonly used premedicant in children for anxiolysis and separation from parents.",
+      "chapter": "Chapter 4",
+      "topic": "Premedication",
+      "reference": "Ch 4, Page 50"
+    },
+    {
+      "id": 49,
+      "question": "The fasting guideline for breast milk in infants before surgery is:",
+      "options": {
+        "A": "2 hours",
+        "B": "4 hours",
+        "C": "6 hours",
+        "D": "8 hours"
+      },
+      "answer": "B",
+      "explanation": "Breast milk has a fasting time of 4 hours before elective surgery in infants.",
+      "chapter": "Chapter 4",
+      "topic": "Instructions",
+      "reference": "Ch 4, Page 48"
+    },
+    {
+      "id": 50,
+      "question": "Which of the following investigations is indicated preoperatively in a patient with liver disease?",
+      "options": {
+        "A": "ECG only",
+        "B": "Coagulation profile (PT, INR, aPTT)",
+        "C": "Chest X-ray only",
+        "D": "Blood sugar only"
+      },
+      "answer": "B",
+      "explanation": "Coagulation profile is essential in liver disease patients as the liver synthesizes most clotting factors.",
+      "chapter": "Chapter 4",
+      "topic": "Preoperative Assessment",
+      "reference": "Ch 4, Page 48"
+    }
+  ]
+}

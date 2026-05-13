@@ -98,6 +98,12 @@ QUIZ_CATALOG = {
         "short": "Immune & Infectious (Ch 25)",
         "icon": "🛡️",
     },
+    "ch4": {
+        "file": "questions_ch4.json",
+        "label": "Chapter 4 – Preoperative Assessment and Premedication",
+        "short": "Preop Assessment (Ch 4)",
+        "icon": "📋",
+    },
 }
 
 # ─── Load Questions ──────────────────────────────────────────────────────────
