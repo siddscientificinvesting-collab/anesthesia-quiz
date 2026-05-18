@@ -1,0 +1,759 @@
+{
+  "title": "Difficult Airway Management MCQ – Chapter 5",
+  "source": "Short Textbook of Anesthesia – Ajay Yadav",
+  "section": "Section 3: Quintessential in Anesthesia (Chapter 5)",
+  "total_questions": 50,
+  "time_limit_minutes": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the definition of a difficult airway?",
+      "options": {
+        "A": "Any airway requiring general anesthesia",
+        "B": "A clinical situation where a trained anesthesiologist experiences difficulty with face mask ventilation, intubation, or both",
+        "C": "An airway requiring fiber-optic intubation",
+        "D": "Any airway in a pediatric patient"
+      },
+      "answer": "B",
+      "explanation": "A difficult airway is defined as a clinical situation in which a conventionally trained anesthesiologist experiences difficulty with face mask ventilation, tracheal intubation, or both.",
+      "chapter": "Chapter 5",
+      "topic": "Causes of Difficult Intubation/Difficult Airway",
+      "reference": "Ch 5, Page 52"
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is a congenital cause of difficult intubation?",
+      "options": {
+        "A": "Rheumatoid arthritis",
+        "B": "Pierre Robin syndrome",
+        "C": "Acromegaly",
+        "D": "Ludwig's angina"
+      },
+      "answer": "B",
+      "explanation": "Pierre Robin syndrome (micrognathia, glossoptosis, cleft palate) is a congenital cause of difficult intubation.",
+      "chapter": "Chapter 5",
+      "topic": "Causes of Difficult Intubation/Difficult Airway",
+      "reference": "Ch 5, Page 52"
+    },
+    {
+      "id": 3,
+      "question": "Treacher Collins syndrome causes difficult intubation due to:",
+      "options": {
+        "A": "Large tongue",
+        "B": "Mandibulofacial dysostosis with micrognathia and malar hypoplasia",
+        "C": "Cervical spine fusion",
+        "D": "Tracheal stenosis"
+      },
+      "answer": "B",
+      "explanation": "Treacher Collins syndrome involves mandibulofacial dysostosis with micrognathia, making laryngoscopy and intubation difficult.",
+      "chapter": "Chapter 5",
+      "topic": "Causes of Difficult Intubation/Difficult Airway",
+      "reference": "Ch 5, Page 52"
+    },
+    {
+      "id": 4,
+      "question": "Which acquired condition can cause difficult airway due to limited mouth opening?",
+      "options": {
+        "A": "Marfan syndrome",
+        "B": "Temporomandibular joint ankylosis",
+        "C": "Down syndrome",
+        "D": "Turner syndrome"
+      },
+      "answer": "B",
+      "explanation": "TMJ ankylosis causes severe restriction of mouth opening, making conventional laryngoscopy impossible.",
+      "chapter": "Chapter 5",
+      "topic": "Causes of Difficult Intubation/Difficult Airway",
+      "reference": "Ch 5, Page 52"
+    },
+    {
+      "id": 5,
+      "question": "Acromegaly causes difficult airway due to:",
+      "options": {
+        "A": "Short neck",
+        "B": "Macroglossia and subglottic narrowing",
+        "C": "Cervical spine instability",
+        "D": "Tracheomalacia"
+      },
+      "answer": "B",
+      "explanation": "Acromegaly leads to macroglossia, prognathism, and subglottic narrowing, all contributing to difficult airway management.",
+      "chapter": "Chapter 5",
+      "topic": "Causes of Difficult Intubation/Difficult Airway",
+      "reference": "Ch 5, Page 52"
+    },
+    {
+      "id": 6,
+      "question": "Which of the following infections can cause acute difficult airway?",
+      "options": {
+        "A": "Pneumonia",
+        "B": "Ludwig's angina",
+        "C": "Urinary tract infection",
+        "D": "Cellulitis of the leg"
+      },
+      "answer": "B",
+      "explanation": "Ludwig's angina causes submandibular space infection with floor of mouth swelling, leading to airway compromise.",
+      "chapter": "Chapter 5",
+      "topic": "Causes of Difficult Intubation/Difficult Airway",
+      "reference": "Ch 5, Page 52"
+    },
+    {
+      "id": 7,
+      "question": "Difficult intubation is defined as requiring more than how many attempts at laryngoscopy?",
+      "options": {
+        "A": "1 attempt",
+        "B": "2 attempts",
+        "C": "3 attempts",
+        "D": "5 attempts"
+      },
+      "answer": "C",
+      "explanation": "Difficult intubation is defined as requiring more than 3 attempts at laryngoscopy or attempts lasting longer than 10 minutes.",
+      "chapter": "Chapter 5",
+      "topic": "Causes of Difficult Intubation/Difficult Airway",
+      "reference": "Ch 5, Page 52"
+    },
+    {
+      "id": 8,
+      "question": "The Mallampati classification is performed with the patient in which position?",
+      "options": {
+        "A": "Supine with neck extended",
+        "B": "Sitting upright with mouth fully open and tongue protruded without phonation",
+        "C": "Left lateral position",
+        "D": "Trendelenburg position"
+      },
+      "answer": "B",
+      "explanation": "Mallampati assessment is done with patient sitting, mouth wide open, tongue maximally protruded, without phonation.",
+      "chapter": "Chapter 5",
+      "topic": "Assessment of Difficult Intubation",
+      "reference": "Ch 5, Page 53"
+    },
+    {
+      "id": 9,
+      "question": "In Mallampati Class III, which structures are visible?",
+      "options": {
+        "A": "Soft palate, fauces, uvula, and pillars",
+        "B": "Soft palate, fauces, and uvula",
+        "C": "Soft palate and base of uvula only",
+        "D": "Hard palate only"
+      },
+      "answer": "C",
+      "explanation": "Mallampati Class III shows only the soft palate and base of uvula, suggesting potentially difficult intubation.",
+      "chapter": "Chapter 5",
+      "topic": "Assessment of Difficult Intubation",
+      "reference": "Ch 5, Page 53"
+    },
+    {
+      "id": 10,
+      "question": "What is the normal thyromental distance in adults?",
+      "options": {
+        "A": "Less than 4 cm",
+        "B": "Greater than 6.5 cm (3 finger breadths)",
+        "C": "2 cm",
+        "D": "10 cm"
+      },
+      "answer": "B",
+      "explanation": "Normal thyromental distance is greater than 6.5 cm (3 finger breadths). Less than 6 cm suggests difficult intubation.",
+      "chapter": "Chapter 5",
+      "topic": "Assessment of Difficult Intubation",
+      "reference": "Ch 5, Page 53"
+    },
+    {
+      "id": 11,
+      "question": "The sternomental distance predicting difficult intubation is less than:",
+      "options": {
+        "A": "10 cm",
+        "B": "12.5 cm",
+        "C": "15 cm",
+        "D": "20 cm"
+      },
+      "answer": "B",
+      "explanation": "A sternomental distance less than 12.5 cm with the head fully extended and mouth closed is predictive of difficult intubation.",
+      "chapter": "Chapter 5",
+      "topic": "Assessment of Difficult Intubation",
+      "reference": "Ch 5, Page 53"
+    },
+    {
+      "id": 12,
+      "question": "Wilson's risk score for difficult intubation includes all of the following EXCEPT:",
+      "options": {
+        "A": "Weight",
+        "B": "Head and neck movement",
+        "C": "Jaw movement",
+        "D": "Serum albumin level"
+      },
+      "answer": "D",
+      "explanation": "Wilson's risk score includes weight, head/neck movement, jaw movement, receding mandible, and buck teeth. Serum albumin is not part of it.",
+      "chapter": "Chapter 5",
+      "topic": "Assessment of Difficult Intubation",
+      "reference": "Ch 5, Page 53"
+    },
+    {
+      "id": 13,
+      "question": "The Cormack-Lehane grading system classifies the view at:",
+      "options": {
+        "A": "Nasal endoscopy",
+        "B": "Direct laryngoscopy",
+        "C": "CT scan",
+        "D": "Lateral X-ray of neck"
+      },
+      "answer": "B",
+      "explanation": "Cormack-Lehane grading classifies the laryngoscopic view obtained during direct laryngoscopy.",
+      "chapter": "Chapter 5",
+      "topic": "Assessment of Difficult Intubation",
+      "reference": "Ch 5, Page 53"
+    },
+    {
+      "id": 14,
+      "question": "Cormack-Lehane Grade I indicates visualization of:",
+      "options": {
+        "A": "Only the epiglottis",
+        "B": "Entire glottic opening",
+        "C": "Posterior commissure only",
+        "D": "Neither glottis nor epiglottis"
+      },
+      "answer": "B",
+      "explanation": "Grade I shows the entire glottic opening, indicating easy intubation.",
+      "chapter": "Chapter 5",
+      "topic": "Assessment of Difficult Intubation",
+      "reference": "Ch 5, Page 53"
+    },
+    {
+      "id": 15,
+      "question": "Cormack-Lehane Grade III indicates visualization of:",
+      "options": {
+        "A": "Full glottis",
+        "B": "Posterior part of glottis",
+        "C": "Only the epiglottis",
+        "D": "Entire vocal cords"
+      },
+      "answer": "C",
+      "explanation": "Grade III shows only the epiglottis with no part of the glottis visible, indicating difficult intubation.",
+      "chapter": "Chapter 5",
+      "topic": "Assessment of Difficult Intubation",
+      "reference": "Ch 5, Page 53"
+    },
+    {
+      "id": 16,
+      "question": "Cormack-Lehane Grade IV indicates:",
+      "options": {
+        "A": "Full view of vocal cords",
+        "B": "Partial view of glottis",
+        "C": "Only epiglottis visible",
+        "D": "Neither glottis nor epiglottis visible"
+      },
+      "answer": "D",
+      "explanation": "Grade IV means neither the glottis nor the epiglottis can be visualized – the most difficult scenario.",
+      "chapter": "Chapter 5",
+      "topic": "Assessment of Difficult Intubation",
+      "reference": "Ch 5, Page 53"
+    },
+    {
+      "id": 17,
+      "question": "An inter-incisor distance (mouth opening) of less than how many centimeters suggests difficult intubation?",
+      "options": {
+        "A": "1 cm",
+        "B": "2 cm",
+        "C": "3 cm (2 finger breadths)",
+        "D": "5 cm"
+      },
+      "answer": "C",
+      "explanation": "A mouth opening less than 3 cm (2 finger breadths) suggests difficulty with laryngoscopy and intubation.",
+      "chapter": "Chapter 5",
+      "topic": "Assessment of Difficult Intubation",
+      "reference": "Ch 5, Page 53"
+    },
+    {
+      "id": 18,
+      "question": "The 'sniffing position' for intubation involves:",
+      "options": {
+        "A": "Neck flexion only",
+        "B": "Flexion of the lower cervical spine and extension at the atlanto-occipital joint",
+        "C": "Full neck extension",
+        "D": "Lateral neck rotation"
+      },
+      "answer": "B",
+      "explanation": "The sniffing position involves flexion of the lower cervical spine (pillow under head) and extension at the atlanto-occipital joint to align the oral, pharyngeal, and laryngeal axes.",
+      "chapter": "Chapter 5",
+      "topic": "Management",
+      "reference": "Ch 5, Page 54"
+    },
+    {
+      "id": 19,
+      "question": "The BURP maneuver stands for:",
+      "options": {
+        "A": "Backward, Upward, Rightward Pressure",
+        "B": "Backward, Upward, Rightward Push",
+        "C": "Backward, Upward, Rightward Pressure on the larynx",
+        "D": "Bilateral, Upward, Rotating Pressure"
+      },
+      "answer": "C",
+      "explanation": "BURP stands for Backward, Upward, and Rightward Pressure on the thyroid cartilage to improve laryngoscopic view.",
+      "chapter": "Chapter 5",
+      "topic": "Management",
+      "reference": "Ch 5, Page 54"
+    },
+    {
+      "id": 20,
+      "question": "Which is the gold standard technique for managing anticipated difficult airway?",
+      "options": {
+        "A": "Blind nasal intubation",
+        "B": "Awake fiber-optic intubation",
+        "C": "Retrograde intubation",
+        "D": "Surgical tracheostomy"
+      },
+      "answer": "B",
+      "explanation": "Awake fiber-optic intubation is considered the gold standard for managing an anticipated difficult airway.",
+      "chapter": "Chapter 5",
+      "topic": "Management",
+      "reference": "Ch 5, Page 54"
+    },
+    {
+      "id": 21,
+      "question": "The ASA Difficult Airway Algorithm first step in an anticipated difficult airway is:",
+      "options": {
+        "A": "Immediate tracheostomy",
+        "B": "Awake intubation",
+        "C": "Rapid sequence induction",
+        "D": "LMA insertion"
+      },
+      "answer": "B",
+      "explanation": "The ASA algorithm recommends awake intubation as the primary approach when a difficult airway is anticipated.",
+      "chapter": "Chapter 5",
+      "topic": "Management",
+      "reference": "Ch 5, Page 54"
+    },
+    {
+      "id": 22,
+      "question": "Which supraglottic airway device is used as a rescue device in the 'cannot intubate, cannot ventilate' scenario?",
+      "options": {
+        "A": "Nasopharyngeal airway",
+        "B": "Laryngeal Mask Airway (LMA)",
+        "C": "Oropharyngeal airway",
+        "D": "Nasal cannula"
+      },
+      "answer": "B",
+      "explanation": "The LMA is a key rescue device in failed intubation scenarios and is part of the difficult airway algorithm.",
+      "chapter": "Chapter 5",
+      "topic": "Management",
+      "reference": "Ch 5, Page 54"
+    },
+    {
+      "id": 23,
+      "question": "In a 'cannot intubate, cannot ventilate' (CICV) emergency, the immediate surgical airway of choice is:",
+      "options": {
+        "A": "Tracheostomy",
+        "B": "Cricothyrotomy (cricothyroid membrane puncture)",
+        "C": "Jet ventilation through nasal cannula",
+        "D": "Fiber-optic intubation"
+      },
+      "answer": "B",
+      "explanation": "Emergency cricothyrotomy through the cricothyroid membrane is the life-saving procedure in CICV situations.",
+      "chapter": "Chapter 5",
+      "topic": "Management",
+      "reference": "Ch 5, Page 54"
+    },
+    {
+      "id": 24,
+      "question": "The cricothyroid membrane is located between:",
+      "options": {
+        "A": "Thyroid and cricoid cartilages",
+        "B": "Cricoid cartilage and first tracheal ring",
+        "C": "Hyoid bone and thyroid cartilage",
+        "D": "Two tracheal rings"
+      },
+      "answer": "A",
+      "explanation": "The cricothyroid membrane lies between the inferior border of the thyroid cartilage and the superior border of the cricoid cartilage.",
+      "chapter": "Chapter 5",
+      "topic": "Management",
+      "reference": "Ch 5, Page 54"
+    },
+    {
+      "id": 25,
+      "question": "Which bougie is used as an adjunct during difficult intubation?",
+      "options": {
+        "A": "Foley catheter",
+        "B": "Gum elastic bougie (Eschmann introducer)",
+        "C": "Chest drain",
+        "D": "Central venous catheter"
+      },
+      "answer": "B",
+      "explanation": "The gum elastic bougie (Eschmann stylet/introducer) is a commonly used adjunct to facilitate tracheal intubation when the glottic view is poor.",
+      "chapter": "Chapter 5",
+      "topic": "Management",
+      "reference": "Ch 5, Page 54"
+    },
+    {
+      "id": 26,
+      "question": "Obesity contributes to difficult airway management due to all EXCEPT:",
+      "options": {
+        "A": "Reduced functional residual capacity",
+        "B": "Excessive soft tissue in the airway",
+        "C": "Difficult positioning",
+        "D": "Increased thyromental distance"
+      },
+      "answer": "D",
+      "explanation": "Obesity does not increase thyromental distance. It causes excessive soft tissue, reduced FRC, and difficult positioning.",
+      "chapter": "Chapter 5",
+      "topic": "Causes of Difficult Intubation/Difficult Airway",
+      "reference": "Ch 5, Page 52"
+    },
+    {
+      "id": 27,
+      "question": "Which congenital syndrome is associated with macroglossia causing difficult airway?",
+      "options": {
+        "A": "Turner syndrome",
+        "B": "Down syndrome (Trisomy 21)",
+        "C": "Klinefelter syndrome",
+        "D": "Marfan syndrome"
+      },
+      "answer": "B",
+      "explanation": "Down syndrome is associated with macroglossia, short neck, and atlantoaxial instability, all contributing to difficult airway.",
+      "chapter": "Chapter 5",
+      "topic": "Causes of Difficult Intubation/Difficult Airway",
+      "reference": "Ch 5, Page 52"
+    },
+    {
+      "id": 28,
+      "question": "Ankylosing spondylitis causes difficult intubation primarily due to:",
+      "options": {
+        "A": "Macroglossia",
+        "B": "Fixed flexion deformity of the cervical spine with reduced neck mobility",
+        "C": "Trismus",
+        "D": "Laryngeal edema"
+      },
+      "answer": "B",
+      "explanation": "Ankylosing spondylitis causes fusion of cervical vertebrae leading to a fixed, flexed cervical spine with severely limited extension.",
+      "chapter": "Chapter 5",
+      "topic": "Causes of Difficult Intubation/Difficult Airway",
+      "reference": "Ch 5, Page 52"
+    },
+    {
+      "id": 29,
+      "question": "The 'upper lip bite test' assesses:",
+      "options": {
+        "A": "Tongue size",
+        "B": "Jaw protrusion and mandibular mobility",
+        "C": "Neck extension",
+        "D": "Nasal patency"
+      },
+      "answer": "B",
+      "explanation": "The upper lip bite test assesses the ability to protrude the mandible (jaw protrusion), which correlates with ease of laryngoscopy.",
+      "chapter": "Chapter 5",
+      "topic": "Assessment of Difficult Intubation",
+      "reference": "Ch 5, Page 53"
+    },
+    {
+      "id": 30,
+      "question": "A short, thick neck is associated with difficult intubation because it:",
+      "options": {
+        "A": "Increases the thyromental distance",
+        "B": "Limits neck extension and makes alignment of airway axes difficult",
+        "C": "Causes vocal cord paralysis",
+        "D": "Increases mouth opening"
+      },
+      "answer": "B",
+      "explanation": "A short, thick neck limits neck extension and makes alignment of the oral, pharyngeal, and laryngeal axes difficult.",
+      "chapter": "Chapter 5",
+      "topic": "Assessment of Difficult Intubation",
+      "reference": "Ch 5, Page 53"
+    },
+    {
+      "id": 31,
+      "question": "Which type of laryngoscope blade is preferred for difficult intubation?",
+      "options": {
+        "A": "Miller (straight) blade",
+        "B": "McCoy (levering tip) blade",
+        "C": "Standard Macintosh blade only",
+        "D": "No blade can help"
+      },
+      "answer": "B",
+      "explanation": "The McCoy blade has a hinged tip that can be levered to lift the epiglottis, improving the view in difficult laryngoscopy.",
+      "chapter": "Chapter 5",
+      "topic": "Management",
+      "reference": "Ch 5, Page 54"
+    },
+    {
+      "id": 32,
+      "question": "Retrograde intubation involves passing a guide wire through the:",
+      "options": {
+        "A": "Nose into the trachea",
+        "B": "Cricothyroid membrane upward and out through the mouth",
+        "C": "Mouth directly into the trachea",
+        "D": "Tracheostomy site"
+      },
+      "answer": "B",
+      "explanation": "In retrograde intubation, a wire is passed through the cricothyroid membrane in a cephalad direction, emerging from the mouth, then used as a guide for the ETT.",
+      "chapter": "Chapter 5",
+      "topic": "Management",
+      "reference": "Ch 5, Page 54"
+    },
+    {
+      "id": 33,
+      "question": "Which of the following is NOT a predictor of difficult mask ventilation?",
+      "options": {
+        "A": "Beard",
+        "B": "BMI > 26",
+        "C": "Young age",
+        "D": "Edentulous patient"
+      },
+      "answer": "C",
+      "explanation": "Young age is not a predictor of difficult mask ventilation. Beard, obesity, edentulous status, and snoring are predictors.",
+      "chapter": "Chapter 5",
+      "topic": "Assessment of Difficult Intubation",
+      "reference": "Ch 5, Page 53"
+    },
+    {
+      "id": 34,
+      "question": "The mnemonic LEMON for airway assessment stands for:",
+      "options": {
+        "A": "Look, Evaluate, Mallampati, Obstruction, Neck mobility",
+        "B": "Laryngoscopy, Endotracheal, Mask, Oxygen, Nasopharyngeal",
+        "C": "Length, Extension, Mouth, Obstruction, Narrowing",
+        "D": "Look, Epiglottis, Mandible, Oropharynx, Neck"
+      },
+      "answer": "A",
+      "explanation": "LEMON stands for Look externally, Evaluate 3-3-2 rule, Mallampati, Obstruction, and Neck mobility.",
+      "chapter": "Chapter 5",
+      "topic": "Assessment of Difficult Intubation",
+      "reference": "Ch 5, Page 53"
+    },
+    {
+      "id": 35,
+      "question": "The 3-3-2 rule evaluates:",
+      "options": {
+        "A": "Number of intubation attempts",
+        "B": "Mouth opening (3 fingers), hyoid-mental distance (3 fingers), and thyroid-to-floor of mouth (2 fingers)",
+        "C": "Three types of laryngoscope blades",
+        "D": "Three airway axes"
+      },
+      "answer": "B",
+      "explanation": "The 3-3-2 rule assesses inter-incisor distance (3 fingers), hyoid-mental distance (3 fingers), and thyroid notch-to-floor of mouth (2 fingers).",
+      "chapter": "Chapter 5",
+      "topic": "Assessment of Difficult Intubation",
+      "reference": "Ch 5, Page 53"
+    },
+    {
+      "id": 36,
+      "question": "Video laryngoscopy is useful in difficult airway because it:",
+      "options": {
+        "A": "Eliminates the need for neck extension",
+        "B": "Provides an indirect view of the glottis without alignment of airway axes",
+        "C": "Can only be used in awake patients",
+        "D": "Replaces the need for any backup plan"
+      },
+      "answer": "B",
+      "explanation": "Video laryngoscopy provides an indirect view of the glottis on a screen without requiring alignment of the oral, pharyngeal, and laryngeal axes.",
+      "chapter": "Chapter 5",
+      "topic": "Management",
+      "reference": "Ch 5, Page 54"
+    },
+    {
+      "id": 37,
+      "question": "For awake fiber-optic intubation, topical anesthesia of the airway is achieved using:",
+      "options": {
+        "A": "Bupivacaine 0.5%",
+        "B": "Lidocaine 4% (spray/nebulization) and nerve blocks",
+        "C": "Thiopentone gargle",
+        "D": "Propofol spray"
+      },
+      "answer": "B",
+      "explanation": "Topical lidocaine 4% via spray or nebulization, supplemented by nerve blocks (superior laryngeal, transtracheal), provides airway anesthesia for awake FOI.",
+      "chapter": "Chapter 5",
+      "topic": "Management",
+      "reference": "Ch 5, Page 54"
+    },
+    {
+      "id": 38,
+      "question": "The superior laryngeal nerve block anesthetizes the airway:",
+      "options": {
+        "A": "Below the vocal cords",
+        "B": "From the epiglottis to the vocal cords (supraglottic area)",
+        "C": "Only the nasal cavity",
+        "D": "Only the tongue"
+      },
+      "answer": "B",
+      "explanation": "The internal branch of the superior laryngeal nerve supplies sensation from the epiglottis to and including the vocal cords.",
+      "chapter": "Chapter 5",
+      "topic": "Management",
+      "reference": "Ch 5, Page 54"
+    },
+    {
+      "id": 39,
+      "question": "Transtracheal injection (recurrent laryngeal nerve block) anesthetizes the area:",
+      "options": {
+        "A": "Above the vocal cords",
+        "B": "Below the vocal cords (infraglottic area)",
+        "C": "Nasal cavity",
+        "D": "Oral cavity"
+      },
+      "answer": "B",
+      "explanation": "Transtracheal injection through the cricothyroid membrane anesthetizes the trachea below the vocal cords (recurrent laryngeal nerve territory).",
+      "chapter": "Chapter 5",
+      "topic": "Management",
+      "reference": "Ch 5, Page 54"
+    },
+    {
+      "id": 40,
+      "question": "The intubating LMA (Fastrach) is designed to:",
+      "options": {
+        "A": "Replace surgical airway",
+        "B": "Facilitate blind or guided tracheal intubation through the LMA",
+        "C": "Provide long-term ventilation",
+        "D": "Measure tidal volume"
+      },
+      "answer": "B",
+      "explanation": "The intubating LMA (ILMA/Fastrach) is specifically designed to allow passage of an endotracheal tube through the device.",
+      "chapter": "Chapter 5",
+      "topic": "Management",
+      "reference": "Ch 5, Page 54"
+    },
+    {
+      "id": 41,
+      "question": "The maximum number of intubation attempts recommended before declaring failed intubation is:",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "5",
+        "D": "Unlimited"
+      },
+      "answer": "B",
+      "explanation": "After 3 failed attempts at intubation by an experienced laryngoscopist, the situation should be declared as failed intubation and the algorithm followed.",
+      "chapter": "Chapter 5",
+      "topic": "Management",
+      "reference": "Ch 5, Page 54"
+    },
+    {
+      "id": 42,
+      "question": "Which of the following tumors can cause difficult airway?",
+      "options": {
+        "A": "Renal cell carcinoma",
+        "B": "Laryngeal papilloma or carcinoma",
+        "C": "Hepatocellular carcinoma",
+        "D": "Prostatic carcinoma"
+      },
+      "answer": "B",
+      "explanation": "Laryngeal tumors can distort airway anatomy and obstruct the glottic opening, making intubation difficult.",
+      "chapter": "Chapter 5",
+      "topic": "Causes of Difficult Intubation/Difficult Airway",
+      "reference": "Ch 5, Page 52"
+    },
+    {
+      "id": 43,
+      "question": "Post-radiation therapy to the neck can cause difficult intubation due to:",
+      "options": {
+        "A": "Increased mouth opening",
+        "B": "Tissue fibrosis, edema, and reduced neck mobility",
+        "C": "Enlarged thyroid",
+        "D": "Vocal cord hypermobility"
+      },
+      "answer": "B",
+      "explanation": "Radiation to the neck causes tissue fibrosis, reduced mobility, and edema leading to difficult airway management.",
+      "chapter": "Chapter 5",
+      "topic": "Causes of Difficult Intubation/Difficult Airway",
+      "reference": "Ch 5, Page 52"
+    },
+    {
+      "id": 44,
+      "question": "The difficult airway cart should contain all of the following EXCEPT:",
+      "options": {
+        "A": "Various sizes of ETT and LMA",
+        "B": "Fiber-optic bronchoscope",
+        "C": "Cricothyrotomy set",
+        "D": "Cardiopulmonary bypass machine"
+      },
+      "answer": "D",
+      "explanation": "A difficult airway cart contains various airway devices (ETTs, LMAs, bougies, fiber-optic scope, cricothyrotomy set) but not a bypass machine.",
+      "chapter": "Chapter 5",
+      "topic": "Management",
+      "reference": "Ch 5, Page 54"
+    },
+    {
+      "id": 45,
+      "question": "Preoxygenation before intubation attempts is important because it:",
+      "options": {
+        "A": "Makes intubation easier",
+        "B": "Provides an oxygen reserve (extends safe apnea time)",
+        "C": "Reduces blood pressure",
+        "D": "Causes bronchodilation"
+      },
+      "answer": "B",
+      "explanation": "Preoxygenation with 100% O2 denitrogenates the FRC, providing an oxygen reserve that extends safe apnea time during intubation attempts.",
+      "chapter": "Chapter 5",
+      "topic": "Management",
+      "reference": "Ch 5, Page 54"
+    },
+    {
+      "id": 46,
+      "question": "In a patient with cervical spine injury, the preferred method of intubation is:",
+      "options": {
+        "A": "Conventional direct laryngoscopy with full neck extension",
+        "B": "Manual in-line stabilization with fiber-optic or video laryngoscopy",
+        "C": "Blind nasal intubation without precautions",
+        "D": "Immediate tracheostomy"
+      },
+      "answer": "B",
+      "explanation": "In cervical spine injury, intubation is performed with manual in-line stabilization (MILS) using fiber-optic or video laryngoscopy to avoid neck movement.",
+      "chapter": "Chapter 5",
+      "topic": "Management",
+      "reference": "Ch 5, Page 54"
+    },
+    {
+      "id": 47,
+      "question": "Jet ventilation through a cricothyrotomy cannula uses oxygen at a pressure of:",
+      "options": {
+        "A": "1–2 psi",
+        "B": "50 psi (high-pressure source)",
+        "C": "100 psi",
+        "D": "Normal wall oxygen at 4 L/min"
+      },
+      "answer": "B",
+      "explanation": "Transtracheal jet ventilation uses a high-pressure oxygen source (typically 50 psi) through a narrow cannula in the cricothyroid membrane.",
+      "chapter": "Chapter 5",
+      "topic": "Management",
+      "reference": "Ch 5, Page 54"
+    },
+    {
+      "id": 48,
+      "question": "Which of the following is a sign of successful tracheal intubation?",
+      "options": {
+        "A": "Gurgling sounds on auscultation",
+        "B": "Presence of end-tidal CO2 on capnography",
+        "C": "Distension of the abdomen",
+        "D": "Absence of chest rise"
+      },
+      "answer": "B",
+      "explanation": "Capnography (detection of end-tidal CO2) is the gold standard for confirming correct tracheal tube placement.",
+      "chapter": "Chapter 5",
+      "topic": "Management",
+      "reference": "Ch 5, Page 54"
+    },
+    {
+      "id": 49,
+      "question": "The lightwand (lighted stylet) technique works on the principle of:",
+      "options": {
+        "A": "Fluoroscopy",
+        "B": "Transillumination of the anterior neck when the tip is in the trachea",
+        "C": "Ultrasound guidance",
+        "D": "Magnetic navigation"
+      },
+      "answer": "B",
+      "explanation": "The lightwand uses transillumination – a bright glow seen in the midline of the anterior neck confirms the stylet tip is in the trachea.",
+      "chapter": "Chapter 5",
+      "topic": "Management",
+      "reference": "Ch 5, Page 54"
+    },
+    {
+      "id": 50,
+      "question": "Which of the following is the most important step after a failed intubation attempt?",
+      "options": {
+        "A": "Immediately attempt again with the same technique",
+        "B": "Ensure adequate oxygenation and ventilation before the next attempt",
+        "C": "Proceed directly to surgical airway",
+        "D": "Extubate the patient"
+      },
+      "answer": "B",
+      "explanation": "After a failed attempt, the priority is to ensure adequate oxygenation and ventilation (bag-mask or LMA) before considering the next attempt or alternative plan.",
+      "chapter": "Chapter 5",
+      "topic": "Management",
+      "reference": "Ch 5, Page 54"
+    }
+  ]
+}

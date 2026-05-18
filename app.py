@@ -104,6 +104,12 @@ QUIZ_CATALOG = {
         "short": "Preop Assessment (Ch 4)",
         "icon": "📋",
     },
+    "ch5": {
+        "file": "questions_ch5.json",
+        "label": "Chapter 5 – Difficult Airway Management",
+        "short": "Difficult Airway (Ch 5)",
+        "icon": "🫁",
+    },
 }
 
 # ─── Load Questions ──────────────────────────────────────────────────────────
