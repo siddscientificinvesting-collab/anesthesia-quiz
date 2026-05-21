@@ -1,0 +1,759 @@
+{
+  "title": "Monitoring in Anesthesia MCQ – Chapter 6",
+  "source": "Short Textbook of Anesthesia – Ajay Yadav",
+  "section": "Section 3: Quintessential in Anesthesia (Chapter 6)",
+  "total_questions": 50,
+  "time_limit_minutes": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following is a method of clinical monitoring during anesthesia?",
+      "options": {
+        "A": "Pulse oximetry",
+        "B": "Observation of skin color, pupil size, and respiratory pattern",
+        "C": "Invasive arterial pressure",
+        "D": "BIS monitoring"
+      },
+      "answer": "B",
+      "explanation": "Clinical monitoring involves direct observation by the anesthesiologist including skin color, pupil size, chest movements, and peripheral perfusion without instruments.",
+      "chapter": "Chapter 6",
+      "topic": "Clinical Monitoring",
+      "reference": "Ch 6, Page 57"
+    },
+    {
+      "id": 2,
+      "question": "Clinical signs of adequate depth of anesthesia include all EXCEPT:",
+      "options": {
+        "A": "Stable heart rate and blood pressure",
+        "B": "Absence of sweating and lacrimation",
+        "C": "BIS value of 40–60",
+        "D": "Central and constricted pupils"
+      },
+      "answer": "C",
+      "explanation": "BIS monitoring is an instrumental (advanced) monitor, not a clinical sign. Clinical signs include stable vitals, pupil size, and absence of autonomic responses.",
+      "chapter": "Chapter 6",
+      "topic": "Clinical Monitoring",
+      "reference": "Ch 6, Page 57"
+    },
+    {
+      "id": 3,
+      "question": "Dilated pupils during anesthesia may indicate:",
+      "options": {
+        "A": "Adequate depth of anesthesia",
+        "B": "Light anesthesia, hypoxia, or hypercarbia",
+        "C": "Excessive muscle relaxation",
+        "D": "Hypothermia"
+      },
+      "answer": "B",
+      "explanation": "Dilated pupils during anesthesia may indicate light anesthesia, hypoxia, hypercarbia, or sympathetic stimulation.",
+      "chapter": "Chapter 6",
+      "topic": "Clinical Monitoring",
+      "reference": "Ch 6, Page 57"
+    },
+    {
+      "id": 4,
+      "question": "The minimum mandatory monitoring standards during anesthesia include all EXCEPT:",
+      "options": {
+        "A": "Pulse oximetry",
+        "B": "ECG",
+        "C": "Capnography",
+        "D": "Cardiac output monitoring"
+      },
+      "answer": "D",
+      "explanation": "Minimum monitoring standards include pulse oximetry, ECG, NIBP, capnography, and temperature. Cardiac output monitoring is an advanced monitor used in select cases.",
+      "chapter": "Chapter 6",
+      "topic": "Advance Monitoring (Instrumental Monitoring)",
+      "reference": "Ch 6, Page 57"
+    },
+    {
+      "id": 5,
+      "question": "ECG monitoring during anesthesia primarily detects:",
+      "options": {
+        "A": "Cardiac output",
+        "B": "Arrhythmias, ischemia, and heart rate",
+        "C": "Blood pressure",
+        "D": "Venous return"
+      },
+      "answer": "B",
+      "explanation": "ECG monitoring detects cardiac rhythm disturbances, myocardial ischemia (ST changes), and heart rate during anesthesia.",
+      "chapter": "Chapter 6",
+      "topic": "Cardiovascular Monitoring",
+      "reference": "Ch 6, Page 57"
+    },
+    {
+      "id": 6,
+      "question": "Which ECG lead is most sensitive for detecting intraoperative myocardial ischemia?",
+      "options": {
+        "A": "Lead I",
+        "B": "Lead II",
+        "C": "Lead V5",
+        "D": "Lead aVR"
+      },
+      "answer": "C",
+      "explanation": "Lead V5 detects approximately 75% of intraoperative ST-segment changes indicative of left ventricular ischemia.",
+      "chapter": "Chapter 6",
+      "topic": "Cardiovascular Monitoring",
+      "reference": "Ch 6, Page 57"
+    },
+    {
+      "id": 7,
+      "question": "Lead II on ECG is preferred during anesthesia for monitoring:",
+      "options": {
+        "A": "Left ventricular ischemia",
+        "B": "P waves and inferior wall ischemia",
+        "C": "Right bundle branch block",
+        "D": "Pericardial effusion"
+      },
+      "answer": "B",
+      "explanation": "Lead II provides the best P-wave visualization for rhythm analysis and detects inferior wall ischemia.",
+      "chapter": "Chapter 6",
+      "topic": "Cardiovascular Monitoring",
+      "reference": "Ch 6, Page 57"
+    },
+    {
+      "id": 8,
+      "question": "Non-invasive blood pressure (NIBP) measurement by oscillometric method measures:",
+      "options": {
+        "A": "Only systolic pressure directly",
+        "B": "Mean arterial pressure directly, then calculates systolic and diastolic",
+        "C": "Only diastolic pressure directly",
+        "D": "Cardiac output"
+      },
+      "answer": "B",
+      "explanation": "The oscillometric method directly measures mean arterial pressure (at maximum oscillation amplitude) and derives systolic and diastolic pressures.",
+      "chapter": "Chapter 6",
+      "topic": "Cardiovascular Monitoring",
+      "reference": "Ch 6, Page 57"
+    },
+    {
+      "id": 9,
+      "question": "Invasive arterial blood pressure monitoring is indicated in all EXCEPT:",
+      "options": {
+        "A": "Major cardiovascular surgery",
+        "B": "Patients requiring frequent arterial blood gas analysis",
+        "C": "Minor ambulatory surgery in healthy patients",
+        "D": "Patients with severe hemodynamic instability"
+      },
+      "answer": "C",
+      "explanation": "Invasive arterial monitoring is not indicated for minor ambulatory surgery in healthy patients. It is reserved for major surgeries and hemodynamically unstable patients.",
+      "chapter": "Chapter 6",
+      "topic": "Cardiovascular Monitoring",
+      "reference": "Ch 6, Page 57"
+    },
+    {
+      "id": 10,
+      "question": "The most common site for invasive arterial cannulation is the:",
+      "options": {
+        "A": "Brachial artery",
+        "B": "Radial artery",
+        "C": "Femoral artery",
+        "D": "Dorsalis pedis artery"
+      },
+      "answer": "B",
+      "explanation": "The radial artery is the most common site for arterial cannulation due to superficial location, good collateral circulation (ulnar artery), and accessibility.",
+      "chapter": "Chapter 6",
+      "topic": "Cardiovascular Monitoring",
+      "reference": "Ch 6, Page 57"
+    },
+    {
+      "id": 11,
+      "question": "Allen's test is performed before radial artery cannulation to assess:",
+      "options": {
+        "A": "Venous drainage of the hand",
+        "B": "Adequacy of collateral circulation from the ulnar artery",
+        "C": "Nerve supply to the hand",
+        "D": "Patency of the brachial artery"
+      },
+      "answer": "B",
+      "explanation": "Allen's test assesses the adequacy of ulnar artery collateral flow to the hand before radial artery cannulation.",
+      "chapter": "Chapter 6",
+      "topic": "Cardiovascular Monitoring",
+      "reference": "Ch 6, Page 57"
+    },
+    {
+      "id": 12,
+      "question": "Central venous pressure (CVP) monitoring catheter tip should ideally be positioned at:",
+      "options": {
+        "A": "Right atrium",
+        "B": "Junction of superior vena cava and right atrium",
+        "C": "Right ventricle",
+        "D": "Pulmonary artery"
+      },
+      "answer": "B",
+      "explanation": "The CVP catheter tip should be at the junction of the SVC and right atrium for accurate pressure measurement.",
+      "chapter": "Chapter 6",
+      "topic": "Cardiovascular Monitoring",
+      "reference": "Ch 6, Page 57"
+    },
+    {
+      "id": 13,
+      "question": "Normal CVP value is:",
+      "options": {
+        "A": "0–2 mmHg",
+        "B": "2–8 mmHg (3–11 cm H2O)",
+        "C": "15–20 mmHg",
+        "D": "25–30 mmHg"
+      },
+      "answer": "B",
+      "explanation": "Normal CVP ranges from 2–8 mmHg (approximately 3–11 cm H2O).",
+      "chapter": "Chapter 6",
+      "topic": "Cardiovascular Monitoring",
+      "reference": "Ch 6, Page 57"
+    },
+    {
+      "id": 14,
+      "question": "CVP monitoring is useful for assessing:",
+      "options": {
+        "A": "Left ventricular function",
+        "B": "Right heart filling pressure and intravascular volume status",
+        "C": "Pulmonary artery pressure",
+        "D": "Cerebral perfusion pressure"
+      },
+      "answer": "B",
+      "explanation": "CVP reflects right atrial pressure, which indicates right heart filling pressure and helps guide fluid management.",
+      "chapter": "Chapter 6",
+      "topic": "Cardiovascular Monitoring",
+      "reference": "Ch 6, Page 57"
+    },
+    {
+      "id": 15,
+      "question": "The pulmonary artery catheter (Swan-Ganz catheter) can measure all EXCEPT:",
+      "options": {
+        "A": "Pulmonary artery pressure",
+        "B": "Cardiac output by thermodilution",
+        "C": "Pulmonary capillary wedge pressure",
+        "D": "Intracranial pressure"
+      },
+      "answer": "D",
+      "explanation": "The PA catheter measures PA pressures, PCWP, cardiac output, and mixed venous oxygen saturation. ICP requires a separate intracranial monitor.",
+      "chapter": "Chapter 6",
+      "topic": "Cardiovascular Monitoring",
+      "reference": "Ch 6, Page 57"
+    },
+    {
+      "id": 16,
+      "question": "Pulmonary capillary wedge pressure (PCWP) is a surrogate for:",
+      "options": {
+        "A": "Right atrial pressure",
+        "B": "Left atrial pressure and left ventricular end-diastolic pressure",
+        "C": "Systemic vascular resistance",
+        "D": "Pulmonary vascular resistance"
+      },
+      "answer": "B",
+      "explanation": "PCWP approximates left atrial pressure and hence left ventricular preload (LVEDP) in the absence of mitral valve disease.",
+      "chapter": "Chapter 6",
+      "topic": "Cardiovascular Monitoring",
+      "reference": "Ch 6, Page 57"
+    },
+    {
+      "id": 17,
+      "question": "Pulse oximetry measures:",
+      "options": {
+        "A": "Partial pressure of oxygen in blood",
+        "B": "Functional oxygen saturation of hemoglobin (SpO2)",
+        "C": "Oxygen content of blood",
+        "D": "Dissolved oxygen in plasma"
+      },
+      "answer": "B",
+      "explanation": "Pulse oximetry measures the percentage of oxyhemoglobin (SpO2) using spectrophotometric principles at two wavelengths.",
+      "chapter": "Chapter 6",
+      "topic": "Respiratory Monitoring",
+      "reference": "Ch 6, Page 61"
+    },
+    {
+      "id": 18,
+      "question": "Pulse oximetry works on the principle of:",
+      "options": {
+        "A": "Fluorescence",
+        "B": "Beer-Lambert law (spectrophotometry with two wavelengths of light)",
+        "C": "Piezoelectric effect",
+        "D": "Wheatstone bridge"
+      },
+      "answer": "B",
+      "explanation": "Pulse oximetry uses two wavelengths (660 nm red and 940 nm infrared) based on the Beer-Lambert law to determine oxygen saturation.",
+      "chapter": "Chapter 6",
+      "topic": "Respiratory Monitoring",
+      "reference": "Ch 6, Page 61"
+    },
+    {
+      "id": 19,
+      "question": "Which of the following causes a falsely low pulse oximetry reading?",
+      "options": {
+        "A": "Carbon monoxide poisoning",
+        "B": "Methylene blue dye injection",
+        "C": "Anemia",
+        "D": "Jaundice"
+      },
+      "answer": "B",
+      "explanation": "Methylene blue absorbs light at 660 nm, causing falsely low SpO2 readings. Carbon monoxide causes falsely HIGH readings.",
+      "chapter": "Chapter 6",
+      "topic": "Respiratory Monitoring",
+      "reference": "Ch 6, Page 61"
+    },
+    {
+      "id": 20,
+      "question": "Capnography measures:",
+      "options": {
+        "A": "Oxygen saturation",
+        "B": "End-tidal carbon dioxide (EtCO2) concentration",
+        "C": "Tidal volume",
+        "D": "Airway pressure"
+      },
+      "answer": "B",
+      "explanation": "Capnography continuously measures and displays the CO2 concentration in expired gases, with EtCO2 reflecting alveolar CO2.",
+      "chapter": "Chapter 6",
+      "topic": "Respiratory Monitoring",
+      "reference": "Ch 6, Page 61"
+    },
+    {
+      "id": 21,
+      "question": "Normal end-tidal CO2 (EtCO2) value is approximately:",
+      "options": {
+        "A": "10–20 mmHg",
+        "B": "35–45 mmHg",
+        "C": "60–80 mmHg",
+        "D": "5–10 mmHg"
+      },
+      "answer": "B",
+      "explanation": "Normal EtCO2 is 35–45 mmHg, which is slightly lower than arterial PaCO2 due to alveolar dead space.",
+      "chapter": "Chapter 6",
+      "topic": "Respiratory Monitoring",
+      "reference": "Ch 6, Page 61"
+    },
+    {
+      "id": 22,
+      "question": "A sudden drop in EtCO2 to zero during anesthesia most likely indicates:",
+      "options": {
+        "A": "Bronchospasm",
+        "B": "Circuit disconnection or esophageal intubation",
+        "C": "Hyperventilation",
+        "D": "Increased cardiac output"
+      },
+      "answer": "B",
+      "explanation": "A sudden drop of EtCO2 to zero indicates circuit disconnection, extubation, or esophageal intubation (no alveolar gas being sampled).",
+      "chapter": "Chapter 6",
+      "topic": "Respiratory Monitoring",
+      "reference": "Ch 6, Page 61"
+    },
+    {
+      "id": 23,
+      "question": "A gradual rise in EtCO2 during anesthesia may indicate:",
+      "options": {
+        "A": "Hyperventilation",
+        "B": "Hypoventilation, increased CO2 production (malignant hyperthermia), or rebreathing",
+        "C": "Pulmonary embolism",
+        "D": "Cardiac arrest"
+      },
+      "answer": "B",
+      "explanation": "Gradual EtCO2 rise suggests hypoventilation, increased metabolic CO2 production (e.g., malignant hyperthermia, fever), or CO2 rebreathing.",
+      "chapter": "Chapter 6",
+      "topic": "Respiratory Monitoring",
+      "reference": "Ch 6, Page 61"
+    },
+    {
+      "id": 24,
+      "question": "Capnography works on the principle of:",
+      "options": {
+        "A": "Mass spectrometry",
+        "B": "Infrared absorption spectroscopy",
+        "C": "Piezoelectric effect",
+        "D": "Paramagnetic analysis"
+      },
+      "answer": "B",
+      "explanation": "Capnographs use infrared absorption – CO2 absorbs infrared light at a wavelength of 4.26 micrometers.",
+      "chapter": "Chapter 6",
+      "topic": "Respiratory Monitoring",
+      "reference": "Ch 6, Page 61"
+    },
+    {
+      "id": 25,
+      "question": "Mainstream capnography differs from sidestream in that:",
+      "options": {
+        "A": "It samples gas away from the patient circuit",
+        "B": "The sensor is placed directly in the breathing circuit (at the airway)",
+        "C": "It has a longer response time",
+        "D": "It is less accurate"
+      },
+      "answer": "B",
+      "explanation": "Mainstream capnography places the sensor directly in the breathing circuit, providing faster response time but adding weight/dead space.",
+      "chapter": "Chapter 6",
+      "topic": "Respiratory Monitoring",
+      "reference": "Ch 6, Page 61"
+    },
+    {
+      "id": 26,
+      "question": "Spirometry during anesthesia can measure all EXCEPT:",
+      "options": {
+        "A": "Tidal volume",
+        "B": "Minute ventilation",
+        "C": "Compliance and resistance",
+        "D": "Cardiac output"
+      },
+      "answer": "D",
+      "explanation": "Intraoperative spirometry measures tidal volume, minute ventilation, flow rates, compliance, and resistance – not cardiac output.",
+      "chapter": "Chapter 6",
+      "topic": "Respiratory Monitoring",
+      "reference": "Ch 6, Page 61"
+    },
+    {
+      "id": 27,
+      "question": "Airway pressure monitoring helps detect all EXCEPT:",
+      "options": {
+        "A": "Circuit disconnection",
+        "B": "Bronchospasm",
+        "C": "Endobronchial intubation",
+        "D": "Myocardial ischemia"
+      },
+      "answer": "D",
+      "explanation": "Airway pressure monitoring detects mechanical problems (disconnection, obstruction, bronchospasm, endobronchial intubation) but not myocardial ischemia.",
+      "chapter": "Chapter 6",
+      "topic": "Respiratory Monitoring",
+      "reference": "Ch 6, Page 61"
+    },
+    {
+      "id": 28,
+      "question": "Oxygen analyzers in the anesthetic circuit commonly use which principle?",
+      "options": {
+        "A": "Infrared absorption",
+        "B": "Paramagnetic or galvanic cell (fuel cell) principle",
+        "C": "Mass spectrometry only",
+        "D": "Colorimetric detection"
+      },
+      "answer": "B",
+      "explanation": "Oxygen analyzers use paramagnetic properties of O2 or electrochemical (galvanic/fuel cell) principles to measure FiO2.",
+      "chapter": "Chapter 6",
+      "topic": "Respiratory Monitoring",
+      "reference": "Ch 6, Page 61"
+    },
+    {
+      "id": 29,
+      "question": "The normal core body temperature range during anesthesia should be maintained at:",
+      "options": {
+        "A": "34–35°C",
+        "B": "36–37.5°C",
+        "C": "38–39°C",
+        "D": "32–34°C"
+      },
+      "answer": "B",
+      "explanation": "Core body temperature should be maintained between 36–37.5°C during anesthesia to avoid complications of hypothermia or hyperthermia.",
+      "chapter": "Chapter 6",
+      "topic": "Temperature Monitoring",
+      "reference": "Ch 6, Page 65"
+    },
+    {
+      "id": 30,
+      "question": "Sites for core temperature monitoring include all EXCEPT:",
+      "options": {
+        "A": "Nasopharynx",
+        "B": "Distal esophagus",
+        "C": "Tympanic membrane",
+        "D": "Axilla"
+      },
+      "answer": "D",
+      "explanation": "The axilla measures peripheral (shell) temperature. Core temperature sites include nasopharynx, distal esophagus, tympanic membrane, and pulmonary artery.",
+      "chapter": "Chapter 6",
+      "topic": "Temperature Monitoring",
+      "reference": "Ch 6, Page 65"
+    },
+    {
+      "id": 31,
+      "question": "Perioperative hypothermia is defined as core temperature below:",
+      "options": {
+        "A": "37°C",
+        "B": "36°C",
+        "C": "35°C",
+        "D": "34°C"
+      },
+      "answer": "B",
+      "explanation": "Perioperative hypothermia is defined as core temperature below 36°C and is common during general anesthesia.",
+      "chapter": "Chapter 6",
+      "topic": "Temperature Monitoring",
+      "reference": "Ch 6, Page 65"
+    },
+    {
+      "id": 32,
+      "question": "Consequences of perioperative hypothermia include all EXCEPT:",
+      "options": {
+        "A": "Impaired coagulation",
+        "B": "Increased wound infection",
+        "C": "Shivering and increased oxygen consumption",
+        "D": "Decreased duration of neuromuscular blockade"
+      },
+      "answer": "D",
+      "explanation": "Hypothermia prolongs the duration of neuromuscular blockade (not decreases it). Other complications include coagulopathy, wound infection, and shivering.",
+      "chapter": "Chapter 6",
+      "topic": "Temperature Monitoring",
+      "reference": "Ch 6, Page 65"
+    },
+    {
+      "id": 33,
+      "question": "Malignant hyperthermia is suspected when temperature monitoring shows:",
+      "options": {
+        "A": "Gradual decrease in temperature",
+        "B": "Rapid and unexplained rise in temperature with rising EtCO2",
+        "C": "Stable temperature throughout",
+        "D": "Temperature of 36.5°C"
+      },
+      "answer": "B",
+      "explanation": "Malignant hyperthermia presents with rapidly rising temperature, markedly elevated EtCO2, muscle rigidity, and tachycardia.",
+      "chapter": "Chapter 6",
+      "topic": "Temperature Monitoring",
+      "reference": "Ch 6, Page 65"
+    },
+    {
+      "id": 34,
+      "question": "The mechanism of redistribution hypothermia in the first hour of anesthesia is:",
+      "options": {
+        "A": "Excessive fluid administration",
+        "B": "Heat redistribution from core to peripheral compartment due to vasodilation",
+        "C": "Cold operating room only",
+        "D": "Shivering"
+      },
+      "answer": "B",
+      "explanation": "Anesthetic-induced vasodilation causes redistribution of heat from the warm core to the cooler peripheral compartment, dropping core temperature rapidly in the first hour.",
+      "chapter": "Chapter 6",
+      "topic": "Temperature Monitoring",
+      "reference": "Ch 6, Page 65"
+    },
+    {
+      "id": 35,
+      "question": "Neuromuscular monitoring is used to assess:",
+      "options": {
+        "A": "Depth of anesthesia",
+        "B": "Degree of neuromuscular blockade and recovery from muscle relaxants",
+        "C": "Blood pressure",
+        "D": "Cerebral activity"
+      },
+      "answer": "B",
+      "explanation": "Neuromuscular monitoring quantifies the degree of neuromuscular blockade and guides timing of reversal and extubation.",
+      "chapter": "Chapter 6",
+      "topic": "Neuromuscular Monitoring",
+      "reference": "Ch 6, Page 66"
+    },
+    {
+      "id": 36,
+      "question": "The most commonly used nerve for peripheral nerve stimulation in neuromuscular monitoring is:",
+      "options": {
+        "A": "Median nerve",
+        "B": "Ulnar nerve (adductor pollicis response)",
+        "C": "Radial nerve",
+        "D": "Femoral nerve"
+      },
+      "answer": "B",
+      "explanation": "The ulnar nerve at the wrist is most commonly stimulated, and the response of the adductor pollicis muscle is observed.",
+      "chapter": "Chapter 6",
+      "topic": "Neuromuscular Monitoring",
+      "reference": "Ch 6, Page 66"
+    },
+    {
+      "id": 37,
+      "question": "Train-of-four (TOF) stimulation consists of:",
+      "options": {
+        "A": "Single twitch at 1 Hz",
+        "B": "Four supramaximal stimuli at 2 Hz (every 0.5 seconds)",
+        "C": "Tetanic stimulation at 50 Hz",
+        "D": "Double burst stimulation"
+      },
+      "answer": "B",
+      "explanation": "TOF consists of four supramaximal stimuli delivered at 2 Hz (0.5 second intervals), with the ratio of 4th to 1st twitch indicating block depth.",
+      "chapter": "Chapter 6",
+      "topic": "Neuromuscular Monitoring",
+      "reference": "Ch 6, Page 66"
+    },
+    {
+      "id": 38,
+      "question": "A TOF ratio of greater than 0.9 indicates:",
+      "options": {
+        "A": "Complete neuromuscular block",
+        "B": "Adequate recovery from neuromuscular blockade (safe to extubate)",
+        "C": "Need for more muscle relaxant",
+        "D": "Onset of block"
+      },
+      "answer": "B",
+      "explanation": "A TOF ratio ≥ 0.9 indicates adequate recovery from neuromuscular blockade and is the threshold for safe extubation.",
+      "chapter": "Chapter 6",
+      "topic": "Neuromuscular Monitoring",
+      "reference": "Ch 6, Page 66"
+    },
+    {
+      "id": 39,
+      "question": "TOF count of zero (no twitches visible) indicates:",
+      "options": {
+        "A": "No neuromuscular block",
+        "B": "Intense (deep) neuromuscular block (>95% receptor occupation)",
+        "C": "Partial block only",
+        "D": "Equipment malfunction"
+      },
+      "answer": "B",
+      "explanation": "Zero twitches on TOF indicates intense/deep block with greater than 95% of receptors occupied.",
+      "chapter": "Chapter 6",
+      "topic": "Neuromuscular Monitoring",
+      "reference": "Ch 6, Page 66"
+    },
+    {
+      "id": 40,
+      "question": "Post-tetanic count (PTC) is used when:",
+      "options": {
+        "A": "TOF shows 4 twitches",
+        "B": "TOF count is zero (intense block) to assess depth of profound block",
+        "C": "Patient is fully recovered",
+        "D": "No muscle relaxant has been given"
+      },
+      "answer": "B",
+      "explanation": "PTC is used during intense block (TOF count = 0) to quantify the depth of block by counting post-tetanic facilitation twitches.",
+      "chapter": "Chapter 6",
+      "topic": "Neuromuscular Monitoring",
+      "reference": "Ch 6, Page 66"
+    },
+    {
+      "id": 41,
+      "question": "Fade in TOF response is characteristic of:",
+      "options": {
+        "A": "Depolarizing block (Phase I succinylcholine block)",
+        "B": "Non-depolarizing neuromuscular block",
+        "C": "No block at all",
+        "D": "Myasthenia gravis only"
+      },
+      "answer": "B",
+      "explanation": "Fade (progressive decrease in twitch height) is characteristic of non-depolarizing block. Phase I depolarizing block shows uniform decrease without fade.",
+      "chapter": "Chapter 6",
+      "topic": "Neuromuscular Monitoring",
+      "reference": "Ch 6, Page 66"
+    },
+    {
+      "id": 42,
+      "question": "The Bispectral Index (BIS) monitor is used to assess:",
+      "options": {
+        "A": "Neuromuscular blockade",
+        "B": "Depth of anesthesia/level of consciousness",
+        "C": "Blood pressure",
+        "D": "Oxygen saturation"
+      },
+      "answer": "B",
+      "explanation": "BIS is a processed EEG parameter that provides a numerical value (0–100) correlating with the depth of anesthesia/consciousness.",
+      "chapter": "Chapter 6",
+      "topic": "Central Nervous System (CNS) Monitoring",
+      "reference": "Ch 6, Page 68"
+    },
+    {
+      "id": 43,
+      "question": "The recommended BIS value range for adequate general anesthesia is:",
+      "options": {
+        "A": "80–100",
+        "B": "40–60",
+        "C": "0–20",
+        "D": "60–80"
+      },
+      "answer": "B",
+      "explanation": "BIS values of 40–60 indicate adequate depth of general anesthesia with low probability of awareness.",
+      "chapter": "Chapter 6",
+      "topic": "Central Nervous System (CNS) Monitoring",
+      "reference": "Ch 6, Page 68"
+    },
+    {
+      "id": 44,
+      "question": "A BIS value of 100 indicates:",
+      "options": {
+        "A": "Deep anesthesia",
+        "B": "Fully awake state",
+        "C": "Brain death",
+        "D": "Burst suppression"
+      },
+      "answer": "B",
+      "explanation": "BIS of 100 represents a fully awake state, while 0 represents EEG silence (isoelectric).",
+      "chapter": "Chapter 6",
+      "topic": "Central Nervous System (CNS) Monitoring",
+      "reference": "Ch 6, Page 68"
+    },
+    {
+      "id": 45,
+      "question": "Evoked potential monitoring during anesthesia is used to assess:",
+      "options": {
+        "A": "Blood pressure changes",
+        "B": "Integrity of neural pathways (spinal cord, brainstem, cortex)",
+        "C": "Muscle relaxation",
+        "D": "Temperature changes"
+      },
+      "answer": "B",
+      "explanation": "Evoked potentials (SSEP, MEP, BAEP) monitor the functional integrity of neural pathways during surgeries that risk neurological injury.",
+      "chapter": "Chapter 6",
+      "topic": "Central Nervous System (CNS) Monitoring",
+      "reference": "Ch 6, Page 68"
+    },
+    {
+      "id": 46,
+      "question": "Monitoring blood loss during surgery can be estimated by all EXCEPT:",
+      "options": {
+        "A": "Weighing surgical swabs/sponges",
+        "B": "Measuring suction bottle contents",
+        "C": "Monitoring pulse oximetry alone",
+        "D": "Visual estimation and hemodynamic parameters"
+      },
+      "answer": "C",
+      "explanation": "Pulse oximetry alone cannot estimate blood loss. Methods include swab weighing, suction measurement, visual estimation, and hemodynamic monitoring.",
+      "chapter": "Chapter 6",
+      "topic": "Monitoring Blood Loss",
+      "reference": "Ch 6, Page 69"
+    },
+    {
+      "id": 47,
+      "question": "The formula for estimated blood loss by swab weighing is:",
+      "options": {
+        "A": "Weight of dry swab minus weight of wet swab",
+        "B": "Weight of wet (blood-soaked) swab minus weight of dry swab (1 gram = 1 mL blood)",
+        "C": "Volume of suction divided by 2",
+        "D": "Hematocrit multiplied by weight"
+      },
+      "answer": "B",
+      "explanation": "Blood loss = (weight of blood-soaked swab – weight of dry swab) in grams, where 1 gram of blood ≈ 1 mL.",
+      "chapter": "Chapter 6",
+      "topic": "Monitoring Blood Loss",
+      "reference": "Ch 6, Page 69"
+    },
+    {
+      "id": 48,
+      "question": "Maximum allowable blood loss (MABL) depends on:",
+      "options": {
+        "A": "Patient's height only",
+        "B": "Estimated blood volume, starting hematocrit, and minimum acceptable hematocrit",
+        "C": "Type of surgery only",
+        "D": "Duration of surgery"
+      },
+      "answer": "B",
+      "explanation": "MABL = EBV × (Starting Hct – Minimum acceptable Hct) / Starting Hct. It depends on blood volume and hematocrit values.",
+      "chapter": "Chapter 6",
+      "topic": "Monitoring Blood Loss",
+      "reference": "Ch 6, Page 69"
+    },
+    {
+      "id": 49,
+      "question": "Urine output monitoring during surgery is a reliable indicator of:",
+      "options": {
+        "A": "Depth of anesthesia",
+        "B": "Renal perfusion and adequacy of intravascular volume",
+        "C": "Neuromuscular blockade",
+        "D": "Blood glucose level"
+      },
+      "answer": "B",
+      "explanation": "Urine output (target ≥0.5 mL/kg/hr) reflects renal perfusion and is a useful guide to the adequacy of fluid resuscitation and cardiac output.",
+      "chapter": "Chapter 6",
+      "topic": "Monitoring Blood Loss",
+      "reference": "Ch 6, Page 69"
+    },
+    {
+      "id": 50,
+      "question": "Which of the following is used as a point-of-care test to rapidly assess hemoglobin during surgery?",
+      "options": {
+        "A": "CT scan",
+        "B": "HemoCue or arterial blood gas analyzer",
+        "C": "Pulse oximetry",
+        "D": "Capnography"
+      },
+      "answer": "B",
+      "explanation": "HemoCue and ABG analyzers provide rapid point-of-care hemoglobin measurement to guide transfusion decisions intraoperatively.",
+      "chapter": "Chapter 6",
+      "topic": "Monitoring Blood Loss",
+      "reference": "Ch 6, Page 69"
+    }
+  ]
+}

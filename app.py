@@ -110,6 +110,12 @@ QUIZ_CATALOG = {
         "short": "Difficult Airway (Ch 5)",
         "icon": "🫁",
     },
+    "ch6": {
+        "file": "questions_ch6.json",
+        "label": "Chapter 6 – Monitoring in Anesthesia",
+        "short": "Monitoring (Ch 6)",
+        "icon": "📊",
+    },
 }
 
 # ─── Load Questions ──────────────────────────────────────────────────────────
