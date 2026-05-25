@@ -116,6 +116,12 @@ QUIZ_CATALOG = {
         "short": "Monitoring (Ch 6)",
         "icon": "📊",
     },
+    "ch7": {
+        "file": "questions_ch7.json",
+        "label": "Chapter 7 – Fluids and Blood Transfusion",
+        "short": "Fluids & Blood (Ch 7)",
+        "icon": "🩸",
+    },
 }
 
 # ─── Load Questions ──────────────────────────────────────────────────────────

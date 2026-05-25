@@ -1,0 +1,759 @@
+{
+  "title": "Fluids and Blood Transfusion MCQ – Chapter 7",
+  "source": "Short Textbook of Anesthesia – Ajay Yadav",
+  "section": "Section 3: Quintessential in Anesthesia (Chapter 7)",
+  "total_questions": 50,
+  "time_limit_minutes": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Total body water (TBW) constitutes what percentage of body weight in an adult male?",
+      "options": {
+        "A": "40%",
+        "B": "50%",
+        "C": "60%",
+        "D": "70%"
+      },
+      "answer": "C",
+      "explanation": "Total body water constitutes approximately 60% of body weight in an adult male (less in females and elderly due to higher fat content).",
+      "chapter": "Chapter 7",
+      "topic": "Fluids",
+      "reference": "Ch 7, Page 71"
+    },
+    {
+      "id": 2,
+      "question": "The intracellular fluid (ICF) compartment constitutes approximately what percentage of TBW?",
+      "options": {
+        "A": "20%",
+        "B": "40%",
+        "C": "55%",
+        "D": "67%"
+      },
+      "answer": "D",
+      "explanation": "ICF constitutes approximately two-thirds (67%) of TBW, while ECF constitutes one-third.",
+      "chapter": "Chapter 7",
+      "topic": "Fluids",
+      "reference": "Ch 7, Page 71"
+    },
+    {
+      "id": 3,
+      "question": "The extracellular fluid (ECF) is divided into:",
+      "options": {
+        "A": "Intracellular and transcellular",
+        "B": "Interstitial fluid and intravascular (plasma) fluid",
+        "C": "Lymphatic and cerebrospinal fluid only",
+        "D": "Red blood cells and white blood cells"
+      },
+      "answer": "B",
+      "explanation": "ECF is divided into interstitial fluid (75% of ECF) and intravascular/plasma volume (25% of ECF).",
+      "chapter": "Chapter 7",
+      "topic": "Fluids",
+      "reference": "Ch 7, Page 71"
+    },
+    {
+      "id": 4,
+      "question": "The predominant cation in extracellular fluid is:",
+      "options": {
+        "A": "Potassium",
+        "B": "Calcium",
+        "C": "Sodium",
+        "D": "Magnesium"
+      },
+      "answer": "C",
+      "explanation": "Sodium (Na+) is the predominant cation in ECF (approximately 140 mEq/L), while potassium dominates ICF.",
+      "chapter": "Chapter 7",
+      "topic": "Fluids",
+      "reference": "Ch 7, Page 71"
+    },
+    {
+      "id": 5,
+      "question": "The predominant cation in intracellular fluid is:",
+      "options": {
+        "A": "Sodium",
+        "B": "Potassium",
+        "C": "Calcium",
+        "D": "Chloride"
+      },
+      "answer": "B",
+      "explanation": "Potassium (K+) is the predominant intracellular cation (approximately 150 mEq/L inside cells).",
+      "chapter": "Chapter 7",
+      "topic": "Fluids",
+      "reference": "Ch 7, Page 71"
+    },
+    {
+      "id": 6,
+      "question": "Which of the following is an isotonic crystalloid solution?",
+      "options": {
+        "A": "5% Dextrose",
+        "B": "Normal saline (0.9% NaCl)",
+        "C": "3% Hypertonic saline",
+        "D": "0.45% NaCl"
+      },
+      "answer": "B",
+      "explanation": "Normal saline (0.9% NaCl) is an isotonic crystalloid with an osmolarity of 308 mOsm/L, close to plasma osmolarity.",
+      "chapter": "Chapter 7",
+      "topic": "Crystalloids",
+      "reference": "Ch 7, Page 71"
+    },
+    {
+      "id": 7,
+      "question": "The sodium content of normal saline (0.9% NaCl) is:",
+      "options": {
+        "A": "100 mEq/L",
+        "B": "130 mEq/L",
+        "C": "154 mEq/L",
+        "D": "170 mEq/L"
+      },
+      "answer": "C",
+      "explanation": "Normal saline contains 154 mEq/L of sodium and 154 mEq/L of chloride.",
+      "chapter": "Chapter 7",
+      "topic": "Crystalloids",
+      "reference": "Ch 7, Page 71"
+    },
+    {
+      "id": 8,
+      "question": "Ringer's lactate solution contains all of the following EXCEPT:",
+      "options": {
+        "A": "Sodium 130 mEq/L",
+        "B": "Potassium 4 mEq/L",
+        "C": "Lactate 28 mEq/L",
+        "D": "Bicarbonate 28 mEq/L"
+      },
+      "answer": "D",
+      "explanation": "Ringer's lactate contains sodium, potassium, calcium, chloride, and lactate (as buffer). It does not contain bicarbonate directly.",
+      "chapter": "Chapter 7",
+      "topic": "Crystalloids",
+      "reference": "Ch 7, Page 71"
+    },
+    {
+      "id": 9,
+      "question": "The lactate in Ringer's lactate is converted to bicarbonate in the:",
+      "options": {
+        "A": "Kidney",
+        "B": "Liver",
+        "C": "Lung",
+        "D": "Muscle"
+      },
+      "answer": "B",
+      "explanation": "Lactate is metabolized by the liver to bicarbonate, providing a buffering effect.",
+      "chapter": "Chapter 7",
+      "topic": "Crystalloids",
+      "reference": "Ch 7, Page 71"
+    },
+    {
+      "id": 10,
+      "question": "Excessive administration of normal saline can cause:",
+      "options": {
+        "A": "Metabolic alkalosis",
+        "B": "Hyperchloremic metabolic acidosis",
+        "C": "Respiratory alkalosis",
+        "D": "Hypokalemia"
+      },
+      "answer": "B",
+      "explanation": "Large volumes of NS (high chloride 154 mEq/L) can cause dilutional hyperchloremic metabolic acidosis.",
+      "chapter": "Chapter 7",
+      "topic": "Crystalloids",
+      "reference": "Ch 7, Page 71"
+    },
+    {
+      "id": 11,
+      "question": "5% Dextrose is considered isotonic in the bag but acts as a hypotonic solution in vivo because:",
+      "options": {
+        "A": "It contains sodium",
+        "B": "Dextrose is rapidly metabolized, leaving free water that distributes across all compartments",
+        "C": "It has high osmolarity",
+        "D": "It contains lactate"
+      },
+      "answer": "B",
+      "explanation": "After infusion, glucose is rapidly metabolized, leaving free water that distributes evenly across ICF and ECF, effectively acting as a hypotonic solution.",
+      "chapter": "Chapter 7",
+      "topic": "Crystalloids",
+      "reference": "Ch 7, Page 71"
+    },
+    {
+      "id": 12,
+      "question": "What fraction of infused crystalloid remains in the intravascular space after 1 hour?",
+      "options": {
+        "A": "100%",
+        "B": "About 75%",
+        "C": "About 25% (one-quarter)",
+        "D": "About 50%"
+      },
+      "answer": "C",
+      "explanation": "Only about 25% of infused isotonic crystalloid remains intravascularly; the rest redistributes to the interstitial space.",
+      "chapter": "Chapter 7",
+      "topic": "Crystalloids",
+      "reference": "Ch 7, Page 71"
+    },
+    {
+      "id": 13,
+      "question": "Colloids differ from crystalloids in that they:",
+      "options": {
+        "A": "Are freely filtered across capillary membranes",
+        "B": "Contain large molecular weight substances that maintain oncotic pressure and stay intravascular longer",
+        "C": "Are always synthetic",
+        "D": "Cannot be used for volume resuscitation"
+      },
+      "answer": "B",
+      "explanation": "Colloids contain large molecules (proteins/starches) that generate oncotic pressure, keeping fluid in the intravascular space longer than crystalloids.",
+      "chapter": "Chapter 7",
+      "topic": "Colloids",
+      "reference": "Ch 7, Page 72"
+    },
+    {
+      "id": 14,
+      "question": "Which of the following is a natural colloid?",
+      "options": {
+        "A": "Hydroxyethyl starch (HES)",
+        "B": "Dextran",
+        "C": "Human albumin",
+        "D": "Gelatin (Haemaccel)"
+      },
+      "answer": "C",
+      "explanation": "Human albumin is the only natural colloid. HES, dextrans, and gelatins are synthetic colloids.",
+      "chapter": "Chapter 7",
+      "topic": "Colloids",
+      "reference": "Ch 7, Page 72"
+    },
+    {
+      "id": 15,
+      "question": "The approximate intravascular half-life of infused colloids compared to crystalloids is:",
+      "options": {
+        "A": "Shorter",
+        "B": "Same",
+        "C": "Longer (several hours)",
+        "D": "Only minutes"
+      },
+      "answer": "C",
+      "explanation": "Colloids have a longer intravascular half-life (hours) compared to crystalloids because large molecules are retained within the vascular space.",
+      "chapter": "Chapter 7",
+      "topic": "Colloids",
+      "reference": "Ch 7, Page 72"
+    },
+    {
+      "id": 16,
+      "question": "Dextran 40 is used primarily for:",
+      "options": {
+        "A": "Volume expansion only",
+        "B": "Improving microcirculation and reducing blood viscosity (rheological effects)",
+        "C": "Providing nutrition",
+        "D": "Correcting acidosis"
+      },
+      "answer": "B",
+      "explanation": "Dextran 40 (low molecular weight) improves microcirculation by reducing blood viscosity and preventing rouleaux formation.",
+      "chapter": "Chapter 7",
+      "topic": "Colloids",
+      "reference": "Ch 7, Page 72"
+    },
+    {
+      "id": 17,
+      "question": "A major side effect of dextran infusion is:",
+      "options": {
+        "A": "Hyperkalemia",
+        "B": "Anaphylactic reactions and interference with blood cross-matching",
+        "C": "Metabolic alkalosis",
+        "D": "Hypertension"
+      },
+      "answer": "B",
+      "explanation": "Dextrans can cause anaphylaxis, interfere with blood cross-matching (rouleaux formation), and impair coagulation at high doses.",
+      "chapter": "Chapter 7",
+      "topic": "Colloids",
+      "reference": "Ch 7, Page 72"
+    },
+    {
+      "id": 18,
+      "question": "Hydroxyethyl starch (HES) solutions can cause:",
+      "options": {
+        "A": "Improved renal function",
+        "B": "Coagulopathy and renal impairment at high doses",
+        "C": "Hypernatremia",
+        "D": "Metabolic alkalosis"
+      },
+      "answer": "B",
+      "explanation": "HES can cause dose-dependent coagulopathy (reduced Factor VIII, von Willebrand factor) and nephrotoxicity, especially in critically ill patients.",
+      "chapter": "Chapter 7",
+      "topic": "Colloids",
+      "reference": "Ch 7, Page 72"
+    },
+    {
+      "id": 19,
+      "question": "Gelatin-based colloids (e.g., Haemaccel) have which disadvantage?",
+      "options": {
+        "A": "Very long intravascular half-life",
+        "B": "Risk of anaphylactoid reactions and relatively short duration of action",
+        "C": "Severe hyperkalemia",
+        "D": "Incompatible with all blood products"
+      },
+      "answer": "B",
+      "explanation": "Gelatins have a shorter duration than other colloids and carry a risk of anaphylactoid/allergic reactions.",
+      "chapter": "Chapter 7",
+      "topic": "Colloids",
+      "reference": "Ch 7, Page 72"
+    },
+    {
+      "id": 20,
+      "question": "The daily maintenance fluid requirement for a 70 kg adult using the 4-2-1 rule is approximately:",
+      "options": {
+        "A": "50 mL/hr",
+        "B": "110 mL/hr",
+        "C": "150 mL/hr",
+        "D": "200 mL/hr"
+      },
+      "answer": "B",
+      "explanation": "4-2-1 rule: 4 mL/kg/hr for first 10 kg (40) + 2 mL/kg/hr for next 10 kg (20) + 1 mL/kg/hr for remaining 50 kg (50) = 110 mL/hr.",
+      "chapter": "Chapter 7",
+      "topic": "Fluid Management",
+      "reference": "Ch 7, Page 73"
+    },
+    {
+      "id": 21,
+      "question": "The 4-2-1 rule for hourly maintenance fluid calculation gives 4 mL/kg/hr for:",
+      "options": {
+        "A": "First 20 kg",
+        "B": "First 10 kg",
+        "C": "Body weight above 20 kg",
+        "D": "All body weight"
+      },
+      "answer": "B",
+      "explanation": "The 4-2-1 rule: 4 mL/kg/hr for the first 10 kg, 2 mL/kg/hr for the next 10 kg, and 1 mL/kg/hr for each kg above 20 kg.",
+      "chapter": "Chapter 7",
+      "topic": "Fluid Management",
+      "reference": "Ch 7, Page 73"
+    },
+    {
+      "id": 22,
+      "question": "Intraoperative fluid therapy must account for:",
+      "options": {
+        "A": "Maintenance requirements only",
+        "B": "Maintenance, deficit (fasting), and ongoing losses (surgical/third space)",
+        "C": "Blood loss only",
+        "D": "Urine output only"
+      },
+      "answer": "B",
+      "explanation": "Intraoperative fluids must replace maintenance needs, preoperative fasting deficit, and ongoing surgical/third-space losses.",
+      "chapter": "Chapter 7",
+      "topic": "Fluid Management",
+      "reference": "Ch 7, Page 73"
+    },
+    {
+      "id": 23,
+      "question": "Third-space fluid loss refers to:",
+      "options": {
+        "A": "Blood loss into the suction canister",
+        "B": "Functional loss of fluid into a non-equilibrating space (e.g., bowel wall, traumatized tissues)",
+        "C": "Urine output",
+        "D": "Sweat loss"
+      },
+      "answer": "B",
+      "explanation": "Third-space loss is the redistribution of fluid into a non-functional compartment (traumatized tissue, bowel wall, peritoneal cavity) that does not participate in normal fluid exchange.",
+      "chapter": "Chapter 7",
+      "topic": "Fluid Management",
+      "reference": "Ch 7, Page 73"
+    },
+    {
+      "id": 24,
+      "question": "For major abdominal surgery, the estimated third-space fluid loss is approximately:",
+      "options": {
+        "A": "1–2 mL/kg/hr",
+        "B": "4–8 mL/kg/hr",
+        "C": "6–10 mL/kg/hr",
+        "D": "0.5 mL/kg/hr"
+      },
+      "answer": "C",
+      "explanation": "Third-space losses vary: 1–2 mL/kg/hr for minimal trauma, 4–6 for moderate, and 6–10 mL/kg/hr for major abdominal surgery.",
+      "chapter": "Chapter 7",
+      "topic": "Fluid Management",
+      "reference": "Ch 7, Page 73"
+    },
+    {
+      "id": 25,
+      "question": "The preoperative fasting deficit is calculated as:",
+      "options": {
+        "A": "Body weight × hours of fasting",
+        "B": "Hourly maintenance rate × number of hours NPO",
+        "C": "Blood volume × hematocrit",
+        "D": "Urine output × hours"
+      },
+      "answer": "B",
+      "explanation": "Fasting deficit = maintenance fluid rate (by 4-2-1 rule) × hours of fasting (NPO period).",
+      "chapter": "Chapter 7",
+      "topic": "Fluid Management",
+      "reference": "Ch 7, Page 73"
+    },
+    {
+      "id": 26,
+      "question": "Whole blood transfusion contains all components of blood and has a hematocrit of approximately:",
+      "options": {
+        "A": "20–25%",
+        "B": "35–40%",
+        "C": "55–60%",
+        "D": "70–80%"
+      },
+      "answer": "B",
+      "explanation": "Whole blood has a hematocrit of approximately 35–40% and contains RBCs, plasma, platelets, and clotting factors.",
+      "chapter": "Chapter 7",
+      "topic": "Blood Transfusion",
+      "reference": "Ch 7, Page 75"
+    },
+    {
+      "id": 27,
+      "question": "Packed red blood cells (PRBCs) have a hematocrit of approximately:",
+      "options": {
+        "A": "30–35%",
+        "B": "55–70%",
+        "C": "80–90%",
+        "D": "20–25%"
+      },
+      "answer": "B",
+      "explanation": "PRBCs have a hematocrit of 55–70% after removal of most plasma, concentrating the red cells.",
+      "chapter": "Chapter 7",
+      "topic": "Blood Transfusion",
+      "reference": "Ch 7, Page 75"
+    },
+    {
+      "id": 28,
+      "question": "One unit of packed RBCs raises hemoglobin by approximately:",
+      "options": {
+        "A": "0.5 g/dL",
+        "B": "1 g/dL",
+        "C": "3 g/dL",
+        "D": "5 g/dL"
+      },
+      "answer": "B",
+      "explanation": "One unit of PRBCs raises hemoglobin by approximately 1 g/dL (or hematocrit by 3%) in an average adult.",
+      "chapter": "Chapter 7",
+      "topic": "Blood Transfusion",
+      "reference": "Ch 7, Page 75"
+    },
+    {
+      "id": 29,
+      "question": "The storage temperature for packed red blood cells is:",
+      "options": {
+        "A": "Room temperature (20–24°C)",
+        "B": "1–6°C",
+        "C": "-20°C",
+        "D": "-80°C"
+      },
+      "answer": "B",
+      "explanation": "PRBCs are stored at 1–6°C with a shelf life of 35–42 days depending on the anticoagulant/preservative used.",
+      "chapter": "Chapter 7",
+      "topic": "Blood Transfusion",
+      "reference": "Ch 7, Page 75"
+    },
+    {
+      "id": 30,
+      "question": "Fresh frozen plasma (FFP) is indicated for:",
+      "options": {
+        "A": "Anemia",
+        "B": "Replacement of coagulation factors in patients with coagulopathy",
+        "C": "Volume expansion as first choice",
+        "D": "Thrombocytopenia"
+      },
+      "answer": "B",
+      "explanation": "FFP contains all coagulation factors and is indicated for coagulopathy, DIC, massive transfusion, and warfarin reversal.",
+      "chapter": "Chapter 7",
+      "topic": "Blood Transfusion",
+      "reference": "Ch 7, Page 75"
+    },
+    {
+      "id": 31,
+      "question": "Platelet concentrate transfusion is indicated when platelet count falls below:",
+      "options": {
+        "A": "150,000/μL",
+        "B": "100,000/μL",
+        "C": "50,000/μL (or <75,000 with active bleeding/surgery)",
+        "D": "200,000/μL"
+      },
+      "answer": "C",
+      "explanation": "Platelet transfusion is generally indicated when count is <50,000/μL or <75,000–100,000/μL with active bleeding or before surgery.",
+      "chapter": "Chapter 7",
+      "topic": "Blood Transfusion",
+      "reference": "Ch 7, Page 75"
+    },
+    {
+      "id": 32,
+      "question": "Platelets are stored at:",
+      "options": {
+        "A": "1–6°C",
+        "B": "20–24°C with continuous agitation",
+        "C": "-30°C",
+        "D": "37°C"
+      },
+      "answer": "B",
+      "explanation": "Platelets are stored at room temperature (20–24°C) with continuous gentle agitation, with a shelf life of 5 days.",
+      "chapter": "Chapter 7",
+      "topic": "Blood Transfusion",
+      "reference": "Ch 7, Page 75"
+    },
+    {
+      "id": 33,
+      "question": "The most common cause of fatal transfusion reaction is:",
+      "options": {
+        "A": "Allergic reaction",
+        "B": "ABO-incompatible (hemolytic) transfusion due to clerical error",
+        "C": "Febrile non-hemolytic reaction",
+        "D": "Iron overload"
+      },
+      "answer": "B",
+      "explanation": "ABO-incompatible acute hemolytic transfusion reaction, usually due to clerical/identification error, is the most common cause of fatal transfusion reactions.",
+      "chapter": "Chapter 7",
+      "topic": "Complications of Blood Transfusion",
+      "reference": "Ch 7, Page 77"
+    },
+    {
+      "id": 34,
+      "question": "Signs of acute hemolytic transfusion reaction under general anesthesia include:",
+      "options": {
+        "A": "Hypothermia and bradycardia",
+        "B": "Unexplained hypotension, fever, hemoglobinuria, and DIC",
+        "C": "Hypertension and tachycardia only",
+        "D": "Bronchospasm only"
+      },
+      "answer": "B",
+      "explanation": "Under GA, signs include unexplained hypotension, tachycardia, fever, hemoglobinuria (dark urine), diffuse bleeding (DIC), and bronchospasm.",
+      "chapter": "Chapter 7",
+      "topic": "Complications of Blood Transfusion",
+      "reference": "Ch 7, Page 77"
+    },
+    {
+      "id": 35,
+      "question": "The first step in managing suspected hemolytic transfusion reaction is:",
+      "options": {
+        "A": "Continue transfusion at slower rate",
+        "B": "Stop the transfusion immediately and maintain IV access",
+        "C": "Administer more fluids through the same line",
+        "D": "Give antihistamines and continue"
+      },
+      "answer": "B",
+      "explanation": "The immediate action is to STOP the transfusion, maintain IV access with new tubing, and send the blood bag and patient sample for verification.",
+      "chapter": "Chapter 7",
+      "topic": "Complications of Blood Transfusion",
+      "reference": "Ch 7, Page 77"
+    },
+    {
+      "id": 36,
+      "question": "Transfusion-related acute lung injury (TRALI) presents with:",
+      "options": {
+        "A": "Delayed hemolysis after 7 days",
+        "B": "Acute respiratory distress, non-cardiogenic pulmonary edema within 6 hours of transfusion",
+        "C": "Chronic iron overload",
+        "D": "Urticaria only"
+      },
+      "answer": "B",
+      "explanation": "TRALI presents with acute hypoxemia, bilateral pulmonary infiltrates, and respiratory distress within 6 hours of transfusion, without circulatory overload.",
+      "chapter": "Chapter 7",
+      "topic": "Complications of Blood Transfusion",
+      "reference": "Ch 7, Page 77"
+    },
+    {
+      "id": 37,
+      "question": "Massive blood transfusion is defined as replacement of:",
+      "options": {
+        "A": "One unit of blood",
+        "B": "More than one blood volume (or >10 units PRBCs) in 24 hours",
+        "C": "Any amount of FFP",
+        "D": "500 mL of blood"
+      },
+      "answer": "B",
+      "explanation": "Massive transfusion is defined as replacement of more than one blood volume (approximately 70 mL/kg or >10 units PRBCs) within 24 hours.",
+      "chapter": "Chapter 7",
+      "topic": "Complications of Blood Transfusion",
+      "reference": "Ch 7, Page 77"
+    },
+    {
+      "id": 38,
+      "question": "Complications of massive blood transfusion include all EXCEPT:",
+      "options": {
+        "A": "Hypothermia",
+        "B": "Hyperkalemia",
+        "C": "Citrate toxicity (hypocalcemia)",
+        "D": "Polycythemia"
+      },
+      "answer": "D",
+      "explanation": "Massive transfusion complications include hypothermia, hyperkalemia, citrate toxicity (hypocalcemia), coagulopathy, and acid-base disturbance – not polycythemia.",
+      "chapter": "Chapter 7",
+      "topic": "Complications of Blood Transfusion",
+      "reference": "Ch 7, Page 77"
+    },
+    {
+      "id": 39,
+      "question": "Citrate toxicity from massive transfusion manifests as:",
+      "options": {
+        "A": "Hyperkalemia",
+        "B": "Hypocalcemia (ionized calcium reduction) causing cardiac depression",
+        "C": "Hypernatremia",
+        "D": "Metabolic alkalosis"
+      },
+      "answer": "B",
+      "explanation": "Citrate (anticoagulant in stored blood) chelates ionized calcium, causing hypocalcemia which can lead to cardiac depression and coagulopathy.",
+      "chapter": "Chapter 7",
+      "topic": "Complications of Blood Transfusion",
+      "reference": "Ch 7, Page 77"
+    },
+    {
+      "id": 40,
+      "question": "Hyperkalemia in stored blood occurs because:",
+      "options": {
+        "A": "Potassium is added as preservative",
+        "B": "Red cell membrane Na-K ATPase pump fails during storage, leaking potassium into plasma",
+        "C": "Citrate releases potassium",
+        "D": "Platelets release potassium"
+      },
+      "answer": "B",
+      "explanation": "During storage, the RBC membrane Na-K ATPase pump becomes inactive, causing potassium to leak from cells into the plasma of stored blood.",
+      "chapter": "Chapter 7",
+      "topic": "Complications of Blood Transfusion",
+      "reference": "Ch 7, Page 77"
+    },
+    {
+      "id": 41,
+      "question": "Febrile non-hemolytic transfusion reaction is caused by:",
+      "options": {
+        "A": "ABO incompatibility",
+        "B": "Antibodies against donor leukocyte antigens or cytokines in stored blood",
+        "C": "Bacterial contamination",
+        "D": "Volume overload"
+      },
+      "answer": "B",
+      "explanation": "Febrile non-hemolytic reactions are caused by recipient antibodies against donor WBC antigens or accumulated cytokines in stored blood components.",
+      "chapter": "Chapter 7",
+      "topic": "Complications of Blood Transfusion",
+      "reference": "Ch 7, Page 77"
+    },
+    {
+      "id": 42,
+      "question": "Transfusion-associated circulatory overload (TACO) is characterized by:",
+      "options": {
+        "A": "Hypotension and bradycardia",
+        "B": "Pulmonary edema, hypertension, dyspnea due to volume overload",
+        "C": "Hemolysis",
+        "D": "Fever only"
+      },
+      "answer": "B",
+      "explanation": "TACO presents with signs of circulatory overload: pulmonary edema, raised JVP, hypertension, and dyspnea, especially in elderly and cardiac patients.",
+      "chapter": "Chapter 7",
+      "topic": "Complications of Blood Transfusion",
+      "reference": "Ch 7, Page 77"
+    },
+    {
+      "id": 43,
+      "question": "Infectious complications of blood transfusion include all EXCEPT:",
+      "options": {
+        "A": "Hepatitis B and C",
+        "B": "HIV",
+        "C": "Malaria",
+        "D": "Tuberculosis (commonly)"
+      },
+      "answer": "D",
+      "explanation": "Transfusion-transmitted infections include hepatitis B, C, HIV, malaria, syphilis, and CMV. TB is not a common transfusion-transmitted infection.",
+      "chapter": "Chapter 7",
+      "topic": "Complications of Blood Transfusion",
+      "reference": "Ch 7, Page 77"
+    },
+    {
+      "id": 44,
+      "question": "Autologous blood transfusion refers to:",
+      "options": {
+        "A": "Transfusing blood from a family member",
+        "B": "Transfusing the patient's own previously collected or salvaged blood",
+        "C": "Using synthetic blood substitutes",
+        "D": "Directed donor transfusion"
+      },
+      "answer": "B",
+      "explanation": "Autologous transfusion involves collecting, storing, and re-infusing the patient's own blood, eliminating risks of alloimmunization and transfusion-transmitted infections.",
+      "chapter": "Chapter 7",
+      "topic": "Autologous Blood Transfusion",
+      "reference": "Ch 7, Page 79"
+    },
+    {
+      "id": 45,
+      "question": "Types of autologous blood transfusion include all EXCEPT:",
+      "options": {
+        "A": "Preoperative autologous donation (PAD)",
+        "B": "Acute normovolemic hemodilution (ANH)",
+        "C": "Intraoperative cell salvage",
+        "D": "Emergency crossmatch from blood bank"
+      },
+      "answer": "D",
+      "explanation": "Autologous methods include preoperative donation, acute normovolemic hemodilution, and intraoperative cell salvage. Emergency crossmatch uses donor (allogeneic) blood.",
+      "chapter": "Chapter 7",
+      "topic": "Autologous Blood Transfusion",
+      "reference": "Ch 7, Page 79"
+    },
+    {
+      "id": 46,
+      "question": "In acute normovolemic hemodilution (ANH), blood is removed preoperatively and replaced with:",
+      "options": {
+        "A": "Nothing",
+        "B": "Crystalloids or colloids to maintain normovolemia",
+        "C": "Whole blood from donors",
+        "D": "Platelets only"
+      },
+      "answer": "B",
+      "explanation": "In ANH, blood is withdrawn immediately before surgery and replaced with crystalloid/colloid to maintain intravascular volume. The blood is re-infused after surgical bleeding.",
+      "chapter": "Chapter 7",
+      "topic": "Autologous Blood Transfusion",
+      "reference": "Ch 7, Page 79"
+    },
+    {
+      "id": 47,
+      "question": "Intraoperative cell salvage is contraindicated in:",
+      "options": {
+        "A": "Cardiac surgery",
+        "B": "Surgery for malignancy (relative) and infected surgical fields",
+        "C": "Orthopedic surgery",
+        "D": "Vascular surgery"
+      },
+      "answer": "B",
+      "explanation": "Cell salvage is relatively contraindicated in malignancy (risk of tumor cell dissemination) and contaminated/infected surgical fields.",
+      "chapter": "Chapter 7",
+      "topic": "Autologous Blood Transfusion",
+      "reference": "Ch 7, Page 79"
+    },
+    {
+      "id": 48,
+      "question": "The trigger for blood transfusion in a healthy patient is generally a hemoglobin of:",
+      "options": {
+        "A": "10 g/dL",
+        "B": "7–8 g/dL",
+        "C": "12 g/dL",
+        "D": "5 g/dL"
+      },
+      "answer": "B",
+      "explanation": "In otherwise healthy patients, transfusion is generally triggered at hemoglobin 7–8 g/dL (restrictive strategy). Higher thresholds apply for cardiac disease.",
+      "chapter": "Chapter 7",
+      "topic": "Blood Transfusion",
+      "reference": "Ch 7, Page 75"
+    },
+    {
+      "id": 49,
+      "question": "The anticoagulant used in blood storage bags is:",
+      "options": {
+        "A": "Heparin",
+        "B": "CPDA-1 (Citrate-Phosphate-Dextrose-Adenine)",
+        "C": "Warfarin",
+        "D": "EDTA"
+      },
+      "answer": "B",
+      "explanation": "CPDA-1 is the standard anticoagulant-preservative used in blood bags. Citrate prevents coagulation, phosphate and dextrose support RBC metabolism, and adenine maintains ATP levels.",
+      "chapter": "Chapter 7",
+      "topic": "Blood Transfusion",
+      "reference": "Ch 7, Page 75"
+    },
+    {
+      "id": 50,
+      "question": "Blood must be transfused through a filter of pore size:",
+      "options": {
+        "A": "20 micrometers",
+        "B": "170–260 micrometers (standard blood filter)",
+        "C": "0.22 micrometers",
+        "D": "500 micrometers"
+      },
+      "answer": "B",
+      "explanation": "Standard blood transfusion sets have a 170–260 micrometer filter to remove clots and debris. Microaggregate filters (20–40 μm) are used for special indications.",
+      "chapter": "Chapter 7",
+      "topic": "Blood Transfusion",
+      "reference": "Ch 7, Page 75"
+    }
+  ]
+}
