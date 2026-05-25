@@ -7,78 +7,78 @@
   "questions": [
     {
       "id": 1,
-      "question": "Total body water (TBW) constitutes what percentage of body weight in an adult male?",
+      "question": "According to the textbook, fluids are broadly divided into which two categories?",
       "options": {
-        "A": "40%",
-        "B": "50%",
-        "C": "60%",
-        "D": "70%"
+        "A": "Isotonic and hypertonic",
+        "B": "Crystalloids and colloids",
+        "C": "Dextrose and saline",
+        "D": "Natural and synthetic"
       },
-      "answer": "C",
-      "explanation": "Total body water constitutes approximately 60% of body weight in an adult male (less in females and elderly due to higher fat content).",
+      "answer": "B",
+      "explanation": "Fluids are divided into crystalloids and colloids as stated at the beginning of Chapter 7.",
       "chapter": "Chapter 7",
       "topic": "Fluids",
       "reference": "Ch 7, Page 71"
     },
     {
       "id": 2,
-      "question": "The intracellular fluid (ICF) compartment constitutes approximately what percentage of TBW?",
+      "question": "What is the composition of Plasmalyte solution as per the textbook?",
       "options": {
-        "A": "20%",
-        "B": "40%",
-        "C": "55%",
-        "D": "67%"
+        "A": "Na+ 154, Cl- 154 mEq/L",
+        "B": "Na+ 140, Cl- 98, K+ 3, Mg2+ 3, Acetate 27, Gluconate 23 mEq/L",
+        "C": "Na+ 131, Cl- 111, K+ 5 mEq/L",
+        "D": "Na+ 130, Cl- 109, Lactate 28 mEq/L"
       },
-      "answer": "D",
-      "explanation": "ICF constitutes approximately two-thirds (67%) of TBW, while ECF constitutes one-third.",
+      "answer": "B",
+      "explanation": "Plasmalyte composition: Na+ 140, Cl- 98, K+ 3, Mg2+ 3, Acetate 27, Gluconate 23 mEq/L. Acetate and gluconate are metabolized to generate bicarbonate.",
       "chapter": "Chapter 7",
-      "topic": "Fluids",
-      "reference": "Ch 7, Page 71"
+      "topic": "Crystalloids",
+      "reference": "Ch 7, Page 72"
     },
     {
       "id": 3,
-      "question": "The extracellular fluid (ECF) is divided into:",
+      "question": "Normal saline is preferred over Ringer lactate in all of the following conditions EXCEPT:",
       "options": {
-        "A": "Intracellular and transcellular",
-        "B": "Interstitial fluid and intravascular (plasma) fluid",
-        "C": "Lymphatic and cerebrospinal fluid only",
-        "D": "Red blood cells and white blood cells"
+        "A": "Hypochloremic metabolic alkalosis",
+        "B": "Brain injury",
+        "C": "Hyponatremia",
+        "D": "Hypokalemia"
       },
-      "answer": "B",
-      "explanation": "ECF is divided into interstitial fluid (75% of ECF) and intravascular/plasma volume (25% of ECF).",
+      "answer": "D",
+      "explanation": "As per the textbook, NS is preferred over RL for treating: hypochloremic metabolic alkalosis, brain injury (Ca2+ in RL can increase neuronal injury), and hyponatremia.",
       "chapter": "Chapter 7",
-      "topic": "Fluids",
-      "reference": "Ch 7, Page 71"
+      "topic": "Crystalloids",
+      "reference": "Ch 7, Page 72"
     },
     {
       "id": 4,
-      "question": "The predominant cation in extracellular fluid is:",
+      "question": "According to Table 7.1, crystalloids should be replaced in what ratio to blood loss?",
       "options": {
-        "A": "Potassium",
-        "B": "Calcium",
-        "C": "Sodium",
-        "D": "Magnesium"
+        "A": "1:1 ratio",
+        "B": "1.5:1 ratio (150 mL crystalloid for 100 mL blood loss)",
+        "C": "3:1 ratio",
+        "D": "2:1 ratio"
       },
-      "answer": "C",
-      "explanation": "Sodium (Na+) is the predominant cation in ECF (approximately 140 mEq/L), while potassium dominates ICF.",
+      "answer": "B",
+      "explanation": "As per Table 7.1, crystalloids should be replaced in a ratio of 1.5:1. For example, blood loss of 100 mL should be replaced with 150 mL of crystalloid.",
       "chapter": "Chapter 7",
       "topic": "Fluids",
       "reference": "Ch 7, Page 71"
     },
     {
       "id": 5,
-      "question": "The predominant cation in intracellular fluid is:",
+      "question": "Why should blood NOT be given through the same drip set as Ringer lactate?",
       "options": {
-        "A": "Sodium",
-        "B": "Potassium",
-        "C": "Calcium",
-        "D": "Chloride"
+        "A": "RL is too viscous",
+        "B": "RL contains calcium which can cause clotting of blood",
+        "C": "RL is hypertonic and can lyse RBCs",
+        "D": "RL contains potassium which causes hemolysis"
       },
       "answer": "B",
-      "explanation": "Potassium (K+) is the predominant intracellular cation (approximately 150 mEq/L inside cells).",
+      "explanation": "As RL contains calcium, blood should not be given through the same drip set as calcium can initiate coagulation of stored blood.",
       "chapter": "Chapter 7",
-      "topic": "Fluids",
-      "reference": "Ch 7, Page 71"
+      "topic": "Crystalloids",
+      "reference": "Ch 7, Page 72"
     },
     {
       "id": 6,
@@ -114,13 +114,13 @@
       "id": 8,
       "question": "Ringer's lactate solution contains all of the following EXCEPT:",
       "options": {
-        "A": "Sodium 130 mEq/L",
-        "B": "Potassium 4 mEq/L",
-        "C": "Lactate 28 mEq/L",
-        "D": "Bicarbonate 28 mEq/L"
+        "A": "Na+ 131 mEq/L",
+        "B": "K+ 5 mEq/L",
+        "C": "Lactate 29 mEq/L",
+        "D": "Bicarbonate 29 mEq/L"
       },
       "answer": "D",
-      "explanation": "Ringer's lactate contains sodium, potassium, calcium, chloride, and lactate (as buffer). It does not contain bicarbonate directly.",
+      "explanation": "Ringer's lactate contains Na+ 131, Cl- 111, K+ 5, Ca2+ 2, Lactate 29 mEq/L, pH 6.5. It does not contain bicarbonate directly.",
       "chapter": "Chapter 7",
       "topic": "Crystalloids",
       "reference": "Ch 7, Page 71"
