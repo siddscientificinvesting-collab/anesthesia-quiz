@@ -172,18 +172,18 @@
     },
     {
       "id": 12,
-      "question": "What fraction of infused crystalloid remains in the intravascular space after 1 hour?",
+      "question": "According to Table 7.1, the intravascular half-life of crystalloids is approximately:",
       "options": {
-        "A": "100%",
-        "B": "About 75%",
-        "C": "About 25% (one-quarter)",
-        "D": "About 50%"
+        "A": "5 minutes",
+        "B": "30 minutes",
+        "C": "2–4 hours",
+        "D": "24 hours"
       },
-      "answer": "C",
-      "explanation": "Only about 25% of infused isotonic crystalloid remains intravascularly; the rest redistributes to the interstitial space.",
+      "answer": "B",
+      "explanation": "As per Table 7.1, crystalloids have an intravascular half-life of 30 minutes, so they expand plasma volume for less time compared to colloids.",
       "chapter": "Chapter 7",
       "topic": "Crystalloids",
-      "reference": "Ch 7, Page 71"
+      "reference": "Ch 7, Page 71 (Table 7.1)"
     },
     {
       "id": 13,
@@ -397,18 +397,18 @@
     },
     {
       "id": 27,
-      "question": "Packed red blood cells (PRBCs) have a hematocrit of approximately:",
+      "question": "According to Table 7.1, colloids in high doses can interfere with clotting primarily by:",
       "options": {
-        "A": "30–35%",
-        "B": "55–70%",
-        "C": "80–90%",
-        "D": "20–25%"
+        "A": "Activating platelets",
+        "B": "Decreasing Factor VIII level and causing renal dysfunction",
+        "C": "Increasing fibrinogen levels",
+        "D": "Stimulating thrombin production"
       },
       "answer": "B",
-      "explanation": "PRBCs have a hematocrit of 55–70% after removal of most plasma, concentrating the red cells.",
+      "explanation": "As per Table 7.1, colloids in high doses can interfere with clotting by primarily decreasing Factor VIII level and can also cause renal dysfunction.",
       "chapter": "Chapter 7",
-      "topic": "Blood Transfusion",
-      "reference": "Ch 7, Page 75"
+      "topic": "Colloids",
+      "reference": "Ch 7, Page 71 (Table 7.1)"
     },
     {
       "id": 28,
