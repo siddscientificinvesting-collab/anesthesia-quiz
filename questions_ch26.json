@@ -1,0 +1,308 @@
+[
+  {
+    "question": "What is the most common type of anemia encountered in clinical practice in India?",
+    "options": ["Megaloblastic anemia", "Microcytic hypochromic anemia due to iron deficiency", "Aplastic anemia", "Hemolytic anemia"],
+    "correct": 1,
+    "explanation": "The most common anemia encountered in clinical practice in India is microcytic hypochromic due to iron deficiency."
+  },
+  {
+    "question": "What is the minimum hemoglobin level considered optimal to accept a patient for elective surgery?",
+    "options": ["10 g/dL", "6 g/dL", "8 g/dL", "12 g/dL"],
+    "correct": 2,
+    "explanation": "A minimum hemoglobin of 8 g/dL is considered optimal to accept the patient for elective surgery."
+  },
+  {
+    "question": "What is the formula for calculating maximum allowable blood loss?",
+    "options": ["(Patient Hct - Desired Hct) / Desired Hct × Blood volume", "(Patient Hct - Desired Hct) / Patient Hct × Blood volume", "Patient Hct / Desired Hct × Blood volume", "(Desired Hct - Patient Hct) / Patient Hct × Blood volume"],
+    "correct": 1,
+    "explanation": "Maximum allowable blood loss = (Hematocrit of patient - Desirable hematocrit) / Hematocrit of patient × Blood volume."
+  },
+  {
+    "question": "What is the estimated blood volume used in the calculation for allowable blood loss?",
+    "options": ["60-70 mL/kg", "80-90 mL/kg", "100-110 mL/kg", "50-60 mL/kg"],
+    "correct": 1,
+    "explanation": "Blood volume of 80-90 mL/kg is used in the calculation for maximum allowable blood loss."
+  },
+  {
+    "question": "What is the current day approach towards minimum use of blood products called?",
+    "options": ["Conservative approach", "Restrictive approach to transfusion", "Liberal transfusion policy", "Aggressive resuscitation"],
+    "correct": 1,
+    "explanation": "The approach in present day practice is towards the minimum use of blood products called restrictive approach to transfusion."
+  },
+  {
+    "question": "When is blood transfusion generally indicated in a normal patient?",
+    "options": ["Blood loss > 10% of blood volume", "Blood loss > 20% of blood volume or Hb < 8 g%", "Blood loss > 5% of blood volume", "Blood loss > 30% of blood volume"],
+    "correct": 1,
+    "explanation": "Blood loss greater than 20% of blood volume or hemoglobin level less than 8 g% in a normal patient indicates transfusion."
+  },
+  {
+    "question": "At what hemoglobin level is transfusion indicated in a patient with ischemic heart disease?",
+    "options": ["Less than 8 g%", "Less than 12 g%", "Less than 10 g%", "Less than 6 g%"],
+    "correct": 2,
+    "explanation": "In a patient with major disease like ischemic heart disease, transfusion is indicated when Hb is less than 10 g%."
+  },
+  {
+    "question": "What type of anesthesia should be avoided for vitamin B12 deficiency anemia?",
+    "options": ["General anesthesia", "Regional anesthesia", "Local anesthesia", "Monitored anesthesia care"],
+    "correct": 1,
+    "explanation": "Regional anesthesia should be avoided for vitamin B12 deficiency anemia due to possibility of neurological deficits."
+  },
+  {
+    "question": "Which inhalational agent should be avoided in megaloblastic anemia?",
+    "options": ["Sevoflurane", "Isoflurane", "Nitrous oxide", "Desflurane"],
+    "correct": 2,
+    "explanation": "Nitrous oxide can cause megaloblastic anemia therefore should be avoided for vitamin B12 deficiency anemia."
+  },
+  {
+    "question": "What effect does alkalosis have on the oxygen dissociation curve?",
+    "options": ["Shifts it to the right", "Shifts it to the left", "No effect", "Flattens the curve"],
+    "correct": 1,
+    "explanation": "Alkalosis (especially caused by hyperventilation) shifts the oxygen dissociation curve to the left, increasing the oxygen requirement."
+  },
+  {
+    "question": "How is the uptake of inhalational agents affected in anemia patients?",
+    "options": ["Decreased uptake", "Increased uptake offset by increased cardiac output", "No change", "Significantly increased uptake"],
+    "correct": 1,
+    "explanation": "Increase uptake of inhalational agents is offset by increased cardiac output seen in anemia patients."
+  },
+  {
+    "question": "What is the risk status of patients having sickle cell trait?",
+    "options": ["High risk of complications", "No increase in morbidity and mortality", "Moderate risk", "Same as sickle cell disease"],
+    "correct": 1,
+    "explanation": "There is no increase in morbidity and mortality in patients having sickle cell trait while patients with sickle cell disease are at high risk."
+  },
+  {
+    "question": "Which patients with sickle cell disease should NOT be taken for elective surgery?",
+    "options": ["Patients with HbS < 30%", "Patients in acute crisis phase", "Patients with normal hematocrit", "Patients on hydroxyurea"],
+    "correct": 1,
+    "explanation": "Patients in acute crisis phase must not be taken for elective surgery."
+  },
+  {
+    "question": "What is the target hematocrit for red cell transfusion in sickle cell patients?",
+    "options": ["Hematocrit > 20", "Hematocrit > 30 (Hemoglobin > 10 g%)", "Hematocrit > 40", "Hematocrit > 50"],
+    "correct": 1,
+    "explanation": "The aim is to correct the anemia by giving red cell transfusion with the target hematocrit > 30 (Hemoglobin > 10 g%)."
+  },
+  {
+    "question": "What is the most important perioperative goal in sickle cell patients?",
+    "options": ["Maintain high hemoglobin", "Avoid factors that precipitate sickling", "Use only general anesthesia", "Maintain hypothermia"],
+    "correct": 1,
+    "explanation": "The most important perioperative goal is to avoid factors which can precipitate sickling: hypoxia, acidosis, dehydration, hypothermia, stress and pain."
+  },
+  {
+    "question": "Which factors can precipitate sickling in sickle cell disease?",
+    "options": ["Alkalosis and hyperhydration", "Hypoxia, acidosis, dehydration, hypothermia, stress and pain", "Hyperoxia and warmth", "Only hypoxia"],
+    "correct": 1,
+    "explanation": "Factors that precipitate sickling include hypoxia, acidosis, dehydration, hypothermia, stress and pain."
+  },
+  {
+    "question": "How should dehydration be managed preoperatively in sickle cell patients?",
+    "options": ["Oral fluids only", "IV fluids should be started in preoperative period", "No fluids needed", "Fluid restriction"],
+    "correct": 1,
+    "explanation": "To avoid dehydration, intravenous fluids should be started in preoperative period."
+  },
+  {
+    "question": "What premedication is recommended for sickle cell patients to avoid stress and anxiety?",
+    "options": ["Opioids", "Benzodiazepines", "Anticholinergics", "Antihistamines"],
+    "correct": 1,
+    "explanation": "To avoid stress and anxiety these patients must be premedicated with benzodiazepines."
+  },
+  {
+    "question": "Is intravenous regional anesthesia (Bier's block) safe in sickle cell patients?",
+    "options": ["Yes, it is the preferred technique", "No, it does not hold true in current day practice due to tourniquet use", "Only with short procedures", "Only without tourniquet"],
+    "correct": 1,
+    "explanation": "The old recommendation of giving IV regional anesthesia (Bier's block) to sickle cell patients does not hold true in current day practice due to tourniquet use."
+  },
+  {
+    "question": "Can tourniquet be used in sickle cell patients?",
+    "options": ["Absolutely contraindicated", "Can be used safely with minimal possible pressure for minimal period", "Can be used without any precautions", "Only pneumatic tourniquet allowed"],
+    "correct": 1,
+    "explanation": "Per current guidelines, tourniquet can be used safely in sickle cell patients with a little higher complications. It is recommended to use for minimal period with minimal possible pressure."
+  },
+  {
+    "question": "What must be avoided at any cost in sickle cell patients?",
+    "options": ["Regional anesthesia", "Factors which precipitate sickling", "Blood transfusion", "Inhalational agents"],
+    "correct": 1,
+    "explanation": "The factors which precipitate sickling must be avoided at any cost."
+  },
+  {
+    "question": "When does acute lung syndrome usually occur postoperatively in sickle cell patients?",
+    "options": ["Within 24 hours", "After 48-72 hours in postoperative period", "After 1 week", "Immediately after extubation"],
+    "correct": 1,
+    "explanation": "Acute lung syndrome usually occurs after 48-72 hours in postoperative period."
+  },
+  {
+    "question": "What is the risk level of patients with thalassemia minor?",
+    "options": ["High risk", "Not high risk", "Moderate risk", "Very high risk"],
+    "correct": 1,
+    "explanation": "Patients with thalassemia minor are not high risk while those with thalassemia major are high risk patients for perioperative morbidity and mortality."
+  },
+  {
+    "question": "What can skeletal abnormalities of maxilla in thalassemia cause?",
+    "options": ["Easy intubation", "Difficult intubation", "Laryngospasm", "Bronchospasm"],
+    "correct": 1,
+    "explanation": "Skeletal abnormalities of maxilla (maxillary overgrowth) can make intubation difficult."
+  },
+  {
+    "question": "What organ involvement should be assessed in thalassemia major patients?",
+    "options": ["Only liver", "Hepatosplenomegaly, skeletal involvement, CHF, and consequences of iron overload including cirrhosis", "Only spleen", "Only cardiac"],
+    "correct": 1,
+    "explanation": "It is important to assess organ involvement like hepatosplenomegaly, skeletal involvement, congestive heart failure and consequences of iron overload like cirrhosis."
+  },
+  {
+    "question": "What is the target hematocrit for polycythemia patients before elective surgery?",
+    "options": ["Less than 55", "Less than 45", "Less than 35", "Less than 50"],
+    "correct": 1,
+    "explanation": "Reduce hematocrit to <45 and platelet count (usually associated with polycythemia) to less than 4 lakhs before taking the patient for elective surgery."
+  },
+  {
+    "question": "What additional bleeding risk exists in polycythemia patients?",
+    "options": ["DIC", "Decreased von Willebrand factor", "Increased fibrinolysis", "Vitamin K deficiency"],
+    "correct": 1,
+    "explanation": "Patients with polycythemia are at increased risk of bleeding due to decrease von Willebrand factor seen in polycythemia."
+  },
+  {
+    "question": "What is the recommended platelet count for considering surgery in thrombocytopenia?",
+    "options": ["> 100,000/mm³", "> 50,000/mm³", "> 25,000/mm³", "> 150,000/mm³"],
+    "correct": 1,
+    "explanation": "Platelet count of > 50,000/mm³ is recommended before considering for surgery."
+  },
+  {
+    "question": "At what platelet count can neurosurgical patients be considered for surgery?",
+    "options": ["> 50,000", "> 100,000 (cannot if < 100,000)", "> 30,000", "> 150,000"],
+    "correct": 1,
+    "explanation": "Neurosurgical patients cannot be considered for surgery if their platelet count is < 100,000."
+  },
+  {
+    "question": "Which patients need platelet transfusion before surgery regardless of platelet count?",
+    "options": ["Asymptomatic patients", "Symptomatic patients with spontaneous bleeding", "All surgical patients", "Only cardiac patients"],
+    "correct": 1,
+    "explanation": "Symptomatic patients (spontaneous bleeding) irrespective of their platelet count need platelet transfusion before surgery."
+  },
+  {
+    "question": "Above what platelet count can central neuraxial blocks be safely given?",
+    "options": ["> 50,000/cubic mm", "> 80,000/cubic mm", "> 100,000/cubic mm", "> 30,000/cubic mm"],
+    "correct": 1,
+    "explanation": "Patients with platelet count more than 80,000/cubic mm can be safely given central neuraxial blocks."
+  },
+  {
+    "question": "What is the relative contraindication range for platelet count regarding central neuraxial blocks?",
+    "options": ["< 30,000", "Between 50,000 and 80,000/cubic mm", "Between 80,000 and 100,000", "< 50,000"],
+    "correct": 1,
+    "explanation": "Platelet count between 50,000 and 80,000/cubic mm is a relative contraindication while count less than 50,000 is an absolute contraindication."
+  },
+  {
+    "question": "What should the deficit coagulation factor be increased to before considering a patient with coagulation deficiency for surgery?",
+    "options": ["At least 25% of normal", "At least 50% of normal", "At least 75% of normal", "At least 100% of normal"],
+    "correct": 1,
+    "explanation": "The deficit factor should be increased to at least 50% of the normal before considering the patient for surgery."
+  },
+  {
+    "question": "How can coagulation factors be replenished preoperatively?",
+    "options": ["Platelet transfusion", "Fresh frozen plasma or cryoprecipitate or recombinant factor", "Whole blood only", "Vitamin K only"],
+    "correct": 1,
+    "explanation": "The deficit factor can be increased by administration of fresh frozen plasma, cryoprecipitate or recombinant factor."
+  },
+  {
+    "question": "What type of anesthesia is contraindicated in coagulation deficiency disorders?",
+    "options": ["General anesthesia", "Regional anesthesia", "Local anesthesia", "IV sedation"],
+    "correct": 1,
+    "explanation": "Regional anesthesia is contraindicated in coagulation deficiency disorders."
+  },
+  {
+    "question": "Why should intramuscular route be avoided in coagulation disorders?",
+    "options": ["Poor absorption", "Risk of hematoma formation", "Pain", "Infection risk"],
+    "correct": 1,
+    "explanation": "Intramuscular route should be avoided in coagulation disorders due to risk of bleeding/hematoma."
+  },
+  {
+    "question": "Who should perform intubation in patients with massive bleeding in oral cavity from coagulation disorders?",
+    "options": ["Any anesthetist", "Expert hand with minimum trauma", "Surgeon", "Nurse"],
+    "correct": 1,
+    "explanation": "Intubation should be performed by expert hand with minimum trauma, otherwise there can be massive bleeding in oral cavity."
+  },
+  {
+    "question": "For how long should antithrombin levels be maintained > 80% postoperatively in hypercoagulable disorders?",
+    "options": ["2 days", "5 days", "10 days", "1 day"],
+    "correct": 1,
+    "explanation": "Antithrombin levels should be > 80% at least for 5 days in postoperative period."
+  },
+  {
+    "question": "Why are central neuraxial blocks preferred in hypercoagulable disorders?",
+    "options": ["Better pain control", "They decrease incidence of thromboembolic complications", "Easier to perform", "Shorter duration"],
+    "correct": 1,
+    "explanation": "Central neuraxial blocks are preferred because they decrease the incidence of thromboembolic complications (due to increase blood in lower limb and pelvic veins)."
+  },
+  {
+    "question": "When should DVT prophylaxis be started in hypercoagulable disorders?",
+    "options": ["Postoperatively only", "As early as possible", "After 48 hours", "Only if symptomatic"],
+    "correct": 1,
+    "explanation": "All prophylaxis against deep venous thrombosis (DVT) should be started as early as possible."
+  },
+  {
+    "question": "What does the anesthetic management of G6PD deficiency patients include?",
+    "options": ["Only monitoring hemoglobin", "Assessing severity of anemia and avoiding drugs that trigger hemolysis", "Mandatory blood transfusion", "Only regional anesthesia"],
+    "correct": 1,
+    "explanation": "The anesthetic management includes assessing the severity of anemia and avoiding drugs and conditions which can trigger hemolysis in G6PD deficient individuals."
+  },
+  {
+    "question": "Which benzodiazepine is safe in G6PD deficiency?",
+    "options": ["None are safe", "Diazepam and midazolam", "Only lorazepam", "Only alprazolam"],
+    "correct": 1,
+    "explanation": "Diazepam; interestingly, midazolam is safe in G6PD deficiency."
+  },
+  {
+    "question": "Which inhalational agents can trigger hemolysis in G6PD deficiency?",
+    "options": ["Halothane and desflurane", "Isoflurane and sevoflurane", "Nitrous oxide only", "None of them"],
+    "correct": 1,
+    "explanation": "Isoflurane and sevoflurane can trigger hemolysis in perioperative period in G6PD deficient patients."
+  },
+  {
+    "question": "Which local anesthetics should be avoided in G6PD deficiency?",
+    "options": ["Only lidocaine", "Prilocaine, benzocaine, lignocaine and nitroglycerine", "Only bupivacaine", "All local anesthetics"],
+    "correct": 1,
+    "explanation": "Prilocaine, benzocaine, lignocaine and nitroglycerine should be avoided as they can cause methemoglobinemia which can cause significant hemolysis."
+  },
+  {
+    "question": "What is the danger of administering methylene blue to G6PD deficient patients?",
+    "options": ["It causes hypertension", "It can be life threatening", "It causes bradycardia", "No danger"],
+    "correct": 1,
+    "explanation": "Administrating methylene blue to these patients can be life threatening."
+  },
+  {
+    "question": "What conditions can trigger hemolysis in G6PD deficiency besides drugs?",
+    "options": ["Only surgery", "Acidosis, hypothermia, hyperglycemia and infection", "Only infection", "Only acidosis"],
+    "correct": 1,
+    "explanation": "Acidosis, hypothermia, hyperglycemia and infection can trigger hemolysis and must be avoided throughout in these patients."
+  },
+  {
+    "question": "Which drugs induce aminolevulinic acid synthetase and can precipitate porphyria?",
+    "options": ["Opioids", "Barbiturates (Thiopentone/Methohexitone) - absolutely contraindicated", "Propofol", "Suxamethonium"],
+    "correct": 1,
+    "explanation": "Barbiturates (Thiopentone/Methohexitone) are absolutely contraindicated as they induce aminolevulinic acid synthetase and precipitate all kinds of porphyrias except porphyria cutanea tarda and erythropoietic protoporphyrias."
+  },
+  {
+    "question": "Which agents are considered safe in porphyria patients?",
+    "options": ["Barbiturates and etomidate", "Propofol, opioids, and suxamethonium", "Diazepam and pentazocine", "Ketamine and muscle relaxants"],
+    "correct": 1,
+    "explanation": "Propofol, opioids, suxamethonium are considered as safe agents in porphyria."
+  },
+  {
+    "question": "Should regional anesthesia be used in porphyria patients with peripheral neuropathy?",
+    "options": ["Yes, it is preferred", "No, it should be avoided", "Only epidural", "Only spinal"],
+    "correct": 1,
+    "explanation": "Regional anesthesia should be avoided in the porphyria patients with peripheral neuropathy."
+  },
+  {
+    "question": "What can fasting, dehydration and infection trigger in porphyria patients?",
+    "options": ["Hemolysis", "Acute crises", "Cardiac arrest", "Seizures only"],
+    "correct": 1,
+    "explanation": "Fasting, dehydration and infection can trigger acute crises in porphyria patients."
+  },
+  {
+    "question": "Which drugs should be avoided but have not been definitively established to precipitate porphyria?",
+    "options": ["Barbiturates", "Inhalational agents, ketamine, non-depolarizing muscle relaxants", "Propofol and opioids", "Suxamethonium"],
+    "correct": 1,
+    "explanation": "Inhalational agents, ketamine, non-depolarizing muscle relaxants—although safety has not been established however, unlikely to precipitate porphyria."
+  }
+]

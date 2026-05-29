@@ -122,6 +122,12 @@ QUIZ_CATALOG = {
         "short": "Fluids & Blood (Ch 7)",
         "icon": "🩸",
     },
+    "ch26": {
+        "file": "questions_ch26.json",
+        "label": "Chapter 26 – Anesthesia for Disorders of Blood",
+        "short": "Blood Disorders (Ch 26)",
+        "icon": "🩸",
+    },
 }
 
 # ─── Load Questions ──────────────────────────────────────────────────────────
