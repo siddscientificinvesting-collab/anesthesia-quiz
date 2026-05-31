@@ -134,6 +134,12 @@ QUIZ_CATALOG = {
         "short": "Neurosurgical (Ch 27)",
         "icon": "🧠",
     },
+    "ch36": {
+        "file": "questions_ch36.json",
+        "label": "Chapter 36 – Anesthesia for Orthopedics",
+        "short": "Orthopedics (Ch 36)",
+        "icon": "🦴",
+    },
 }
 
 # ─── Load Questions ──────────────────────────────────────────────────────────
