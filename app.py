@@ -128,6 +128,12 @@ QUIZ_CATALOG = {
         "short": "Blood Disorders (Ch 26)",
         "icon": "🩸",
     },
+    "ch27": {
+        "file": "questions_ch27.json",
+        "label": "Chapter 27 – Neurosurgical Anesthesia",
+        "short": "Neurosurgical (Ch 27)",
+        "icon": "🧠",
+    },
 }
 
 # ─── Load Questions ──────────────────────────────────────────────────────────
