@@ -140,6 +140,12 @@ QUIZ_CATALOG = {
         "short": "Orthopedics (Ch 36)",
         "icon": "🦴",
     },
+    "ch37": {
+        "file": "questions_ch37.json",
+        "label": "Chapter 37 – Anesthesia at Remote Locations",
+        "short": "Remote Locations (Ch 37)",
+        "icon": "🏔️",
+    },
 }
 
 # ─── Load Questions ──────────────────────────────────────────────────────────

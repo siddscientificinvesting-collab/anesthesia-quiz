@@ -1,0 +1,409 @@
+{
+  "title": "Anesthesia at Remote Locations MCQ – Chapter 37",
+  "source": "Short Textbook of Anesthesia – Ajay Yadav",
+  "section": "Section 8: Subspecialty Anesthetic Management (Chapter 37)",
+  "total_questions": 50,
+  "time_limit_minutes": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What chronic condition do patients at high altitudes (low barometric pressure) have?",
+      "options": {"A": "Chronic hyperoxia", "B": "Chronic hypoxia", "C": "Chronic hypercapnia", "D": "Chronic alkalosis"},
+      "answer": "B",
+      "explanation": "The patients at high altitudes (low barometric pressure) have chronic hypoxia which can lead to polycythemia, pulmonary hypertension, decreased pCO2 and lower bicarbonate concentration.",
+      "topic": "High Altitude"
+    },
+    {
+      "id": 2,
+      "question": "What complications can chronic hypoxia at high altitude lead to?",
+      "options": {"A": "Only polycythemia", "B": "Polycythemia, pulmonary hypertension, decreased pCO2 and lower bicarbonate concentration", "C": "Only pulmonary hypertension", "D": "Only respiratory alkalosis"},
+      "answer": "B",
+      "explanation": "Chronic hypoxia can lead to polycythemia, pulmonary hypertension, decreased pCO2 (due to hyperventilation) and lower bicarbonate concentration (as a compensatory mechanism to low pCO2).",
+      "topic": "High Altitude"
+    },
+    {
+      "id": 3,
+      "question": "What happens to the potency of anesthetic gases at high altitudes?",
+      "options": {"A": "Increases", "B": "Decreases (proportional to partial pressure which decreases at high altitude)", "C": "Remains same", "D": "Becomes unpredictable"},
+      "answer": "B",
+      "explanation": "Potency of anesthetic gases is proportional to their partial pressure. At high altitudes where barometric pressure is decreased, the potency also decreases.",
+      "topic": "High Altitude"
+    },
+    {
+      "id": 4,
+      "question": "At what altitude is the potency of nitrous oxide reduced to 50%?",
+      "options": {"A": "2,000 meters", "B": "More than 3,300 meters", "C": "1,500 meters", "D": "5,000 meters"},
+      "answer": "B",
+      "explanation": "The potency of nitrous oxide is reduced to 50% at altitudes >3,300 meters.",
+      "topic": "High Altitude"
+    },
+    {
+      "id": 5,
+      "question": "At what altitude should nitrous oxide not be used?",
+      "options": {"A": "More than 1,000 meters", "B": "More than 2,000 meters", "C": "More than 3,000 meters", "D": "More than 4,000 meters"},
+      "answer": "B",
+      "explanation": "It is recommended that nitrous oxide should not be used at altitudes more than 2,000 meters.",
+      "topic": "High Altitude"
+    },
+    {
+      "id": 6,
+      "question": "What happens to the density of gases at high altitudes and how does it affect the rotameter?",
+      "options": {"A": "Density increases, rotameter over-reads", "B": "Density decreases, rotameter under reads the actual flow rate", "C": "No change", "D": "Density decreases, rotameter over-reads"},
+      "answer": "B",
+      "explanation": "Density of gases decreases at high altitudes, therefore, rotameter under reads the actual flow rate and this error may be up to 4 liters/minute.",
+      "topic": "High Altitude"
+    },
+    {
+      "id": 7,
+      "question": "By how much can the rotameter error be at high altitudes?",
+      "options": {"A": "Up to 1 liter/minute", "B": "Up to 4 liters/minute", "C": "Up to 2 liters/minute", "D": "Up to 6 liters/minute"},
+      "answer": "B",
+      "explanation": "The rotameter under reads the actual flow rate and this error may be up to 4 liters/minute.",
+      "topic": "High Altitude"
+    },
+    {
+      "id": 8,
+      "question": "At altered barometric pressure, do all vaporizers deliver fixed partial pressure of vapor?",
+      "options": {"A": "Yes, all vaporizers", "B": "All except desflurane deliver fixed partial pressure", "C": "None of them", "D": "Only sevoflurane vaporizer"},
+      "answer": "B",
+      "explanation": "At altered barometric pressure, all vaporizers (except desflurane) deliver fixed partial pressure of vapor. Therefore, vaporizer settings need not be changed at low or high barometric pressure except for desflurane.",
+      "topic": "High Altitude"
+    },
+    {
+      "id": 9,
+      "question": "Which vaporizer needs upward adjustment at high altitude?",
+      "options": {"A": "Isoflurane", "B": "Desflurane", "C": "Sevoflurane", "D": "Halothane"},
+      "answer": "B",
+      "explanation": "Vaporizer settings need not be changed at low or high barometric pressure except for desflurane, which needs an upward adjustment at high altitude.",
+      "topic": "High Altitude"
+    },
+    {
+      "id": 10,
+      "question": "Why do Venturi type devices deliver higher oxygen at high altitude?",
+      "options": {"A": "Due to increased pressure", "B": "Because of decreased density and resistance", "C": "Due to increased humidity", "D": "Due to higher flow rates"},
+      "answer": "B",
+      "explanation": "Venturi type devices deliver higher oxygen (because of decreased density and resistance).",
+      "topic": "High Altitude"
+    },
+    {
+      "id": 11,
+      "question": "Why is blood loss during surgery more at high altitude?",
+      "options": {"A": "Due to coagulopathy", "B": "Due to high venous pressure and blood volume", "C": "Due to hypothermia", "D": "Due to polycythemia only"},
+      "answer": "B",
+      "explanation": "Blood loss during surgery is more due to high venous pressure and blood volume.",
+      "topic": "High Altitude"
+    },
+    {
+      "id": 12,
+      "question": "Why are chances of postoperative hypoxemia high at high altitude?",
+      "options": {"A": "Due to anemia", "B": "Due to low ambient partial pressure of oxygen", "C": "Due to hyperventilation", "D": "Due to metabolic alkalosis"},
+      "answer": "B",
+      "explanation": "In the postoperative period, chances of hypoxemia are high due to low ambient partial pressure of oxygen.",
+      "topic": "High Altitude"
+    },
+    {
+      "id": 13,
+      "question": "What is the incidence of postspinal headache at high altitude under regional anesthesia?",
+      "options": {"A": "Low", "B": "High (due to increased CSF pressure)", "C": "Same as sea level", "D": "Very rare"},
+      "answer": "B",
+      "explanation": "The incidence of postspinal headache is high due to increased CSF pressure.",
+      "topic": "High Altitude"
+    },
+    {
+      "id": 14,
+      "question": "In hyperbaric chamber, what can happen to tissues with nitrous oxide?",
+      "options": {"A": "Tissues become dehydrated", "B": "Tissues can become supersaturated causing significant diffusion hypoxia", "C": "No effect", "D": "Tissues become acidotic"},
+      "answer": "B",
+      "explanation": "Tissues can become supersaturated with nitrous oxide causing significant diffusion hypoxia.",
+      "topic": "Hyperbaric Chamber"
+    },
+    {
+      "id": 15,
+      "question": "Why should nitrous oxide not be used in helium atmosphere?",
+      "options": {"A": "It causes explosion", "B": "The effect of supersaturation is more evident in helium atmosphere", "C": "It reacts with helium", "D": "It becomes toxic"},
+      "answer": "B",
+      "explanation": "The effect of supersaturation is more evident in helium atmosphere, therefore nitrous oxide should not be used in helium atmosphere.",
+      "topic": "Hyperbaric Chamber"
+    },
+    {
+      "id": 16,
+      "question": "Why does the rotameter falsely give high values in hyperbaric chamber?",
+      "options": {"A": "Due to low pressure", "B": "Due to increased gas density", "C": "Due to temperature changes", "D": "Due to humidity"},
+      "answer": "B",
+      "explanation": "Rotameter will falsely give high values due to increased gas density.",
+      "topic": "Hyperbaric Chamber"
+    },
+    {
+      "id": 17,
+      "question": "What should the endotracheal tube cuff be filled with in hyperbaric chamber?",
+      "options": {"A": "Air", "B": "Water or saline", "C": "Nitrous oxide", "D": "Helium"},
+      "answer": "B",
+      "explanation": "Endotracheal tube cuff should be filled with water or saline.",
+      "topic": "Hyperbaric Chamber"
+    },
+    {
+      "id": 18,
+      "question": "What happens to the vaporizer output in hyperbaric chamber?",
+      "options": {"A": "Increases", "B": "Becomes less", "C": "Remains same", "D": "Becomes unpredictable"},
+      "answer": "B",
+      "explanation": "The vaporizer output becomes less.",
+      "topic": "Hyperbaric Chamber"
+    },
+    {
+      "id": 19,
+      "question": "Is regional anesthesia safe in hyperbaric chamber?",
+      "options": {"A": "No, it is contraindicated", "B": "Yes, regional anesthesia is safe", "C": "Only spinal is safe", "D": "Only epidural is safe"},
+      "answer": "B",
+      "explanation": "Regional anesthesia is safe.",
+      "topic": "Hyperbaric Chamber"
+    },
+    {
+      "id": 20,
+      "question": "What does anesthesia outside operating theater mean?",
+      "options": {"A": "Field anesthesia only", "B": "All procedures done outside the operation theater (radiology, MRI, CT scan, gastroscopy, cardiology, neurology etc.)", "C": "Only emergency procedures", "D": "Only dental procedures"},
+      "answer": "B",
+      "explanation": "Nonoperating room anesthesia means all procedures done outside the operation theater. For example, anesthesia services utilized in radiology (MRI, CT scan), gastroscopy suites, intervention cardiology and neurology, etc.",
+      "topic": "Outside OT"
+    },
+    {
+      "id": 21,
+      "question": "What are the challenges of procedure rooms outside OT?",
+      "options": {"A": "Only space issues", "B": "Small and crowded, making placement of anesthesia machine, drug trolley, emergency cart and patient access difficult", "C": "Only equipment issues", "D": "Only staffing issues"},
+      "answer": "B",
+      "explanation": "Procedure rooms are often small and crowded making placement of anesthesia machine, drug trolley, emergency cart and patient access difficult.",
+      "topic": "Outside OT"
+    },
+    {
+      "id": 22,
+      "question": "What equipment-related challenge exists in nonoperating room anesthesia?",
+      "options": {"A": "Too much equipment", "B": "Nonavailability of adequate equipment, monitors, technical support and help in case of emergency", "C": "Equipment is too modern", "D": "Only monitor issues"},
+      "answer": "B",
+      "explanation": "Nonavailability of adequate equipment, monitors, technical support and help in case of emergency.",
+      "topic": "Outside OT"
+    },
+    {
+      "id": 23,
+      "question": "In MRI suites, why does the anesthetist stand far away from the patient?",
+      "options": {"A": "Due to radiation", "B": "Due to the magnetic field (MRI suites require special non-ferrous equipment)", "C": "Due to noise", "D": "Due to temperature"},
+      "answer": "B",
+      "explanation": "Many times, like MRI suites, anesthetist stands far away from the patient.",
+      "topic": "Outside OT"
+    },
+    {
+      "id": 24,
+      "question": "Why do medical proceduralists sometimes view anesthesia demand as obstructive?",
+      "options": {"A": "Due to cost", "B": "Unlike surgeons, many medical proceduralists do not understand the intricacies and importance of anesthesia", "C": "Due to scheduling conflicts", "D": "Due to space constraints"},
+      "answer": "B",
+      "explanation": "Unlike surgeons, many of the medical proceduralists do not understand the intricacies and importance of anesthesia. Any demand by anesthetist is often considered as obstructive by medical specialist.",
+      "topic": "Outside OT"
+    },
+    {
+      "id": 25,
+      "question": "How do patients undergoing medical procedures compare to surgical patients in terms of health status?",
+      "options": {"A": "They are healthier", "B": "They are often even sicker than surgical patients and seldom evaluated and medically optimized preoperatively", "C": "They are the same", "D": "They are always well-prepared"},
+      "answer": "B",
+      "explanation": "Majority of the patients undergoing medical procedures are even sicker than surgical patients. In spite of that, they are seldom evaluated and medically optimized in preoperative period.",
+      "topic": "Outside OT"
+    },
+    {
+      "id": 26,
+      "question": "What is the risk associated with radiology procedures requiring anesthesia?",
+      "options": {"A": "Risk of hypothermia", "B": "Risk of exposure to radiation", "C": "Risk of bleeding", "D": "Risk of infection"},
+      "answer": "B",
+      "explanation": "Risk of exposure to radiation.",
+      "topic": "Outside OT"
+    },
+    {
+      "id": 27,
+      "question": "What complication can occur in radiology procedures?",
+      "options": {"A": "Only bleeding", "B": "Contrast-related anaphylaxis", "C": "Only infection", "D": "Only pain"},
+      "answer": "B",
+      "explanation": "Contrast-related anaphylaxis can occur in radiology procedures.",
+      "topic": "Outside OT"
+    },
+    {
+      "id": 28,
+      "question": "Why may patients for nonoperating room procedures not be adequately fasting?",
+      "options": {"A": "They refuse to fast", "B": "Cases often come as unbooked, disturbing the schedule, and patients may not be adequately fasting", "C": "Fasting is not required", "D": "They are always admitted"},
+      "answer": "B",
+      "explanation": "Majority of the times, cases come as unbooked and so, disturbing the schedule. Patients may not be adequately fasting.",
+      "topic": "Outside OT"
+    },
+    {
+      "id": 29,
+      "question": "What is the full fasting recommendation for nonoperating room anesthesia?",
+      "options": {"A": "4 hours for all", "B": "6 hours for light food, 8 hours for full meal, and 2 hours for water", "C": "8 hours for everything", "D": "No fasting required"},
+      "answer": "B",
+      "explanation": "Full fasting recommendation, i.e. 6 hours for light food, 8 hours for a full meal, and 2 hours for water is mandatory.",
+      "topic": "Outside OT"
+    },
+    {
+      "id": 30,
+      "question": "Why is inadequate sedation a concern in nonoperating room procedures?",
+      "options": {"A": "It causes awareness", "B": "It can lead to conversion to general anesthesia, so full fasting is mandatory", "C": "It causes pain only", "D": "It is never a concern"},
+      "answer": "B",
+      "explanation": "Inadequate sedation leading to conversion to general anesthesia is very common, therefore, full fasting recommendation is mandatory.",
+      "topic": "Outside OT"
+    },
+    {
+      "id": 31,
+      "question": "What monitoring is highly desirable for spontaneously breathing patients in nonoperating room anesthesia?",
+      "options": {"A": "Only pulse oximetry", "B": "Capnography (nasal capnography for spontaneously breathing patients) - can pick up life-threatening complications very early", "C": "Only ECG", "D": "Only blood pressure"},
+      "answer": "B",
+      "explanation": "Other than pulse oximetry, ECG and BP, capnography (nasal capnography for spontaneously breathing patients) is highly desirable; capnography can pick up life-threatening complications very early.",
+      "topic": "Outside OT"
+    },
+    {
+      "id": 32,
+      "question": "What anesthesia technique is most often used for nonoperating room procedures?",
+      "options": {"A": "General anesthesia with intubation", "B": "Either sedation with midazolam or total intravenous anesthesia (TIVA) with Propofol + Remifentanil", "C": "Spinal anesthesia", "D": "Only local anesthesia"},
+      "answer": "B",
+      "explanation": "Most often either sedation with midazolam or total intravenous anesthesia (TIVA) with Propofol + Remifentanil is utilized for nonoperating room procedures.",
+      "topic": "Outside OT"
+    },
+    {
+      "id": 33,
+      "question": "In India, what is used instead of Remifentanil for TIVA in nonoperating room procedures?",
+      "options": {"A": "Morphine", "B": "Fentanyl (due to nonavailability of remifentanil)", "C": "Sufentanil", "D": "Alfentanil"},
+      "answer": "B",
+      "explanation": "In India fentanyl, due to nonavailability of remifentanil, is utilized for nonoperating room procedures.",
+      "topic": "Outside OT"
+    },
+    {
+      "id": 34,
+      "question": "What must all equipment in MRI suites be made of?",
+      "options": {"A": "Stainless steel", "B": "Aluminum (MRI compatible, nonferrous)", "C": "Plastic only", "D": "Copper"},
+      "answer": "B",
+      "explanation": "For MRI suites, everything including anesthesia machine, monitors, oxygen cylinders must be MRI compatible, i.e. nonferrous. The equipments used in MRI suites are made up of aluminum.",
+      "topic": "Outside OT"
+    },
+    {
+      "id": 35,
+      "question": "Why is nonoperating room anesthesia considered very challenging?",
+      "options": {"A": "Due to complex surgeries", "B": "Due to small crowded space, inadequate equipment, inadequate preoperative evaluation, and inadequate knowledge of anesthesia intricacies by proceduralists", "C": "Due to long procedures only", "D": "Due to patient refusal"},
+      "answer": "B",
+      "explanation": "Small and crowded space, nonavailability of adequate equipment, monitors, technical support and help in case of emergency, inadequate preoperative evaluation of patients and inadequate knowledge of anesthesia intricacies by medical proceduralists make nonoperating room anesthesia very challenging.",
+      "topic": "Outside OT"
+    },
+    {
+      "id": 36,
+      "question": "Is nonoperating room anesthesia preferred by most anesthetists?",
+      "options": {"A": "Yes, most preferred", "B": "No, it is the least preferred by majority of anesthetists", "C": "Equally preferred", "D": "Only preferred by junior anesthetists"},
+      "answer": "B",
+      "explanation": "Nonoperating room anesthesia is very challenging and least preferred by majority of anesthetists.",
+      "topic": "Outside OT"
+    },
+    {
+      "id": 37,
+      "question": "What is the compensation for anesthetists working outside OT compared to surgical cases?",
+      "options": {"A": "Same compensation", "B": "Almost always undercompensated financially compared to surgical cases", "C": "Better compensation", "D": "No compensation"},
+      "answer": "B",
+      "explanation": "In spite of the high risk and adverse working circumstances, anesthetists are almost always undercompensated financially as compared to surgical cases.",
+      "topic": "Outside OT"
+    },
+    {
+      "id": 38,
+      "question": "Why is pCO2 decreased at high altitude?",
+      "options": {"A": "Due to decreased metabolism", "B": "Due to hyperventilation (compensatory response to chronic hypoxia)", "C": "Due to increased CO2 production", "D": "Due to renal compensation"},
+      "answer": "B",
+      "explanation": "Decreased pCO2 is due to hyperventilation which is a compensatory response to chronic hypoxia at high altitude.",
+      "topic": "High Altitude"
+    },
+    {
+      "id": 39,
+      "question": "Why is bicarbonate concentration lower at high altitude?",
+      "options": {"A": "Due to metabolic acidosis", "B": "As a compensatory mechanism to low pCO2 (renal compensation for respiratory alkalosis)", "C": "Due to dehydration", "D": "Due to increased renal excretion of CO2"},
+      "answer": "B",
+      "explanation": "Lower bicarbonate concentration is a compensatory mechanism to low pCO2.",
+      "topic": "High Altitude"
+    },
+    {
+      "id": 40,
+      "question": "At what altitude is it recommended to not use nitrous oxide?",
+      "options": {"A": "More than 1,000 meters", "B": "More than 2,000 meters", "C": "More than 4,000 meters", "D": "More than 500 meters"},
+      "answer": "B",
+      "explanation": "It is recommended that nitrous oxide should not be used at altitudes more than 2,000 meters.",
+      "topic": "High Altitude"
+    },
+    {
+      "id": 41,
+      "question": "What is the effect of high altitude on pulmonary circulation?",
+      "options": {"A": "Pulmonary hypotension", "B": "Pulmonary hypertension", "C": "No effect", "D": "Pulmonary vasodilation"},
+      "answer": "B",
+      "explanation": "Chronic hypoxia at high altitude can lead to pulmonary hypertension.",
+      "topic": "High Altitude"
+    },
+    {
+      "id": 42,
+      "question": "What happens to all vaporizers except desflurane at altered barometric pressure?",
+      "options": {"A": "They need recalibration", "B": "They deliver fixed partial pressure of vapor so settings need not be changed", "C": "They malfunction", "D": "They deliver higher concentration"},
+      "answer": "B",
+      "explanation": "At altered barometric pressure, all vaporizers (except desflurane) deliver fixed partial pressure of vapor. Therefore, vaporizer settings need not be changed.",
+      "topic": "High Altitude"
+    },
+    {
+      "id": 43,
+      "question": "What is the fasting duration for water before nonoperating room anesthesia?",
+      "options": {"A": "4 hours", "B": "2 hours", "C": "6 hours", "D": "1 hour"},
+      "answer": "B",
+      "explanation": "Full fasting recommendation: 6 hours for light food, 8 hours for a full meal, and 2 hours for water.",
+      "topic": "Outside OT"
+    },
+    {
+      "id": 44,
+      "question": "What is the fasting duration for a full meal before nonoperating room anesthesia?",
+      "options": {"A": "6 hours", "B": "8 hours", "C": "4 hours", "D": "10 hours"},
+      "answer": "B",
+      "explanation": "Full fasting recommendation: 8 hours for a full meal.",
+      "topic": "Outside OT"
+    },
+    {
+      "id": 45,
+      "question": "What is the fasting duration for light food before nonoperating room anesthesia?",
+      "options": {"A": "4 hours", "B": "6 hours", "C": "8 hours", "D": "2 hours"},
+      "answer": "B",
+      "explanation": "Full fasting recommendation: 6 hours for light food.",
+      "topic": "Outside OT"
+    },
+    {
+      "id": 46,
+      "question": "Can capnography detect life-threatening complications early in nonoperating room anesthesia?",
+      "options": {"A": "No, it has limited use", "B": "Yes, capnography can pick up life-threatening complications very early", "C": "Only in intubated patients", "D": "Only for cardiac complications"},
+      "answer": "B",
+      "explanation": "Capnography can pick up life-threatening complications very early. It is highly desirable for nonoperating room anesthesia.",
+      "topic": "Outside OT"
+    },
+    {
+      "id": 47,
+      "question": "Why must oxygen cylinders in MRI suites be made of aluminum?",
+      "options": {"A": "Aluminum is cheaper", "B": "They must be MRI compatible (nonferrous) - ferrous materials are attracted by the magnetic field", "C": "Aluminum is lighter", "D": "Aluminum stores more oxygen"},
+      "answer": "B",
+      "explanation": "For MRI suites, everything including oxygen cylinders must be MRI compatible, i.e. nonferrous. The equipments used in MRI suites are made up of aluminum.",
+      "topic": "Outside OT"
+    },
+    {
+      "id": 48,
+      "question": "What type of polycythemia develops at high altitude?",
+      "options": {"A": "Primary polycythemia", "B": "Secondary polycythemia (due to chronic hypoxia stimulating erythropoietin)", "C": "Polycythemia vera", "D": "Relative polycythemia"},
+      "answer": "B",
+      "explanation": "Chronic hypoxia at high altitude leads to polycythemia as a compensatory mechanism to increase oxygen carrying capacity.",
+      "topic": "High Altitude"
+    },
+    {
+      "id": 49,
+      "question": "What is the main reason nonoperating room anesthesia cases are challenging regarding scheduling?",
+      "options": {"A": "Too many cases", "B": "Majority of cases come as unbooked, disturbing the schedule", "C": "Too few cases", "D": "Complex procedures"},
+      "answer": "B",
+      "explanation": "Majority of the times, cases come as unbooked and so, disturbing the schedule.",
+      "topic": "Outside OT"
+    },
+    {
+      "id": 50,
+      "question": "Are full fasting recommendations required for non-operating room anesthesia?",
+      "options": {"A": "No, shorter fasting is acceptable", "B": "Yes, full fasting recommendations are required", "C": "Only for GA", "D": "Only for pediatric patients"},
+      "answer": "B",
+      "explanation": "Full fasting recommendations are required for non-operating room anesthesia.",
+      "topic": "Outside OT"
+    }
+  ]
+}
