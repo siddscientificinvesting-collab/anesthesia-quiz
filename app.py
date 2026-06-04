@@ -146,6 +146,12 @@ QUIZ_CATALOG = {
         "short": "Remote Locations (Ch 37)",
         "icon": "🏔️",
     },
+    "ch35": {
+        "file": "questions_ch35.json",
+        "label": "Chapter 35 – Anesthesia for Trauma and Burns",
+        "short": "Trauma & Burns (Ch 35)",
+        "icon": "🔥",
+    },
 }
 
 # ─── Load Questions ──────────────────────────────────────────────────────────
