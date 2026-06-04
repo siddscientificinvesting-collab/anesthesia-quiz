@@ -8,15 +8,25 @@
     {
       "id": 1,
       "question": "What special problems does orthopedic anesthesia pose?",
-      "options": {"A": "Only blood loss", "B": "Lengthy procedures, increased blood loss, positioning, tourniquet-related problems, fat embolism and DVT", "C": "Only positioning issues", "D": "Only tourniquet problems"},
-      "answer": "B",
+      "options": {
+        "A": "Only blood loss",
+        "B": "Only tourniquet problems",
+        "C": "Lengthy procedures, increased blood loss, positioning, tourniquet-related problems, fat embolism and DVT",
+        "D": "Only positioning issues"
+      },
+      "answer": "C",
       "explanation": "Orthopedic anesthesia poses special problems due to lengthy procedures, increase blood loss, positioning, tourniquet-related problems, complications like fat embolism and deep vein thrombosis.",
       "topic": "General"
     },
     {
       "id": 2,
       "question": "What complications are associated with tourniquet during inflation?",
-      "options": {"A": "Hypotension and decreased cardiac output", "B": "Hypertension, increased cardiac output and increased pulmonary artery pressure", "C": "Bradycardia", "D": "Hypothermia"},
+      "options": {
+        "A": "Hypothermia",
+        "B": "Hypertension, increased cardiac output and increased pulmonary artery pressure",
+        "C": "Hypotension and decreased cardiac output",
+        "D": "Bradycardia"
+      },
       "answer": "B",
       "explanation": "During inflation: Hypertension, increased cardiac output and increased pulmonary artery pressure. This is due to increased blood volume associated with exsanguination.",
       "topic": "Tourniquet Problems"
@@ -24,23 +34,38 @@
     {
       "id": 3,
       "question": "What metabolic change occurs within 6 minutes of tourniquet inflation?",
-      "options": {"A": "Alkalosis", "B": "Local tissue ischemia leads to acidosis (mitochondrial pO2 becomes zero)", "C": "Hyperglycemia", "D": "No metabolic change"},
-      "answer": "B",
+      "options": {
+        "A": "Local tissue ischemia leads to acidosis (mitochondrial pO2 becomes zero)",
+        "B": "No metabolic change",
+        "C": "Alkalosis",
+        "D": "Hyperglycemia"
+      },
+      "answer": "A",
       "explanation": "Metabolic changes: Local tissue ischemia leads to acidosis (mitochondrial pO2 becomes zero within 6 minutes of tourniquet inflation).",
       "topic": "Tourniquet Problems"
     },
     {
       "id": 4,
       "question": "How is pain during tourniquet inflation relieved?",
-      "options": {"A": "By IV analgesics", "B": "Only by deflation (not relieved by IV analgesics)", "C": "By local anesthetics", "D": "By increasing tourniquet pressure"},
-      "answer": "B",
+      "options": {
+        "A": "Only by deflation (not relieved by IV analgesics)",
+        "B": "By local anesthetics",
+        "C": "By IV analgesics",
+        "D": "By increasing tourniquet pressure"
+      },
+      "answer": "A",
       "explanation": "Pain is due to cellular acidosis, therefore may not be relieved by intravenous analgesics. It is relieved only by deflation.",
       "topic": "Tourniquet Problems"
     },
     {
       "id": 5,
       "question": "What causes hypotension during tourniquet deflation?",
-      "options": {"A": "Blood loss", "B": "Sudden release of accumulated metabolites like thromboxane and substance P", "C": "Cardiac depression", "D": "Vasovagal reflex"},
+      "options": {
+        "A": "Vasovagal reflex",
+        "B": "Sudden release of accumulated metabolites like thromboxane and substance P",
+        "C": "Blood loss",
+        "D": "Cardiac depression"
+      },
       "answer": "B",
       "explanation": "Hypotension because of sudden release of accumulated metabolites like thromboxane and substance P.",
       "topic": "Tourniquet Problems"
@@ -48,31 +73,51 @@
     {
       "id": 6,
       "question": "Why does hypothermia occur during tourniquet deflation?",
-      "options": {"A": "Due to cold fluids", "B": "Due to heat loss as acid metabolites are vasodilators", "C": "Due to air conditioning", "D": "Due to blood transfusion"},
-      "answer": "B",
+      "options": {
+        "A": "Due to heat loss as acid metabolites are vasodilators",
+        "B": "Due to blood transfusion",
+        "C": "Due to air conditioning",
+        "D": "Due to cold fluids"
+      },
+      "answer": "A",
       "explanation": "Hypothermia due to heat loss as acid metabolites are vasodilators.",
       "topic": "Tourniquet Problems"
     },
     {
       "id": 7,
       "question": "What happens to end tidal CO2 during tourniquet deflation?",
-      "options": {"A": "Decreases", "B": "Transient increase (CO2 accumulated in limb is released)", "C": "No change", "D": "Becomes zero"},
-      "answer": "B",
+      "options": {
+        "A": "No change",
+        "B": "Decreases",
+        "C": "Becomes zero",
+        "D": "Transient increase (CO2 accumulated in limb is released)"
+      },
+      "answer": "D",
       "explanation": "Increase in end tidal CO2 (which is accumulated in limb).",
       "topic": "Tourniquet Problems"
     },
     {
       "id": 8,
       "question": "Which is the most crucial period during tourniquet use?",
-      "options": {"A": "Inflation", "B": "Deflation", "C": "During surgery", "D": "Pre-inflation"},
-      "answer": "B",
+      "options": {
+        "A": "Inflation",
+        "B": "Pre-inflation",
+        "C": "During surgery",
+        "D": "Deflation"
+      },
+      "answer": "D",
       "explanation": "Deflation is the most crucial period. Cardiac arrest may occur at the time of deflation due to hypotension and release of acid metabolites.",
       "topic": "Tourniquet Problems"
     },
     {
       "id": 9,
       "question": "What is the maximum duration for tourniquet pressure for upper and lower limbs?",
-      "options": {"A": "1 hour", "B": "Not more than 2 hours for both upper and lower limbs", "C": "3 hours", "D": "4 hours for lower limbs"},
+      "options": {
+        "A": "4 hours for lower limbs",
+        "B": "Not more than 2 hours for both upper and lower limbs",
+        "C": "3 hours",
+        "D": "1 hour"
+      },
       "answer": "B",
       "explanation": "Pressure in tourniquet should not exceed more than 2 hours for both upper and lower limbs.",
       "topic": "Tourniquet Problems"
@@ -80,15 +125,25 @@
     {
       "id": 10,
       "question": "If re-inflation of tourniquet is needed, how long should it be deflated first?",
-      "options": {"A": "10 minutes", "B": "At least 30 minutes", "C": "5 minutes", "D": "1 hour"},
-      "answer": "B",
+      "options": {
+        "A": "1 hour",
+        "B": "10 minutes",
+        "C": "5 minutes",
+        "D": "At least 30 minutes"
+      },
+      "answer": "D",
       "explanation": "If re-inflation is needed, then it should be deflated for at least 30 minutes before re-inflating.",
       "topic": "Tourniquet Problems"
     },
     {
       "id": 11,
       "question": "What is the maximum tourniquet pressure above systolic?",
-      "options": {"A": "50 mm Hg above systolic", "B": "Not more than 100 mm Hg above systolic (maximum 250 mm Hg)", "C": "150 mm Hg above systolic", "D": "200 mm Hg above systolic"},
+      "options": {
+        "A": "150 mm Hg above systolic",
+        "B": "Not more than 100 mm Hg above systolic (maximum 250 mm Hg)",
+        "C": "200 mm Hg above systolic",
+        "D": "50 mm Hg above systolic"
+      },
       "answer": "B",
       "explanation": "Pressure in tourniquet should not exceed more than 100 mm Hg above systolic (maximum-250 mm Hg).",
       "topic": "Tourniquet Problems"
@@ -96,31 +151,51 @@
     {
       "id": 12,
       "question": "What complication may occur if tourniquet pressure is high or time is prolonged?",
-      "options": {"A": "Infection", "B": "Neuropraxia", "C": "Compartment syndrome", "D": "Thrombosis"},
-      "answer": "B",
+      "options": {
+        "A": "Infection",
+        "B": "Thrombosis",
+        "C": "Neuropraxia",
+        "D": "Compartment syndrome"
+      },
+      "answer": "C",
       "explanation": "Post-tourniquet: Neuropraxia may occur if tourniquet pressure is high or time is prolonged.",
       "topic": "Tourniquet Problems"
     },
     {
       "id": 13,
       "question": "When is fat embolism syndrome (FES) usually seen?",
-      "options": {"A": "After abdominal surgery", "B": "After fracture of long bones and pelvis", "C": "After cardiac surgery", "D": "After spinal surgery"},
-      "answer": "B",
+      "options": {
+        "A": "After cardiac surgery",
+        "B": "After spinal surgery",
+        "C": "After fracture of long bones and pelvis",
+        "D": "After abdominal surgery"
+      },
+      "answer": "C",
       "explanation": "Usually seen after fracture of long bones and pelvis. Incidence of significant embolism after long bone and pelvic fractures may be as high as 15%.",
       "topic": "Fat Embolism"
     },
     {
       "id": 14,
       "question": "When does fat embolism classically present after fracture?",
-      "options": {"A": "Within 6 hours", "B": "Within 24-72 hours", "C": "After 1 week", "D": "Immediately"},
-      "answer": "B",
+      "options": {
+        "A": "Immediately",
+        "B": "After 1 week",
+        "C": "Within 24-72 hours",
+        "D": "Within 6 hours"
+      },
+      "answer": "C",
       "explanation": "Fat embolism classically presents within 24-72 hours of fracture.",
       "topic": "Fat Embolism"
     },
     {
       "id": 15,
       "question": "Is the incidence of FES higher in nailing or plating?",
-      "options": {"A": "Higher in plating", "B": "Higher in nailing compared to plating", "C": "Same in both", "D": "Neither causes FES"},
+      "options": {
+        "A": "Higher in plating",
+        "B": "Higher in nailing compared to plating",
+        "C": "Same in both",
+        "D": "Neither causes FES"
+      },
       "answer": "B",
       "explanation": "Due to rimming the incidence of fat embolism syndrome (FES), is higher in nailing as compared to plating.",
       "topic": "Fat Embolism"
@@ -128,23 +203,38 @@
     {
       "id": 16,
       "question": "What is the classic triad of fat embolism syndrome?",
-      "options": {"A": "Fever, tachycardia, hypotension", "B": "Dyspnea, confusion and petechial hemorrhages", "C": "Headache, vomiting, seizures", "D": "Chest pain, cough, hemoptysis"},
-      "answer": "B",
+      "options": {
+        "A": "Chest pain, cough, hemoptysis",
+        "B": "Headache, vomiting, seizures",
+        "C": "Dyspnea, confusion and petechial hemorrhages",
+        "D": "Fever, tachycardia, hypotension"
+      },
+      "answer": "C",
       "explanation": "The triad of fat embolism syndrome is dyspnea, confusion and petechial hemorrhages.",
       "topic": "Fat Embolism"
     },
     {
       "id": 17,
       "question": "What is pathognomonic of fat embolism syndrome?",
-      "options": {"A": "Dyspnea", "B": "Petechial rash", "C": "Confusion", "D": "Tachycardia"},
-      "answer": "B",
+      "options": {
+        "A": "Confusion",
+        "B": "Dyspnea",
+        "C": "Tachycardia",
+        "D": "Petechial rash"
+      },
+      "answer": "D",
       "explanation": "Petechial rash is pathognomonic of FES.",
       "topic": "Fat Embolism"
     },
     {
       "id": 18,
       "question": "What are the signs and symptoms of fat embolism?",
-      "options": {"A": "Only respiratory symptoms", "B": "Dyspnea, chest discomfort, tachycardia, hypotension, mental clouding, restlessness, seizures, delirium, petechial hemorrhage on upper chest, axilla and conjunctiva, hypoxia and finally coma and death", "C": "Only neurological symptoms", "D": "Only petechial rash"},
+      "options": {
+        "A": "Only neurological symptoms",
+        "B": "Dyspnea, chest discomfort, tachycardia, hypotension, mental clouding, restlessness, seizures, delirium, petechial hemorrhage on upper chest, axilla and conjunctiva, hypoxia and finally coma and death",
+        "C": "Only petechial rash",
+        "D": "Only respiratory symptoms"
+      },
       "answer": "B",
       "explanation": "Signs include dyspnea, chest discomfort, tachycardia, hypotension, mental clouding, restlessness, seizures, delirium, petechial hemorrhage on upper chest, axilla and conjunctiva, hypoxia and finally coma and death.",
       "topic": "Fat Embolism"
@@ -152,31 +242,51 @@
     {
       "id": 19,
       "question": "What do fat globules in urine indicate regarding fat embolism?",
-      "options": {"A": "Definitive diagnosis of FES", "B": "Helpful in diagnosis but may not necessarily indicate progression to FES", "C": "No significance", "D": "Rules out FES"},
-      "answer": "B",
+      "options": {
+        "A": "No significance",
+        "B": "Definitive diagnosis of FES",
+        "C": "Helpful in diagnosis but may not necessarily indicate progression to FES",
+        "D": "Rules out FES"
+      },
+      "answer": "C",
       "explanation": "The fat globules in urine are helpful in diagnosis, but may not necessarily indicate the progression to fat embolism syndrome.",
       "topic": "Fat Embolism"
     },
     {
       "id": 20,
       "question": "What does X-ray chest show in fat embolism?",
-      "options": {"A": "Consolidation", "B": "Diffuse interstitial infiltrates", "C": "Pleural effusion", "D": "Pneumothorax"},
-      "answer": "B",
+      "options": {
+        "A": "Consolidation",
+        "B": "Pleural effusion",
+        "C": "Diffuse interstitial infiltrates",
+        "D": "Pneumothorax"
+      },
+      "answer": "C",
       "explanation": "X-ray chest shows diffuse interstitial infiltrates.",
       "topic": "Fat Embolism"
     },
     {
       "id": 21,
       "question": "What does capnography show in fat embolism?",
-      "options": {"A": "Increase in end tidal CO2", "B": "Fall in end tidal CO2 (ETCO2 may become zero if embolus is large enough to block main pulmonary artery)", "C": "No change", "D": "Fluctuating ETCO2"},
-      "answer": "B",
+      "options": {
+        "A": "Increase in end tidal CO2",
+        "B": "Fluctuating ETCO2",
+        "C": "No change",
+        "D": "Fall in end tidal CO2 (ETCO2 may become zero if embolus is large enough to block main pulmonary artery)"
+      },
+      "answer": "D",
       "explanation": "Capnography shows fall in end tidal CO2 (ETCO2 may become zero if embolus is large enough to block the main pulmonary artery).",
       "topic": "Fat Embolism"
     },
     {
       "id": 22,
       "question": "What ECG finding is seen in fat embolism?",
-      "options": {"A": "Left ventricular strain", "B": "Right ventricular strain", "C": "ST elevation", "D": "Atrial fibrillation"},
+      "options": {
+        "A": "Atrial fibrillation",
+        "B": "Right ventricular strain",
+        "C": "ST elevation",
+        "D": "Left ventricular strain"
+      },
       "answer": "B",
       "explanation": "ECG shows the right ventricular strain.",
       "topic": "Fat Embolism"
@@ -184,31 +294,51 @@
     {
       "id": 23,
       "question": "What happens to serum lipase in fat embolism?",
-      "options": {"A": "Decreased", "B": "Increased (but has no relation to severity of disease)", "C": "Normal", "D": "Absent"},
-      "answer": "B",
+      "options": {
+        "A": "Increased (but has no relation to severity of disease)",
+        "B": "Absent",
+        "C": "Normal",
+        "D": "Decreased"
+      },
+      "answer": "A",
       "explanation": "Serum lipase is increased (but has no relation to the severity of disease).",
       "topic": "Fat Embolism"
     },
     {
       "id": 24,
       "question": "What is the first step in treatment of fat embolism?",
-      "options": {"A": "Heparin therapy", "B": "Early stabilization of fracture (may prevent fat embolism)", "C": "Corticosteroids", "D": "Ethanol infusion"},
-      "answer": "B",
+      "options": {
+        "A": "Heparin therapy",
+        "B": "Ethanol infusion",
+        "C": "Early stabilization of fracture (may prevent fat embolism)",
+        "D": "Corticosteroids"
+      },
+      "answer": "C",
       "explanation": "Stabilization of fracture: Early stabilization of fracture may prevent fat embolism.",
       "topic": "Fat Embolism"
     },
     {
       "id": 25,
       "question": "What ventilatory support is used if hypoxia persists on oxygen therapy in fat embolism?",
-      "options": {"A": "High flow nasal cannula only", "B": "Intermittent positive pressure ventilation (IPPV) with positive end expiratory pressure (PEEP)", "C": "Non-invasive ventilation only", "D": "CPAP only"},
-      "answer": "B",
+      "options": {
+        "A": "CPAP only",
+        "B": "Non-invasive ventilation only",
+        "C": "High flow nasal cannula only",
+        "D": "Intermittent positive pressure ventilation (IPPV) with positive end expiratory pressure (PEEP)"
+      },
+      "answer": "D",
       "explanation": "If hypoxia persists on oxygen therapy consider intermittent positive pressure ventilation (IPPV) with positive end expiratory pressure (PEEP).",
       "topic": "Fat Embolism"
     },
     {
       "id": 26,
       "question": "What is the pathophysiology of fat embolism in the lungs?",
-      "options": {"A": "Causes bronchospasm", "B": "Fat emboli cause endothelial injury which can precipitate ARDS and cerebral edema", "C": "Causes pneumothorax", "D": "Causes pleural effusion"},
+      "options": {
+        "A": "Causes pleural effusion",
+        "B": "Fat emboli cause endothelial injury which can precipitate ARDS and cerebral edema",
+        "C": "Causes bronchospasm",
+        "D": "Causes pneumothorax"
+      },
       "answer": "B",
       "explanation": "Fat emboli released from long bone causes endothelial injury in the lungs and brain, which can precipitate acute respiratory distress syndrome (ARDS) and cerebral edema respectively.",
       "topic": "Fat Embolism"
@@ -216,7 +346,12 @@
     {
       "id": 27,
       "question": "Are corticosteroids, heparin and ethanol considered effective treatments for fat embolism currently?",
-      "options": {"A": "Yes, they are first-line treatment", "B": "No, they are now considered as outdated treatment modalities", "C": "Only corticosteroids are effective", "D": "Only heparin is effective"},
+      "options": {
+        "A": "Only corticosteroids are effective",
+        "B": "No, they are now considered as outdated treatment modalities",
+        "C": "Only heparin is effective",
+        "D": "Yes, they are first-line treatment"
+      },
       "answer": "B",
       "explanation": "Corticosteroids, heparin (which stimulates circulating lipase that breaks neutral fat), ethanol and hypertonic saline are now considered as outdated treatment modalities.",
       "topic": "Fat Embolism"
@@ -224,39 +359,64 @@
     {
       "id": 28,
       "question": "What is the incidence of fatal pulmonary embolism (PE) after hip surgery?",
-      "options": {"A": "5-10%", "B": "1-3%", "C": "10-15%", "D": "Less than 0.5%"},
-      "answer": "B",
+      "options": {
+        "A": "5-10%",
+        "B": "Less than 0.5%",
+        "C": "1-3%",
+        "D": "10-15%"
+      },
+      "answer": "C",
       "explanation": "The incidence of fatal PE after hip surgery can be as high as 1-3%.",
       "topic": "DVT and PE"
     },
     {
       "id": 29,
       "question": "In which orthopedic patients is the incidence of DVT and PE highest?",
-      "options": {"A": "Upper limb surgery patients", "B": "Hip surgery patients particularly after prolonged immobilization", "C": "Arthroscopy patients", "D": "Hand surgery patients"},
-      "answer": "B",
+      "options": {
+        "A": "Upper limb surgery patients",
+        "B": "Arthroscopy patients",
+        "C": "Hand surgery patients",
+        "D": "Hip surgery patients particularly after prolonged immobilization"
+      },
+      "answer": "D",
       "explanation": "The incidence of deep vein thrombosis (DVT) and pulmonary embolism (PE) is highest in orthopedic patients particularly after hip surgery due to prolonged immobilization.",
       "topic": "DVT and PE"
     },
     {
       "id": 30,
       "question": "When should low molecular weight heparin be started for DVT prophylaxis in hip surgery?",
-      "options": {"A": "24 hours before surgery", "B": "12 hours or more in preoperative period and restart 12 hours after surgery", "C": "Only postoperatively", "D": "Immediately before surgery"},
-      "answer": "B",
+      "options": {
+        "A": "Immediately before surgery",
+        "B": "24 hours before surgery",
+        "C": "Only postoperatively",
+        "D": "12 hours or more in preoperative period and restart 12 hours after surgery"
+      },
+      "answer": "D",
       "explanation": "Many centers start low molecular weight heparin before 12 hours or more in preoperative period and restart 12 hours after surgery.",
       "topic": "DVT and PE"
     },
     {
       "id": 31,
       "question": "What serious complications have been reported in shoulder surgeries done in beach chair position?",
-      "options": {"A": "Only hypotension", "B": "Stroke or even brain death due to ischemia", "C": "Only nerve injury", "D": "Only bleeding"},
-      "answer": "B",
+      "options": {
+        "A": "Stroke or even brain death due to ischemia",
+        "B": "Only nerve injury",
+        "C": "Only hypotension",
+        "D": "Only bleeding"
+      },
+      "answer": "A",
       "explanation": "There have been case reports of stroke or even brain death in shoulder surgeries done in beach chair position due to ischemia.",
       "topic": "Positioning"
     },
     {
       "id": 32,
       "question": "Where should the arterial pressure transducer be zeroed for shoulder surgeries in beach chair position?",
-      "options": {"A": "At the level of the heart", "B": "At the level of external auditory meatus to denote cerebral perfusion pressure", "C": "At the level of the arm", "D": "At the level of the hip"},
+      "options": {
+        "A": "At the level of the hip",
+        "B": "At the level of external auditory meatus to denote cerebral perfusion pressure",
+        "C": "At the level of the arm",
+        "D": "At the level of the heart"
+      },
       "answer": "B",
       "explanation": "Invasive blood pressure is highly recommended for shoulder surgeries done in the beach chair position with transducer zeroed at the level of external auditory meatus to denote cerebral perfusion pressure.",
       "topic": "Positioning"
@@ -264,39 +424,64 @@
     {
       "id": 33,
       "question": "What is cement implantation syndrome (CIS)?",
-      "options": {"A": "Infection due to cement", "B": "Hypoxia, profound hypotension or even cardiac arrest occurring during cemented prosthesis in total hip replacement", "C": "Allergic reaction to cement", "D": "Local tissue necrosis"},
-      "answer": "B",
+      "options": {
+        "A": "Hypoxia, profound hypotension or even cardiac arrest occurring during cemented prosthesis in total hip replacement",
+        "B": "Allergic reaction to cement",
+        "C": "Infection due to cement",
+        "D": "Local tissue necrosis"
+      },
+      "answer": "A",
       "explanation": "Cement implantation syndrome (CIS) occurs more commonly in total hip replacement where cemented prosthesis is used. There occurs hypoxia, profound hypotension or even cardiac arrest.",
       "topic": "Cement Implantation"
     },
     {
       "id": 34,
       "question": "What causes cement implantation syndrome?",
-      "options": {"A": "Allergic reaction only", "B": "Embolization of bone marrow debris, microemboli or fat due to increased intramedullary pressure or reaction to cement (methyl methacrylate)", "C": "Infection", "D": "Blood loss"},
-      "answer": "B",
+      "options": {
+        "A": "Blood loss",
+        "B": "Infection",
+        "C": "Allergic reaction only",
+        "D": "Embolization of bone marrow debris, microemboli or fat due to increased intramedullary pressure or reaction to cement (methyl methacrylate)"
+      },
+      "answer": "D",
       "explanation": "It may occur because of embolization of bone marrow debris, microemboli or fat due to increased intramedullary pressure created by cement or due to reaction to cement (methyl methacrylate).",
       "topic": "Cement Implantation"
     },
     {
       "id": 35,
       "question": "What is the treatment for cement implantation syndrome?",
-      "options": {"A": "Only IV fluids", "B": "Oxygenation, adequate hydration and adrenaline for severe reactions", "C": "Only steroids", "D": "Antihistamines"},
-      "answer": "B",
+      "options": {
+        "A": "Oxygenation, adequate hydration and adrenaline for severe reactions",
+        "B": "Antihistamines",
+        "C": "Only steroids",
+        "D": "Only IV fluids"
+      },
+      "answer": "A",
       "explanation": "The treatment includes Oxygenation, adequate hydration and adrenaline for severe reactions.",
       "topic": "Cement Implantation"
     },
     {
       "id": 36,
       "question": "Why is regional anesthesia always preferred over general anesthesia for orthopedic surgeries?",
-      "options": {"A": "Only because of cost", "B": "Due to decreased incidence of thromboembolism, decreased blood loss, fewer respiratory complications and better control of pain", "C": "Only because of convenience", "D": "Only because of faster recovery"},
-      "answer": "B",
+      "options": {
+        "A": "Due to decreased incidence of thromboembolism, decreased blood loss, fewer respiratory complications and better control of pain",
+        "B": "Only because of cost",
+        "C": "Only because of convenience",
+        "D": "Only because of faster recovery"
+      },
+      "answer": "A",
       "explanation": "Regional anesthesia is always preferred over general anesthesia due to decrease incidence of thromboembolism, decrease blood loss, respiratory complications and better control of pain.",
       "topic": "Choice of Anesthesia"
     },
     {
       "id": 37,
       "question": "What type of regional block is used for upper limb surgeries?",
-      "options": {"A": "Spinal block", "B": "Brachial plexus block", "C": "Epidural", "D": "Femoral nerve block"},
+      "options": {
+        "A": "Femoral nerve block",
+        "B": "Brachial plexus block",
+        "C": "Epidural",
+        "D": "Spinal block"
+      },
       "answer": "B",
       "explanation": "Upper limb surgeries can be performed under brachial plexus block.",
       "topic": "Choice of Anesthesia"
@@ -304,7 +489,12 @@
     {
       "id": 38,
       "question": "What block can be used for small procedures lasting less than 30-45 minutes?",
-      "options": {"A": "Brachial plexus block", "B": "Bier's block (IV regional anesthesia)", "C": "Spinal anesthesia", "D": "General anesthesia"},
+      "options": {
+        "A": "Brachial plexus block",
+        "B": "Bier's block (IV regional anesthesia)",
+        "C": "Spinal anesthesia",
+        "D": "General anesthesia"
+      },
       "answer": "B",
       "explanation": "Small procedures lasting less than 30-45 minutes can be performed under Bier's block.",
       "topic": "Choice of Anesthesia"
@@ -312,87 +502,142 @@
     {
       "id": 39,
       "question": "What is the most preferred technique for lower limb surgeries?",
-      "options": {"A": "General anesthesia", "B": "Spinal/epidural or combined spinal epidural (most preferred technique)", "C": "Bier's block", "D": "Femoral nerve block alone"},
-      "answer": "B",
+      "options": {
+        "A": "General anesthesia",
+        "B": "Bier's block",
+        "C": "Spinal/epidural or combined spinal epidural (most preferred technique)",
+        "D": "Femoral nerve block alone"
+      },
+      "answer": "C",
       "explanation": "Lower limb surgeries are performed under spinal/epidural or combined spinal epidural (most preferred technique).",
       "topic": "Choice of Anesthesia"
     },
     {
       "id": 40,
       "question": "When is general anesthesia required for orthopedic surgery?",
-      "options": {"A": "For all surgeries", "B": "For very prolonged surgeries of upper limb, shoulder or spine surgeries or when regional is not possible", "C": "Only for spine surgery", "D": "Only for hip replacement"},
-      "answer": "B",
+      "options": {
+        "A": "Only for hip replacement",
+        "B": "For all surgeries",
+        "C": "Only for spine surgery",
+        "D": "For very prolonged surgeries of upper limb, shoulder or spine surgeries or when regional is not possible"
+      },
+      "answer": "D",
       "explanation": "General anesthesia is required either for very prolonged surgeries of upper limb, shoulder or spine surgeries or when regional is not possible.",
       "topic": "Choice of Anesthesia"
     },
     {
       "id": 41,
       "question": "What nerve blocks are frequently utilized for postoperative analgesia in orthopedics?",
-      "options": {"A": "Only epidural", "B": "Continuous adductor canal block for knee, fascia iliaca/femoral nerve block for hip surgeries, brachial plexus block for upper limb", "C": "Only femoral nerve block", "D": "Only local infiltration"},
-      "answer": "B",
+      "options": {
+        "A": "Only local infiltration",
+        "B": "Only femoral nerve block",
+        "C": "Continuous adductor canal block for knee, fascia iliaca/femoral nerve block for hip surgeries, brachial plexus block for upper limb",
+        "D": "Only epidural"
+      },
+      "answer": "C",
       "explanation": "Continuous adductor canal block for knee replacement, fascia iliaca/femoral nerve block for hip surgeries, brachial plexus block for upper limb surgeries are frequently utilized for postoperative analgesia.",
       "topic": "Pain Management"
     },
     {
       "id": 42,
       "question": "In what position is spine surgery performed?",
-      "options": {"A": "Supine", "B": "Prone position under general anesthesia", "C": "Lateral", "D": "Sitting"},
-      "answer": "B",
+      "options": {
+        "A": "Supine",
+        "B": "Lateral",
+        "C": "Sitting",
+        "D": "Prone position under general anesthesia"
+      },
+      "answer": "D",
       "explanation": "Spine surgery is performed under general anesthesia in prone position.",
       "topic": "Spine Surgery"
     },
     {
       "id": 43,
       "question": "What are the complications related to prone position in spine surgery?",
-      "options": {"A": "Only hypotension", "B": "Endotracheal tube dislodgement, airway edema, injury to brachial plexus and peroneal nerve, injury to genitalia and breast, ocular injury (postoperative vision loss), hypotension", "C": "Only nerve injury", "D": "Only airway problems"},
-      "answer": "B",
+      "options": {
+        "A": "Endotracheal tube dislodgement, airway edema, injury to brachial plexus and peroneal nerve, injury to genitalia and breast, ocular injury (postoperative vision loss), hypotension",
+        "B": "Only hypotension",
+        "C": "Only nerve injury",
+        "D": "Only airway problems"
+      },
+      "answer": "A",
       "explanation": "Complications related to prone position include endotracheal tube dislodgement, airway edema, injury to brachial plexus and peroneal nerve, injury to genitalia and breast, ocular injury (post-operative vision loss), hypotension.",
       "topic": "Spine Surgery"
     },
     {
       "id": 44,
       "question": "What monitoring is required for major spine surgeries like scoliosis?",
-      "options": {"A": "Only routine monitoring", "B": "Monitoring of spinal cord function by evoked responses like SSEP, MEP and EMG", "C": "Only blood pressure", "D": "Only pulse oximetry"},
-      "answer": "B",
+      "options": {
+        "A": "Monitoring of spinal cord function by evoked responses like SSEP, MEP and EMG",
+        "B": "Only routine monitoring",
+        "C": "Only blood pressure",
+        "D": "Only pulse oximetry"
+      },
+      "answer": "A",
       "explanation": "Monitoring of spinal cord function is required for major spine surgeries like scoliosis. The function of the spinal cord is monitored by evoked responses like somatosensory evoked potential (SSEP), motor evoked potential (MEP) and electromyogram (EMG).",
       "topic": "Spine Surgery"
     },
     {
       "id": 45,
       "question": "Is wake up test done in current day practice for spinal cord monitoring?",
-      "options": {"A": "Yes, it is the standard", "B": "No, it is not performed in current day practice", "C": "Only in pediatric patients", "D": "Only in cervical spine surgery"},
-      "answer": "B",
+      "options": {
+        "A": "No, it is not performed in current day practice",
+        "B": "Yes, it is the standard",
+        "C": "Only in pediatric patients",
+        "D": "Only in cervical spine surgery"
+      },
+      "answer": "A",
       "explanation": "Wake up test done in the past is not performed in current day practice.",
       "topic": "Spine Surgery"
     },
     {
       "id": 46,
       "question": "What should be the concentration of inhalational agents during evoked response monitoring?",
-      "options": {"A": "Full MAC", "B": "Half minimum alveolar concentration (MAC) as inhalational agents can depress evoked responses", "C": "1.5 MAC", "D": "No inhalational agents at all"},
-      "answer": "B",
+      "options": {
+        "A": "Half minimum alveolar concentration (MAC) as inhalational agents can depress evoked responses",
+        "B": "Full MAC",
+        "C": "1.5 MAC",
+        "D": "No inhalational agents at all"
+      },
+      "answer": "A",
       "explanation": "As inhalational agents can depress these evoked responses their concentration should be kept at half minimum alveolar concentration (MAC).",
       "topic": "Spine Surgery"
     },
     {
       "id": 47,
       "question": "Do IV agents preserve evoked responses?",
-      "options": {"A": "No, they suppress them completely", "B": "Yes, IV agents preserve evoked responses except a little inhibition seen with Propofol", "C": "Only ketamine preserves them", "D": "Only opioids preserve them"},
-      "answer": "B",
+      "options": {
+        "A": "Only opioids preserve them",
+        "B": "No, they suppress them completely",
+        "C": "Only ketamine preserves them",
+        "D": "Yes, IV agents preserve evoked responses except a little inhibition seen with Propofol"
+      },
+      "answer": "D",
       "explanation": "IV agents preserve evoked responses except a little inhibition seen with Propofol.",
       "topic": "Spine Surgery"
     },
     {
       "id": 48,
       "question": "Can muscle relaxants be used during MEP monitoring?",
-      "options": {"A": "Yes, all muscle relaxants can be used", "B": "No, muscle relaxants cannot be used during MEP monitoring", "C": "Only succinylcholine", "D": "Only non-depolarizing agents"},
-      "answer": "B",
+      "options": {
+        "A": "Only non-depolarizing agents",
+        "B": "Only succinylcholine",
+        "C": "Yes, all muscle relaxants can be used",
+        "D": "No, muscle relaxants cannot be used during MEP monitoring"
+      },
+      "answer": "D",
       "explanation": "Muscle relaxants cannot be used during MEP monitoring.",
       "topic": "Spine Surgery"
     },
     {
       "id": 49,
       "question": "What can happen at the time of tourniquet deflation that is most dangerous?",
-      "options": {"A": "Only hypotension", "B": "Cardiac arrest", "C": "Only pain", "D": "Only hypothermia"},
+      "options": {
+        "A": "Only hypothermia",
+        "B": "Cardiac arrest",
+        "C": "Only pain",
+        "D": "Only hypotension"
+      },
       "answer": "B",
       "explanation": "Cardiac arrest can occur at the time of tourniquet deflation.",
       "topic": "Tourniquet Problems"
@@ -400,8 +645,13 @@
     {
       "id": 50,
       "question": "What coagulation changes are seen in fat embolism?",
-      "options": {"A": "Decreased clotting time", "B": "Increased clotting time and decreased platelets", "C": "No coagulation changes", "D": "Only increased platelets"},
-      "answer": "B",
+      "options": {
+        "A": "Decreased clotting time",
+        "B": "Only increased platelets",
+        "C": "Increased clotting time and decreased platelets",
+        "D": "No coagulation changes"
+      },
+      "answer": "C",
       "explanation": "Coagulation abnormalities like increased clotting time and decreased platelets are seen in fat embolism.",
       "topic": "Fat Embolism"
     }

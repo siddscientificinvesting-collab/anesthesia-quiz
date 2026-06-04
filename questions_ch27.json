@@ -8,23 +8,38 @@
     {
       "id": 1,
       "question": "What is cerebral perfusion pressure (CPP)?",
-      "options": {"A": "Difference between systolic and diastolic pressure", "B": "Difference between mean arterial pressure and intracranial pressure", "C": "Sum of MAP and ICP", "D": "Difference between CVP and ICP"},
-      "answer": "B",
+      "options": {
+        "A": "Sum of MAP and ICP",
+        "B": "Difference between CVP and ICP",
+        "C": "Difference between mean arterial pressure and intracranial pressure",
+        "D": "Difference between systolic and diastolic pressure"
+      },
+      "answer": "C",
       "explanation": "Cerebral perfusion pressure (CPP) is the difference between mean arterial pressure and intracranial pressure.",
       "topic": "Cerebral Physiology"
     },
     {
       "id": 2,
       "question": "What is the normal cerebral blood flow (CBF) per 100 g of brain tissue?",
-      "options": {"A": "25 mL", "B": "50 mL", "C": "75 mL", "D": "100 mL"},
-      "answer": "B",
+      "options": {
+        "A": "75 mL",
+        "B": "25 mL",
+        "C": "50 mL",
+        "D": "100 mL"
+      },
+      "answer": "C",
       "explanation": "CBF is 50 mL/100 g of brain tissue.",
       "topic": "Cerebral Physiology"
     },
     {
       "id": 3,
       "question": "Between what range of mean arterial pressure is CBF maintained at constant level by autoregulation?",
-      "options": {"A": "50 and 100 mm Hg", "B": "60 and 150 mm Hg", "C": "80 and 180 mm Hg", "D": "40 and 120 mm Hg"},
+      "options": {
+        "A": "50 and 100 mm Hg",
+        "B": "60 and 150 mm Hg",
+        "C": "80 and 180 mm Hg",
+        "D": "40 and 120 mm Hg"
+      },
       "answer": "B",
       "explanation": "CBF is maintained at constant level by autoregulation when mean arterial pressure is between 60 mm Hg and 150 mm Hg.",
       "topic": "Cerebral Physiology"
@@ -32,7 +47,12 @@
     {
       "id": 4,
       "question": "Which of the following can abolish cerebral autoregulatory mechanism?",
-      "options": {"A": "Mild hypothermia", "B": "Cerebral ischemia, head injury, hypercarbia, hypoxia, brain edema and inhalational agents", "C": "Propofol", "D": "Moderate hypocapnia"},
+      "options": {
+        "A": "Moderate hypocapnia",
+        "B": "Cerebral ischemia, head injury, hypercarbia, hypoxia, brain edema and inhalational agents",
+        "C": "Propofol",
+        "D": "Mild hypothermia"
+      },
       "answer": "B",
       "explanation": "Cerebral ischemia, head injury, hypercarbia, hypoxia, brain edema and inhalational agents can abolish this autoregulatory mechanism.",
       "topic": "Cerebral Physiology"
@@ -40,7 +60,12 @@
     {
       "id": 5,
       "question": "By how much does each mm increase in pCO2 above 40 mm Hg increase CBF?",
-      "options": {"A": "5-10 mL/min", "B": "15-30 mL/min", "C": "35-50 mL/min", "D": "50-70 mL/min"},
+      "options": {
+        "A": "5-10 mL/min",
+        "B": "15-30 mL/min",
+        "C": "50-70 mL/min",
+        "D": "35-50 mL/min"
+      },
       "answer": "B",
       "explanation": "Each mm increase in pCO2 above 40 mm Hg increases CBF by 15-30 mL/min.",
       "topic": "Cerebral Physiology"
@@ -48,15 +73,25 @@
     {
       "id": 6,
       "question": "When does pO2 increase cerebral blood flow?",
-      "options": {"A": "When pO2 is above 100 mm Hg", "B": "Only if pO2 is below 60 mm Hg", "C": "When pO2 is between 60-80 mm Hg", "D": "Always"},
-      "answer": "B",
+      "options": {
+        "A": "Only if pO2 is below 60 mm Hg",
+        "B": "When pO2 is between 60-80 mm Hg",
+        "C": "When pO2 is above 100 mm Hg",
+        "D": "Always"
+      },
+      "answer": "A",
       "explanation": "pO2 increases CBF only if pO2 is below 60 mm Hg.",
       "topic": "Cerebral Physiology"
     },
     {
       "id": 7,
       "question": "Which IV anesthetics decrease cerebral blood flow?",
-      "options": {"A": "Ketamine and opioids", "B": "All inhalational agents, ketamine and opioids increase CBF while barbiturates, propofol, etomidate and benzodiazepines decrease CBF", "C": "All agents decrease CBF", "D": "Only barbiturates"},
+      "options": {
+        "A": "All agents decrease CBF",
+        "B": "All inhalational agents, ketamine and opioids increase CBF while barbiturates, propofol, etomidate and benzodiazepines decrease CBF",
+        "C": "Only barbiturates",
+        "D": "Ketamine and opioids"
+      },
       "answer": "B",
       "explanation": "All inhalational agents, ketamine and opioids increase CBF while propofol, etomidate and benzodiazepines decreases the CBF.",
       "topic": "Cerebral Physiology"
@@ -64,15 +99,25 @@
     {
       "id": 8,
       "question": "What increases the cerebral metabolic rate (CMR)?",
-      "options": {"A": "Hypothermia and anesthetics", "B": "Hyperthermia and seizures", "C": "Propofol", "D": "Barbiturates"},
-      "answer": "B",
+      "options": {
+        "A": "Barbiturates",
+        "B": "Propofol",
+        "C": "Hypothermia and anesthetics",
+        "D": "Hyperthermia and seizures"
+      },
+      "answer": "D",
       "explanation": "Hyperthermia, seizures increase the cerebral metabolic rate (CMR) while hypothermia and anesthetics decreases the cerebral metabolic rate.",
       "topic": "Cerebral Physiology"
     },
     {
       "id": 9,
       "question": "What is the normal intracranial tension (ICT)?",
-      "options": {"A": "5-8 mm Hg", "B": "10-15 mm Hg", "C": "20-25 mm Hg", "D": "1-5 mm Hg"},
+      "options": {
+        "A": "20-25 mm Hg",
+        "B": "10-15 mm Hg",
+        "C": "5-8 mm Hg",
+        "D": "1-5 mm Hg"
+      },
       "answer": "B",
       "explanation": "Normal ICT is 10-15 mm Hg.",
       "topic": "Cerebral Physiology"
@@ -80,47 +125,77 @@
     {
       "id": 10,
       "question": "At what level does ICT become significant and need aggressive treatment?",
-      "options": {"A": "> 15 mm Hg", "B": "> 20 mm Hg", "C": "> 25 mm Hg", "D": "> 30 mm Hg"},
-      "answer": "B",
+      "options": {
+        "A": "> 20 mm Hg",
+        "B": "> 15 mm Hg",
+        "C": "> 30 mm Hg",
+        "D": "> 25 mm Hg"
+      },
+      "answer": "A",
       "explanation": "ICT > 20 mm Hg is significant and needs aggressive treatment.",
       "topic": "Cerebral Physiology"
     },
     {
       "id": 11,
       "question": "What are the signs of raised ICT?",
-      "options": {"A": "Only headache", "B": "Headache, vomiting, altered sensorium, hypertension and bradycardia (Cushing reflex), papilledema, seizures, apnea, unconsciousness and death", "C": "Only papilledema", "D": "Tachycardia and hypotension"},
-      "answer": "B",
+      "options": {
+        "A": "Headache, vomiting, altered sensorium, hypertension and bradycardia (Cushing reflex), papilledema, seizures, apnea, unconsciousness and death",
+        "B": "Only papilledema",
+        "C": "Only headache",
+        "D": "Tachycardia and hypotension"
+      },
+      "answer": "A",
       "explanation": "Signs include headache, vomiting, altered sensorium, hypertension and bradycardia (Cushing reflex), papilledema, seizures, apnea, unconsciousness and death.",
       "topic": "Cerebral Physiology"
     },
     {
       "id": 12,
       "question": "What midline shift on CT scan indicates very high ICT?",
-      "options": {"A": "> 0.2 cm", "B": "> 0.5 cm", "C": "> 1.0 cm", "D": "> 1.5 cm"},
-      "answer": "B",
+      "options": {
+        "A": "> 0.5 cm",
+        "B": "> 1.0 cm",
+        "C": "> 1.5 cm",
+        "D": "> 0.2 cm"
+      },
+      "answer": "A",
       "explanation": "At very high ICT, midline shift > 0.5 cm on computed tomography (CT) scan is seen.",
       "topic": "Cerebral Physiology"
     },
     {
       "id": 13,
       "question": "What is the most rapid method of reducing ICT?",
-      "options": {"A": "Mannitol", "B": "Hyperventilation", "C": "Steroids", "D": "Diuretics"},
-      "answer": "B",
+      "options": {
+        "A": "Mannitol",
+        "B": "Steroids",
+        "C": "Diuretics",
+        "D": "Hyperventilation"
+      },
+      "answer": "D",
       "explanation": "Hyperventilation is the most rapid method of reducing ICT. It reduces ICT by causing hypocapnia which causes cerebral vasoconstriction to decrease CSF production.",
       "topic": "Methods to Decrease ICT"
     },
     {
       "id": 14,
       "question": "What is the recommended pCO2 range to maintain during hyperventilation for reducing ICT?",
-      "options": {"A": "20-25 mm Hg", "B": "25-30 mm Hg", "C": "30-35 mm Hg", "D": "35-40 mm Hg"},
-      "answer": "B",
+      "options": {
+        "A": "25-30 mm Hg",
+        "B": "35-40 mm Hg",
+        "C": "30-35 mm Hg",
+        "D": "20-25 mm Hg"
+      },
+      "answer": "A",
       "explanation": "It is recommended to maintain pCO2 between 25-30 mm Hg. Excessive hypocapnia (< 25 mm Hg) can cause cerebral ischemia.",
       "topic": "Methods to Decrease ICT"
     },
     {
       "id": 15,
       "question": "What is the most commonly used hyperosmotic drug for reducing ICT?",
-      "options": {"A": "Hypertonic saline", "B": "Mannitol", "C": "Urea", "D": "Glycerol"},
+      "options": {
+        "A": "Urea",
+        "B": "Mannitol",
+        "C": "Glycerol",
+        "D": "Hypertonic saline"
+      },
       "answer": "B",
       "explanation": "Among hyperosmotic agents, mannitol is most commonly used. These drugs are retained in intravascular compartment increasing plasma osmolarity, drawing water from brain tissue.",
       "topic": "Methods to Decrease ICT"
@@ -128,23 +203,38 @@
     {
       "id": 16,
       "question": "Why should the use of mannitol in head injury and stroke be judicious?",
-      "options": {"A": "It causes hyperglycemia", "B": "If blood brain barrier is disrupted, mannitol can enter brain tissue increasing cerebral edema", "C": "It causes hyponatremia", "D": "It has no effect"},
-      "answer": "B",
+      "options": {
+        "A": "It causes hyperglycemia",
+        "B": "It has no effect",
+        "C": "If blood brain barrier is disrupted, mannitol can enter brain tissue increasing cerebral edema",
+        "D": "It causes hyponatremia"
+      },
+      "answer": "C",
       "explanation": "If blood brain barrier is disrupted (head injuries, stroke) these agents can enter the brain tissue increasing the cerebral edema. Therefore, the use of mannitol in head injury and stroke should be judicious.",
       "topic": "Methods to Decrease ICT"
     },
     {
       "id": 17,
       "question": "Which diuretic is very effective for reducing ICT particularly when blood brain barrier is disrupted?",
-      "options": {"A": "Mannitol", "B": "Furosemide", "C": "Spironolactone", "D": "Hydrochlorothiazide"},
-      "answer": "B",
+      "options": {
+        "A": "Hydrochlorothiazide",
+        "B": "Spironolactone",
+        "C": "Mannitol",
+        "D": "Furosemide"
+      },
+      "answer": "D",
       "explanation": "Furosemide is a very effective method of reducing ICT particularly when blood brain barrier is disrupted.",
       "topic": "Methods to Decrease ICT"
     },
     {
       "id": 18,
       "question": "How do barbiturates (Thiopentone) reduce ICT?",
-      "options": {"A": "By increasing CBF", "B": "By causing cerebral vasoconstriction which decreases CSF production", "C": "By causing vasodilation", "D": "By increasing CMR"},
+      "options": {
+        "A": "By increasing CMR",
+        "B": "By causing cerebral vasoconstriction which decreases CSF production",
+        "C": "By increasing CBF",
+        "D": "By causing vasodilation"
+      },
       "answer": "B",
       "explanation": "Barbiturates: Thiopentone by causing cerebral vasoconstriction is effective in decreasing the production of CSF and hence ICT.",
       "topic": "Methods to Decrease ICT"
@@ -152,31 +242,51 @@
     {
       "id": 19,
       "question": "Which posture helps decrease ICT by increasing venous drainage?",
-      "options": {"A": "Supine position", "B": "Head up position", "C": "Trendelenburg position", "D": "Prone position"},
-      "answer": "B",
+      "options": {
+        "A": "Head up position",
+        "B": "Supine position",
+        "C": "Prone position",
+        "D": "Trendelenburg position"
+      },
+      "answer": "A",
       "explanation": "Head up position by increasing venous drainage decreases ICT.",
       "topic": "Methods to Decrease ICT"
     },
     {
       "id": 20,
       "question": "What can increase ICT by compressing jugular veins?",
-      "options": {"A": "Head up position", "B": "Neck flexion", "C": "Extension", "D": "Lateral rotation"},
-      "answer": "B",
+      "options": {
+        "A": "Neck flexion",
+        "B": "Lateral rotation",
+        "C": "Extension",
+        "D": "Head up position"
+      },
+      "answer": "A",
       "explanation": "Neck flexion by compressing jugular veins can increase ICT.",
       "topic": "Methods to Decrease ICT"
     },
     {
       "id": 21,
       "question": "If ICT is not controlled by conservative measures, how should CSF be drained?",
-      "options": {"A": "Through lumbar puncture", "B": "Through ventricles (never through lumbar puncture as brain herniation can cause death)", "C": "Through epidural space", "D": "Through subdural space"},
-      "answer": "B",
+      "options": {
+        "A": "Through lumbar puncture",
+        "B": "Through subdural space",
+        "C": "Through ventricles (never through lumbar puncture as brain herniation can cause death)",
+        "D": "Through epidural space"
+      },
+      "answer": "C",
       "explanation": "CSF drainage: If ICT is not controlled by conservative measure it should be drained through ventricles (never through lumbar puncture, brain herniation can even cause death).",
       "topic": "Methods to Decrease ICT"
     },
     {
       "id": 22,
       "question": "What is the effect of all inhalational agents on cerebral blood flow and ICT?",
-      "options": {"A": "All decrease CBF and ICT", "B": "All inhalational agents (including nitrous oxide) increase CBF and hence ICT", "C": "No effect", "D": "Only halothane increases CBF"},
+      "options": {
+        "A": "No effect",
+        "B": "All inhalational agents (including nitrous oxide) increase CBF and hence ICT",
+        "C": "All decrease CBF and ICT",
+        "D": "Only halothane increases CBF"
+      },
       "answer": "B",
       "explanation": "All inhalational agents (including nitrous oxide) increases the cerebral blood flow and hence ICT.",
       "topic": "Pharmacology"
@@ -184,31 +294,51 @@
     {
       "id": 23,
       "question": "What is the order of vasodilating potency of inhalational agents?",
-      "options": {"A": "Sevoflurane > Isoflurane > Desflurane > Halothane", "B": "Halothane >> Desflurane ≈ Isoflurane > Sevoflurane", "C": "Desflurane > Halothane > Isoflurane > Sevoflurane", "D": "All are equal"},
-      "answer": "B",
+      "options": {
+        "A": "Halothane >> Desflurane ≈ Isoflurane > Sevoflurane",
+        "B": "Sevoflurane > Isoflurane > Desflurane > Halothane",
+        "C": "Desflurane > Halothane > Isoflurane > Sevoflurane",
+        "D": "All are equal"
+      },
+      "answer": "A",
       "explanation": "The order of vasodilating potency is halothane >> Desflurane ≈ Isoflurane > Sevoflurane.",
       "topic": "Pharmacology"
     },
     {
       "id": 24,
       "question": "By how much can Isoflurane and Sevoflurane decrease cerebral metabolic rate (CMR)?",
-      "options": {"A": "Up to 25%", "B": "Up to 50%", "C": "Up to 75%", "D": "Up to 100%"},
-      "answer": "B",
+      "options": {
+        "A": "Up to 50%",
+        "B": "Up to 100%",
+        "C": "Up to 25%",
+        "D": "Up to 75%"
+      },
+      "answer": "A",
       "explanation": "Isoflurane and Sevoflurane can decrease CMR up to 50%.",
       "topic": "Pharmacology"
     },
     {
       "id": 25,
       "question": "Which inhalational agent is preferred for neurosurgery in current day practice?",
-      "options": {"A": "Halothane", "B": "Sevoflurane", "C": "Desflurane", "D": "Isoflurane"},
-      "answer": "B",
+      "options": {
+        "A": "Halothane",
+        "B": "Isoflurane",
+        "C": "Desflurane",
+        "D": "Sevoflurane"
+      },
+      "answer": "D",
       "explanation": "Due to better preservation of autoregulation, equivalent reduction in CMR and smoother recovery, sevoflurane is preferred over isoflurane as an inhalational agent of choice for neurosurgery.",
       "topic": "Pharmacology"
     },
     {
       "id": 26,
       "question": "Which IV anesthetics are most potent in decreasing CBF, CMR, CMO2 and ICT?",
-      "options": {"A": "Propofol", "B": "Barbiturates", "C": "Ketamine", "D": "Opioids"},
+      "options": {
+        "A": "Opioids",
+        "B": "Barbiturates",
+        "C": "Ketamine",
+        "D": "Propofol"
+      },
       "answer": "B",
       "explanation": "Barbiturates, propofol, etomidate and benzodiazepines decrease CBF, CMR, CMO2 and ICT. Barbiturates are most potent in this aspect.",
       "topic": "Pharmacology"
@@ -216,31 +346,51 @@
     {
       "id": 27,
       "question": "What is the effect of opioids on CBF in neurosurgical patients?",
-      "options": {"A": "Decrease CBF and ICT", "B": "Decrease CMR and CMO2 but increase CBF (directly acting cerebral vasodilator) and hence ICT", "C": "No effect", "D": "Increase CMR"},
-      "answer": "B",
+      "options": {
+        "A": "Decrease CMR and CMO2 but increase CBF (directly acting cerebral vasodilator) and hence ICT",
+        "B": "Decrease CBF and ICT",
+        "C": "No effect",
+        "D": "Increase CMR"
+      },
+      "answer": "A",
       "explanation": "Opioids decrease CMR and CMO2 but increases CBF (directly acting cerebral vasodilator) and hence ICT. This increase in CBF is significant when blood brain barrier is disrupted.",
       "topic": "Pharmacology"
     },
     {
       "id": 28,
       "question": "By how much can Ketamine increase CBF and ICT?",
-      "options": {"A": "Up to 30%", "B": "Up to 60%", "C": "Up to 90%", "D": "Up to 20%"},
-      "answer": "B",
+      "options": {
+        "A": "Up to 20%",
+        "B": "Up to 90%",
+        "C": "Up to 30%",
+        "D": "Up to 60%"
+      },
+      "answer": "D",
       "explanation": "Ketamine increases CBF and ICT very significantly (up to 60%). Ketamine also increases CMR and CMO2.",
       "topic": "Pharmacology"
     },
     {
       "id": 29,
       "question": "What is the effect of succinylcholine on ICT?",
-      "options": {"A": "Decreases ICT", "B": "Increases ICT", "C": "No effect", "D": "Variable effect"},
-      "answer": "B",
+      "options": {
+        "A": "Increases ICT",
+        "B": "No effect",
+        "C": "Variable effect",
+        "D": "Decreases ICT"
+      },
+      "answer": "A",
       "explanation": "Succinylcholine increases the ICT.",
       "topic": "Pharmacology"
     },
     {
       "id": 30,
       "question": "Do non-depolarizing muscle relaxants cross the blood brain barrier?",
-      "options": {"A": "Yes, all of them", "B": "No, they do not cross the blood brain barrier", "C": "Only pancuronium", "D": "Only vecuronium"},
+      "options": {
+        "A": "Only vecuronium",
+        "B": "No, they do not cross the blood brain barrier",
+        "C": "Yes, all of them",
+        "D": "Only pancuronium"
+      },
       "answer": "B",
       "explanation": "Non-depolarizing muscle relaxants do not cross the blood brain barrier.",
       "topic": "Pharmacology"
@@ -248,7 +398,12 @@
     {
       "id": 31,
       "question": "What is the effect of lignocaine on CBF, CMR and CMO2?",
-      "options": {"A": "Increases all", "B": "Decreases CBF, CMR, CMO2 (but at toxic doses can induce seizure and increase CMR)", "C": "No effect", "D": "Only decreases CMR"},
+      "options": {
+        "A": "Increases all",
+        "B": "Decreases CBF, CMR, CMO2 (but at toxic doses can induce seizure and increase CMR)",
+        "C": "Only decreases CMR",
+        "D": "No effect"
+      },
       "answer": "B",
       "explanation": "Lignocaine decreases CBF, CMR, CMO2 (but at toxic doses it can induce seizure and can increase CMR).",
       "topic": "Pharmacology"
@@ -256,23 +411,38 @@
     {
       "id": 32,
       "question": "How do vasopressors (Mephentermine, Ephedrine, Epinephrine) affect CBF?",
-      "options": {"A": "Directly increase CBF", "B": "Increase CBF indirectly by increasing cerebral perfusion pressure", "C": "Decrease CBF", "D": "No effect on CBF"},
-      "answer": "B",
+      "options": {
+        "A": "No effect on CBF",
+        "B": "Directly increase CBF",
+        "C": "Increase CBF indirectly by increasing cerebral perfusion pressure",
+        "D": "Decrease CBF"
+      },
+      "answer": "C",
       "explanation": "Vasopressors increase CBF indirectly by increasing cerebral perfusion pressure.",
       "topic": "Pharmacology"
     },
     {
       "id": 33,
       "question": "Why should glucose containing solutions be avoided in neurosurgery?",
-      "options": {"A": "They cause hypoglycemia", "B": "Hyperglycemia can precipitate cerebral edema", "C": "They cause hypernatremia", "D": "They are too viscous"},
-      "answer": "B",
+      "options": {
+        "A": "Hyperglycemia can precipitate cerebral edema",
+        "B": "They cause hypernatremia",
+        "C": "They are too viscous",
+        "D": "They cause hypoglycemia"
+      },
+      "answer": "A",
       "explanation": "As hyperglycemia can precipitate cerebral edema therefore, Glucose containing solutions should be avoided.",
       "topic": "General Considerations"
     },
     {
       "id": 34,
       "question": "What is the best policy for fluid management in neurosurgical patients?",
-      "options": {"A": "Only normal saline", "B": "Alternate ringer and normal saline liter by liter", "C": "Only Ringer lactate", "D": "Only colloids"},
+      "options": {
+        "A": "Only Ringer lactate",
+        "B": "Alternate ringer and normal saline liter by liter",
+        "C": "Only normal saline",
+        "D": "Only colloids"
+      },
       "answer": "B",
       "explanation": "The best policy is to alternate ringer and normal saline liter by liter. Ringer lactate is hypoosmolar and large quantities can aggravate cerebral edema. Normal saline in large quantities can cause hyperchloremic metabolic acidosis.",
       "topic": "General Considerations"
@@ -280,7 +450,12 @@
     {
       "id": 35,
       "question": "Is routine use of hypothermia recommended in neurosurgery?",
-      "options": {"A": "Yes, always", "B": "No, routine use of hypothermia is not recommended", "C": "Only in posterior fossa surgery", "D": "Only in spine surgery"},
+      "options": {
+        "A": "Yes, always",
+        "B": "No, routine use of hypothermia is not recommended",
+        "C": "Only in spine surgery",
+        "D": "Only in posterior fossa surgery"
+      },
       "answer": "B",
       "explanation": "Routine use of hypothermia is not recommended.",
       "topic": "General Considerations"
@@ -288,71 +463,116 @@
     {
       "id": 36,
       "question": "What is the optimal blood sugar range to maintain in neurosurgical patients?",
-      "options": {"A": "80-120 mg%", "B": "140-180 mg%", "C": "180-220 mg%", "D": "100-140 mg%"},
-      "answer": "B",
+      "options": {
+        "A": "80-120 mg%",
+        "B": "100-140 mg%",
+        "C": "140-180 mg%",
+        "D": "180-220 mg%"
+      },
+      "answer": "C",
       "explanation": "Both hyperglycemia as well as hypoglycemia can be detrimental therefore, blood sugar should be best maintained between 140 and 180 mg%.",
       "topic": "General Considerations"
     },
     {
       "id": 37,
       "question": "What is the most important monitor for neurosurgical patients?",
-      "options": {"A": "Pulse oximetry", "B": "Capnography", "C": "ECG", "D": "Temperature"},
-      "answer": "B",
+      "options": {
+        "A": "Capnography",
+        "B": "ECG",
+        "C": "Temperature",
+        "D": "Pulse oximetry"
+      },
+      "answer": "A",
       "explanation": "Most important is Capnography. Hypercapnia is the most potent cerebral vasodilator therefore, can significantly increase the ICT.",
       "topic": "General Considerations"
     },
     {
       "id": 38,
       "question": "What is the beneficial range of pCO2 during monitoring in neurosurgery?",
-      "options": {"A": "20-25 mm Hg", "B": "25-30 mm Hg (moderate hypocapnia)", "C": "35-40 mm Hg", "D": "40-45 mm Hg"},
-      "answer": "B",
+      "options": {
+        "A": "40-45 mm Hg",
+        "B": "20-25 mm Hg",
+        "C": "35-40 mm Hg",
+        "D": "25-30 mm Hg (moderate hypocapnia)"
+      },
+      "answer": "D",
       "explanation": "Moderate hypocapnia (pCO2 between 25 and 30 mm Hg) is beneficial by decreasing ICT however excessive hypocapnia (pCO2 < 25 mm Hg) can cause cerebral ischemia.",
       "topic": "General Considerations"
     },
     {
       "id": 39,
       "question": "Why should hypoxia be avoided during pulse oximetry monitoring in neurosurgery?",
-      "options": {"A": "It causes bradycardia", "B": "It increases ICT by causing cerebral vasodilation", "C": "It causes hypothermia", "D": "It decreases CMR"},
-      "answer": "B",
+      "options": {
+        "A": "It causes hypothermia",
+        "B": "It causes bradycardia",
+        "C": "It decreases CMR",
+        "D": "It increases ICT by causing cerebral vasodilation"
+      },
+      "answer": "D",
       "explanation": "Hypoxia should be avoided as it increases ICT by causing cerebral vasodilation.",
       "topic": "General Considerations"
     },
     {
       "id": 40,
       "question": "What is essential for smooth emergence in neurosurgical patients?",
-      "options": {"A": "Rapid extubation", "B": "Emergence free of coughing, straining and hypertension", "C": "Deep extubation always", "D": "Use of succinylcholine"},
-      "answer": "B",
+      "options": {
+        "A": "Emergence free of coughing, straining and hypertension",
+        "B": "Use of succinylcholine",
+        "C": "Rapid extubation",
+        "D": "Deep extubation always"
+      },
+      "answer": "A",
       "explanation": "Smooth emergence, i.e. emergence free of coughing, straining, and hypertension is must in neurosurgical patients as these can increase ICT and cause massive bleeding.",
       "topic": "General Considerations"
     },
     {
       "id": 41,
       "question": "What is the best method to achieve smooth emergence in neurosurgery?",
-      "options": {"A": "Deep extubation", "B": "Inject lignocaine before extubation, continue inhalational (at least N2O) till dressing and use beta blockers", "C": "Give succinylcholine", "D": "Only give opioids"},
-      "answer": "B",
+      "options": {
+        "A": "Give succinylcholine",
+        "B": "Deep extubation",
+        "C": "Inject lignocaine before extubation, continue inhalational (at least N2O) till dressing and use beta blockers",
+        "D": "Only give opioids"
+      },
+      "answer": "C",
       "explanation": "The best possible methods to achieve smooth emergence is to inject lignocaine before extubation, continue inhalational (at least N2O) till dressing is over and use beta blockers (Esmolol, Labetalol) if necessary.",
       "topic": "General Considerations"
     },
     {
       "id": 42,
       "question": "What is the target CPP (MAP-ICP) to maintain during neurosurgery?",
-      "options": {"A": "50-70 mm Hg", "B": "70-100 mm Hg", "C": "100-120 mm Hg", "D": "40-60 mm Hg"},
-      "answer": "B",
+      "options": {
+        "A": "100-120 mm Hg",
+        "B": "40-60 mm Hg",
+        "C": "70-100 mm Hg",
+        "D": "50-70 mm Hg"
+      },
+      "answer": "C",
       "explanation": "The aim should be to maintain CPP (MAP-ICP) between 70 and 100 mm Hg not only in intraoperative period but also in post-operative period for at least 2-3 days.",
       "topic": "Raised ICT"
     },
     {
       "id": 43,
       "question": "Are central neuraxial blocks contraindicated in raised ICT?",
-      "options": {"A": "They are relatively contraindicated", "B": "They are absolutely contraindicated", "C": "They are safe", "D": "Only epidural is contraindicated"},
-      "answer": "B",
+      "options": {
+        "A": "They are absolutely contraindicated",
+        "B": "They are safe",
+        "C": "Only epidural is contraindicated",
+        "D": "They are relatively contraindicated"
+      },
+      "answer": "A",
       "explanation": "Central neuraxial blocks are absolutely contraindicated in raised ICT.",
       "topic": "Raised ICT"
     },
     {
       "id": 44,
       "question": "Which induction agent is preferred over thiopentone for neurosurgery?",
-      "options": {"A": "Ketamine", "B": "Propofol", "C": "Etomidate", "D": "Midazolam"},
+      "options": {
+        "A": "Midazolam",
+        "B": "Propofol",
+        "C": "Etomidate",
+        "D": "Ketamine"
+      },
       "answer": "B",
       "explanation": "Although Thiopentone has more favorable effect on CMR and ICT than propofol but still due to shorter half-life propofol is preferred over thiopentone for induction.",
       "topic": "Raised ICT"
@@ -360,55 +580,90 @@
     {
       "id": 45,
       "question": "Why can intubation be problematic in neurosurgical patients?",
-      "options": {"A": "Difficult anatomy", "B": "Intubation can significantly increase ICT due to response to laryngoscopy", "C": "Risk of aspiration", "D": "Vocal cord paralysis"},
-      "answer": "B",
+      "options": {
+        "A": "Intubation can significantly increase ICT due to response to laryngoscopy",
+        "B": "Vocal cord paralysis",
+        "C": "Difficult anatomy",
+        "D": "Risk of aspiration"
+      },
+      "answer": "A",
       "explanation": "Intubation can significantly increase the ICT therefore, response to laryngoscopy and intubation must be blunted with lignocaine, adequate depth and beta blockers.",
       "topic": "Raised ICT"
     },
     {
       "id": 46,
       "question": "Is Suxamethonium absolutely contraindicated for neurosurgery?",
-      "options": {"A": "Yes, absolutely contraindicated", "B": "Not absolutely contraindicated - can be safely used for rapid sequence induction or difficult airway", "C": "Only in posterior fossa surgery", "D": "Only in spine surgery"},
-      "answer": "B",
+      "options": {
+        "A": "Only in posterior fossa surgery",
+        "B": "Yes, absolutely contraindicated",
+        "C": "Not absolutely contraindicated - can be safely used for rapid sequence induction or difficult airway",
+        "D": "Only in spine surgery"
+      },
+      "answer": "C",
       "explanation": "Suxamethonium is not absolutely contraindicated for neurosurgery and can be safely used if there is clear indication like rapid sequence induction or possibility of difficult airway.",
       "topic": "Raised ICT"
     },
     {
       "id": 47,
       "question": "What agents should be used for maintenance if ICP is too high and surgical field too tight?",
-      "options": {"A": "High concentration inhalational agents", "B": "IV agents only - inhalational agents should be avoided", "C": "Nitrous oxide and sevoflurane", "D": "Halothane"},
-      "answer": "B",
+      "options": {
+        "A": "Halothane",
+        "B": "Nitrous oxide and sevoflurane",
+        "C": "High concentration inhalational agents",
+        "D": "IV agents only - inhalational agents should be avoided"
+      },
+      "answer": "D",
       "explanation": "If ICP is too high to be controlled or surgical field is too tight that inhalational agents should be avoided and anesthesia is maintained on IV agents.",
       "topic": "Raised ICT"
     },
     {
       "id": 48,
       "question": "What should be assumed about all head injury patients regarding cervical injury?",
-      "options": {"A": "Cervical injury is unlikely", "B": "All patients should be assumed to be having cervical injury (incidence up to 15%) until proved otherwise", "C": "Only in high-velocity trauma", "D": "Only in elderly patients"},
-      "answer": "B",
+      "options": {
+        "A": "Only in high-velocity trauma",
+        "B": "Only in elderly patients",
+        "C": "Cervical injury is unlikely",
+        "D": "All patients should be assumed to be having cervical injury (incidence up to 15%) until proved otherwise"
+      },
+      "answer": "D",
       "explanation": "All patients of head injury should be assumed to be having cervical injury (incidence up to 15%) until proved otherwise.",
       "topic": "Head Injury"
     },
     {
       "id": 49,
       "question": "When should nasal intubation NOT be performed in head injury?",
-      "options": {"A": "In all head injury patients", "B": "Unless basal skull fracture has been ruled out", "C": "Only in pediatric patients", "D": "When GCS is above 10"},
-      "answer": "B",
+      "options": {
+        "A": "In all head injury patients",
+        "B": "Only in pediatric patients",
+        "C": "When GCS is above 10",
+        "D": "Unless basal skull fracture has been ruled out"
+      },
+      "answer": "D",
       "explanation": "Nasal intubation should not be performed unless basal skull fracture has been ruled out.",
       "topic": "Head Injury"
     },
     {
       "id": 50,
       "question": "What is the best method for assessing neurologic status in head injury?",
-      "options": {"A": "CT scan", "B": "Modified Glasgow Coma Scale", "C": "MRI", "D": "EEG"},
-      "answer": "B",
+      "options": {
+        "A": "Modified Glasgow Coma Scale",
+        "B": "MRI",
+        "C": "EEG",
+        "D": "CT scan"
+      },
+      "answer": "A",
       "explanation": "The best method for assessing neurologic status is modified Glasgow Coma scale.",
       "topic": "Head Injury"
     },
     {
       "id": 51,
       "question": "What is the normal Glasgow Coma Scale score?",
-      "options": {"A": "12/12", "B": "15/15", "C": "10/10", "D": "20/20"},
+      "options": {
+        "A": "10/10",
+        "B": "15/15",
+        "C": "12/12",
+        "D": "20/20"
+      },
       "answer": "B",
       "explanation": "Normal score is 15/15. Severe head injury is stated to be present if score is 7 or less.",
       "topic": "Head Injury"
@@ -416,47 +671,77 @@
     {
       "id": 52,
       "question": "A GCS score of 7 or less persisting for more than 6 hours is associated with what mortality?",
-      "options": {"A": "More than 20%", "B": "More than 35%", "C": "More than 50%", "D": "More than 10%"},
-      "answer": "B",
+      "options": {
+        "A": "More than 10%",
+        "B": "More than 20%",
+        "C": "More than 35%",
+        "D": "More than 50%"
+      },
+      "answer": "C",
       "explanation": "Severe head injury is stated to be present if score is 7 or less and if persist for more than 6 hours is associated with more than 35% mortality.",
       "topic": "Head Injury"
     },
     {
       "id": 53,
       "question": "Why is DIC commonly associated with head injury?",
-      "options": {"A": "Due to blood loss", "B": "Due to release of brain thromboplastin", "C": "Due to hypothermia", "D": "Due to hypoxia"},
-      "answer": "B",
+      "options": {
+        "A": "Due to hypoxia",
+        "B": "Due to blood loss",
+        "C": "Due to hypothermia",
+        "D": "Due to release of brain thromboplastin"
+      },
+      "answer": "D",
       "explanation": "DIC is commonly associated with head injury due to release of brain thromboplastin and it must be ruled out in preoperative period.",
       "topic": "Head Injury"
     },
     {
       "id": 54,
       "question": "What is the most sensitive tool to detect venous air embolism (VAE)?",
-      "options": {"A": "Precordial Doppler", "B": "Transesophageal echocardiography (TEE)", "C": "End tidal CO2", "D": "CVP monitoring"},
-      "answer": "B",
+      "options": {
+        "A": "CVP monitoring",
+        "B": "End tidal CO2",
+        "C": "Precordial Doppler",
+        "D": "Transesophageal echocardiography (TEE)"
+      },
+      "answer": "D",
       "explanation": "The most sensitive tool to detect VAE is transesophageal echocardiography (TEE). It can detect as low as 0.25 mL of air.",
       "topic": "Posterior Fossa Surgery"
     },
     {
       "id": 55,
       "question": "At what volume of entertained air does VAE become clinically significant?",
-      "options": {"A": "> 50 mL", "B": "> 100 mL", "C": "> 200 mL", "D": "> 25 mL"},
-      "answer": "B",
+      "options": {
+        "A": "> 25 mL",
+        "B": "> 200 mL",
+        "C": "> 100 mL",
+        "D": "> 50 mL"
+      },
+      "answer": "C",
       "explanation": "VAE can become clinically significant if the volume of entertained air > 100 mL (however death has been reported with as low as 5 mL of air).",
       "topic": "Posterior Fossa Surgery"
     },
     {
       "id": 56,
       "question": "What is the incidence of VAE in posterior fossa craniotomies?",
-      "options": {"A": "5-10%", "B": "20-40%", "C": "50-60%", "D": "1-5%"},
-      "answer": "B",
+      "options": {
+        "A": "20-40%",
+        "B": "5-10%",
+        "C": "1-5%",
+        "D": "50-60%"
+      },
+      "answer": "A",
       "explanation": "The incidence of venous air embolism (VAE) can be as high as 20-40% in posterior fossa craniotomies however, fortunately the incidence of clinically significant VAE is very less.",
       "topic": "Posterior Fossa Surgery"
     },
     {
       "id": 57,
       "question": "What is the first step in treatment of venous air embolism?",
-      "options": {"A": "Start CPR", "B": "Stop nitrous oxide and start 100% oxygen (N2O can expand the size of air embolus)", "C": "Give vasopressors", "D": "Trendelenburg position"},
+      "options": {
+        "A": "Start CPR",
+        "B": "Stop nitrous oxide and start 100% oxygen (N2O can expand the size of air embolus)",
+        "C": "Give vasopressors",
+        "D": "Trendelenburg position"
+      },
       "answer": "B",
       "explanation": "Stop nitrous oxide and start 100% oxygen. Nitrous oxide can expand the size of air embolus.",
       "topic": "Posterior Fossa Surgery"
@@ -464,24 +749,39 @@
     {
       "id": 58,
       "question": "What is the sensitivity order for detection of air embolism in decreasing order?",
-      "options": {"A": "ECG > CVP > TEE > Doppler", "B": "TEE > Precordial Doppler > PAP, ETCO2, ET nitrogen > CVP > ECG > Clinical signs", "C": "Clinical signs > ECG > CVP > TEE", "D": "Doppler > ECG > CVP > TEE"},
-      "answer": "B",
+      "options": {
+        "A": "Clinical signs > ECG > CVP > TEE",
+        "B": "ECG > CVP > TEE > Doppler",
+        "C": "Doppler > ECG > CVP > TEE",
+        "D": "TEE > Precordial Doppler > PAP, ETCO2, ET nitrogen > CVP > ECG > Clinical signs"
+      },
+      "answer": "D",
       "explanation": "The sensitivity in decreasing order is: TEE > Precordial Doppler > PAP, ETCO2, ET nitrogen > CVP > ECG > clinical signs.",
       "topic": "Posterior Fossa Surgery"
     },
     {
       "id": 59,
       "question": "What are the clinical signs of venous air embolism?",
-      "options": {"A": "Hypertension and bradycardia", "B": "Hypotension, tachycardia, cyanosis, mill wheel murmur, cardiovascular collapse", "C": "Only hypotension", "D": "Fever and tachypnea"},
-      "answer": "B",
+      "options": {
+        "A": "Hypotension, tachycardia, cyanosis, mill wheel murmur, cardiovascular collapse",
+        "B": "Fever and tachypnea",
+        "C": "Only hypotension",
+        "D": "Hypertension and bradycardia"
+      },
+      "answer": "A",
       "explanation": "Clinical signs include hypotension, tachycardia, cyanosis, mill wheel murmur, cardiovascular collapse. Clinical signs appear late in venous air embolism.",
       "topic": "Posterior Fossa Surgery"
     },
     {
       "id": 60,
       "question": "After stroke surgery, when is the period of maximal vasospasm risk that should be avoided?",
-      "options": {"A": "1-3 days", "B": "4-14 days", "C": "15-21 days", "D": "21-30 days"},
-      "answer": "B",
+      "options": {
+        "A": "4-14 days",
+        "B": "1-3 days",
+        "C": "15-21 days",
+        "D": "21-30 days"
+      },
+      "answer": "A",
       "explanation": "After stroke surgery should be avoided in period of maximal vasospasm risk (4-14 days) as far as possible.",
       "topic": "Stroke/Cerebral Aneurysms"
     }
