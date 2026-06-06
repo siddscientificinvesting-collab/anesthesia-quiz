@@ -152,6 +152,12 @@ QUIZ_CATALOG = {
         "short": "Trauma & Burns (Ch 35)",
         "icon": "🔥",
     },
+    "ch34": {
+        "file": "questions_ch34.json",
+        "label": "Chapter 34 – Anesthesia for ENT Surgery",
+        "short": "ENT Surgery (Ch 34)",
+        "icon": "👂",
+    },
 }
 
 # ─── Load Questions ──────────────────────────────────────────────────────────

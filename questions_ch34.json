@@ -1,0 +1,609 @@
+{
+  "title": "Anesthesia for ENT Surgery MCQ – Chapter 34",
+  "source": "Short Textbook of Anesthesia – Ajay Yadav",
+  "section": "Section 8: Subspecialty Anesthetic Management (Chapter 34)",
+  "total_questions": 50,
+  "time_limit_minutes": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Why is ENT anesthesia considered one of the most difficult?",
+      "options": {
+        "A": "Due to patient age",
+        "B": "Due to lengthy procedures",
+        "C": "Because airway is often difficult, surgeon and anesthetist share the common field, and complications are related to airway",
+        "D": "Due to bleeding only"
+      },
+      "answer": "C",
+      "explanation": "ENT anesthesia is one of the most difficult because quite often airway is difficult, surgeon and anesthetist share the common field and complications are related to airway."
+    },
+    {
+      "id": 2,
+      "question": "What does panendoscopy involve?",
+      "options": {
+        "A": "Only esophagoscopy",
+        "B": "Laryngoscopy, bronchoscopy, and esophagoscopy (also called triple endoscopy)",
+        "C": "Only laryngoscopy",
+        "D": "Only bronchoscopy"
+      },
+      "answer": "B",
+      "explanation": "Panendoscopy involves laryngoscopy, bronchoscopy, and esophagoscopy. It is also called as triple endoscopy."
+    },
+    {
+      "id": 3,
+      "question": "What happens to the glottic opening due to laryngeal growth in panendoscopy patients?",
+      "options": {
+        "A": "It remains normal",
+        "B": "It may be reduced to the extent that even small tube insertion becomes impossible",
+        "C": "It becomes wider",
+        "D": "No change occurs"
+      },
+      "answer": "B",
+      "explanation": "Due to the growth, the glottic opening may be reduced and sometimes to an extent that even insertion of the small size tube becomes impossible."
+    },
+    {
+      "id": 4,
+      "question": "What is the incidence of myocardial ischemia and arrhythmias due to laryngeal manipulation?",
+      "options": {
+        "A": "10-15%",
+        "B": "Less than 1%",
+        "C": "2-4%",
+        "D": "More than 20%"
+      },
+      "answer": "C",
+      "explanation": "Laryngeal manipulation causes sympathetic stimulation. Incidence of myocardial ischemia and arrhythmias is significant (2-4%)."
+    },
+    {
+      "id": 5,
+      "question": "What must be done during preoperative evaluation for panendoscopy patients?",
+      "options": {
+        "A": "Only chest X-ray",
+        "B": "Assessment of airway by preoperative endoscopy or indirect laryngoscopy is must",
+        "C": "Only blood tests",
+        "D": "Only ECG"
+      },
+      "answer": "B",
+      "explanation": "During preoperative evaluation, assessment of airway by preoperative endoscopy or indirect laryngoscopy is must."
+    },
+    {
+      "id": 6,
+      "question": "Why are IV lignocaine, IV fentanyl and topical anesthesia of the larynx important for panendoscopy?",
+      "options": {
+        "A": "To reduce bleeding",
+        "B": "To prevent laryngeal reflexes",
+        "C": "To reduce secretions",
+        "D": "To reduce postoperative pain"
+      },
+      "answer": "B",
+      "explanation": "Intravenous (IV) lignocaine, IV fentanyl and topical anesthesia of the larynx are very important to prevent laryngeal reflexes."
+    },
+    {
+      "id": 7,
+      "question": "What are MLS tubes?",
+      "options": {
+        "A": "Double lumen tubes",
+        "B": "Tracheostomy tubes",
+        "C": "Adult size ETT without cuff",
+        "D": "Pediatric size tubes with cuff available in 5, 5.5 and 6 mm size"
+      },
+      "answer": "D",
+      "explanation": "Microlaryngeal surgery (MLS) tubes are pediatric size tubes with cuff. They are available in 5, 5.5 and 6 mm size."
+    },
+    {
+      "id": 8,
+      "question": "In what percentage of patients is it possible to get surgery done with MLS tube?",
+      "options": {
+        "A": "50%",
+        "B": "25%",
+        "C": ">95%",
+        "D": "75%"
+      },
+      "answer": "C",
+      "explanation": "In the majority (>95%) of the patients it is possible to get the surgery done with MLS tube."
+    },
+    {
+      "id": 9,
+      "question": "What is the disadvantage of MLS tubes?",
+      "options": {
+        "A": "High ventilatory pressures are required to overcome the narrow size of tube",
+        "B": "They cause more bleeding",
+        "C": "They cannot be used in adults",
+        "D": "They are expensive"
+      },
+      "answer": "A",
+      "explanation": "The disadvantage is that high ventilatory pressures are required to overcome the narrow size of tube."
+    },
+    {
+      "id": 10,
+      "question": "In High Frequency Positive Pressure Ventilation (HFPPV), what is the frequency of breaths delivered?",
+      "options": {
+        "A": "20-40 breaths/min",
+        "B": "10-20 breaths/min",
+        "C": "60-100 breaths/min",
+        "D": "120-150 breaths/min"
+      },
+      "answer": "C",
+      "explanation": "In HFPPV, small tidal volumes are delivered at high frequency (60-100 breaths/min) at a high pressure (60 psi) through a stiff 3.5-4.0 mm catheter passed through the vocal cord."
+    },
+    {
+      "id": 11,
+      "question": "What is the diameter of the catheter used in HFPPV?",
+      "options": {
+        "A": "3.5-4.0 mm",
+        "B": "1.0-1.5 mm",
+        "C": "5.0-6.0 mm",
+        "D": "2.0-2.5 mm"
+      },
+      "answer": "A",
+      "explanation": "A stiff 3.5-4.0 mm catheter is passed through the vocal cord for HFPPV."
+    },
+    {
+      "id": 12,
+      "question": "In jet ventilation, where is the tip of the jet kept?",
+      "options": {
+        "A": "Within the laryngoscope to avoid direct barotrauma to trachea",
+        "B": "Beyond the vocal cords",
+        "C": "In the trachea directly",
+        "D": "In the pharynx"
+      },
+      "answer": "A",
+      "explanation": "The tip of the jet is kept within the laryngoscope to avoid direct barotrauma to the trachea and gas is delivered at high pressure (50-60 psi)."
+    },
+    {
+      "id": 13,
+      "question": "What is the apnea technique in ventilation for panendoscopy?",
+      "options": {
+        "A": "Mask ventilation only",
+        "B": "High flow nasal oxygen",
+        "C": "Intubation is done, adequate ventilation given, tube removed for 1-2 minutes for surgery, then reintubated if needed",
+        "D": "Patient breathes spontaneously"
+      },
+      "answer": "C",
+      "explanation": "In apnea technique intubation is done and after adequate ventilation tube is removed for short period (1-2 minutes or till oxygen saturation starts falling). In this period surgeon performs the procedure."
+    },
+    {
+      "id": 14,
+      "question": "How is anesthesia maintained during panendoscopy?",
+      "options": {
+        "A": "With inhalational agent and repeated doses of succinylcholine for small procedures or nondepolarizing agent for prolonged surgery",
+        "B": "Only regional anesthesia",
+        "C": "Only IV agents",
+        "D": "Only propofol infusion"
+      },
+      "answer": "A",
+      "explanation": "Anesthesia is maintained with inhalational agent and repeated doses of succinylcholine for small procedures or nondepolarizing agent for prolonged surgery."
+    },
+    {
+      "id": 15,
+      "question": "Why should nitrous oxide be avoided in laryngeal surgeries?",
+      "options": {
+        "A": "It is not potent enough",
+        "B": "It causes bleeding",
+        "C": "It causes laryngospasm",
+        "D": "It can increase postsurgical edema by causing expansion of the cuff of endotracheal tube"
+      },
+      "answer": "D",
+      "explanation": "Nitrous oxide should be avoided because it can increase the postsurgical edema by causing expansion of the cuff of endotracheal tube."
+    },
+    {
+      "id": 16,
+      "question": "When is Heliox administration strongly considered in ENT?",
+      "options": {
+        "A": "In patients with stridor",
+        "B": "In all ENT surgeries",
+        "C": "Only in pediatric patients",
+        "D": "Only in bronchoscopy"
+      },
+      "answer": "A",
+      "explanation": "Administration of Heliox is strongly considered in patients with stridor."
+    },
+    {
+      "id": 17,
+      "question": "What is the most important complication of laser surgery?",
+      "options": {
+        "A": "Infection",
+        "B": "Fires",
+        "C": "Bleeding",
+        "D": "Nerve injury"
+      },
+      "answer": "B",
+      "explanation": "The most important complication of laser surgery is fires, therefore the most important aim should be to prevent fire."
+    },
+    {
+      "id": 18,
+      "question": "What FiO2 should be used during laser surgery to prevent fire?",
+      "options": {
+        "A": "Less than 30%",
+        "B": "50-60%",
+        "C": "40-50%",
+        "D": "100%"
+      },
+      "answer": "A",
+      "explanation": "Use low FiO2 (<30%) to prevent fire during laser surgery."
+    },
+    {
+      "id": 19,
+      "question": "Why should N2O be avoided during laser surgery?",
+      "options": {
+        "A": "It is not potent",
+        "B": "It can support fire",
+        "C": "It causes nausea",
+        "D": "It causes laryngospasm"
+      },
+      "answer": "B",
+      "explanation": "Avoid N2O as it can support fire."
+    },
+    {
+      "id": 20,
+      "question": "What special kind of endotracheal tube is used for laser surgery?",
+      "options": {
+        "A": "Laser resistant endotracheal tube",
+        "B": "Double lumen tube",
+        "C": "Uncuffed tube",
+        "D": "Reinforced tube"
+      },
+      "answer": "A",
+      "explanation": "Use special kind of laser resistant endotracheal tube."
+    },
+    {
+      "id": 21,
+      "question": "What should the tube cuff be filled with during laser surgery instead of air?",
+      "options": {
+        "A": "Helium",
+        "B": "Saline",
+        "C": "Oxygen",
+        "D": "Nitrous oxide"
+      },
+      "answer": "B",
+      "explanation": "Fill the tube cuff with saline (instead of air) during laser surgery."
+    },
+    {
+      "id": 22,
+      "question": "What is the FIRST step if fire occurs during laser surgery?",
+      "options": {
+        "A": "Call for help",
+        "B": "Stop oxygen",
+        "C": "Immediately remove tube and submerge in water",
+        "D": "Flush pharynx with saline"
+      },
+      "answer": "C",
+      "explanation": "If fire occurs: immediately remove tube and submerge in water."
+    },
+    {
+      "id": 23,
+      "question": "What is the second step in the fire protocol after removing the tube?",
+      "options": {
+        "A": "Flush with saline",
+        "B": "Give steroids",
+        "C": "Reintubate",
+        "D": "Immediately stop oxygen (and nitrous oxide) and start ventilation with air by mask"
+      },
+      "answer": "D",
+      "explanation": "Immediately stop oxygen (and nitrous oxide) and start ventilation of the patient with air by mask."
+    },
+    {
+      "id": 24,
+      "question": "What volume of cold saline should be used to flush the pharynx after airway fire?",
+      "options": {
+        "A": "10-20 mL",
+        "B": "50-60 mL",
+        "C": "100-200 mL",
+        "D": "500 mL"
+      },
+      "answer": "B",
+      "explanation": "Flush pharynx with 50-60 mL of cold saline."
+    },
+    {
+      "id": 25,
+      "question": "When may tracheostomy be required after an airway fire?",
+      "options": {
+        "A": "Always",
+        "B": "Never needed",
+        "C": "Only in children",
+        "D": "If damage is severe enough not to allow intubation"
+      },
+      "answer": "D",
+      "explanation": "Tracheostomy may be required if damage is severe enough not to allow intubation."
+    },
+    {
+      "id": 26,
+      "question": "Under what type of anesthesia is flexible bronchoscopy for diagnostic biopsies usually performed?",
+      "options": {
+        "A": "Regional anesthesia",
+        "B": "Topical anesthesia",
+        "C": "Spinal anesthesia",
+        "D": "General anesthesia"
+      },
+      "answer": "B",
+      "explanation": "Flexible bronchoscopy, usually done for diagnostic biopsies, can be performed under topical anesthesia."
+    },
+    {
+      "id": 27,
+      "question": "What is rigid bronchoscopy usually done for?",
+      "options": {
+        "A": "Foreign body removal under general anesthesia",
+        "B": "Lavage only",
+        "C": "Diagnostic biopsies",
+        "D": "Stent placement only"
+      },
+      "answer": "A",
+      "explanation": "Rigid bronchoscopy, usually done for foreign body removal is performed under general anesthesia."
+    },
+    {
+      "id": 28,
+      "question": "What are the ventilation methods for rigid bronchoscopy?",
+      "options": {
+        "A": "High frequency jet ventilation, insufflation, and apnea technique",
+        "B": "Only spontaneous breathing",
+        "C": "Only IPPV",
+        "D": "Only mask ventilation"
+      },
+      "answer": "A",
+      "explanation": "Ventilation during rigid bronchoscopy is achieved with: high frequency jet ventilation through the oxygen port, insufflation, and apnea technique."
+    },
+    {
+      "id": 29,
+      "question": "What is the majority of patients undergoing adenotonsillectomy?",
+      "options": {
+        "A": "Pediatric",
+        "B": "Adolescents",
+        "C": "Adults",
+        "D": "Elderly"
+      },
+      "answer": "A",
+      "explanation": "Majority of the patients for adenotonsillectomy/tonsillectomy are pediatric."
+    },
+    {
+      "id": 30,
+      "question": "If there are no adenoids, what route should be preferred for nasal intubation?",
+      "options": {
+        "A": "Nasal is always preferred",
+        "B": "Only oral RAE tube",
+        "C": "Nasal intubation is always safe",
+        "D": "Nasal intubation should preferably be avoided due to increased chances of bleeding"
+      },
+      "answer": "D",
+      "explanation": "If there are no adenoids nasal intubation can be done, however due to increased chances of bleeding nasal intubation should preferably be avoided."
+    },
+    {
+      "id": 31,
+      "question": "What type of endotracheal tubes are most frequently used for tonsillectomy?",
+      "options": {
+        "A": "Nasal RAE tubes",
+        "B": "Oral Ring-Adair-Elwyn (RAE) preformed tubes",
+        "C": "Standard ETT",
+        "D": "Reinforced tubes"
+      },
+      "answer": "B",
+      "explanation": "Oral Ring-Adair-Elwyn (RAE) preformed tubes are most frequently used."
+    },
+    {
+      "id": 32,
+      "question": "Why should the throat be packed during tonsillectomy?",
+      "options": {
+        "A": "To prevent aspiration of blood",
+        "B": "To reduce swelling",
+        "C": "To improve ventilation",
+        "D": "To keep the tube in place"
+      },
+      "answer": "A",
+      "explanation": "Throat should be packed to prevent aspiration."
+    },
+    {
+      "id": 33,
+      "question": "In what position should tonsillectomy patients be nursed postoperatively?",
+      "options": {
+        "A": "Sitting upright",
+        "B": "Prone position",
+        "C": "Tonsillar position - on one side (preferably left lateral) with head low",
+        "D": "Supine with head elevated"
+      },
+      "answer": "C",
+      "explanation": "These patients are nursed in tonsillar position, i.e. on one side (preferably left lateral) with head low to prevent aspiration and laryngospasm."
+    },
+    {
+      "id": 34,
+      "question": "How should a patient with post-tonsillectomy bleeding requiring re-exploration be managed?",
+      "options": {
+        "A": "As a full stomach patient (patient has swallowed blood causing significant aspiration risk)",
+        "B": "Only with sedation",
+        "C": "Only under local anesthesia",
+        "D": "As a routine case"
+      },
+      "answer": "A",
+      "explanation": "Such patient should be resuscitated and managed like full stomach patient considering that patient has swallowed enough blood which can cause significant aspiration."
+    },
+    {
+      "id": 35,
+      "question": "How should peritonsillar abscess and Ludwig angina ideally be drained?",
+      "options": {
+        "A": "Under regional block",
+        "B": "Under local anesthesia (as intubation may be impossible due to trismus and aspiration risk)",
+        "C": "Under general anesthesia always",
+        "D": "Under IV sedation"
+      },
+      "answer": "B",
+      "explanation": "General anesthesia should be avoided as intubation at times may be impossible due to trismus and patient can aspirate the pus. Therefore, the abscesses should be drained under local anesthesia."
+    },
+    {
+      "id": 36,
+      "question": "If GA is required for peritonsillar abscess, what should be done before induction?",
+      "options": {
+        "A": "Rapid sequence induction",
+        "B": "Blind nasal intubation",
+        "C": "Awake nasal intubation with fibreoptic bronchoscopy",
+        "D": "LMA insertion"
+      },
+      "answer": "C",
+      "explanation": "If GA is required than awake nasal intubation with fibreoptic bronchoscopy should be achieved before induction of anesthesia."
+    },
+    {
+      "id": 37,
+      "question": "How many times more soluble is nitrous oxide compared to nitrogen?",
+      "options": {
+        "A": "10 times",
+        "B": "35 times",
+        "C": "20 times",
+        "D": "50 times"
+      },
+      "answer": "B",
+      "explanation": "Nitrous oxide is 35 times more soluble than nitrogen."
+    },
+    {
+      "id": 38,
+      "question": "By how much can nitrous oxide increase middle ear pressure if Eustachian tube is blocked?",
+      "options": {
+        "A": "375 mm H2O within half an hour",
+        "B": "200 mm H2O in 2 hours",
+        "C": "50 mm H2O in 15 minutes",
+        "D": "100 mm H2O in 1 hour"
+      },
+      "answer": "A",
+      "explanation": "If the Eustachian tube is blocked, nitrous oxide can increase the middle ear pressure to 375 mm H2O within half an hour."
+    },
+    {
+      "id": 39,
+      "question": "In which ear conditions should nitrous oxide NOT be used?",
+      "options": {
+        "A": "Only otitis media",
+        "B": "Patients with blocked Eustachian tubes (upper respiratory tract infection, adenoids, sinusitis and otitis media)",
+        "C": "All ear surgeries",
+        "D": "Only sinusitis"
+      },
+      "answer": "B",
+      "explanation": "Nitrous oxide should not be used in patients with blocked Eustachian tubes (upper respiratory tract infection, adenoids, sinusitis and otitis media)."
+    },
+    {
+      "id": 40,
+      "question": "Why is nitrous oxide contraindicated for tympanoplasties?",
+      "options": {
+        "A": "Increase in middle ear pressure can displace the graft",
+        "B": "It causes nausea",
+        "C": "It causes infection",
+        "D": "It causes bleeding"
+      },
+      "answer": "A",
+      "explanation": "Increase middle ear pressure by nitrous oxide can displace the graft making nitrous oxide to be contraindicated for Tympanoplasties."
+    },
+    {
+      "id": 41,
+      "question": "When is increased middle ear pressure from N2O beneficial in ear surgery?",
+      "options": {
+        "A": "Never",
+        "B": "In mastoidectomy",
+        "C": "In all tympanoplasties",
+        "D": "When surgeon is using 'inlay graft' (helps hold the graft)"
+      },
+      "answer": "D",
+      "explanation": "If the surgeon is using 'inlay graft' then increase in middle ear pressure is beneficial in holding the graft."
+    },
+    {
+      "id": 42,
+      "question": "What is very high in incidence after ear surgeries requiring prophylaxis?",
+      "options": {
+        "A": "Pain",
+        "B": "Postoperative nausea and vomiting",
+        "C": "Bleeding",
+        "D": "Infection"
+      },
+      "answer": "B",
+      "explanation": "The incidence of postoperative nausea and vomiting is very high in ear surgeries; therefore prophylaxis with antiemetics is must."
+    },
+    {
+      "id": 43,
+      "question": "What is the Samter triad that must be ruled out in nasal surgery patients?",
+      "options": {
+        "A": "Deviated septum, sinusitis, rhinitis",
+        "B": "Hypertension, diabetes, obesity",
+        "C": "Bleeding, infection, pain",
+        "D": "Nasal polyps, asthma, and sensitivity to aspirin/NSAIDs"
+      },
+      "answer": "D",
+      "explanation": "In the preoperative evaluation always rule out the Samter triad (nasal polyps, asthma, and sensitivity to aspirin/NSAIDs)."
+    },
+    {
+      "id": 44,
+      "question": "Why is throat pack a must in nasal surgery?",
+      "options": {
+        "A": "To improve ventilation",
+        "B": "To reduce swelling",
+        "C": "To prevent aspiration of blood",
+        "D": "To stabilize the tube"
+      },
+      "answer": "C",
+      "explanation": "Throat pack is must to prevent aspiration of blood."
+    },
+    {
+      "id": 45,
+      "question": "Why must nasal surgery patients be counseled to breathe from mouth preoperatively?",
+      "options": {
+        "A": "For better oxygenation",
+        "B": "To reduce anxiety",
+        "C": "Because they can become very restless in postoperative period after nasal packing if not trained",
+        "D": "To improve lung function"
+      },
+      "answer": "C",
+      "explanation": "The patients must be counseled and trained in the preoperative period to take breathing from mouth otherwise they can become very restless in the postoperative period after nasal packing."
+    },
+    {
+      "id": 46,
+      "question": "Why may muscle relaxants be deterred in parotid surgery?",
+      "options": {
+        "A": "Due to patient positioning",
+        "B": "Due to risk of bleeding",
+        "C": "Due to risk of aspiration",
+        "D": "Because continuous monitoring of facial nerve function is needed"
+      },
+      "answer": "D",
+      "explanation": "Continuous monitoring of facial nerve function may deter the anesthetist to use muscle relaxants."
+    },
+    {
+      "id": 47,
+      "question": "Why is obstructive sleep apnea surgery very challenging for anesthetists?",
+      "options": {
+        "A": "Due to bleeding only",
+        "B": "Due to obesity only",
+        "C": "All concerns related to obese patients especially difficult airway management",
+        "D": "Due to long duration only"
+      },
+      "answer": "C",
+      "explanation": "All concerns related to obese patients especially difficult airway management makes obstruction sleep apnea (OSA) surgeries (uvulopalatoplasties) to be very challenging to anesthetist."
+    },
+    {
+      "id": 48,
+      "question": "What does limited mouth opening in TMJ surgeries mandate?",
+      "options": {
+        "A": "Oral intubation under GA",
+        "B": "LMA use",
+        "C": "Tracheostomy",
+        "D": "Awake nasal intubation"
+      },
+      "answer": "D",
+      "explanation": "Due to the limited mouth opening intubation mandates awake nasal intubation."
+    },
+    {
+      "id": 49,
+      "question": "Are laser resistant endotracheal tubes 100% protective against laser fires?",
+      "options": {
+        "A": "No, they are not 100% protective against laser fires",
+        "B": "Yes, completely protective",
+        "C": "Only metal tubes are protective",
+        "D": "Only silicone tubes are protective"
+      },
+      "answer": "A",
+      "explanation": "Laser resistant endotracheal tubes are not 100% protective against laser fires."
+    },
+    {
+      "id": 50,
+      "question": "What laryngeal complication can stimulation during panendoscopy induce?",
+      "options": {
+        "A": "Vocal cord paralysis",
+        "B": "Laryngeal edema",
+        "C": "Subglottic stenosis",
+        "D": "Laryngospasm"
+      },
+      "answer": "D",
+      "explanation": "Laryngeal stimulation can induce laryngospasm."
+    }
+  ]
+}
