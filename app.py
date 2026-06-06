@@ -158,6 +158,12 @@ QUIZ_CATALOG = {
         "short": "ENT Surgery (Ch 34)",
         "icon": "👂",
     },
+    "ch31": {
+        "file": "questions_ch31.json",
+        "label": "Chapter 31 – Anesthesia for Obese Patients (Bariatric)",
+        "short": "Bariatric (Ch 31)",
+        "icon": "⚖️",
+    },
 }
 
 # ─── Load Questions ──────────────────────────────────────────────────────────

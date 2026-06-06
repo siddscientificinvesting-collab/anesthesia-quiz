@@ -1,0 +1,609 @@
+{
+  "title": "Anesthesia for Obese Patients (Bariatric Anesthesia) MCQ – Chapter 31",
+  "source": "Short Textbook of Anesthesia – Ajay Yadav",
+  "section": "Section 8: Subspecialty Anesthetic Management (Chapter 31)",
+  "total_questions": 50,
+  "time_limit_minutes": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the definition of obesity based on BMI?",
+      "options": {
+        "A": "BMI more than 20%",
+        "B": "BMI more than 25%",
+        "C": "BMI more than 30%",
+        "D": "BMI more than 40%"
+      },
+      "answer": "C",
+      "explanation": "Obesity is defined as body mass index (BMI) more than 30% and extreme/superobese as BMI more than 50%."
+    },
+    {
+      "id": 2,
+      "question": "What BMI defines extreme/superobese?",
+      "options": {
+        "A": "More than 60%",
+        "B": "More than 50%",
+        "C": "More than 30%",
+        "D": "More than 40%"
+      },
+      "answer": "B",
+      "explanation": "Extreme/superobese is defined as BMI more than 50%."
+    },
+    {
+      "id": 3,
+      "question": "Why are obese patients one of the most challenging for anesthesiologists?",
+      "options": {
+        "A": "Due to positioning only",
+        "B": "Due to long procedures only",
+        "C": "Due to associated comorbidities and difficult airway management",
+        "D": "Due to cost issues"
+      },
+      "answer": "C",
+      "explanation": "Obese patients are one of the most challenging patients for anesthesiologist especially due to their associated comorbidities and difficult airway management."
+    },
+    {
+      "id": 4,
+      "question": "What cardiovascular conditions may obese patients have?",
+      "options": {
+        "A": "Only hypotension",
+        "B": "Only hypertension",
+        "C": "Only bradycardia",
+        "D": "Hypertension, coronary artery disease, LVH, RVH, and cor pulmonale"
+      },
+      "answer": "D",
+      "explanation": "Obese patients may have hypertension, coronary artery disease, left ventricular hypertrophy, right ventricular hypertrophy from pulmonary hypertension, and cor pulmonale."
+    },
+    {
+      "id": 5,
+      "question": "How much does cardiac output increase per kg of fat to perfuse extra fat?",
+      "options": {
+        "A": "0.5 L/min",
+        "B": "0.1 L/min",
+        "C": "0.05 L/min",
+        "D": "0.2 L/min"
+      },
+      "answer": "B",
+      "explanation": "Increase in cardiac output by 0.1 L/min to perfuse each kg of fat leads to increased stroke volume and hence left ventricular hypertrophy."
+    },
+    {
+      "id": 6,
+      "question": "Why do obese patients develop right ventricular hypertrophy?",
+      "options": {
+        "A": "Due to mitral regurgitation",
+        "B": "Due to fluid overload",
+        "C": "Due to aortic stenosis",
+        "D": "Resulting from pulmonary hypertension which is because of persistent hypoxia"
+      },
+      "answer": "D",
+      "explanation": "Right ventricular hypertrophy resulting from pulmonary hypertension which in turn is because of persistent hypoxia."
+    },
+    {
+      "id": 7,
+      "question": "What causes cor pulmonale in obese patients?",
+      "options": {
+        "A": "Left ventricular failure",
+        "B": "Aortic stenosis",
+        "C": "Mitral stenosis",
+        "D": "Right ventricular strain"
+      },
+      "answer": "D",
+      "explanation": "Cor pulmonale because of right ventricular strain."
+    },
+    {
+      "id": 8,
+      "question": "What respiratory changes are seen in obese patients?",
+      "options": {
+        "A": "Increased FRC",
+        "B": "Reduced ERV, FRC, vital capacity, increased airway resistance, and reduced oxygen saturation",
+        "C": "Normal lung function",
+        "D": "Increased vital capacity"
+      },
+      "answer": "B",
+      "explanation": "Obese patients may have reduced expiratory reserve volume (ERV), functional residual capacity (FRC) and vital capacity, increased airway resistance, and reduced oxygen saturation."
+    },
+    {
+      "id": 9,
+      "question": "What is obstructive sleep apnea hypopnea syndrome (OSAHS) and its significance?",
+      "options": {
+        "A": "Patients with OSAHS are at increased risk of morbidity and mortality",
+        "B": "It has no anesthetic significance",
+        "C": "A benign condition",
+        "D": "It only causes snoring"
+      },
+      "answer": "A",
+      "explanation": "Patients with OSAHS are at increased risk of morbidity and mortality."
+    },
+    {
+      "id": 10,
+      "question": "What GI complications may obese patients have?",
+      "options": {
+        "A": "Only liver disease",
+        "B": "Only diarrhea",
+        "C": "Only constipation",
+        "D": "Hiatus hernia, gastroesophageal reflux, delayed gastric emptying and fatty infiltration of liver"
+      },
+      "answer": "D",
+      "explanation": "Obese patients may have associated hiatus hernia, gastroesophageal reflex, delayed gastric emptying and fatty infiltration of liver (may compromise liver functions)."
+    },
+    {
+      "id": 11,
+      "question": "Why may obese patients have polycythemia?",
+      "options": {
+        "A": "Due to dehydration",
+        "B": "Due to EPO injections",
+        "C": "Due to iron overload",
+        "D": "Because of chronic hypoxia"
+      },
+      "answer": "D",
+      "explanation": "There may be polycythemia because of chronic hypoxia."
+    },
+    {
+      "id": 12,
+      "question": "What are obese patients very prone to in postoperative period?",
+      "options": {
+        "A": "Thromboembolism",
+        "B": "Hyperthermia",
+        "C": "Bradycardia",
+        "D": "Hypothermia"
+      },
+      "answer": "A",
+      "explanation": "Obese patients are very prone for thromboembolism in postoperative period."
+    },
+    {
+      "id": 13,
+      "question": "Why do obese patients often have difficult airway?",
+      "options": {
+        "A": "Short neck (decreased thyromental distance), restricted mouth opening, and restricted neck movement",
+        "B": "Due to dental issues",
+        "C": "Due to large tongue only",
+        "D": "Due to small mouth only"
+      },
+      "answer": "A",
+      "explanation": "Obese patients often have difficult airway due to short neck (decreased thyromental distance), restricted mouth opening due to increased adipose tissue and decreased mobility of temporomandibular joint, and restricted neck movement because of decreased mobility of atlanto-occipital joint."
+    },
+    {
+      "id": 14,
+      "question": "Is obesity per se the criteria to order routine tests?",
+      "options": {
+        "A": "No, investigation should be based on clinical assessment and associated comorbidities",
+        "B": "Only blood tests are needed",
+        "C": "Yes, all tests must be done",
+        "D": "Only chest X-ray is needed"
+      },
+      "answer": "A",
+      "explanation": "Obesity per se is not the criteria to order a battery of routine tests, therefore investigation should be based on clinical assessment and associated comorbidities."
+    },
+    {
+      "id": 15,
+      "question": "What must be checked by pulse oximetry as baseline in obese patients?",
+      "options": {
+        "A": "Temperature",
+        "B": "Heart rate",
+        "C": "Oxygen saturation",
+        "D": "Blood pressure"
+      },
+      "answer": "C",
+      "explanation": "Baseline oxygen saturation must be checked by pulse oximetry (if abnormal, then arterial blood gases should be done)."
+    },
+    {
+      "id": 16,
+      "question": "In which obese patients should polysomnography be strongly considered?",
+      "options": {
+        "A": "Morbidly obese patients or patients with a history of obstructive sleep apnea",
+        "B": "All obese patients",
+        "C": "Only those with hypertension",
+        "D": "Only super-obese patients"
+      },
+      "answer": "A",
+      "explanation": "Polysomnography should be strongly considered in morbidly obese patients or in patients with a history of obstructive sleep apnea."
+    },
+    {
+      "id": 17,
+      "question": "Why should respiratory depressant drugs like benzodiazepines be avoided for premedication in obese patients?",
+      "options": {
+        "A": "Due to risk of respiratory depression in patients already prone to hypoxia and sleep apnea",
+        "B": "They cause nausea",
+        "C": "They are expensive",
+        "D": "They cause hypertension"
+      },
+      "answer": "A",
+      "explanation": "Premedication with respiratory depressant drugs like benzodiazepines should be avoided."
+    },
+    {
+      "id": 18,
+      "question": "What premedication should be considered for obese patients?",
+      "options": {
+        "A": "Benzodiazepines",
+        "B": "Antihistamines only",
+        "C": "Opioids",
+        "D": "Metoclopramide and ranitidine"
+      },
+      "answer": "D",
+      "explanation": "Premedication with metoclopramide and ranitidine should be considered (due to hiatus hernia and GERD risk)."
+    },
+    {
+      "id": 19,
+      "question": "What size BP cuff should be used for monitoring obese patients?",
+      "options": {
+        "A": "Appropriate size BP cuff",
+        "B": "Standard adult cuff",
+        "C": "Pediatric cuff",
+        "D": "Any available cuff"
+      },
+      "answer": "A",
+      "explanation": "Appropriate size BP cuff should be chosen for monitoring."
+    },
+    {
+      "id": 20,
+      "question": "What is the anesthesia of choice for obese patients due to difficult airway?",
+      "options": {
+        "A": "Regional anesthesia",
+        "B": "IV sedation",
+        "C": "General anesthesia",
+        "D": "Local anesthesia only"
+      },
+      "answer": "A",
+      "explanation": "Due to difficult airway management, anesthesia of choice is regional anesthesia."
+    },
+    {
+      "id": 21,
+      "question": "Why is regional anesthesia often difficult in obese patients?",
+      "options": {
+        "A": "Due to infection risk",
+        "B": "Due to bleeding risk",
+        "C": "Due to reduced epidural and subarachnoid space making them vulnerable for high spinals",
+        "D": "Due to patient refusal"
+      },
+      "answer": "C",
+      "explanation": "Unfortunately regional anesthesia is often difficult in obese patients. Due to reduced epidural and subarachnoid space obese patients are more vulnerable for high spinals."
+    },
+    {
+      "id": 22,
+      "question": "What has been found beneficial during preoxygenation in obese patients?",
+      "options": {
+        "A": "Nebulization",
+        "B": "High flow nasal oxygen",
+        "C": "Adding 10 cm H2O of CPAP during preoxygenation",
+        "D": "Incentive spirometry"
+      },
+      "answer": "C",
+      "explanation": "Adding 10 cm H2O of continuous positive airway pressure (CPAP) during preoxygenation has found to be beneficial in maintaining oxygenation in the perioperative period."
+    },
+    {
+      "id": 23,
+      "question": "Why do lipid soluble drugs (IV induction agents, opioids) have increased volume of distribution in obese patients?",
+      "options": {
+        "A": "Due to increased renal clearance",
+        "B": "Due to increased fat stores",
+        "C": "Due to hepatic enzyme induction",
+        "D": "Due to decreased protein binding"
+      },
+      "answer": "B",
+      "explanation": "Lipid soluble drugs (IV induction agents, opioids) have increased volume of distribution, therefore given on actual body weight basis."
+    },
+    {
+      "id": 24,
+      "question": "On what weight basis should lipid soluble drugs be given in obese patients?",
+      "options": {
+        "A": "Adjusted body weight",
+        "B": "Actual body weight",
+        "C": "Lean body weight",
+        "D": "Ideal body weight"
+      },
+      "answer": "B",
+      "explanation": "Lipid soluble drugs have increased volume of distribution, therefore given on actual body weight basis."
+    },
+    {
+      "id": 25,
+      "question": "Is the increased volume of distribution effect as marked on propofol as on thiopentone?",
+      "options": {
+        "A": "More marked on propofol",
+        "B": "No, this effect is not so marked on propofol as on thiopentone",
+        "C": "Neither is affected",
+        "D": "Yes, equally marked"
+      },
+      "answer": "B",
+      "explanation": "Interestingly, this effect is not so marked on propofol as on thiopentone."
+    },
+    {
+      "id": 26,
+      "question": "What can achieving IV lines in obese patients become?",
+      "options": {
+        "A": "Impossible always",
+        "B": "An arduous task",
+        "C": "A simple procedure",
+        "D": "Very easy"
+      },
+      "answer": "B",
+      "explanation": "Achieving IV lines sometimes can become an arduous task."
+    },
+    {
+      "id": 27,
+      "question": "What is the most challenging part in obese patients?",
+      "options": {
+        "A": "Positioning",
+        "B": "Monitoring",
+        "C": "Airway management",
+        "D": "Drug dosing"
+      },
+      "answer": "C",
+      "explanation": "Airway management is the most challenging part in obese patients."
+    },
+    {
+      "id": 28,
+      "question": "How much more is the incidence of failed intubation in bariatric population?",
+      "options": {
+        "A": "5 times more",
+        "B": "10 times more",
+        "C": "3 times more",
+        "D": "2 times more"
+      },
+      "answer": "C",
+      "explanation": "The incidence of failed intubation is 3 times more in bariatric population."
+    },
+    {
+      "id": 29,
+      "question": "What is the preferred position for intubation in obese patients?",
+      "options": {
+        "A": "Ramped position (ear to sternum position)",
+        "B": "Trendelenburg position",
+        "C": "Lateral position",
+        "D": "Supine position"
+      },
+      "answer": "A",
+      "explanation": "The Ramped position provides a superior view of laryngoscopy and is the preferred position for intubation for obese patients."
+    },
+    {
+      "id": 30,
+      "question": "How is the ramp position achieved?",
+      "options": {
+        "A": "By flexing the neck only",
+        "B": "By extending the head only",
+        "C": "By tilting the table",
+        "D": "By elevating the upper back using sheets/blankets so external auditory meatus lies in horizontal line with sternal notch"
+      },
+      "answer": "D",
+      "explanation": "A ramp is created by using sheets and blankets to elevate the upper back of the patient to the level when external auditory meatus lie in horizontal line with the sternal notch (ear to sternum position)."
+    },
+    {
+      "id": 31,
+      "question": "What should be considered if intubation is anticipated to be difficult in obese patients?",
+      "options": {
+        "A": "Tracheostomy first",
+        "B": "LMA only",
+        "C": "Awake intubation with fiberoptic bronchoscopy",
+        "D": "Blind nasal intubation"
+      },
+      "answer": "C",
+      "explanation": "If intubation is anticipated to be difficult awake intubation with fiberoptic bronchoscopy should be considered."
+    },
+    {
+      "id": 32,
+      "question": "How must confirmation of intubation be done in obese patients?",
+      "options": {
+        "A": "By capnography as breath sounds may not be clearly audible on auscultation",
+        "B": "By auscultation only",
+        "C": "By tube length marking",
+        "D": "By chest rise only"
+      },
+      "answer": "A",
+      "explanation": "Confirmation of intubation must be done by capnography as breath sounds may not be clearly audible on auscultation."
+    },
+    {
+      "id": 33,
+      "question": "Why are inhalational agents more extensively metabolized in obese patients?",
+      "options": {
+        "A": "Due to increased fat stores and hepatic blood flow",
+        "B": "Due to decreased protein binding",
+        "C": "Due to increased renal clearance",
+        "D": "Due to enzyme deficiency"
+      },
+      "answer": "A",
+      "explanation": "Inhalational agents are more extensively metabolized in obese patients."
+    },
+    {
+      "id": 34,
+      "question": "Which is the inhalational agent of choice for maintenance in obese patients?",
+      "options": {
+        "A": "Halothane",
+        "B": "Isoflurane",
+        "C": "Sevoflurane",
+        "D": "Desflurane"
+      },
+      "answer": "D",
+      "explanation": "Desflurane is the inhalational agent of choice because it is the agent with least metabolism."
+    },
+    {
+      "id": 35,
+      "question": "Why should halothane be avoided in obese patients?",
+      "options": {
+        "A": "Increased metabolism of halothane makes obese patients more vulnerable for halothane hepatitis",
+        "B": "It causes arrhythmias",
+        "C": "It is not potent enough",
+        "D": "It causes bronchospasm"
+      },
+      "answer": "A",
+      "explanation": "Increased metabolism of halothane makes obese patients more vulnerable for halothane hepatitis."
+    },
+    {
+      "id": 36,
+      "question": "On what weight basis should water soluble drugs (nondepolarizing muscle relaxants) be given?",
+      "options": {
+        "A": "Actual body weight",
+        "B": "Ideal body weight",
+        "C": "Total body weight",
+        "D": "Adjusted body weight"
+      },
+      "answer": "B",
+      "explanation": "Water soluble drugs (nondepolarizing muscle relaxants) have limited volume of distribution therefore should be given on ideal body weight basis."
+    },
+    {
+      "id": 37,
+      "question": "What does application of 10 cm H2O PEEP during mechanical ventilation do in obese patients?",
+      "options": {
+        "A": "Decreases oxygenation",
+        "B": "Improves oxygenation by preventing alveolar collapse",
+        "C": "Causes hypotension",
+        "D": "Has no effect"
+      },
+      "answer": "B",
+      "explanation": "Application of 10 cm H2O of positive end expiratory pressure (PEEP) during mechanical ventilation improves oxygenation by preventing alveolar collapse."
+    },
+    {
+      "id": 38,
+      "question": "What position improves oxygenation particularly during laparoscopic surgeries in obese patients?",
+      "options": {
+        "A": "Lateral decubitus",
+        "B": "Supine flat",
+        "C": "30 degree reverse Trendelenburg",
+        "D": "Trendelenburg"
+      },
+      "answer": "C",
+      "explanation": "30 degree reverse Trendelenburg improves oxygenation particularly during laparoscopic surgeries."
+    },
+    {
+      "id": 39,
+      "question": "What are obese patients very prone to in the postoperative period?",
+      "options": {
+        "A": "Hypothermia",
+        "B": "Hypoxia",
+        "C": "Bradycardia",
+        "D": "Hyperglycemia only"
+      },
+      "answer": "B",
+      "explanation": "Obese patients are very prone to hypoxia in postoperative period."
+    },
+    {
+      "id": 40,
+      "question": "In what position should obese patients be nursed postoperatively?",
+      "options": {
+        "A": "Trendelenburg",
+        "B": "Supine flat",
+        "C": "45 degree sitting (semi-reclined position) with supplemental oxygen",
+        "D": "Prone"
+      },
+      "answer": "C",
+      "explanation": "They should be nursed in 45 degree sitting (semi-reclined position) with supplemental oxygen."
+    },
+    {
+      "id": 41,
+      "question": "When should CPAP or BiPAP be applied in postoperative obese patients?",
+      "options": {
+        "A": "Only after 24 hours",
+        "B": "If patient is not maintaining oxygen saturation on supplemental oxygen",
+        "C": "Never needed",
+        "D": "Always routinely"
+      },
+      "answer": "B",
+      "explanation": "CPAP or BiPAP should be applied if the patient is not maintaining oxygen saturation on supplemental oxygen."
+    },
+    {
+      "id": 42,
+      "question": "What must be taken to prevent thromboembolism postoperatively in obese patients?",
+      "options": {
+        "A": "Every precaution (DVT prophylaxis)",
+        "B": "Only aspirin",
+        "C": "Only compression stockings",
+        "D": "Only bed rest"
+      },
+      "answer": "A",
+      "explanation": "Every precaution must be taken to prevent thromboembolism."
+    },
+    {
+      "id": 43,
+      "question": "Why is good antibiotic cover a must in obese patients?",
+      "options": {
+        "A": "Due to poor hygiene only",
+        "B": "Due to diabetes only",
+        "C": "Due to immunosuppression",
+        "D": "Because these patients are prone for wound infection"
+      },
+      "answer": "D",
+      "explanation": "Good antibiotic cover is must as these patients are prone for wound infection."
+    },
+    {
+      "id": 44,
+      "question": "Why are obese patients in high cardiac output state?",
+      "options": {
+        "A": "To perfuse extra fat tissue",
+        "B": "Due to fever",
+        "C": "Due to anxiety",
+        "D": "Due to exercise"
+      },
+      "answer": "A",
+      "explanation": "To perfuse extra fat obese patients are in high cardiac output state."
+    },
+    {
+      "id": 45,
+      "question": "What restrictive pattern do obese patients have in their pulmonary functions?",
+      "options": {
+        "A": "Mixed pattern",
+        "B": "Normal pattern",
+        "C": "Extra parenchymal restrictive pattern",
+        "D": "Obstructive pattern"
+      },
+      "answer": "C",
+      "explanation": "Obese patients may have extra parenchymal restrictive pattern in their pulmonary functions."
+    },
+    {
+      "id": 46,
+      "question": "What does the ramped position provide for laryngoscopy?",
+      "options": {
+        "A": "No improvement",
+        "B": "Superior view",
+        "C": "Lateral view",
+        "D": "Inferior view"
+      },
+      "answer": "B",
+      "explanation": "The ramped position provides a superior view of laryngoscopy."
+    },
+    {
+      "id": 47,
+      "question": "What improves oxygenation in obese patients through application of CPAP and PEEP?",
+      "options": {
+        "A": "Decreasing dead space",
+        "B": "Decreasing respiratory rate",
+        "C": "Preventing alveolar collapse and improving functional residual capacity",
+        "D": "Increasing tidal volume"
+      },
+      "answer": "C",
+      "explanation": "Application of CPAP and PEEP improves oxygenation in obese patients by preventing alveolar collapse."
+    },
+    {
+      "id": 48,
+      "question": "Why is decreased thyromental distance a concern in obese patients?",
+      "options": {
+        "A": "It indicates thyroid disease",
+        "B": "It indicates short neck making intubation difficult",
+        "C": "It indicates dental problems",
+        "D": "It has no significance"
+      },
+      "answer": "B",
+      "explanation": "Short neck (decreased thyromental distance) contributes to difficult airway in obese patients."
+    },
+    {
+      "id": 49,
+      "question": "What causes reduced oxygen saturation in obese patients?",
+      "options": {
+        "A": "Pulmonary fibrosis",
+        "B": "Anemia",
+        "C": "Obesity itself and obstructive sleep apnea",
+        "D": "Heart failure only"
+      },
+      "answer": "C",
+      "explanation": "Reduced oxygen saturation because of obesity and obstructive sleep apnea."
+    },
+    {
+      "id": 50,
+      "question": "Why is the ramp position also called ear to sternum position?",
+      "options": {
+        "A": "Because neck is hyperextended",
+        "B": "Because ear touches the sternum",
+        "C": "Because external auditory meatus lies in horizontal line with sternal notch",
+        "D": "Because head is below sternum"
+      },
+      "answer": "C",
+      "explanation": "It is also called ear to sternum position because external auditory meatus lie in horizontal line with the sternal notch."
+    }
+  ]
+}
