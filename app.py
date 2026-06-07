@@ -170,6 +170,12 @@ QUIZ_CATALOG = {
         "short": "Laparoscopy (Ch 32)",
         "icon": "🔬",
     },
+    "ch30": {
+        "file": "questions_ch30.json",
+        "label": "Chapter 30 – Geriatric Anesthesia",
+        "short": "Geriatric (Ch 30)",
+        "icon": "👴",
+    },
 }
 
 # ─── Load Questions ──────────────────────────────────────────────────────────
