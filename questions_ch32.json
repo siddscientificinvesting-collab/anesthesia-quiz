@@ -1,0 +1,659 @@
+{
+  "title": "Anesthesia for Laparoscopy MCQ – Chapter 32",
+  "source": "Short Textbook of Anesthesia – Ajay Yadav",
+  "section": "Section 8: Subspecialty Anesthetic Management (Chapter 32)",
+  "total_questions": 50,
+  "time_limit_minutes": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Why have laparoscopic surgeries been on the rise over a decade?",
+      "options": {
+        "A": "Due to better cosmesis only",
+        "B": "Due to shorter hospital stay, avoidance of big surgical incision, less tissue trauma and less postoperative pain",
+        "C": "Due to lower cost only",
+        "D": "Due to faster anesthesia"
+      },
+      "answer": "B",
+      "explanation": "Page 248: Laparoscopic surgeries have been on rise over a decade due to shorter hospital stay, avoidance of big surgical incision, less tissue trauma and less postoperative pain.",
+      "topic": "General"
+    },
+    {
+      "id": 2,
+      "question": "Which gas is most frequently used for creating pneumoperitoneum?",
+      "options": {
+        "A": "Helium",
+        "B": "Carbon dioxide",
+        "C": "Argon",
+        "D": "Nitrogen"
+      },
+      "answer": "B",
+      "explanation": "Page 248: Carbon dioxide is most frequently used gas for laparoscopy because it is more soluble in blood leading to its rapid elimination from the body in cases of pneumothorax and accidental injection into vascular compartment.",
+      "topic": "Gases"
+    },
+    {
+      "id": 3,
+      "question": "Which gas is considered the most ideal for laparoscopy but not used due to cost?",
+      "options": {
+        "A": "Nitrogen",
+        "B": "Argon",
+        "C": "Helium",
+        "D": "Nitrous oxide"
+      },
+      "answer": "B",
+      "explanation": "Page 248: Since argon is an inert gas with no side effects it is considered as most ideal gas for laparoscopy, however because of its very high cost it is not used.",
+      "topic": "Gases"
+    },
+    {
+      "id": 4,
+      "question": "What respiratory effect does increased intra-abdominal pressure cause during pneumoperitoneum?",
+      "options": {
+        "A": "Increased FRC",
+        "B": "Improved ventilation",
+        "C": "Increased vital capacity",
+        "D": "Pushes diaphragm upwards causing basal atelectasis, V/Q mismatch and decreased FRC"
+      },
+      "answer": "D",
+      "explanation": "Page 248: Increase intra-abdominal pressure due to pneumoperitoneum pushes the diaphragm upwards, leading to basal atelectasis producing ventilation perfusion (V/Q) mismatch and decrease in functional residual capacity (FRC).",
+      "topic": "Pathophysiology - Respiratory"
+    },
+    {
+      "id": 5,
+      "question": "By how much may thoracopulmonary compliance be decreased during pneumoperitoneum?",
+      "options": {
+        "A": "Up to 50%",
+        "B": "Up to 25%",
+        "C": "Up to 10%",
+        "D": "Up to 75%"
+      },
+      "answer": "A",
+      "explanation": "Page 248: Thoracopulmonary compliance may be decreased by up to 50% during pneumoperitoneum.",
+      "topic": "Pathophysiology - Respiratory"
+    },
+    {
+      "id": 6,
+      "question": "How does increased intra-abdominal pressure affect cardiac output?",
+      "options": {
+        "A": "Compresses inferior vena cava leading to decreased venous return and cardiac output",
+        "B": "No effect",
+        "C": "Increases it",
+        "D": "Only affects heart rate"
+      },
+      "answer": "A",
+      "explanation": "Page 248: Increase intra-abdominal pressure compresses the inferior vena cava leading to decreased venous return and cardiac output.",
+      "topic": "Pathophysiology - Cardiovascular"
+    },
+    {
+      "id": 7,
+      "question": "By how much can intra-abdominal pressure of 12-14 mm Hg decrease cardiac output?",
+      "options": {
+        "A": "10-15%",
+        "B": "5-10%",
+        "C": "50-60%",
+        "D": "30-35%"
+      },
+      "answer": "D",
+      "explanation": "Page 248: Intra-abdominal pressure of 12-14 mm Hg can decrease the cardiac output by 30-35%.",
+      "topic": "Pathophysiology - Cardiovascular"
+    },
+    {
+      "id": 8,
+      "question": "Why does peripheral vascular resistance (PVR) increase during laparoscopy?",
+      "options": {
+        "A": "Due to patient positioning only",
+        "B": "Due to hypothermia",
+        "C": "Due to blood loss",
+        "D": "Due to high pCO2 and increased catecholamines, vasopressin and prostaglandins"
+      },
+      "answer": "D",
+      "explanation": "Page 249: Increase in PVR occurs because of high pCO2, and more importantly, because of increased catecholamines, vasopressin and prostaglandins.",
+      "topic": "Pathophysiology - Cardiovascular"
+    },
+    {
+      "id": 9,
+      "question": "What type of arrhythmias are more frequent during laparoscopy due to stretching of peritoneum?",
+      "options": {
+        "A": "Ventricular tachycardia",
+        "B": "Atrial fibrillation",
+        "C": "Bradyarrhythmias",
+        "D": "Tachyarrhythmias"
+      },
+      "answer": "C",
+      "explanation": "Page 249: CO2 by producing coronary vasoconstriction may produce any arrhythmia however, bradyarrhythmias occurring because of stretching of the peritoneum are more frequent.",
+      "topic": "Pathophysiology - Cardiovascular"
+    },
+    {
+      "id": 10,
+      "question": "What effect does CO2 have on the central nervous system during laparoscopy?",
+      "options": {
+        "A": "CO2 by producing cerebral vasodilation can increase the intracranial tension",
+        "B": "Causes CNS depression",
+        "C": "No CNS effect",
+        "D": "Decreases intracranial tension"
+      },
+      "answer": "A",
+      "explanation": "Page 248: CO2 by producing cerebral vasodilation can increase the intracranial tension.",
+      "topic": "Pathophysiology - CNS"
+    },
+    {
+      "id": 11,
+      "question": "Why is the risk of aspiration increased during laparoscopy?",
+      "options": {
+        "A": "Due to opioid use",
+        "B": "Increased intra-abdominal pressure distorts the gastroesophageal junction making patient more vulnerable",
+        "C": "Due to fasting violation",
+        "D": "Due to gas insufflation into stomach"
+      },
+      "answer": "B",
+      "explanation": "Page 248: Increased Intra-abdominal pressure distorts the gastroesophageal junction making patient more vulnerable for aspiration.",
+      "topic": "Pathophysiology - GI"
+    },
+    {
+      "id": 12,
+      "question": "How can carbon dioxide from peritoneal cavity cause pneumothorax?",
+      "options": {
+        "A": "Through the chest wall",
+        "B": "Through the diaphragm directly",
+        "C": "Through embryonic remnants between pleural and peritoneal cavity",
+        "D": "Through the esophagus"
+      },
+      "answer": "C",
+      "explanation": "Page 249: Carbon dioxide from peritoneal cavity can diffuse into the pleural cavity through embryonic remnants present between pleural and peritoneal cavity which gets open by increased intra-abdominal pressure or through pleural tears during surgery.",
+      "topic": "Complications - Pneumothorax"
+    },
+    {
+      "id": 13,
+      "question": "What are the diagnostic signs of pneumothorax during laparoscopy?",
+      "options": {
+        "A": "Only chest pain",
+        "B": "Only decreased SpO2",
+        "C": "Increased airway resistance, decreased SpO2, decreased air entry, X-ray chest, and subcutaneous emphysema",
+        "D": "Only hypotension"
+      },
+      "answer": "C",
+      "explanation": "Page 249: Diagnosis includes increased airway resistance on mechanical ventilation, decreased oxygen saturation (SpO2), decreased air entry on auscultation, X-ray chest, abnormal movement of diaphragm, and associated subcutaneous emphysema of neck and chest.",
+      "topic": "Complications - Pneumothorax"
+    },
+    {
+      "id": 14,
+      "question": "What is the FIRST step in managing pneumothorax during laparoscopy?",
+      "options": {
+        "A": "Immediately stop nitrous oxide",
+        "B": "Adjust ventilator",
+        "C": "Start 100% oxygen",
+        "D": "Insert chest tube"
+      },
+      "answer": "A",
+      "explanation": "Page 249: Management - Immediately stop nitrous oxide (it can expand the pneumothorax).",
+      "topic": "Complications - Pneumothorax"
+    },
+    {
+      "id": 15,
+      "question": "Should chest tube drainage be used routinely for capnothorax?",
+      "options": {
+        "A": "Only with bilateral pneumothorax",
+        "B": "No, reserved only for cases not responding to conservative measures or life-threatening ones",
+        "C": "Yes, always",
+        "D": "Only in pediatric patients"
+      },
+      "answer": "B",
+      "explanation": "Page 249: Chest tube drainage should be reserved only for the cases not responding to conservative measures or the Pneumothorax is life-threatening.",
+      "topic": "Complications - Pneumothorax"
+    },
+    {
+      "id": 16,
+      "question": "In how many minutes does capnothorax usually resolve by itself?",
+      "options": {
+        "A": "10-20 minutes",
+        "B": "5-10 minutes",
+        "C": "60-90 minutes",
+        "D": "30-60 minutes"
+      },
+      "answer": "D",
+      "explanation": "Page 249: Usually capnothorax resolves by itself in 30-60 minutes (because of high diffusibility of CO2).",
+      "topic": "Complications - Pneumothorax"
+    },
+    {
+      "id": 17,
+      "question": "Where can CO2 enter to cause pneumomediastinum and subcutaneous emphysema?",
+      "options": {
+        "A": "Through the trachea",
+        "B": "Through esophageal, vena cava or aortic hiatus into mediastinum and pericardium",
+        "C": "Through the pleura only",
+        "D": "Through the chest wall"
+      },
+      "answer": "B",
+      "explanation": "Page 249: The CO2 can enter mediastinum and pericardium through esophageal, vena cava or aortic hiatus. Gas from mediastinum may diffuse cephalad to produce subcutaneous emphysema of face and neck.",
+      "topic": "Complications - Pneumomediastinum"
+    },
+    {
+      "id": 18,
+      "question": "What is the mortality rate of CO2 embolism during laparoscopy?",
+      "options": {
+        "A": "5%",
+        "B": "30%",
+        "C": "50%",
+        "D": "10%"
+      },
+      "answer": "B",
+      "explanation": "Page 249: Gas embolism can be a fatal complication of laparoscopy; it carries a mortality of 30%.",
+      "topic": "Complications - CO2 Embolism"
+    },
+    {
+      "id": 19,
+      "question": "How does CO2 embolism occur during laparoscopy?",
+      "options": {
+        "A": "Through arterial line",
+        "B": "Through pulmonary veins",
+        "C": "Through IV line",
+        "D": "Due to accidental placement of needle into vessel during insufflation"
+      },
+      "answer": "D",
+      "explanation": "Page 249: CO2 embolism occurs because of accidental placement of a needle into the vessel during insufflation.",
+      "topic": "Complications - CO2 Embolism"
+    },
+    {
+      "id": 20,
+      "question": "What can large volume of gas cause if it enters the inferior vena cava?",
+      "options": {
+        "A": "Pneumomediastinum",
+        "B": "Subcutaneous emphysema",
+        "C": "Pneumothorax",
+        "D": "Gas lock leading to cardiovascular collapse"
+      },
+      "answer": "D",
+      "explanation": "Page 249: Large volume of gas can cause 'gas lock' in the inferior vena cava leading to cardiovascular collapse.",
+      "topic": "Complications - CO2 Embolism"
+    },
+    {
+      "id": 21,
+      "question": "What is the most sensitive test to diagnose CO2 embolism?",
+      "options": {
+        "A": "Transesophageal echocardiography",
+        "B": "Capnography",
+        "C": "Pulmonary artery pressure",
+        "D": "Doppler"
+      },
+      "answer": "A",
+      "explanation": "Page 249: Most sensitive test to diagnose CO2 embolism is transesophageal echocardiography.",
+      "topic": "Complications - CO2 Embolism"
+    },
+    {
+      "id": 22,
+      "question": "What is the capnography response pattern in CO2 embolism?",
+      "options": {
+        "A": "No change in ETCO2",
+        "B": "Biphasic response - initial rise in end tidal CO2 followed by fall",
+        "C": "Steady decrease in ETCO2",
+        "D": "Steady increase in ETCO2"
+      },
+      "answer": "B",
+      "explanation": "Page 249: In CO2 embolism, there is biphasic response, i.e. initial rise in end tidal CO2 (due to direct injection of CO2 in vessels) followed by fall.",
+      "topic": "Complications - CO2 Embolism"
+    },
+    {
+      "id": 23,
+      "question": "What is diagnostic for CO2 embolism when aspirated from central catheter?",
+      "options": {
+        "A": "Blood",
+        "B": "Clear fluid",
+        "C": "Gas or foamy blood",
+        "D": "Saline"
+      },
+      "answer": "C",
+      "explanation": "Page 249: Aspiration of gas or foamy blood from central catheter is diagnostic.",
+      "topic": "Complications - CO2 Embolism"
+    },
+    {
+      "id": 24,
+      "question": "What clinical signs indicate CO2 embolism?",
+      "options": {
+        "A": "Tachycardia, hypotension, right heart strain on ECG and Mill wheel murmur",
+        "B": "Hypertension and bradycardia",
+        "C": "Only cyanosis",
+        "D": "Only decreased SpO2"
+      },
+      "answer": "A",
+      "explanation": "Page 249: Clinical signs like tachycardia, hypotension, right heart strain on ECG and Mill wheel murmur.",
+      "topic": "Complications - CO2 Embolism"
+    },
+    {
+      "id": 25,
+      "question": "What must the surgeon ascertain before CO2 insufflation to prevent embolism?",
+      "options": {
+        "A": "Oxygen saturation",
+        "B": "Patient's heart rate",
+        "C": "Patient's blood pressure",
+        "D": "Position of Veress needle"
+      },
+      "answer": "D",
+      "explanation": "Page 249: The surgeon must ascertain the position of Veress needle before CO2 insufflation.",
+      "topic": "Complications - CO2 Embolism"
+    },
+    {
+      "id": 26,
+      "question": "What should the rate of insufflation NOT exceed to prevent CO2 embolism?",
+      "options": {
+        "A": "1 L/min",
+        "B": "2 L/min",
+        "C": "3 L/min",
+        "D": "0.5 L/min"
+      },
+      "answer": "A",
+      "explanation": "Page 249: Rate of insufflation should not be more than 1 L/min.",
+      "topic": "Complications - CO2 Embolism"
+    },
+    {
+      "id": 27,
+      "question": "In what position should the patient be placed for curative management of CO2 embolism?",
+      "options": {
+        "A": "Supine",
+        "B": "Trendelenburg",
+        "C": "Durant position (left lateral with Trendelenburg)",
+        "D": "Reverse Trendelenburg"
+      },
+      "answer": "C",
+      "explanation": "Page 249: If possible place the patient in Durant position (left lateral with Trendelenburg) so that gas get remains in right ventricle and can be aspirated.",
+      "topic": "Complications - CO2 Embolism"
+    },
+    {
+      "id": 28,
+      "question": "When may cardiopulmonary bypass be required for CO2 embolism?",
+      "options": {
+        "A": "Never required",
+        "B": "Only for pediatric patients",
+        "C": "For massive embolism",
+        "D": "For all cases"
+      },
+      "answer": "C",
+      "explanation": "Page 249: For massive embolism cardiopulmonary bypass may be required.",
+      "topic": "Complications - CO2 Embolism"
+    },
+    {
+      "id": 29,
+      "question": "What positions are most laparoscopic procedures performed in?",
+      "options": {
+        "A": "Prone and sitting",
+        "B": "Trendelenburg or anti-Trendelenburg",
+        "C": "Supine and lateral",
+        "D": "Lithotomy only"
+      },
+      "answer": "B",
+      "explanation": "Page 250: Majority of the laparoscopic procedures are performed in either Trendelenburg or anti-Trendelenburg position.",
+      "topic": "Complications - Positioning"
+    },
+    {
+      "id": 30,
+      "question": "What abdominal organ trauma can occur during laparoscopy?",
+      "options": {
+        "A": "Only splenic injury",
+        "B": "Only bladder injury",
+        "C": "Intestines and stomach may be perforated by needle or trocar with undetected bleeding and visceral trauma",
+        "D": "Only liver injury"
+      },
+      "answer": "C",
+      "explanation": "Page 250: Abdominal organs, especially intestines and stomach may be perforated by the needle or trocar. Moreover, bleeding and visceral trauma may go undetected.",
+      "topic": "Complications - Organ Trauma"
+    },
+    {
+      "id": 31,
+      "question": "Why can increase in pCO2 during laparoscopy be dangerous in cardiac patients?",
+      "options": {
+        "A": "It causes hypotension only",
+        "B": "It has no effect on cardiac patients",
+        "C": "It causes hypothermia",
+        "D": "It can produce arrhythmias and ischemia in cardiac patients"
+      },
+      "answer": "D",
+      "explanation": "Page 250: Increase in pCO2 is well-tolerated by young individuals, but can produce arrhythmias and ischemia in cardiac patients.",
+      "topic": "Complications - pCO2"
+    },
+    {
+      "id": 32,
+      "question": "At what intra-abdominal pressure can cardiac output decrease by more than two-thirds?",
+      "options": {
+        "A": "15 mm Hg",
+        "B": "12-14 mm Hg",
+        "C": "10 mm Hg",
+        "D": "> 20 mm Hg"
+      },
+      "answer": "D",
+      "explanation": "Page 250: Intra-abdominal pressure of > 20 mm Hg can decrease the cardiac output by more than two-thirds producing even cardiac arrest.",
+      "topic": "Complications - IAP"
+    },
+    {
+      "id": 33,
+      "question": "What is the recommended range for intra-abdominal pressure during laparoscopy?",
+      "options": {
+        "A": "20-25 mm Hg",
+        "B": "12-14 mm Hg",
+        "C": "15-20 mm Hg",
+        "D": "8-10 mm Hg"
+      },
+      "answer": "B",
+      "explanation": "Page 250: It is highly recommended that intra-abdominal pressure should be kept between 12-14 mm Hg.",
+      "topic": "Complications - IAP"
+    },
+    {
+      "id": 34,
+      "question": "What effect can intra-abdominal pressure > 20 mm Hg have on abdominal organs?",
+      "options": {
+        "A": "Significantly impair renal, mesenteric and intestinal blood flow",
+        "B": "Only affects kidneys",
+        "C": "Only affects liver",
+        "D": "No effect"
+      },
+      "answer": "A",
+      "explanation": "Page 250: Intra-abdominal pressure of > 20 mm Hg can significantly impair renal, mesenteric and intestinal blood flow.",
+      "topic": "Complications - IAP"
+    },
+    {
+      "id": 35,
+      "question": "What is the most common postoperative complication of laparoscopic surgeries?",
+      "options": {
+        "A": "Infection",
+        "B": "Bleeding",
+        "C": "Nausea and vomiting (incidence 40-75%)",
+        "D": "Pain"
+      },
+      "answer": "C",
+      "explanation": "Page 250: Nausea and vomiting is the most common postoperative complication of laparoscopic surgeries; incidence can be as high as 40-75%.",
+      "topic": "Complications - PONV"
+    },
+    {
+      "id": 36,
+      "question": "What causes shoulder pain in the postoperative period after laparoscopy?",
+      "options": {
+        "A": "Positioning on table",
+        "B": "Surgical retraction",
+        "C": "IV line placement",
+        "D": "Sub-diaphragmatic CO2 irritating diaphragm"
+      },
+      "answer": "D",
+      "explanation": "Page 250: Shoulder pain: Sub-diaphragmatic CO2 irritating diaphragm causing shoulder pain in postoperative period is commonly complained by many patients.",
+      "topic": "Complications - Shoulder Pain"
+    },
+    {
+      "id": 37,
+      "question": "Under what type of anesthesia can very short duration laparoscopic surgeries (<15 minutes) be performed?",
+      "options": {
+        "A": "Local anesthesia",
+        "B": "Regional anesthesia",
+        "C": "General anesthesia",
+        "D": "Spinal anesthesia"
+      },
+      "answer": "A",
+      "explanation": "Page 250: Laparoscopic surgeries of very short duration (<15 minutes) can only be considered under local anesthesia. Laparoscopic tubal ligation is the most common surgery performed under local anesthesia.",
+      "topic": "Anesthetic Management"
+    },
+    {
+      "id": 38,
+      "question": "Why does CO2 limit the use of central neuraxial blocks for laparoscopy?",
+      "options": {
+        "A": "Due to nausea",
+        "B": "Due to increased intracranial tension",
+        "C": "Due to diaphragmatic irritation by CO2 causing patient discomfort (shoulder pain)",
+        "D": "Due to hypotension risk"
+      },
+      "answer": "C",
+      "explanation": "Page 250: Patient discomfort (shoulder pain due to diaphragmatic irritation by CO2) limits the use of central neuraxial blocks (spinal/epidural) for laparoscopy.",
+      "topic": "Anesthetic Management"
+    },
+    {
+      "id": 39,
+      "question": "What is the most commonly used technique for most laparoscopic surgeries?",
+      "options": {
+        "A": "Epidural anesthesia",
+        "B": "Spinal anesthesia with sedation",
+        "C": "Local anesthesia",
+        "D": "General anesthesia with endotracheal intubation and mild hyperventilation"
+      },
+      "answer": "D",
+      "explanation": "Page 250: General anesthesia with endotracheal intubation and mild hyperventilation is most commonly used technique for most of the laparoscopic surgeries.",
+      "topic": "Anesthetic Management"
+    },
+    {
+      "id": 40,
+      "question": "When can second generation LMA (I-gel, Proseal) be considered for laparoscopy?",
+      "options": {
+        "A": "Only in emergency",
+        "B": "Never",
+        "C": "If there is no risk of aspiration",
+        "D": "Always"
+      },
+      "answer": "C",
+      "explanation": "Page 250: General anesthesia with second generation laryngeal mask airway (I-gel, proseal) can be considered if there is no risk of aspiration.",
+      "topic": "Anesthetic Management"
+    },
+    {
+      "id": 41,
+      "question": "At what level should ETCO2 be maintained during laparoscopy?",
+      "options": {
+        "A": "35 mm Hg",
+        "B": "30 mm Hg",
+        "C": "45 mm Hg",
+        "D": "25 mm Hg"
+      },
+      "answer": "A",
+      "explanation": "Page 250: ETCO2 should be maintained at 35 mm Hg.",
+      "topic": "Anesthetic Management"
+    },
+    {
+      "id": 42,
+      "question": "Why should inhalational agents that depress cardiac function (like halothane) be avoided?",
+      "options": {
+        "A": "They cause bronchospasm",
+        "B": "Because cardiac output is already compromised by pneumoperitoneum",
+        "C": "They are expensive",
+        "D": "They cause nausea"
+      },
+      "answer": "B",
+      "explanation": "Page 250: Inhalational agents which depress cardiac function (like halothane) should be avoided.",
+      "topic": "Anesthetic Management"
+    },
+    {
+      "id": 43,
+      "question": "Why is propofol the induction agent of choice for laparoscopy?",
+      "options": {
+        "A": "Because of its antiemetic properties",
+        "B": "It has fastest onset",
+        "C": "It is cheapest",
+        "D": "It has longest duration"
+      },
+      "answer": "A",
+      "explanation": "Page 250: Propofol because of its antiemetic properties is the induction agent of choice.",
+      "topic": "Anesthetic Management"
+    },
+    {
+      "id": 44,
+      "question": "Which of the following is an ABSOLUTE contraindication for laparoscopy?",
+      "options": {
+        "A": "Pregnancy",
+        "B": "Controlled coronary insufficiency",
+        "C": "Congestive heart failure",
+        "D": "Obesity"
+      },
+      "answer": "C",
+      "explanation": "Page 250: Absolute contraindications include: Increased intracranial tension, congestive heart failure, severe hypovolemia and hypotension, right-to-left cardiac shunts or patent foramen ovale, generalized abdominal peritonitis, and retinal detachment.",
+      "topic": "Contraindications"
+    },
+    {
+      "id": 45,
+      "question": "Why is right-to-left cardiac shunt an absolute contraindication for laparoscopy?",
+      "options": {
+        "A": "Due to arrhythmia",
+        "B": "Risk of paradoxical embolism",
+        "C": "Due to bleeding risk",
+        "D": "Due to hypotension"
+      },
+      "answer": "B",
+      "explanation": "Page 250: Right-to-left cardiac shunts or patent foramen ovale (risk of paradoxical embolism) is an absolute contraindication.",
+      "topic": "Contraindications"
+    },
+    {
+      "id": 46,
+      "question": "What is the relative contraindication for laparoscopy?",
+      "options": {
+        "A": "Coronary insufficiency",
+        "B": "Obesity",
+        "C": "Pregnancy",
+        "D": "Ventriculoperitoneal (VP) or peritoneojugular (PJ) shunt"
+      },
+      "answer": "D",
+      "explanation": "Page 250: Relative contraindication - Ventriculoperitoneal (VP) or peritoneojugular (PJ) shunt: Insufflation in peritoneum can displace the shunt.",
+      "topic": "Contraindications"
+    },
+    {
+      "id": 47,
+      "question": "Is laparoscopy considered safe during pregnancy?",
+      "options": {
+        "A": "Yes, laparoscopy is considered safe during pregnancy",
+        "B": "Absolutely contraindicated",
+        "C": "Only in first trimester",
+        "D": "Only in third trimester"
+      },
+      "answer": "A",
+      "explanation": "Page 250: Although pneumoperitoneum may cause transient fetal acidosis, clinical studies suggest that additional risks to be very low for both mother and fetus. Therefore, laparoscopy is considered safe during pregnancy.",
+      "topic": "Contraindications - Past"
+    },
+    {
+      "id": 48,
+      "question": "Is laparoscopy now preferred over open surgery in obese patients?",
+      "options": {
+        "A": "It is equally preferred",
+        "B": "Yes, it has become the preferred method over open surgeries",
+        "C": "Only for minor procedures",
+        "D": "No, it is contraindicated"
+      },
+      "answer": "B",
+      "explanation": "Page 250: Laparoscopy once used to be considered as contraindication in obese patients has now become the preferred method over open surgeries.",
+      "topic": "Contraindications - Past"
+    },
+    {
+      "id": 49,
+      "question": "Can a patient with controlled ischemic heart disease be safely considered for laparoscopy?",
+      "options": {
+        "A": "Only with CABG first",
+        "B": "Yes, with enhanced perioperative cardiovascular monitoring",
+        "C": "Only for short procedures",
+        "D": "Absolutely contraindicated"
+      },
+      "answer": "B",
+      "explanation": "Page 250: A patient with the controlled ischemic heart disease can be safely considered for laparoscopic surgeries however, with enhanced perioperative cardiovascular monitoring.",
+      "topic": "Contraindications - Past"
+    },
+    {
+      "id": 50,
+      "question": "Are respiratory complications after laparoscopic surgery higher or lower than open surgery?",
+      "options": {
+        "A": "Significantly lower",
+        "B": "Only slightly lower",
+        "C": "Same",
+        "D": "Higher"
+      },
+      "answer": "A",
+      "explanation": "Page 250: Respiratory complications after laparoscopic surgery are significantly lower than open surgery.",
+      "topic": "Contraindications - Past"
+    }
+  ]
+}

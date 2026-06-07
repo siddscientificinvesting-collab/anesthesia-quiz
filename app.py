@@ -164,6 +164,12 @@ QUIZ_CATALOG = {
         "short": "Bariatric (Ch 31)",
         "icon": "⚖️",
     },
+    "ch32": {
+        "file": "questions_ch32.json",
+        "label": "Chapter 32 – Anesthesia for Laparoscopy",
+        "short": "Laparoscopy (Ch 32)",
+        "icon": "🔬",
+    },
 }
 
 # ─── Load Questions ──────────────────────────────────────────────────────────
