@@ -1,0 +1,659 @@
+{
+  "title": "Anesthesia for Day-care Surgery MCQ \u2013 Chapter 38",
+  "source": "Short Textbook of Anesthesia \u2013 Ajay Yadav",
+  "section": "Section 8: Subspecialty Anesthetic Management (Chapter 38)",
+  "total_questions": 50,
+  "time_limit_minutes": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "When a patient undergoing a day-care procedure stays in the hospital for one night, the surgery is referred to as:",
+      "options": {
+        "A": "Short-stay surgery/procedure",
+        "B": "Extended day-care surgery",
+        "C": "Ambulatory surgery",
+        "D": "Semi-elective surgery"
+      },
+      "answer": "A",
+      "explanation": "Page 267 (Chapter 38 intro): If the patient stays for one night after a day-care procedure, it is called a 'short-stay surgery/procedure'. Day-care surgery proper means the patient is admitted, procedure done, and discharged on the same calendar day.",
+      "topic": "Introduction to Day-care Surgery"
+    },
+    {
+      "id": 2,
+      "question": "Early ambulation in day-care (ambulatory) anesthesia is specifically stated in the textbook to decrease which postoperative complication?",
+      "options": {
+        "A": "Deep vein thrombosis",
+        "B": "Pulmonary embolism",
+        "C": "Wound infection",
+        "D": "Urinary retention"
+      },
+      "answer": "B",
+      "explanation": "Page 267: One of the reasons for increased day-care surgeries is that early ambulation (that's why called ambulatory anesthesia) decreases the complications like pulmonary embolism. This is explicitly mentioned in the textbook.",
+      "topic": "Introduction to Day-care Surgery"
+    },
+    {
+      "id": 3,
+      "question": "Which of the following procedures is NOT suitable for day-care surgery?",
+      "options": {
+        "A": "A procedure in a 90-year-old non-obese, non-OSA patient",
+        "B": "A procedure in an ASA grade II patient",
+        "C": "A procedure requiring prolonged parenteral or epidural analgesics postoperatively",
+        "D": "A 3-hour surgery in an otherwise healthy patient"
+      },
+      "answer": "C",
+      "explanation": "Page 267: Surgeries associated with major hemodynamic alterations, postoperative complications, requiring prolonged immobilization and parenteral/epidural analgesics are NOT considered for day-care surgeries. Duration of surgery is no longer a parameter for exclusion.",
+      "topic": "Selection of Surgery and Patients"
+    },
+    {
+      "id": 4,
+      "question": "Which of the following statements about ASA grading and day-care surgery is CORRECT?",
+      "options": {
+        "A": "Only ASA grade I patients can undergo day-care surgery",
+        "B": "ASA grade III patients are absolutely excluded from day-care surgery",
+        "C": "ASA grading is an absolute parameter for exclusion from day-care",
+        "D": "ASA grading is NOT an absolute parameter; usually ASA I, II, and III patients are considered for day-care"
+      },
+      "answer": "D",
+      "explanation": "Page 267: Although the American Society of Anesthesiologists (ASA) grading is not an absolute parameter, however, usually ASA grade I, II and III (with their disease well controlled) patients are considered for day-care procedures.",
+      "topic": "Selection of Surgery and Patients"
+    },
+    {
+      "id": 5,
+      "question": "What is the ONLY age-related absolute exclusion for day-care surgery according to the textbook?",
+      "options": {
+        "A": "Prematures up to 50th postconception week",
+        "B": "Neonates less than 1 week old",
+        "C": "Infants less than 6 months old",
+        "D": "Patients older than 85 years"
+      },
+      "answer": "A",
+      "explanation": "Page 267: Age is no bar for day-care surgery; even a newborn or 100-year-old patient can be considered. The ONLY exclusion is prematures up to 50th postconception week because prematures are at high risk of apnea up to 50th postconception week.",
+      "topic": "Selection of Surgery and Patients"
+    },
+    {
+      "id": 6,
+      "question": "What is the MOST IMPORTANT goal of premedication for day-care patients?",
+      "options": {
+        "A": "To provide preoperative analgesia",
+        "B": "To relieve anxiety",
+        "C": "To prevent aspiration",
+        "D": "To reduce oropharyngeal secretions"
+      },
+      "answer": "B",
+      "explanation": "Page 267: Like indoor patients, the most important goal for premedication for day-care patients is to relieve the anxiety. This is explicitly stated as the primary goal of premedication in day-care settings.",
+      "topic": "Preoperative Assessment and Premedication"
+    },
+    {
+      "id": 7,
+      "question": "What is the PREFERRED method of relieving anxiety in day-care surgery patients according to the textbook?",
+      "options": {
+        "A": "Oral benzodiazepines",
+        "B": "Intravenous midazolam at induction",
+        "C": "Non-pharmacological approach (taking the patient into detail to clear his/her doubts)",
+        "D": "Oral opioid analgesics"
+      },
+      "answer": "C",
+      "explanation": "Page 267: As benzodiazepines can delay the recovery, the preferred method of relieving anxiety should be non-pharmacological (taking to the patient in detail to clear his/her doubts). Pharmacological methods should only be used when deemed necessary.",
+      "topic": "Preoperative Assessment and Premedication"
+    },
+    {
+      "id": 8,
+      "question": "Which benzodiazepine is the drug of choice for premedication in day-care surgery patients?",
+      "options": {
+        "A": "Diazepam",
+        "B": "Lorazepam",
+        "C": "Alprazolam",
+        "D": "Midazolam"
+      },
+      "answer": "D",
+      "explanation": "Page 267: Because of its shorter half-life, midazolam is the benzodiazepine of choice for day-care patients. If pharmacological premedication is deemed necessary, only benzodiazepines should be used, and midazolam is specifically preferred.",
+      "topic": "Preoperative Assessment and Premedication"
+    },
+    {
+      "id": 9,
+      "question": "Why are benzodiazepines used with caution for premedication in day-care surgery patients?",
+      "options": {
+        "A": "They can delay the recovery",
+        "B": "They cause severe respiratory depression",
+        "C": "They produce paradoxical excitation in elderly patients",
+        "D": "They cannot be antagonized if needed"
+      },
+      "answer": "A",
+      "explanation": "Page 267: As benzodiazepines can delay the recovery, the preferred method of relieving anxiety should be non-pharmacological. If pharmacological premedication is required, only benzodiazepines with shorter half-life (midazolam) should be used to minimize delay in recovery.",
+      "topic": "Preoperative Assessment and Premedication"
+    },
+    {
+      "id": 10,
+      "question": "What is the required fasting (nil orally) duration for clear fluids (water) before day-care surgery?",
+      "options": {
+        "A": "4 hours",
+        "B": "2 hours",
+        "C": "6 hours",
+        "D": "8 hours"
+      },
+      "answer": "B",
+      "explanation": "Page 267: Nil orally guidelines are same (as for indoor patients), i.e. 6 hours for light meal, 8 hours for full meal and 2 hours for clear fluids (water). These guidelines apply equally to day-care patients.",
+      "topic": "Preoperative Assessment and Premedication"
+    },
+    {
+      "id": 11,
+      "question": "What is the required fasting duration before day-care surgery for a light meal?",
+      "options": {
+        "A": "2 hours",
+        "B": "4 hours",
+        "C": "6 hours",
+        "D": "8 hours"
+      },
+      "answer": "C",
+      "explanation": "Page 267: Nil orally guidelines are same as for indoor patients: 6 hours for light meal, 8 hours for full meal, and 2 hours for clear fluids (water). This applies equally to day-care surgery patients.",
+      "topic": "Preoperative Assessment and Premedication"
+    },
+    {
+      "id": 12,
+      "question": "What is the required fasting duration before day-care surgery for a full meal?",
+      "options": {
+        "A": "2 hours",
+        "B": "4 hours",
+        "C": "6 hours",
+        "D": "8 hours"
+      },
+      "answer": "D",
+      "explanation": "Page 267: Nil orally guidelines are same as for indoor patients: 6 hours for light meal, 8 hours for full meal, and 2 hours for clear fluids (water). A full meal requires the longest fasting period of 8 hours.",
+      "topic": "Preoperative Assessment and Premedication"
+    },
+    {
+      "id": 13,
+      "question": "Which statement best describes the role of Bispectral Index (BIS) monitoring in day-care surgery?",
+      "options": {
+        "A": "It is suggested for measuring depth of anesthesia but considered optional due to high cost and insignificant difference in awake time",
+        "B": "It is mandatory for all day-care surgeries",
+        "C": "It significantly reduces awake time and is therefore recommended",
+        "D": "It is used exclusively for TIVA cases in day-care"
+      },
+      "answer": "A",
+      "explanation": "Page 268: BIS monitor to measure the depth of anesthesia is suggested for day-care surgery, however, still considered optional because of its high cost and insignificant difference in awake time in patients whom BIS was used vs. in whom BIS was not used.",
+      "topic": "Monitoring"
+    },
+    {
+      "id": 14,
+      "question": "Which airway device is ALWAYS preferred over endotracheal intubation for general anesthesia in day-care surgery?",
+      "options": {
+        "A": "Oropharyngeal airway (Guedel)",
+        "B": "Laryngeal mask airway (LMA)",
+        "C": "Nasopharyngeal airway",
+        "D": "I-gel supraglottic device"
+      },
+      "answer": "B",
+      "explanation": "Page 268: To avoid the complications of intubation (especially postoperative sore throat), general anesthesia (GA) with laryngeal mask airway (LMA) is always preferred over intubation. It is now considered safe to do even laparoscopic surgeries in LMA patients who are adequately fasting and do not have a risk factor for aspiration.",
+      "topic": "General Anesthesia"
+    },
+    {
+      "id": 15,
+      "question": "What is the PRIMARY reason for preferring LMA over endotracheal intubation in day-care surgery?",
+      "options": {
+        "A": "Easier to insert in all patients",
+        "B": "Reduced risk of laryngospasm during insertion",
+        "C": "To avoid complications of intubation, especially postoperative sore throat",
+        "D": "LMA provides better ventilation during laparoscopic procedures"
+      },
+      "answer": "C",
+      "explanation": "Page 268: GA with LMA is always preferred over intubation to avoid the complications of intubation, especially postoperative sore throat. This is a key consideration in day-care surgery where patient comfort and rapid recovery are paramount.",
+      "topic": "General Anesthesia"
+    },
+    {
+      "id": 16,
+      "question": "What combination of properties makes propofol the induction agent of choice for day-care surgery?",
+      "options": {
+        "A": "Long duration of action and analgesic properties",
+        "B": "Absence of cardiovascular side effects and low cost",
+        "C": "Bronchodilatory properties and ease of titration",
+        "D": "Rapid, smooth recovery and antiemetic property"
+      },
+      "answer": "D",
+      "explanation": "Page 268: Propofol is the agent of choice for induction because of its rapid, smooth recovery and antiemetic property. These three properties make it uniquely suited for day-care surgery where quick, complication-free recovery is essential.",
+      "topic": "General Anesthesia"
+    },
+    {
+      "id": 17,
+      "question": "In the propofol autoco-induction technique for day-care surgery, what initial dose of propofol is administered?",
+      "options": {
+        "A": "30 mg",
+        "B": "50 mg",
+        "C": "100 mg",
+        "D": "1 mg/kg"
+      },
+      "answer": "A",
+      "explanation": "Page 268: Propofol autoco-induction, the technique in which 30 mg of propofol is given as an initial dose, has been found to reduce the requirement of propofol, hastening the recovery. This subinduction dose sensitizes the patient to subsequent propofol doses.",
+      "topic": "General Anesthesia"
+    },
+    {
+      "id": 18,
+      "question": "Which inhalational agent is the agent of choice for MAINTENANCE of anesthesia in day-care surgery?",
+      "options": {
+        "A": "Isoflurane",
+        "B": "Desflurane",
+        "C": "Sevoflurane",
+        "D": "Halothane"
+      },
+      "answer": "B",
+      "explanation": "Page 268: Due to lowest blood gas coefficient, Desflurane has earliest induction and recovery, therefore, is the inhalational agent of choice for day-care patients. In case of non-availability of desflurane, sevoflurane serves as an excellent alternative.",
+      "topic": "General Anesthesia"
+    },
+    {
+      "id": 19,
+      "question": "What pharmacological property of desflurane makes it the preferred maintenance agent for day-care surgery?",
+      "options": {
+        "A": "Highest blood gas coefficient among volatile agents",
+        "B": "Non-pungent odor suitable for inhalational induction",
+        "C": "Lowest blood gas coefficient, leading to earliest induction and recovery",
+        "D": "No cardiovascular side effects at high concentrations"
+      },
+      "answer": "C",
+      "explanation": "Page 268: Due to lowest blood gas coefficient, Desflurane has earliest induction and recovery. The blood-gas coefficient determines how quickly an agent equilibrates between the blood and alveoli; a lower coefficient means faster wash-in and wash-out, thus earliest recovery.",
+      "topic": "General Anesthesia"
+    },
+    {
+      "id": 20,
+      "question": "Which inhalational agent serves as an EXCELLENT ALTERNATIVE to desflurane when desflurane is unavailable for day-care surgery maintenance?",
+      "options": {
+        "A": "Isoflurane",
+        "B": "Halothane",
+        "C": "Enflurane",
+        "D": "Sevoflurane"
+      },
+      "answer": "D",
+      "explanation": "Page 268: In case of non-availability of desflurane, sevoflurane serves as an excellent alternative for maintenance of anesthesia in day-care patients. Sevoflurane also has a relatively low blood-gas coefficient, providing reasonably quick recovery.",
+      "topic": "General Anesthesia"
+    },
+    {
+      "id": 21,
+      "question": "How quickly is nitrous oxide eliminated from the body after discontinuation, contributing to faster recovery in day-care surgery?",
+      "options": {
+        "A": "3\u20135 minutes",
+        "B": "10\u201315 minutes",
+        "C": "20\u201330 minutes",
+        "D": "60 minutes"
+      },
+      "answer": "A",
+      "explanation": "Page 268: Nitrous oxide decreases the requirement of other anesthetic agents hence fastening the recovery (nitrous oxide itself is eliminated from body in 3\u20135 minutes). This rapid elimination is a significant advantage for day-care surgery.",
+      "topic": "General Anesthesia"
+    },
+    {
+      "id": 22,
+      "question": "Which opioid is the MOST PREFERRED for intravenous analgesia in day-care surgery patients?",
+      "options": {
+        "A": "Morphine",
+        "B": "Remifentanil",
+        "C": "Fentanyl",
+        "D": "Pethidine"
+      },
+      "answer": "B",
+      "explanation": "Page 268: Opioids should be avoided if possible. Remifentanil because of its ultra-short half-life (10 minutes) is the most preferred opioid for day-care surgery. Its rapid elimination minimizes postoperative sedation and respiratory depression.",
+      "topic": "General Anesthesia"
+    },
+    {
+      "id": 23,
+      "question": "What is the half-life of remifentanil that makes it suitable for day-care surgery?",
+      "options": {
+        "A": "2 minutes",
+        "B": "5 minutes",
+        "C": "10 minutes",
+        "D": "30 minutes"
+      },
+      "answer": "C",
+      "explanation": "Page 268: Remifentanil because of its ultra-short half-life (10 minutes) is the most preferred opioid. This ultra-short half-life ensures rapid offset of opioid effects, minimizing postoperative sedation and respiratory depression in day-care patients.",
+      "topic": "General Anesthesia"
+    },
+    {
+      "id": 24,
+      "question": "Why is succinylcholine NOT preferred as a muscle relaxant for day-care surgery?",
+      "options": {
+        "A": "It has a very long duration of action requiring reversal",
+        "B": "It causes significant bronchospasm",
+        "C": "It cannot be antagonized with neostigmine",
+        "D": "High incidence of postoperative myalgia"
+      },
+      "answer": "D",
+      "explanation": "Page 268: Succinylcholine, in spite of having short duration, is usually not preferred due to high incidence of postoperative myalgia. In day-care surgery, postoperative myalgia is particularly undesirable as patients are discharged the same day.",
+      "topic": "General Anesthesia"
+    },
+    {
+      "id": 25,
+      "question": "Which feature of mivacurium makes it the PREFERRED muscle relaxant for day-care surgery?",
+      "options": {
+        "A": "Short duration of action (10 minutes)",
+        "B": "No requirement for reversal agents",
+        "C": "Can be administered orally",
+        "D": "Does not require neuromuscular monitoring"
+      },
+      "answer": "A",
+      "explanation": "Page 268: Short duration of action (10 minutes) makes mivacurium as preferred muscle relaxant for day-care surgery. Its brief duration of action aligns well with the short surgical procedures typically performed in day-care settings.",
+      "topic": "General Anesthesia"
+    },
+    {
+      "id": 26,
+      "question": "What is the combination of choice for Total Intravenous Anesthesia (TIVA) in day-care surgery?",
+      "options": {
+        "A": "Ketamine + Midazolam",
+        "B": "Propofol + Remifentanil",
+        "C": "Propofol + Fentanyl",
+        "D": "Thiopentone + Morphine"
+      },
+      "answer": "B",
+      "explanation": "Page 268: The combination of choice for total intravenous anesthesia (TIVA) is Propofol + Remifentanil. Both agents have rapid, predictable offset of action making them ideal for TIVA in day-care surgery. This is also listed in the Key Points of the chapter.",
+      "topic": "Total Intravenous Anesthesia"
+    },
+    {
+      "id": 27,
+      "question": "Which statement regarding Total Intravenous Anesthesia (TIVA) in day-care surgery is CORRECT?",
+      "options": {
+        "A": "TIVA includes both inhalational and intravenous anesthetic agents",
+        "B": "Muscle relaxants are routinely included in TIVA protocols",
+        "C": "TIVA uses only intravenous anesthetics with no inhalational agents and no muscle relaxants",
+        "D": "Nitrous oxide is an essential component of TIVA"
+      },
+      "answer": "C",
+      "explanation": "Page 268: TIVA is the technique where only intravenous anesthetics are used (no inhalational, no muscle relaxant). The combination of choice for TIVA is Propofol + Remifentanil. The exclusion of inhalational agents and muscle relaxants is a defining characteristic of TIVA.",
+      "topic": "Total Intravenous Anesthesia"
+    },
+    {
+      "id": 28,
+      "question": "Which regional anesthesia technique is FREQUENTLY used for day-care surgery patients?",
+      "options": {
+        "A": "Epidural anesthesia",
+        "B": "Caudal block",
+        "C": "Brachial plexus block",
+        "D": "Spinal anesthesia"
+      },
+      "answer": "D",
+      "explanation": "Page 268: Regional nerve blocks are simple and safe techniques for day-care surgery. In current-day practice, spinal anesthesia is frequently used for day-care patients. Epidural is hardly used for day-care. Spinal anesthesia with appropriate agents provides predictable, titratable block duration.",
+      "topic": "Regional Anesthesia"
+    },
+    {
+      "id": 29,
+      "question": "Which local anesthetic agents are PREFERRED for spinal anesthesia in day-care surgery?",
+      "options": {
+        "A": "Prilocaine or chloroprocaine (short/intermediate-acting agents)",
+        "B": "Bupivacaine (long-acting agent)",
+        "C": "Lignocaine",
+        "D": "Ropivacaine"
+      },
+      "answer": "A",
+      "explanation": "Page 268: Spinal anesthesia is performed with small gauge pencil tip needles and short/intermediate-acting agents like prilocaine or chloroprocaine. These agents provide a block of appropriate duration for day-care procedures without prolonged motor block that would delay discharge.",
+      "topic": "Regional Anesthesia"
+    },
+    {
+      "id": 30,
+      "question": "Why is lignocaine NOT preferred for spinal anesthesia in day-care surgery patients?",
+      "options": {
+        "A": "It has too short a duration of action for most procedures",
+        "B": "Possibility of transient neurological symptoms (TNS)",
+        "C": "High risk of total spinal anesthesia",
+        "D": "Significant cardiovascular toxicity at spinal doses"
+      },
+      "answer": "B",
+      "explanation": "Page 268: Lignocaine is not preferred due to the possibility of transient neurologic symptoms (TNS). TNS manifests as back pain radiating to the lower limbs, which would be particularly distressing for patients being discharged on the same day.",
+      "topic": "Regional Anesthesia"
+    },
+    {
+      "id": 31,
+      "question": "What is 'Selective Spinal Anesthesia (SSA)' as described in the context of day-care surgery?",
+      "options": {
+        "A": "Spinal anesthesia administered exclusively in the sitting position",
+        "B": "Use of hyperbaric solutions to target specific dermatomes",
+        "C": "Use of isobaric local anesthetic to ensure symmetrical spread",
+        "D": "Giving minimal doses of local anesthetic to block only the required segments"
+      },
+      "answer": "D",
+      "explanation": "Page 268: If a long-acting agent like bupivacaine is to be used, then the spinal should be 'selective spinal anesthesia (SSA)' which entails giving minimal doses to block only the required segments. This minimizes the extent of motor and sympathetic block, facilitating early discharge.",
+      "topic": "Regional Anesthesia"
+    },
+    {
+      "id": 32,
+      "question": "What is the MAXIMUM dose of bupivacaine recommended for spinal anesthesia in day-care surgery to avoid the need for extended monitoring?",
+      "options": {
+        "A": "5 mg",
+        "B": "10 mg",
+        "C": "15 mg",
+        "D": "7 mg"
+      },
+      "answer": "D",
+      "explanation": "Page 269: Patients with obstructive sleep apnea should be monitored if the dysfunction or dose of bupivacaine used for spinal is > 7 mg. Also, the ability to pass urine is not mandatory except when bupivacaine dose >7 mg is used. Doses above 7 mg indicate a denser block requiring longer observation.",
+      "topic": "Regional Anesthesia"
+    },
+    {
+      "id": 33,
+      "question": "What is the MOST PREFERRED drug for sedation during Monitored Anesthesia Care (MAC) in day-care surgery?",
+      "options": {
+        "A": "Midazolam",
+        "B": "Ketamine",
+        "C": "Dexmedetomidine",
+        "D": "Fentanyl"
+      },
+      "answer": "A",
+      "explanation": "Page 268: Most preferred drug for sedation (in monitored anesthesia care) is midazolam. Sometimes, propofol may be required in low (sedative) doses. Midazolam's anxiolytic, amnestic and sedative properties make it ideal for MAC in day-care patients.",
+      "topic": "Monitored Anesthesia Care"
+    },
+    {
+      "id": 34,
+      "question": "What is the MOST COMMON postoperative problem seen in day-care surgery patients?",
+      "options": {
+        "A": "Nausea and vomiting",
+        "B": "Pain",
+        "C": "Sedation",
+        "D": "Bleeding"
+      },
+      "answer": "B",
+      "explanation": "Page 268: The common problems seen in the postoperative period are pain (most common), nausea and vomiting (2nd most common), sedation, myalgia, weakness and bleeding. Pain is the most common postoperative problem and one of the most common causes of unexpected admission.",
+      "topic": "Postoperative Period"
+    },
+    {
+      "id": 35,
+      "question": "What is the SECOND MOST COMMON postoperative problem in day-care surgery patients?",
+      "options": {
+        "A": "Pain",
+        "B": "Bleeding",
+        "C": "Nausea and vomiting",
+        "D": "Myalgia"
+      },
+      "answer": "C",
+      "explanation": "Page 268: The common problems seen in the postoperative period are pain (most common), nausea and vomiting (2nd most common), sedation, myalgia, weakness and bleeding. Nausea and vomiting together are the second most common complication and one of the two leading causes of unexpected admission.",
+      "topic": "Postoperative Period"
+    },
+    {
+      "id": 36,
+      "question": "What does 'fast-track discharge' mean in the context of day-care surgery?",
+      "options": {
+        "A": "Discharging the patient directly home without any recovery room observation",
+        "B": "Discharging the patient within 30 minutes of completing surgery",
+        "C": "Transferring the patient from Phase I PACU directly to the ward for overnight stay",
+        "D": "Shifting the patient directly from operation theater to Phase II (step down) postanesthesia care unit (PACU)"
+      },
+      "answer": "D",
+      "explanation": "Page 268: The aim should be fast-track discharge, which means shifting the patient directly from operation theater to Phase II (step down) postanesthesia care unit (PACU). This will decrease the cost and facilitate early discharge by bypassing Phase I PACU.",
+      "topic": "Discharge"
+    },
+    {
+      "id": 37,
+      "question": "What is the reported incidence of unexpected admission (unable to discharge) after day-care surgery?",
+      "options": {
+        "A": "1% to 6%",
+        "B": "10% to 20%",
+        "C": "Less than 0.5%",
+        "D": "7% to 10%"
+      },
+      "answer": "A",
+      "explanation": "Page 268: The incidence of unexpected admission (unable to discharge) varies from 1% to 6%. The two most common causes of unexpected admission are uncontrolled pain and nausea and vomiting.",
+      "topic": "Discharge"
+    },
+    {
+      "id": 38,
+      "question": "What are the TWO MOST COMMON causes of unexpected admission after day-care surgery?",
+      "options": {
+        "A": "Surgical site infection and wound bleeding",
+        "B": "Uncontrolled pain and nausea and vomiting",
+        "C": "Excessive sedation and respiratory depression",
+        "D": "Urinary retention and uncontrolled hypertension"
+      },
+      "answer": "B",
+      "explanation": "Page 268 (Key Points): The two most common causes of unexpected admission are uncontrolled pain and nausea and vomiting. This is also specifically highlighted in the Key Points section of Chapter 38, emphasizing the importance of adequate analgesic and antiemetic protocols.",
+      "topic": "Discharge"
+    },
+    {
+      "id": 39,
+      "question": "According to the home readiness criteria, for how long must a patient's vital signs be stable before discharge from day-care surgery?",
+      "options": {
+        "A": "30 minutes",
+        "B": "45 minutes",
+        "C": "60 minutes",
+        "D": "120 minutes"
+      },
+      "answer": "C",
+      "explanation": "Page 269: Criteria for home readiness include: (i) Vital signs are stable for more than 60 minutes. This ensures that the patient has had adequate time for hemodynamic stabilization after the procedure before being discharged.",
+      "topic": "Discharge Criteria"
+    },
+    {
+      "id": 40,
+      "question": "According to the criteria for home readiness, for how long must a patient be free from nausea (or have only minimal nausea) before discharge?",
+      "options": {
+        "A": "60 minutes",
+        "B": "45 minutes",
+        "C": "20 minutes",
+        "D": "30 minutes"
+      },
+      "answer": "D",
+      "explanation": "Page 269: Criteria for home readiness include: (ii) There is no nausea (or minimal nausea) for at least 30 minutes. This criterion ensures the patient is comfortable and unlikely to develop significant nausea and vomiting during the journey home.",
+      "topic": "Discharge Criteria"
+    },
+    {
+      "id": 41,
+      "question": "Regarding oral fluid tolerance after day-care surgery, which statement is CORRECT?",
+      "options": {
+        "A": "Ability to accept liquids orally without vomiting is NOT a mandatory criterion for discharge",
+        "B": "Patient must tolerate oral liquids for 30 minutes before discharge",
+        "C": "Oral fluid tolerance is mandatory only after spinal anesthesia",
+        "D": "Patient must consume at least 100 mL of fluids before discharge"
+      },
+      "answer": "A",
+      "explanation": "Page 269: Able to accept liquids orally without vomiting is not a mandatory criterion in current-day practice. This is a change from older discharge criteria, and is highlighted in the Key Points: 'Able to accept liquids and pass urine is not considered as mandatory criteria for discharging a patient after day-care surgery.'",
+      "topic": "Discharge Criteria"
+    },
+    {
+      "id": 42,
+      "question": "Which statement about the ability to void urine as a discharge criterion in day-care surgery is CORRECT?",
+      "options": {
+        "A": "Passing urine is mandatory for ALL patients before discharge",
+        "B": "Passing urine is NOT mandatory except for specific high-risk patients (urology, urogynecology, inguinal/perianal surgery, age >70, urinary dysfunction, bupivacaine >7 mg)",
+        "C": "Passing urine is mandatory only after spinal anesthesia",
+        "D": "Passing urine is mandatory only for patients over 60 years of age"
+      },
+      "answer": "B",
+      "explanation": "Page 269: Able to pass urine is also not considered mandatory criteria even after spinal, EXCEPT for high-risk patients like urology/urogynecology, inguinal or perianal surgery, age >70, history of urinary dysfunction, or bupivacaine dose >7 mg used for spinal. This nuanced approach avoids unnecessary delays in discharge.",
+      "topic": "Discharge Criteria"
+    },
+    {
+      "id": 43,
+      "question": "For which of the following patients is the ability to pass urine considered a MANDATORY discharge criterion after day-care surgery?",
+      "options": {
+        "A": "All patients who received spinal anesthesia regardless of other factors",
+        "B": "All patients with ASA grade II or III status",
+        "C": "Patients with history of urinary dysfunction or bupivacaine dose >7 mg used for spinal",
+        "D": "All patients above 50 years of age"
+      },
+      "answer": "C",
+      "explanation": "Page 269: Able to pass urine IS mandatory for high-risk patients including those with: urology/urogynecology procedures, inguinal or perianal surgery, age >70, history of urinary dysfunction, or bupivacaine dose >7 mg. These patients are at higher risk of urinary retention and require confirmed voiding before discharge.",
+      "topic": "Discharge Criteria"
+    },
+    {
+      "id": 44,
+      "question": "For how long should patients with obstructive sleep apnea (OSA) be monitored after day-care surgery if there is EVEN A SINGLE episode of desaturation on room air?",
+      "options": {
+        "A": "More than 1 hour",
+        "B": "More than 3 hours",
+        "C": "More than 5 hours",
+        "D": "More than 7 hours"
+      },
+      "answer": "D",
+      "explanation": "Page 269: Patients with obstructive sleep apnea should be monitored for more than 3 hours and more than 7 hours, if there is even a single episode of desaturation on room air. A single desaturation episode warrants the longer 7-hour monitoring period to ensure patient safety.",
+      "topic": "Discharge Criteria"
+    },
+    {
+      "id": 45,
+      "question": "After day-care surgery, patients are instructed not to perform important and skillful work such as driving or operating machinery for how long?",
+      "options": {
+        "A": "24 hours",
+        "B": "12 hours",
+        "C": "48 hours",
+        "D": "6 hours"
+      },
+      "answer": "A",
+      "explanation": "Page 269: The patients should be instructed not to do important and skillful work like driving, operating a machine for at least 24 hours. This is a standard postoperative instruction for day-care surgery patients to ensure safety during the recovery period.",
+      "topic": "Postoperative Instructions"
+    },
+    {
+      "id": 46,
+      "question": "What is the incidence of re-admission or emergency visit after day-care surgery?",
+      "options": {
+        "A": "Less than 1%",
+        "B": "2\u20133%",
+        "C": "5\u20138%",
+        "D": "10\u201315%"
+      },
+      "answer": "B",
+      "explanation": "Page 269: Although > 50% of the patients complain of little drowsiness after discharge, the incidence of re-admission (or emergency visit) is 2\u20133%. This is distinct from the incidence of unexpected admission (unable to discharge), which is 1\u20136%.",
+      "topic": "Postoperative Instructions"
+    },
+    {
+      "id": 47,
+      "question": "What is the MOST COMMON cause of RE-ADMISSION after day-care surgery according to the textbook?",
+      "options": {
+        "A": "Nausea and vomiting",
+        "B": "Uncontrolled pain",
+        "C": "Surgical complications such as surgical site infection",
+        "D": "Respiratory depression"
+      },
+      "answer": "C",
+      "explanation": "Page 269: Most often the re-admission is due to surgical complications, such as surgical site infection. This is highlighted in the Key Points section. Note the distinction: while uncontrolled pain and PONV are the most common causes of INABILITY TO DISCHARGE, surgical complications are the most common cause of RE-ADMISSION.",
+      "topic": "Postoperative Instructions"
+    },
+    {
+      "id": 48,
+      "question": "Which group of patients CANNOT be considered for day-care surgery regardless of other clinical criteria?",
+      "options": {
+        "A": "Patients with ASA grade III status",
+        "B": "Patients above 70 years of age",
+        "C": "Patients with mild obesity (BMI 30\u201335 kg/m\u00b2)",
+        "D": "Patients not accompanied by a responsible attendant"
+      },
+      "answer": "D",
+      "explanation": "Page 267: Patients not accompanied by responsible attendant cannot be considered for day-care surgery. This is an absolute criterion because post-discharge supervision is essential for safety. Additionally, patients must be able to stay in the vicinity of the hospital for the first 24 hours.",
+      "topic": "Selection of Surgery and Patients"
+    },
+    {
+      "id": 49,
+      "question": "Which form of obesity is stated as a BARRIER to day-care procedures according to the textbook?",
+      "options": {
+        "A": "Morbid obesity with obstructive sleep apnea",
+        "B": "Simple obesity with BMI 30\u201340 kg/m\u00b2",
+        "C": "Obesity in patients above 60 years",
+        "D": "Obesity in ASA grade II patients"
+      },
+      "answer": "A",
+      "explanation": "Page 267: Obesity (not even the morbid obesity with obstructive sleep apnea) is a barrier to day-care procedures. This means simple obesity alone is NOT a barrier; only morbid obesity combined with obstructive sleep apnea is considered a barrier to day-care surgery.",
+      "topic": "Selection of Surgery and Patients"
+    },
+    {
+      "id": 50,
+      "question": "What is the policy on preoperative investigations for day-care patients according to the textbook?",
+      "options": {
+        "A": "Full blood count, electrolytes, and ECG are mandatory for all day-care patients",
+        "B": "No routine investigations; investigations should be guided by existing comorbidity and nature of surgery",
+        "C": "Chest X-ray and ECG mandatory for all patients above 40 years",
+        "D": "Echocardiography required for all ASA grade II patients"
+      },
+      "answer": "B",
+      "explanation": "Page 267: Investigations: As for other patients, there are no routine investigations for day-care patients too; investigations should be guided by the existing comorbidity and the nature of surgery. This rational, individualized approach avoids unnecessary tests and reduces costs without compromising safety.",
+      "topic": "Preoperative Assessment and Premedication"
+    }
+  ]
+}

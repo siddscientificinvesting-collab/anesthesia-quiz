@@ -146,6 +146,12 @@ QUIZ_CATALOG = {
         "short": "Remote Locations (Ch 37)",
         "icon": "🏔️",
     },
+    "ch38": {
+        "file": "questions_ch38.json",
+        "label": "Chapter 38 – Anesthesia for Day-care Surgery",
+        "short": "Day-care Surgery (Ch 38)",
+        "icon": "🏃",
+    },
     "ch35": {
         "file": "questions_ch35.json",
         "label": "Chapter 35 – Anesthesia for Trauma and Burns",
