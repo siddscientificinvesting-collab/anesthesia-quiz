@@ -1,0 +1,409 @@
+{
+  "title": "Pain Management MCQ – Chapter 39",
+  "source": "Short Textbook of Anesthesia – Ajay Yadav",
+  "section": "Section 8: Subspecialty Anesthetic Management (Chapter 39)",
+  "total_questions": 50,
+  "time_limit_minutes": 35,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Pain has been designated as which vital sign?",
+      "options": {"A": "The fifth vital sign", "B": "The fourth vital sign", "C": "The sixth vital sign", "D": "The third vital sign"},
+      "answer": "A",
+      "explanation": "Page 270: Pain has been designated as the fifth vital sign. Pain is a subjective feeling; there may be up to 10-fold variation in pain perception among individuals.",
+      "topic": "Assessment of Pain"
+    },
+    {
+      "id": 2,
+      "question": "Which is the most commonly used scale to assess pain?",
+      "options": {"A": "Visual analog scale", "B": "McGill pain questionnaire", "C": "Smiley scale", "D": "CHEOPS scale"},
+      "answer": "A",
+      "explanation": "Page 270: The visual analog scale is the most commonly used scale. It is a horizontal line divided into 10 equal points (0–10). At one end (0 end), the label is no pain; at the other end (10 end) the label is worst pain imaginable. The patient is asked to mark the point where the pain lies.",
+      "topic": "Assessment of Pain"
+    },
+    {
+      "id": 3,
+      "question": "For younger children (usually less than 3–4 years) who cannot identify the faces, which scale is most commonly used to objectively assess pain?",
+      "options": {"A": "Children's Hospital of Eastern Ontario Pain Scale (CHEOPS)", "B": "Visual analog scale", "C": "McGill pain questionnaire", "D": "Smiley scale"},
+      "answer": "A",
+      "explanation": "Page 270: For younger children (usually less than 3–4 years), the most commonly used scale to objectively assess the pain is Children's Hospital of Eastern Ontario Pain Scale (CHEOPS). It includes cry, facial expression, verbal response, torso (body position), touch (touching wound) and legs position.",
+      "topic": "Assessment of Pain"
+    },
+    {
+      "id": 4,
+      "question": "Postoperative pain management should follow which approach?",
+      "options": {"A": "Multimodal approach (combination of different modalities)", "B": "Opioids only", "C": "NSAIDs only", "D": "Regional blocks only"},
+      "answer": "A",
+      "explanation": "Page 270: Postoperative pain management should have multimodal approach, which means combination of different modalities to control postoperative pain. These include NSAIDs, acetaminophen, opioids, regional nerve blocks and other techniques.",
+      "topic": "Method of Relief"
+    },
+    {
+      "id": 5,
+      "question": "NSAIDs in multimodal analgesia can reduce the dose requirement of opioids by approximately:",
+      "options": {"A": "One third", "B": "One half", "C": "Two thirds", "D": "Three quarters"},
+      "answer": "A",
+      "explanation": "Page 270: NSAIDs or cyclo-oxygenase-2 (COX-2) inhibitors should always be the part of multimodal analgesia because of their anti-inflammatory property. They can reduce the dose requirement of opioids by almost one third.",
+      "topic": "Method of Relief"
+    },
+    {
+      "id": 6,
+      "question": "Although opioids remain the mainstay of treatment for postoperative analgesia, which is the most preferred route?",
+      "options": {"A": "Epidural route", "B": "Intramuscular route", "C": "Subcutaneous route", "D": "Oral route"},
+      "answer": "A",
+      "explanation": "Page 270: Opioids still remain the mainstay of treatment for postoperative analgesia. Although opioids can be given by almost all routes, epidural route is the most preferred route for postoperative analgesia.",
+      "topic": "Method of Relief"
+    },
+    {
+      "id": 7,
+      "question": "What is the most frequently used combination for controlling postoperative pain via the epidural route?",
+      "options": {"A": "Bupivacaine (0.125–0.25%) or ropivacaine (0.2%) with/without fentanyl", "B": "Morphine alone", "C": "Lignocaine with adrenaline", "D": "Ketamine and midazolam"},
+      "answer": "A",
+      "explanation": "Page 270: Bupivacaine (0.125–0.25%) or ropivacaine (0.2%) with/without fentanyl is the most frequently used combination for controlling postoperative pain.",
+      "topic": "Method of Relief"
+    },
+    {
+      "id": 8,
+      "question": "In case of non-feasibility of epidural, the IV route is most often utilized. Which is the method of choice for postoperative analgesia if opioids have to be given by the parenteral route?",
+      "options": {"A": "Patient-controlled analgesia (PCA)", "B": "Continuous IV infusion", "C": "Intermittent IV boluses by nurses", "D": "Intramuscular injection"},
+      "answer": "A",
+      "explanation": "Page 270–271: Excellent patient satisfaction seen with patient-controlled analgesia (PCA) has made it a method of choice for postoperative analgesia if opioids have to be given by parenteral route. PCA is an automatic system connected to an IV line; the patient presses a button which delivers a prefixed amount of opioid (usually morphine). A lockout interval is set to avoid over dosage.",
+      "topic": "Method of Relief"
+    },
+    {
+      "id": 9,
+      "question": "Regional nerve blocks given before skin incision are called pre-emptive analgesia. What is their benefit?",
+      "options": {"A": "They decrease the stress response, the requirement of opioids, and decrease/abolish the requirement and incidence of acute pain getting converted into chronic pain", "B": "They cause more pain", "C": "They increase opioid requirement", "D": "They only work after surgery"},
+      "answer": "A",
+      "explanation": "Page 271: Regional nerve blocks with local anesthetics as a single shot or continuous infusion provide excellent postoperative analgesia. The nerve block given before skin incision (called as pre-emptive analgesia) not only decreases the stress response and requirement of opioids but also decreases (or abolishes) the requirement and incidence of acute pain getting converted into chronic pain.",
+      "topic": "Method of Relief"
+    },
+    {
+      "id": 10,
+      "question": "Which block is very effective to produce analgesia for abdominal surgeries such as cesarean section and hernia repair, given in the fascial sheath between internal oblique and transversus abdominis muscle?",
+      "options": {"A": "Transversus abdominis plane (TAP) block", "B": "Thoracic paravertebral block", "C": "Lumbar plexus block", "D": "Brachial plexus block"},
+      "answer": "A",
+      "explanation": "Page 271: The transversus abdominis plane (TAP) block is very effective to produce analgesia for abdominal surgeries such as cesarean section, hernia repair, etc. TAP block is given in the fascial sheath deep to the internal oblique muscle and superficial to the transversus abdominis muscle.",
+      "topic": "Method of Relief"
+    },
+    {
+      "id": 11,
+      "question": "What is the incidence of chronic pain?",
+      "options": {"A": "25–30%", "B": "5–10%", "C": "50–60%", "D": "10–15%"},
+      "answer": "A",
+      "explanation": "Page 271: Incidence of chronic pain can be as high as 25–30%. Chronic pain has most tangled and complicated pathophysiology. Chronic pain not only causes physical pain but damages the patient psychologically and emotionally also.",
+      "topic": "Chronic Pain Management"
+    },
+    {
+      "id": 12,
+      "question": "In chronic pain management, neurolysis can be done with chemical agents or radiofrequency. Which is always preferred?",
+      "options": {"A": "Radiofrequency ablation (RFA) is always preferred over chemical neurolysis", "B": "Chemical neurolysis is always preferred", "C": "Both are equal", "D": "Surgical intervention is always preferred"},
+      "answer": "A",
+      "explanation": "Page 271: Neurolysis can be done with chemical agents (5% phenol in glycerin or absolute alcohol) or with radiofrequency probes, which ablate the nerve by burning at 60–90°C. As chemical neurolysis can damage adjacent structures, radiofrequency ablation (RFA) is always preferred over chemical neurolysis. Neurolytic blocks usually provide analgesia for 6 months to 2 years.",
+      "topic": "Chronic Pain Management"
+    },
+    {
+      "id": 13,
+      "question": "In epidural steroid administration for low backache, only 40–50% of the drug reaches the nerve roots. Which route is therefore preferred nowadays?",
+      "options": {"A": "Transforaminal route (drug injected as the nerve exits through the foramina)", "B": "Caudal route", "C": "Intrathecal route", "D": "Interlaminar route"},
+      "answer": "A",
+      "explanation": "Page 271: Studies have shown that only 40–50% of drug reaches the nerve roots if steroids are given through epidural route, therefore nowadays the transforaminal route (drug injected as the nerve exits through the foramina) is always preferred over epidural route.",
+      "topic": "Low Backache"
+    },
+    {
+      "id": 14,
+      "question": "What is the most definitive modality of treatment for facet arthropathy?",
+      "options": {"A": "Radiofrequency (RF) ablation of medial branch of posterior ramus of spinal nerve", "B": "Epidural steroids", "C": "Sacroiliac joint injection", "D": "Vertebroplasty"},
+      "answer": "A",
+      "explanation": "Page 272: Radiofrequency (RF) ablation of medial branch of posterior ramus of spinal nerve (supplying the facet joint) is the most definitive modality of treatment for facet arthropathy.",
+      "topic": "Low Backache"
+    },
+    {
+      "id": 15,
+      "question": "What is the most common neuropathy encountered in clinical practice?",
+      "options": {"A": "Diabetic neuropathy", "B": "Trigeminal neuralgia", "C": "Postherpetic neuralgia", "D": "Carpal tunnel syndrome"},
+      "answer": "A",
+      "explanation": "Page 272: The most common neuropathy encountered in clinical practice is diabetic neuropathy. The drug of choice for neuropathic pain is pregabalin (except trigeminal neuralgia which still responds best to carbamazepine).",
+      "topic": "Neuropathic Pain"
+    },
+    {
+      "id": 16,
+      "question": "What is the drug of choice for neuropathic pain (other than trigeminal neuralgia)?",
+      "options": {"A": "Pregabalin (followed by gabapentin)", "B": "Carbamazepine", "C": "Morphine", "D": "Amitriptyline"},
+      "answer": "A",
+      "explanation": "Page 272: The drug of choice for neuropathic pain is pregabalin (followed by gabapentin), except trigeminal neuralgia which still responds best to carbamazepine.",
+      "topic": "Neuropathic Pain"
+    },
+    {
+      "id": 17,
+      "question": "In trigeminal neuralgia, the pain is most often in which division, and what is the drug of choice?",
+      "options": {"A": "Maxillary division; carbamazepine", "B": "Mandibular division; pregabalin", "C": "Ophthalmic division; morphine", "D": "Maxillary division; gabapentin"},
+      "answer": "A",
+      "explanation": "Page 272: In trigeminal neuralgia, the pain is most often in the maxillary division. The drug of choice is carbamazepine. Patients not responding to carbamazepine are subjected to radiofrequency ablation of Gasserian ganglion or neurolytic block of involved segment of trigeminal nerve.",
+      "topic": "Trigeminal Neuralgia"
+    },
+    {
+      "id": 18,
+      "question": "Complex regional pain syndrome (CRPS) Type II, which includes causalgia (neuralgic pain after direct nerve injury), is also called:",
+      "options": {"A": "Causalgia", "B": "Reflex sympathetic dystrophy", "C": "Sudeck's dystrophy", "D": "Phantom limb"},
+      "answer": "A",
+      "explanation": "Page 272: CRPS is classified as Type I, which includes reflex sympathetic dystrophies such as Raynaud's phenomenon/disease, Berger's disease, phantom limb, Sudeck's dystrophy; and Type II, which includes causalgia (neuralgic pain after direct nerve injury is called as causalgia).",
+      "topic": "Complex Regional Pain Syndrome"
+    },
+    {
+      "id": 19,
+      "question": "What is the hallmark of CRPS?",
+      "options": {"A": "Extremely painful limb (hyperalgesia, allodynia, hyperpathia, anesthesia dolorosa)", "B": "Complete numbness of the limb", "C": "Paralysis of the limb", "D": "Swelling without pain"},
+      "answer": "A",
+      "explanation": "Page 272: The hallmark of CRPS is extremely painful limb. The limb becomes extremely sensitive to pain (hyperalgesia); even a light touch can produce pain (allodynia), pain may persist after the end of stimulus (hyperpathia), or patient may feel pain in anesthetized area (anesthesia dolorosa).",
+      "topic": "Complex Regional Pain Syndrome"
+    },
+    {
+      "id": 20,
+      "question": "What is the mainstay of treatment of CRPS? For upper limb CRPS, which block is performed?",
+      "options": {"A": "Sympathetic blocks; stellate ganglion block for upper limb", "B": "Opioids; epidural block for upper limb", "C": "NSAIDs; brachial plexus block", "D": "Steroids; lumbar sympathetic block"},
+      "answer": "A",
+      "explanation": "Page 272: The mainstay of treatment of CRPS is sympathetic blocks. For upper limb CRPS, stellate ganglion block is performed; and for lower limb dystrophies, lumbar sympathetic chain block is performed. Usually 3–7 blocks are required to break the cycle of pain.",
+      "topic": "Complex Regional Pain Syndrome"
+    },
+    {
+      "id": 21,
+      "question": "What is pathognomonic of fibromyalgia?",
+      "options": {"A": "Multiple trigger points", "B": "A single trigger point", "C": "Muscle paralysis", "D": "Joint swelling"},
+      "answer": "A",
+      "explanation": "Page 272: Fibromyalgia is a very common pain disorder characterized by pain in different groups of muscles, easy fatigability and sleep deprivation. The multiple trigger points are pathognomonic of fibromyalgia.",
+      "topic": "Fibromyalgia"
+    },
+    {
+      "id": 22,
+      "question": "The stellate ganglion is formed by the fusion of:",
+      "options": {"A": "Lower cervical and first thoracic ganglion", "B": "Upper cervical and second thoracic ganglion", "C": "First and second thoracic ganglion", "D": "Lower cervical ganglion only"},
+      "answer": "A",
+      "explanation": "Page 273: Stellate ganglion is formed by the fusion of lower cervical and first thoracic ganglion. It is blocked anterior to the tubercle of transverse process of C6 vertebra called as Chassaignac tubercle.",
+      "topic": "Stellate Ganglion Block"
+    },
+    {
+      "id": 23,
+      "question": "Which is considered the first sign of a successful stellate ganglion block?",
+      "options": {"A": "Conjunctival congestion", "B": "Nasal stuffiness (Guttmann's sign)", "C": "Ptosis", "D": "Miosis"},
+      "answer": "A",
+      "explanation": "Page 273: Signs of successful stellate ganglion block include Horner syndrome (miosis, enophthalmos, ptosis, anhydrosis), flushing of face, conjunctival congestion (most often the first sign), nasal stuffiness (Guttmann's sign), congestion of tympanic membrane (Mueller's syndrome), increased skin temperature and lacrimation.",
+      "topic": "Stellate Ganglion Block"
+    },
+    {
+      "id": 24,
+      "question": "The maximum systemic absorption / highest blood level of local anesthetic per volume of drug injected is achieved after which block?",
+      "options": {"A": "Intercostal nerve block", "B": "Stellate ganglion block", "C": "Celiac plexus block", "D": "Trigeminal nerve block"},
+      "answer": "A",
+      "explanation": "Page 274: After intercostal block, the highest blood level of local anesthetic is achieved per volume of drug injected. Complications include pneumothorax.",
+      "topic": "Intercostal Nerve Block"
+    },
+    {
+      "id": 25,
+      "question": "What is the most common complication of celiac plexus block (usually given for gastric and pancreatic malignancy)?",
+      "options": {"A": "Hypotension", "B": "Pneumothorax", "C": "Paraplegia", "D": "Hematoma"},
+      "answer": "A",
+      "explanation": "Page 274: Celiac plexus block is usually given for pain relief in gastric and pancreatic malignancy. The most common complication is hypotension.",
+      "topic": "Celiac Plexus Block"
+    },
+    {
+      "id": 26,
+      "question": "What does the WHO recommend for control of cancer pain?",
+      "options": {"A": "A step ladder (non-opioids for mild, weak opioids for moderate, strong opioids for severe pain)", "B": "Strong opioids for all cancer pain", "C": "NSAIDs only", "D": "Surgical intervention first"},
+      "answer": "A",
+      "explanation": "Page 272: For cancer pain, the WHO recommends step ladder for control: non-opioids like NSAIDs, paracetamol for mild pain; weak opioids like codeine for moderate pain; strong opioids like morphine for severe pain. Opioid remains the mainstay of treatment for cancer pain.",
+      "topic": "Cancer Pain"
+    },
+    {
+      "id": 27,
+      "question": "What remains the mainstay of treatment for cancer pain?",
+      "options": {"A": "Opioids", "B": "NSAIDs", "C": "Neurolytic blocks", "D": "Surgical intervention"},
+      "answer": "A",
+      "explanation": "Page 272: Opioid remains the mainstay of treatment for cancer pain. Depending on the severity and feasibility, opioids are given through many routes (oral, transdermal patch, parenteral, neuraxial, regional blocks).",
+      "topic": "Cancer Pain"
+    },
+    {
+      "id": 28,
+      "question": "For cancer pain, the transdermal fentanyl patch provides analgesia for how long, and the butorphanol patch for how long?",
+      "options": {"A": "Fentanyl patch 48–72 hours; butorphanol patch 6–7 days", "B": "Fentanyl patch 24 hours; butorphanol patch 3 days", "C": "Fentanyl patch 7 days; butorphanol patch 48 hours", "D": "Both for 24 hours"},
+      "answer": "A",
+      "explanation": "Page 272: Transdermal fentanyl/butorphanol patch — the patch is a very good alternative to oral route. Fentanyl patch provides analgesia for 48–72 hours while butorphanol patch provides analgesia for 6–7 days.",
+      "topic": "Cancer Pain"
+    },
+    {
+      "id": 29,
+      "question": "Inadequate control of acute (postoperative) pain can elicit stress responses. Which of the following is one such response?",
+      "options": {"A": "Immunosuppression, poor wound healing, increased myocardial oxygen demand, decreased GI motility and chronic postsurgical pain", "B": "Increased immunity", "C": "Faster wound healing", "D": "Decreased myocardial oxygen demand"},
+      "answer": "A",
+      "explanation": "Page 270: Inadequate pain control in postoperative period can elicit the stress responses which can manifest as immunosuppression, poor wound healing, increased myocardial oxygen demand, decreased gastrointestinal motility and chronic postsurgical pain.",
+      "topic": "Acute Pain Management"
+    },
+    {
+      "id": 30,
+      "question": "Acetaminophen (paracetamol) along with NSAIDs or regional nerve blocks may omit the need for opioids. It may serve as an alternative to NSAIDs in patients where:",
+      "options": {"A": "NSAIDs are contraindicated", "B": "Opioids are required", "C": "Regional blocks have failed", "D": "PCA is being used"},
+      "answer": "A",
+      "explanation": "Page 270: Acetaminophen (paracetamol) along with the NSAIDs or regional nerve blocks may omit the need for opioids. It may serve as an alternative to NSAIDs in the patients where NSAIDs are contraindicated.",
+      "topic": "Method of Relief"
+    },
+    {
+      "id": 31,
+      "question": "Why may analgesics become less effective with PCA devices when delays occur in the delivery of analgesics by nurses?",
+      "options": {"A": "Delays lead to escalation of pain, making analgesic to become less effective; pain is best controlled when the analgesic is delivered before or just at the beginning of pain", "B": "Because nurses give too much", "C": "Because PCA cannot deliver opioids", "D": "Because the lockout interval is too short"},
+      "answer": "A",
+      "explanation": "Page 271: The rationale for the success of PCA is that pain is best controlled when the analgesic is delivered either before or just at the beginning of pain. The delays in the delivery of analgesics by nurses lead to escalation of pain (making analgesic to become less effective) which can be avoided with PCA devices.",
+      "topic": "Method of Relief"
+    },
+    {
+      "id": 32,
+      "question": "Which regional block is used to provide analgesia for thoracic, breast and upper abdominal surgeries?",
+      "options": {"A": "Thoracic paravertebral block", "B": "Transversus abdominis plane (TAP) block", "C": "Femoral nerve block", "D": "Brachial plexus block"},
+      "answer": "A",
+      "explanation": "Page 271: Thoracic paravertebral block is used to provide analgesia for thoracic, breast and upper abdominal surgeries.",
+      "topic": "Method of Relief"
+    },
+    {
+      "id": 33,
+      "question": "Which other techniques are occasionally utilized to achieve postoperative analgesia?",
+      "options": {"A": "TENS, acupuncture, cryoanalgesia and ketamine infusion", "B": "General anesthesia", "C": "Hypothermia", "D": "Surgical sympathectomy"},
+      "answer": "A",
+      "explanation": "Page 271: Other techniques occasionally utilized to achieve postoperative analgesia are transcutaneous electrical nerve stimulation (TENS), acupuncture, cryoanalgesia (produced by cryoprobes using compressed CO2 or nitrous oxide, cooling peripheral nerves to –5 to –20°C), and ketamine infusion in analgesic doses.",
+      "topic": "Method of Relief"
+    },
+    {
+      "id": 34,
+      "question": "In postherpetic neuralgia, which treatments are used?",
+      "options": {"A": "Tricyclic antidepressants, intercostal nerve blocks, transdermal lignocaine patch / EMLA cream, and topical capsaicin cream or patch", "B": "Carbamazepine only", "C": "Morphine only", "D": "Surgical excision"},
+      "answer": "A",
+      "explanation": "Page 272: Treatment of postherpetic neuralgia includes tricyclic antidepressants, intercostal nerve blocks, transdermal lignocaine patch / topical application of eutectic mixture of lignocaine and prilocaine (EMLA) cream, and topical application of capsaicin cream or patch.",
+      "topic": "Postherpetic Neuralgia"
+    },
+    {
+      "id": 35,
+      "question": "Which lumbar block is used to provide analgesia for hip and knee surgery?",
+      "options": {"A": "Lumbar plexus block (psoas compartment block)", "B": "Celiac plexus block", "C": "Stellate ganglion block", "D": "Superior hypogastric block"},
+      "answer": "A",
+      "explanation": "Page 271: Lumbar plexus block (also known as psoas compartment block) is given to provide analgesia for hip and knee surgery. Femoral nerve block and fascia iliaca (modified femoral) block are utilized for hip fractures and hip surgeries.",
+      "topic": "Method of Relief"
+    },
+    {
+      "id": 36,
+      "question": "Which block is performed for pain relief of the perineal area?",
+      "options": {"A": "Ganglion impar (ganglion of Walther) block", "B": "Superior hypogastric block", "C": "Celiac plexus block", "D": "Lumbar sympathetic chain block"},
+      "answer": "A",
+      "explanation": "Page 274: Ganglion impar (ganglion of Walther) block is used for pain relief of perineal area. Superior hypogastric block is performed for pain relief for pelvic malignancies.",
+      "topic": "Commonly Used Pain Blocks"
+    },
+    {
+      "id": 37,
+      "question": "The lumbar sympathetic chain block is utilized for CRPS of the lower limb (especially Berger's disease). Where is it blocked?",
+      "options": {"A": "Anterior to lumbar vertebral bodies", "B": "Posterior to lumbar vertebral bodies", "C": "At the sacral hiatus", "D": "At the celiac plexus"},
+      "answer": "A",
+      "explanation": "Page 274: Lumbar sympathetic chain block is usually utilized for CRPS of lower limb, especially Berger's disease. It is blocked anterior to lumbar vertebral bodies.",
+      "topic": "Commonly Used Pain Blocks"
+    },
+    {
+      "id": 38,
+      "question": "Which is an indication for the stellate ganglion block, apart from CRPS of the upper limb?",
+      "options": {"A": "Intra-arterial thiopentone injection and hand pallor (ischemia) following radial artery cannulation for invasive blood pressure monitoring", "B": "Pelvic malignancy", "C": "Pancreatic cancer pain", "D": "Perineal pain"},
+      "answer": "A",
+      "explanation": "Page 273: Stellate ganglion block is usually employed for complex regional pain syndromes (CRPS) of upper limb. Other indications may be intra-arterial thiopentone injection and hand pallor (ischemia) following radial artery cannulation for invasive blood pressure monitoring.",
+      "topic": "Stellate Ganglion Block"
+    },
+    {
+      "id": 39,
+      "question": "Which complication of stellate ganglion block, though it occurs, is not bothersome (as it only reduces the vital capacity by 20–25%)?",
+      "options": {"A": "Unilateral phrenic nerve block", "B": "Brachial plexus block", "C": "Pneumothorax", "D": "Esophageal perforation"},
+      "answer": "A",
+      "explanation": "Page 273: Among complications of stellate ganglion block, phrenic nerve block, however, unilateral phrenic nerve block is not bothersome; it just reduces the vital capacity by 20–25%. Other complications include brachial plexus block, recurrent laryngeal nerve block (hoarseness), pneumothorax, esophageal perforation, hypotension and bradycardia.",
+      "topic": "Stellate Ganglion Block"
+    },
+    {
+      "id": 40,
+      "question": "The trigeminal nerve has three main branches. Which are they?",
+      "options": {"A": "Ophthalmic, maxillary and mandibular", "B": "Buccal, lingual and inferior alveolar", "C": "Facial, glossopharyngeal and vagus", "D": "Frontal, nasal and zygomatic"},
+      "answer": "A",
+      "explanation": "Page 273: Trigeminal nerve has three main branches — ophthalmic, maxillary and mandibular. The principal indication of trigeminal nerve block is trigeminal neuralgia. Depending on the site of involvement, block may be given at Gasserian ganglion level (at foramen ovale) or at one of the branches.",
+      "topic": "Trigeminal Nerve Block"
+    },
+    {
+      "id": 41,
+      "question": "Treatment of myofascial pain syndrome (characterized by muscle pain and spasm with typical trigger points) includes:",
+      "options": {"A": "Physiotherapy, TENS, acupuncture, topical cooling of muscle, and trigger point injection with local anesthetic", "B": "Opioids only", "C": "Surgical excision of muscle", "D": "Neurolytic block"},
+      "answer": "A",
+      "explanation": "Page 272: Myofascial pain syndrome is a syndrome characterized by muscle pain and muscle spasm. Painful points (trigger points) are typical of myofascial pain syndromes. Treatment includes physiotherapy, transcutaneous electrical nerve stimulation (TENS), acupuncture, topical cooling of muscle and trigger point injection with local anesthetic.",
+      "topic": "Myofascial Pain Syndrome"
+    },
+    {
+      "id": 42,
+      "question": "What is the usual indication for epidural steroids in low backache?",
+      "options": {"A": "Chronic disc prolapse with nerve root compression", "B": "Facet arthropathy", "C": "Sacroiliitis", "D": "Vertebral prolapse"},
+      "answer": "A",
+      "explanation": "Page 271: The usual indication for epidural steroids in low backache is chronic disc prolapse with nerve root compression.",
+      "topic": "Low Backache"
+    },
+    {
+      "id": 43,
+      "question": "Before treating low backache with neurosurgical and/or orthopedic consultation, what should always be done?",
+      "options": {"A": "Rule out any surgical problem", "B": "Start opioids immediately", "C": "Perform a nerve block first", "D": "Give epidural steroids first"},
+      "answer": "A",
+      "explanation": "Page 271: Low backache is one of the most commonly encountered conditions in clinical practice. Before treating low backache, neurosurgical and/or orthopedic consultation should always be sought to rule out any surgical problem.",
+      "topic": "Low Backache"
+    },
+    {
+      "id": 44,
+      "question": "Which adjuvant therapy for cancer pain is a directly acting calcium channel blocker?",
+      "options": {"A": "Ziconotide", "B": "Pregabalin", "C": "Gabapentin", "D": "Amitriptyline"},
+      "answer": "A",
+      "explanation": "Page 273: Adjuvant therapies for cancer pain like antidepressants, pregabalin/gabapentin and ziconotide (directly acting calcium channel blocker) are used. For intractable pain, surgical intervention (cordotomy) should be considered.",
+      "topic": "Cancer Pain"
+    },
+    {
+      "id": 45,
+      "question": "For severe intractable cancer pain not relieved by other means, which surgical intervention should be considered?",
+      "options": {"A": "Cordotomy", "B": "Sympathectomy", "C": "Laminectomy", "D": "Rhizotomy"},
+      "answer": "A",
+      "explanation": "Page 273: For intractable cancer pain, surgical intervention (cordotomy) should be considered. If a block with local anesthetic is successful, then only neurolytic block should be done.",
+      "topic": "Cancer Pain"
+    },
+    {
+      "id": 46,
+      "question": "The McGill pain questionnaire (MPQ) contains 20 sets of descriptive words. It determines:",
+      "options": {"A": "Not only pain intensity but also effective and cognitive components of pain", "B": "Only the pain intensity", "C": "Only the location of pain", "D": "Only the duration of pain"},
+      "answer": "A",
+      "explanation": "Page 270: McGill pain questionnaire (MPQ) contains 20 sets of descriptive words. It not only determines pain intensity but also effective and cognitive components of pain.",
+      "topic": "Assessment of Pain"
+    },
+    {
+      "id": 47,
+      "question": "For cancer pain, in which patients is the neuraxial route (preservative-free morphine through epidural/spinal catheter) used, and how can it be given long-term?",
+      "options": {"A": "If epidural/spinal is effective in relieving pain, the spinal catheter may be surgically implanted for long-term use", "B": "It is never used for cancer pain", "C": "It is used only for mild pain", "D": "It is given orally"},
+      "answer": "A",
+      "explanation": "Page 273: Neuraxial route — preservative-free morphine is used through epidural/spinal catheter. If this is effective in relieving pain, the spinal catheter may be surgically implanted for long-term use.",
+      "topic": "Cancer Pain"
+    },
+    {
+      "id": 48,
+      "question": "Intravenous regional sympathetic block (chemical sympathectomy) with guanethidine for CRPS:",
+      "options": {"A": "Was popular in the past, but is not recommended in current day practice (though intravenous regional block with local anesthetic is still performed occasionally)", "B": "Is the treatment of choice currently", "C": "Has never been used", "D": "Is the first-line treatment"},
+      "answer": "A",
+      "explanation": "Page 272: Intravenous regional sympathetic block (chemical sympathectomy) with guanethidine, which was popular in past, is not recommended in current-day practice; however, intravenous regional block with local anesthetic is still performed occasionally.",
+      "topic": "Complex Regional Pain Syndrome"
+    },
+    {
+      "id": 49,
+      "question": "Which regional blocks are used for pelvic malignancies (for chronic/cancer pain)?",
+      "options": {"A": "Celiac plexus block, hypogastric block", "B": "Stellate ganglion block", "C": "Brachial plexus block", "D": "Femoral nerve block"},
+      "answer": "A",
+      "explanation": "Page 273: Regional blocks like celiac plexus block for pancreatic and stomach malignancy, and hypogastric block for pelvic malignancies, are used in cancer pain management.",
+      "topic": "Cancer Pain"
+    },
+    {
+      "id": 50,
+      "question": "For the maxillary and mandibular nerve block, an 8 cm long 22 G needle is inserted at the inferior edge of coronoid notch till the lateral pterygoid plate is encountered (usually at how much depth)?",
+      "options": {"A": "5 cm", "B": "2 cm", "C": "8 cm", "D": "10 cm"},
+      "answer": "A",
+      "explanation": "Page 274: For the maxillary and mandibular nerve block, an 8 cm long 22 G needle is inserted at the inferior edge of coronoid notch till lateral pterygoid plate is encountered (usually at 5 cm). The needle is walked off anteriorly for 0.5 cm to block the maxillary nerve and posteriorly to block mandibular nerve.",
+      "topic": "Trigeminal Nerve Block"
+    }
+  ]
+}

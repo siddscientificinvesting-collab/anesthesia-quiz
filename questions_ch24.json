@@ -1,0 +1,209 @@
+{
+  "title": "Anesthesia for Neuromuscular Diseases MCQ – Chapter 24",
+  "source": "Short Textbook of Anesthesia – Ajay Yadav",
+  "section": "Section 7: Anesthesia for Coexisting Diseases (Chapter 24)",
+  "total_questions": 25,
+  "time_limit_minutes": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Myasthenia gravis is an autoimmune disease characterized by:",
+      "options": {"A": "Destruction of acetylcholine receptors by antibodies against these receptors, leading to weakness of muscles", "B": "Antibodies against presynaptic calcium channels", "C": "Abnormal ryanodine receptors", "D": "Excessive acetylcholine release"},
+      "answer": "A",
+      "explanation": "Page 211: Myasthenia gravis is an autoimmune disease characterized by destruction of acetylcholine receptors by the antibodies against these receptors leading to weakness of the muscles. Myasthenic patients most often come for thymectomy as a part of their treatment.",
+      "topic": "Myasthenia Gravis"
+    },
+    {
+      "id": 2,
+      "question": "In a myasthenic patient, anticholinesterases (mainly pyridostigmine) should be:",
+      "options": {"A": "Continued in reduced doses", "B": "Stopped completely before surgery", "C": "Doubled before surgery", "D": "Replaced with steroids"},
+      "answer": "A",
+      "explanation": "Page 211: Anticholinesterases (most commonly used is pyridostigmine) are the mainstay of treatment. Stopping these drugs can precipitate the myasthenic crisis while continuing can antagonize the effect of muscle relaxants, therefore anticholinesterases should be continued in reduced doses.",
+      "topic": "Myasthenia Gravis"
+    },
+    {
+      "id": 3,
+      "question": "Why should premedication with benzodiazepines be avoided in myasthenic patients?",
+      "options": {"A": "Because weakness of respiratory muscles makes these patients very vulnerable for respiratory depression", "B": "Because they cause hypertension", "C": "Because they trigger malignant hyperthermia", "D": "Because they cause excessive salivation"},
+      "answer": "A",
+      "explanation": "Page 211: Weakness of respiratory muscles makes these patients very vulnerable for respiratory depression, therefore premedication with benzodiazepines should be avoided. As these patients are vulnerable for aspiration, prophylaxis for aspiration should be taken.",
+      "topic": "Myasthenia Gravis"
+    },
+    {
+      "id": 4,
+      "question": "What is the anesthetic technique of choice for myasthenia gravis patients?",
+      "options": {"A": "General anesthesia with muscle relaxants", "B": "Local/regional anesthesia", "C": "Total intravenous anesthesia", "D": "Inhalational anesthesia alone"},
+      "answer": "B",
+      "explanation": "Page 211: The basic problem of myasthenic patients is that they exhibit extreme sensitivity to respiratory depression by anesthetic agents and abnormal response to muscle relaxants; therefore, the aim of anesthesia should be to avoid general anesthesia, making local/regional anesthesia the anesthetic technique of choice. However, all surgeries are not possible under regional anesthesia.",
+      "topic": "Myasthenia Gravis"
+    },
+    {
+      "id": 5,
+      "question": "Which induction agent is preferred in myasthenia gravis as it does not cause respiratory depression?",
+      "options": {"A": "Etomidate", "B": "Thiopentone", "C": "Ketamine", "D": "Propofol"},
+      "answer": "A",
+      "explanation": "Page 211: As etomidate does not cause respiratory depression, it is the preferred induction agent in myasthenia gravis; however, thiopentone and propofol can be used safely. Neuromuscular monitoring is mandatory.",
+      "topic": "Myasthenia Gravis"
+    },
+    {
+      "id": 6,
+      "question": "Which inhalational agent is the most preferred for maintenance in myasthenia gravis patients?",
+      "options": {"A": "Halothane", "B": "Isoflurane", "C": "Desflurane", "D": "Nitrous oxide"},
+      "answer": "C",
+      "explanation": "Page 212: Desflurane is the most preferred inhalational agent for maintenance because it produces maximum muscle relaxation among the currently used inhalational agents. In the absence of desflurane, sevoflurane or isoflurane can be used. Myasthenia patients have weakness of muscles and inhalational agents have muscle relaxation property, so in significant number of patients it is possible to intubate and maintain surgical relaxation with inhalational agents alone.",
+      "topic": "Myasthenia Gravis"
+    },
+    {
+      "id": 7,
+      "question": "Myasthenic patients exhibit what response to muscle relaxants?",
+      "options": {"A": "Resistant to depolarizers and hypersensitive to non-depolarizers", "B": "Hypersensitive to depolarizers and resistant to non-depolarizers", "C": "Hypersensitive to both", "D": "Resistant to both"},
+      "answer": "A",
+      "explanation": "Page 212: Myasthenic patients are resistant to depolarizers therefore suxamethonium is required in high doses (2 mg/kg instead of 1–1.5 mg/kg), and hypersensitive to non-depolarizers, therefore only short acting agents with no risk of accumulation like mivacurium, atracurium and cis-atracurium must be used. Long acting like pancuronium must not be used.",
+      "topic": "Myasthenia Gravis"
+    },
+    {
+      "id": 8,
+      "question": "Myasthenic syndrome (Eaton-Lambert syndrome) is an autoimmune disease in which antibodies are produced against:",
+      "options": {"A": "Presynaptic calcium channel, leading to decreased production of acetylcholine", "B": "Acetylcholine receptors", "C": "Ryanodine receptors", "D": "Sodium channels"},
+      "answer": "A",
+      "explanation": "Page 212: Myasthenic syndrome (Eaton-Lambert syndrome) is an autoimmune disease in which antibodies to presynaptic calcium channel are produced leading to decreased production of acetylcholine. These patients are sensitive to both depolarizing and non-depolarizing muscle relaxants.",
+      "topic": "Myasthenic Syndrome"
+    },
+    {
+      "id": 9,
+      "question": "Reversal in myasthenic syndrome (Eaton-Lambert) requires a combination of:",
+      "options": {"A": "Anticholinesterase and 4-aminopyridine", "B": "Neostigmine and glycopyrrolate only", "C": "Sugammadex and atropine", "D": "Edrophonium alone"},
+      "answer": "A",
+      "explanation": "Page 212: In myasthenic syndrome (Eaton-Lambert), reversal requires a combination of anticholinesterase and 4-aminopyridine.",
+      "topic": "Myasthenic Syndrome"
+    },
+    {
+      "id": 10,
+      "question": "In hyperkalemic familial periodic paralysis, which drug is contraindicated?",
+      "options": {"A": "Succinylcholine", "B": "Atracurium", "C": "Propofol", "D": "Etomidate"},
+      "answer": "A",
+      "explanation": "Page 212: In hyperkalemic familial periodic paralysis, potassium levels should be normalized preoperatively, potassium containing solutions should be avoided, and succinylcholine is contraindicated.",
+      "topic": "Familial Periodic Paralysis"
+    },
+    {
+      "id": 11,
+      "question": "In hypokalemic familial periodic paralysis (the more common type), what should be avoided?",
+      "options": {"A": "Hyperventilation and glucose containing solutions", "B": "Potassium containing solutions", "C": "Local anesthetics", "D": "All inhalational agents"},
+      "answer": "A",
+      "explanation": "Page 212: Hypokalemic type is more common. Avoid anything which causes hypokalemia like hyperventilation and glucose containing solutions. Non-depolarizers will have prolonged effect.",
+      "topic": "Familial Periodic Paralysis"
+    },
+    {
+      "id": 12,
+      "question": "Patients with muscular dystrophies are considered as high risk patients to develop:",
+      "options": {"A": "Malignant hyperthermia", "B": "Anaphylaxis", "C": "Pulmonary embolism", "D": "Myasthenic crisis"},
+      "answer": "A",
+      "explanation": "Page 212: Muscular dystrophies patients are considered as high risk patients to develop malignant hyperthermia.",
+      "topic": "Muscular Dystrophies"
+    },
+    {
+      "id": 13,
+      "question": "Duchenne's dystrophy (pseudohypertrophic muscular dystrophy) is the most common type of dystrophy of childhood. Death usually occurs at 15–25 years of age due to:",
+      "options": {"A": "Congestive heart failure (CHF) or pneumonia", "B": "Renal failure", "C": "Malignant hyperthermia", "D": "Respiratory paralysis only"},
+      "answer": "A",
+      "explanation": "Page 212: Duchenne's dystrophy (pseudohypertrophic muscular dystrophy) is the most common type of dystrophy of childhood. The involved muscles become hypertrophied due to fatty infiltration (pseudo-hypertrophy). It involves skeletal as well as cardiac muscles. Death usually occurs by 15–25 years of age due to congestive heart failure (CHF) or pneumonia.",
+      "topic": "Muscular Dystrophies"
+    },
+    {
+      "id": 14,
+      "question": "Which muscle relaxant is absolutely contraindicated in muscular dystrophies?",
+      "options": {"A": "Succinylcholine", "B": "Mivacurium", "C": "Atracurium", "D": "Cis-atracurium"},
+      "answer": "A",
+      "explanation": "Page 212: Succinylcholine is absolutely contraindicated in muscular dystrophies. It may produce cardiac arrest due to hyperkalemia and rhabdomyolysis and can precipitate malignant hyperthermia.",
+      "topic": "Muscular Dystrophies"
+    },
+    {
+      "id": 15,
+      "question": "Which is the most preferred inhalational agent in Duchenne's dystrophy (as there is involvement of cardiac muscle)?",
+      "options": {"A": "Halothane", "B": "Isoflurane", "C": "Desflurane", "D": "Sevoflurane"},
+      "answer": "B",
+      "explanation": "Page 212: As there is involvement of cardiac muscle, the most cardiac safe agent, i.e. isoflurane should be the most preferred inhalational agent. Halothane is contraindicated as it can precipitate malignant hyperthermia.",
+      "topic": "Muscular Dystrophies"
+    },
+    {
+      "id": 16,
+      "question": "Which non-depolarizing muscle relaxants are safe and preferred in muscular dystrophies (due to increased sensitivity to relaxants)?",
+      "options": {"A": "Mivacurium (most preferred), atracurium and cis-atracurium", "B": "Pancuronium and vecuronium", "C": "Rocuronium and gallamine", "D": "Doxacurium and tubocurare"},
+      "answer": "A",
+      "explanation": "Page 212: Due to increased sensitivity to muscle relaxants, short acting agents with no possibility of accumulation like mivacurium (most preferred), atracurium and cis-atracurium should be given with initial dose as 1/3 to 1/2 and further doses titrated as per neuromuscular monitoring.",
+      "topic": "Muscular Dystrophies"
+    },
+    {
+      "id": 17,
+      "question": "Which is the most common and most serious dystrophy in adults, characterized by persistent contracture after a stimulus?",
+      "options": {"A": "Duchenne's dystrophy", "B": "Myotonia dystrophica", "C": "Becker's dystrophy", "D": "Limb-girdle dystrophy"},
+      "answer": "B",
+      "explanation": "Page 213: Myotonia dystrophica is the most common and most serious dystrophy in adults characterized by persistent contracture after a stimulus. Contracture may not be relieved by general and regional anesthesia, while local infiltration in the affected muscle may induce relaxation.",
+      "topic": "Muscular Dystrophies"
+    },
+    {
+      "id": 18,
+      "question": "In myotonia dystrophica, why must shivering be avoided at any cost?",
+      "options": {"A": "Because shivering can precipitate muscle contractures", "B": "Because shivering causes hypoxia", "C": "Because shivering triggers anaphylaxis", "D": "Because shivering increases potassium"},
+      "answer": "A",
+      "explanation": "Page 213: As shivering can also precipitate muscle contractures in myotonia dystrophica, it must be avoided at any cost.",
+      "topic": "Muscular Dystrophies"
+    },
+    {
+      "id": 19,
+      "question": "Why are mivacurium, atracurium and cis-atracurium preferred in myotonia dystrophica (apart from short duration)?",
+      "options": {"A": "Because they permit avoidance of reversal agents, which can precipitate contractures by causing muscle contraction", "B": "Because they are long acting", "C": "Because they cause histamine release", "D": "Because they are eliminated by kidneys"},
+      "answer": "A",
+      "explanation": "Page 213: Mivacurium, atracurium and cis-atracurium are not only preferred because of their short duration and no risk of accumulation, but also because they permit avoidance of reversal agents. Reversal agents can precipitate contractures by causing muscle contraction.",
+      "topic": "Muscular Dystrophies"
+    },
+    {
+      "id": 20,
+      "question": "In myasthenia gravis, the anesthetic management aims to avoid muscle relaxants because:",
+      "options": {"A": "Myasthenia patients have weakness of muscles and inhalational agents have muscle relaxation property, allowing intubation and maintenance with inhalational agents alone", "B": "Muscle relaxants cause malignant hyperthermia", "C": "Muscle relaxants are contraindicated in all patients", "D": "Muscle relaxants increase potassium dangerously"},
+      "answer": "A",
+      "explanation": "Page 211: The aim should be to avoid muscle relaxants. Since myasthenia patients have weakness of muscles and inhalational agents have muscle relaxation property, in a significant number of patients it is possible to intubate and maintain the surgical relaxation with inhalational agents alone.",
+      "topic": "Myasthenia Gravis"
+    },
+    {
+      "id": 21,
+      "question": "Which opioids should be used in myasthenia gravis to manage respiratory depression?",
+      "options": {"A": "Only short acting opioids like remifentanil", "B": "Long acting morphine", "C": "Pethidine", "D": "No opioids at all"},
+      "answer": "A",
+      "explanation": "Page 212: As these patients are very prone for respiratory depression, only short acting opioids (remifentanil) should be used.",
+      "topic": "Myasthenia Gravis"
+    },
+    {
+      "id": 22,
+      "question": "Which myasthenic patients may require ventilation in the postoperative period?",
+      "options": {"A": "Those with significantly compromised pulmonary functions (vital capacity < 4 mL/kg) or on high doses of pyridostigmine (> 750 mg/day)", "B": "All myasthenic patients", "C": "Only those who received regional anesthesia", "D": "None of them"},
+      "answer": "A",
+      "explanation": "Page 212: Many myasthenic patients, especially those who have significantly compromised pulmonary functions (vital capacity < 4 mL/kg) or on high doses of pyridostigmine (> 750 mg/day), may require ventilation in postoperative period.",
+      "topic": "Myasthenia Gravis"
+    },
+    {
+      "id": 23,
+      "question": "Due to weakness of laryngeal and pharyngeal reflexes in muscular dystrophy patients (prone to aspiration), they should be premedicated with:",
+      "options": {"A": "Metoclopramide and ranitidine", "B": "Benzodiazepines", "C": "Opioids", "D": "Anticholinesterases"},
+      "answer": "A",
+      "explanation": "Page 212: Due to weakness of laryngeal and pharyngeal reflexes, muscular dystrophy patients are prone for aspiration, therefore they should be premedicated with metoclopramide and ranitidine. Due to respiratory muscle weakness, opioids and benzodiazepines should be avoided.",
+      "topic": "Muscular Dystrophies"
+    },
+    {
+      "id": 24,
+      "question": "In myasthenia gravis, why is a prolonged block expected with succinylcholine and mivacurium in patients on cholinesterase inhibitors?",
+      "options": {"A": "Because cholinesterase inhibitors inhibit pseudocholinesterase (though this prolongation is not very significant clinically)", "B": "Because succinylcholine accumulates in muscle", "C": "Because of increased receptor sensitivity", "D": "Because of hyperkalemia"},
+      "answer": "A",
+      "explanation": "Page 212: A prolonged block by suxamethonium and mivacurium is expected in the patient on cholinesterase inhibitors because they inhibit pseudocholinesterase; however, this prolongation is not very significant clinically.",
+      "topic": "Myasthenia Gravis"
+    },
+    {
+      "id": 25,
+      "question": "Patients with myasthenia gravis on advanced disease may be on which medications that should be continued?",
+      "options": {"A": "Steroids and immunosuppressants", "B": "Beta-blockers", "C": "Calcium channel blockers", "D": "Anticoagulants"},
+      "answer": "A",
+      "explanation": "Page 211: Patients with advanced disease may be on steroids and immunosuppressants which should also be continued. Anticholinesterases (pyridostigmine) should be continued in reduced doses.",
+      "topic": "Myasthenia Gravis"
+    }
+  ]
+}

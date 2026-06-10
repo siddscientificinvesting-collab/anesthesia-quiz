@@ -1,0 +1,209 @@
+{
+  "title": "Gases Used in Anesthesia MCQ – Chapter 11",
+  "source": "Short Textbook of Anesthesia – Ajay Yadav",
+  "section": "Section 5: General Anesthesia (Chapter 11)",
+  "total_questions": 25,
+  "time_limit_minutes": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Medical oxygen is prepared by which process?",
+      "options": {"A": "Fractional distillation of air", "B": "Heating ammonium nitrate", "C": "Electrolysis of water", "D": "Reaction of zeolites"},
+      "answer": "A",
+      "explanation": "Page 103: Medical oxygen is prepared by fractional distillation of air. Oxygen concentrators are portable devices which produce oxygen from ambient air by selective absorption of nitrogen on zeolites.",
+      "topic": "Oxygen"
+    },
+    {
+      "id": 2,
+      "question": "Oxygen concentrators produce oxygen from ambient air by selective absorption of nitrogen on:",
+      "options": {"A": "Activated charcoal", "B": "Sodalime", "C": "Zeolites", "D": "Silica gel"},
+      "answer": "C",
+      "explanation": "Page 103: Oxygen concentrators are portable devices which can produce oxygen from ambient air by selective absorption of nitrogen on zeolites. Oxygen concentrators are suitable for use in hospitals, home or at remote locations.",
+      "topic": "Oxygen"
+    },
+    {
+      "id": 3,
+      "question": "Medical oxygen is stored in cylinders with which color coding, at what pressure?",
+      "options": {"A": "Black body and white shoulders at 2,000 psi", "B": "Blue body at 760 psi", "C": "Grey body at 750 psi", "D": "Brown body at 2,000 psi"},
+      "answer": "A",
+      "explanation": "Page 103: Medical oxygen is stored in cylinders with black body and white shoulders at a pressure of 2,000 psi (pounds per square inch). It is also stored as liquid oxygen.",
+      "topic": "Oxygen"
+    },
+    {
+      "id": 4,
+      "question": "What is the critical temperature of oxygen?",
+      "options": {"A": "36.5°C", "B": "-119°C", "C": "50°C", "D": "-183°C"},
+      "answer": "B",
+      "explanation": "Page 103: The critical temperature of oxygen is -119°C, therefore liquid oxygen should be stored below -119°C (to keep any gas in liquefied state it has to be kept below its critical temperature).",
+      "topic": "Oxygen"
+    },
+    {
+      "id": 5,
+      "question": "Which is the most common type of hypoxia seen during anesthesia?",
+      "options": {"A": "Anemic hypoxia", "B": "Stagnant hypoxia", "C": "Hypoxic hypoxia", "D": "Histotoxic hypoxia"},
+      "answer": "C",
+      "explanation": "Page 103: Hypoxic hypoxia is the most common type of hypoxia seen during anesthesia.",
+      "topic": "Hypoxia"
+    },
+    {
+      "id": 6,
+      "question": "Among the body stores of oxygen, which is practically the only store, lasting only 2–3 minutes?",
+      "options": {"A": "Oxygen bound to hemoglobin", "B": "Dissolved fraction in blood", "C": "Functional residual capacity (FRC) in lungs", "D": "Oxygen in tissues"},
+      "answer": "C",
+      "explanation": "Page 103: Body stores of oxygen are theoretically 1,500 mL (bound to hemoglobin, dissolved fraction, and in lungs as functional residual capacity). Among these, only the available oxygen in lungs (FRC) practically is the only store in body, which lasts only for 2–3 minutes.",
+      "topic": "Hypoxia"
+    },
+    {
+      "id": 7,
+      "question": "At an oxygen saturation (SpO2) of less than 60%, hypoxia produces what cardiovascular effect?",
+      "options": {"A": "Sympathetic stimulation with tachycardia and hypertension", "B": "Vasodilatation with reflex tachycardia and maintained cardiac output", "C": "Direct cardiac depression with bradyarrhythmia or even cardiac arrest", "D": "No cardiovascular effect"},
+      "answer": "C",
+      "explanation": "Page 103: At SpO2 <60%, hypoxia is a direct cardiac depressant and can produce bradyarrhythmia or even cardiac arrest. At SpO2 >80% it stimulates the sympathetic system (tachycardia, hypertension), and at SpO2 60–80% it causes vasodilatation with reflex tachycardia where cardiac output is maintained.",
+      "topic": "Hypoxia"
+    },
+    {
+      "id": 8,
+      "question": "Clinical cyanosis is produced when the reduced hemoglobin level is more than:",
+      "options": {"A": "5 g/dL", "B": "1.5 g/dL", "C": "0.5 g/dL", "D": "10 g/dL"},
+      "answer": "A",
+      "explanation": "Page 103: The clinical presentation of hypoxia is cyanosis, which is produced if reduced Hb level is more than 5 g/dL (roughly corresponds to O2 saturation <85% or pO2 <50 mm Hg), methemoglobin >1.5 g/dL, and sulfhemoglobin >0.5 g/dL.",
+      "topic": "Hypoxia"
+    },
+    {
+      "id": 9,
+      "question": "Which type of hypoxia responds best to oxygen therapy?",
+      "options": {"A": "Histotoxic hypoxia", "B": "Hypoxic hypoxia", "C": "Right to left shunts", "D": "Anemic hypoxia"},
+      "answer": "B",
+      "explanation": "Page 103–104: Hypoxic hypoxia responds best to oxygen therapy, while there is no benefit to oxygen therapy in histotoxic hypoxia and right to left shunts.",
+      "topic": "Hypoxia"
+    },
+    {
+      "id": 10,
+      "question": "Prolonged 100% oxygen is usually considered safe for up to how long in normal adults?",
+      "options": {"A": "8–12 hours", "B": "2–3 hours", "C": "24 hours", "D": "48 hours"},
+      "answer": "A",
+      "explanation": "Page 104: 100% oxygen is usually considered safe up to 8–12 hours in normal adults, but in infants and neonates 100% oxygen for more than 2–3 hours can cause pulmonary toxicity. Pulmonary toxicity depends on alveolar concentration (not on arterial concentration).",
+      "topic": "Oxygen Toxicity"
+    },
+    {
+      "id": 11,
+      "question": "In neonates, pulmonary oxygen toxicity manifests as:",
+      "options": {"A": "Bronchopulmonary dysplasia", "B": "Retrolental fibroplasia", "C": "Cerebral convulsions", "D": "Avascular necrosis"},
+      "answer": "A",
+      "explanation": "Page 104: Oxygen toxicity occurs because of toxic radicals (superoxide, hydroxyl ions, singlet oxygen, hydrogen peroxide) which damage the capillary membrane, producing an ARDS-like picture. In neonates pulmonary toxicity manifests as bronchopulmonary dysplasia.",
+      "topic": "Oxygen Toxicity"
+    },
+    {
+      "id": 12,
+      "question": "Retrolental fibroplasia from oxygen toxicity is dependent on arterial oxygen concentration. Which group is at greatest risk?",
+      "options": {"A": "Adults on prolonged oxygen", "B": "Premature neonates (< 36 weeks)", "C": "Full-term neonates", "D": "Elderly patients"},
+      "answer": "B",
+      "explanation": "Page 104: Retrolental fibroplasia is dependent on arterial oxygen concentration. Premature neonates (< 36 weeks) are at greatest risk.",
+      "topic": "Oxygen Toxicity"
+    },
+    {
+      "id": 13,
+      "question": "Hyperbaric oxygen therapy is practically restricted to which two conditions?",
+      "options": {"A": "Asthma and COPD", "B": "Decompression sickness and severe cases of carbon monoxide poisoning", "C": "Pneumonia and ARDS", "D": "Anemia and shock"},
+      "answer": "B",
+      "explanation": "Page 104: Hyperbaric oxygen means delivering oxygen above atmospheric pressure (>760 mm Hg or >1 atm). Although there are many indications, practically its use is only restricted to decompression sickness and severe cases of carbon monoxide poisoning.",
+      "topic": "Hyperbaric Oxygen"
+    },
+    {
+      "id": 14,
+      "question": "The half-life of carbon monoxide is 214 minutes at 1 atm. At 2.5 atm of hyperbaric oxygen, it is reduced to:",
+      "options": {"A": "100 minutes", "B": "50 minutes", "C": "19 minutes", "D": "5 minutes"},
+      "answer": "C",
+      "explanation": "Page 104: In carbon monoxide poisoning the half-life of CO at 1 atm is 214 minutes, which can be reduced to 19 minutes at 2.5 atm. In current practice its use is reserved only for severe cases; mild-to-moderate cases are managed by 100% normobaric oxygen.",
+      "topic": "Hyperbaric Oxygen"
+    },
+    {
+      "id": 15,
+      "question": "CNS toxicity of hyperbaric oxygen (the Paul Bert effect, with seizures) is usually seen if the pressure used is:",
+      "options": {"A": "More than 3 atm", "B": "More than 1 atm", "C": "More than 0.5 atm", "D": "Less than 1 atm"},
+      "answer": "A",
+      "explanation": "Page 104: CNS toxicity of hyperbaric oxygen manifests as seizures preceded by facial numbness, twitching and olfactory/gustatory sensations (Paul Bert effect). The Paul Bert effect is usually seen if the pressure used is > 3 atm.",
+      "topic": "Hyperbaric Oxygen"
+    },
+    {
+      "id": 16,
+      "question": "In the past, carbon dioxide (5%) was used to hasten recovery at emergence. What is its current use in anesthesia?",
+      "options": {"A": "Treatment of postspinal headache", "B": "Gas insufflation for laparoscopic surgeries and cryosurgeries", "C": "Opening the glottis for intubation", "D": "It is no longer used in any form"},
+      "answer": "B",
+      "explanation": "Page 105: In the past CO2 (5%) was used to hasten recovery at emergence, for glottis opening for blind intubation, and for treatment of postspinal headache; however, it is not used now in anesthesia. Currently it is used only on the surgical side for gas insufflation for laparoscopic surgeries and cryosurgeries. It is stored in grey color cylinders at 750 psi.",
+      "topic": "Carbon Dioxide"
+    },
+    {
+      "id": 17,
+      "question": "Heliox is a mixture of which gases?",
+      "options": {"A": "79% nitrogen + 21% oxygen", "B": "50% helium + 50% oxygen", "C": "79% helium + 21% oxygen", "D": "66% nitrous oxide + 33% oxygen"},
+      "answer": "C",
+      "explanation": "Page 105: Helium, mixed with oxygen (79% helium + 21% oxygen) is available as Heliox. Heliox is stored in black color cylinders (representing oxygen) with brown and white shoulders (brown representing helium). Helium is stored in brown cylinders at 2,000 psi.",
+      "topic": "Helium/Heliox"
+    },
+    {
+      "id": 18,
+      "question": "The most important characteristic of helium is its:",
+      "options": {"A": "High density", "B": "Low density", "C": "High solubility", "D": "Anesthetic potency"},
+      "answer": "B",
+      "explanation": "Page 105: The most important characteristic of helium is its low density (specific gravity of helium is 341 while that of air is 1,000). This allows it to reduce turbulence and airway resistance.",
+      "topic": "Helium/Heliox"
+    },
+    {
+      "id": 19,
+      "question": "Heliox decreases turbulence and airway resistance, enabling oxygen to pass through narrow orifices. It is therefore used for:",
+      "options": {"A": "Upper airway obstruction (tracheal/bronchial stenosis or foreign body)", "B": "Treatment of pneumothorax", "C": "Labor analgesia", "D": "Cardiac arrest resuscitation"},
+      "answer": "A",
+      "explanation": "Page 105: When oxygen is mixed with helium (Heliox), the density of the gas mixture decreases, reducing turbulence and resistance, enabling oxygen to pass even through narrow orifices. Therefore, Heliox is used for upper airway obstruction (tracheal or bronchial stenosis or foreign body) and microlaryngeal surgeries (where small size endotracheal tubes are used).",
+      "topic": "Helium/Heliox"
+    },
+    {
+      "id": 20,
+      "question": "Nitric oxide is the major vasodilatory compound produced in endothelium during the conversion of:",
+      "options": {"A": "L-arginine to L-citrulline by nitric oxide synthase", "B": "Glucose to pyruvate", "C": "Ammonium nitrate to nitrous oxide", "D": "Bicarbonate to carbon dioxide"},
+      "answer": "A",
+      "explanation": "Page 105: Nitric oxide is the major vasodilatory compound produced in pulmonary and systemic endothelium during the conversion of L-arginine to L-citrulline by nitric oxide synthase. It produces vasodilatation through cGMP.",
+      "topic": "Nitric Oxide"
+    },
+    {
+      "id": 21,
+      "question": "Inhaled nitric oxide is used for diagnosis and treatment of:",
+      "options": {"A": "Asthma", "B": "Primary pulmonary hypertension or secondary pulmonary hypertension associated with ARDS", "C": "Systemic hypertension", "D": "Carbon monoxide poisoning"},
+      "answer": "B",
+      "explanation": "Page 105: Because of its pulmonary vasodilatory property, inhaled nitric oxide is used for diagnosis and treatment of primary pulmonary hypertension or secondary pulmonary hypertension associated with ARDS.",
+      "topic": "Nitric Oxide"
+    },
+    {
+      "id": 22,
+      "question": "Medical air supplied through the central supply is at what pressure?",
+      "options": {"A": "60 psi", "B": "750 psi", "C": "2,000 psi", "D": "760 psi"},
+      "answer": "A",
+      "explanation": "Page 105: Medical air is usually supplied through central supply at a pressure of 60 psi; however, it is also available in grey cylinders with black and white shoulders at a pressure of 2,000 psi.",
+      "topic": "Air"
+    },
+    {
+      "id": 23,
+      "question": "Medical air can be used as a respired gas (replacement to nitrous oxide) or as a gas to:",
+      "options": {"A": "Drive pneumatic devices like ventilators", "B": "Treat pulmonary hypertension", "C": "Insufflate the abdomen in laparoscopy", "D": "Hasten recovery at emergence"},
+      "answer": "A",
+      "explanation": "Page 105: Medical air can be used as a respired gas (as a replacement to nitrous oxide) or as a gas to drive pneumatic devices like ventilators.",
+      "topic": "Air"
+    },
+    {
+      "id": 24,
+      "question": "Excessive (100%) oxygen toxicity occurs because of toxic radicals. Which of the following is one such radical?",
+      "options": {"A": "Bicarbonate", "B": "Superoxide", "C": "Carbamino compound", "D": "Methemoglobin"},
+      "answer": "B",
+      "explanation": "Page 104: Oxygen toxicity occurs because of toxic radicals of oxygen like superoxide and hydroxyl ions, singlet oxygen, and hydrogen peroxide. These radicals damage the capillary membrane increasing capillary permeability and an ARDS-like picture.",
+      "topic": "Oxygen Toxicity"
+    },
+    {
+      "id": 25,
+      "question": "For decompression sickness, hyperbaric therapy is given as 100% oxygen at what pressure, followed by 1.9 atm?",
+      "options": {"A": "2.8 atm", "B": "6 atm", "C": "1 atm", "D": "3 atm"},
+      "answer": "A",
+      "explanation": "Page 104–105: Patients with decompression sickness are given 100% oxygen at 2.8 atm followed by 1.9 atm, interspersed by periods of 5–15 minutes of air breathing. The exact safe levels are not defined; however, not more than 2.8 atm should be used with 100% oxygen in chamber.",
+      "topic": "Hyperbaric Oxygen"
+    }
+  ]
+}

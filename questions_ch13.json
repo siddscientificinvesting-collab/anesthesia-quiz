@@ -1,0 +1,409 @@
+{
+  "title": "Muscle Relaxants MCQ – Chapter 13",
+  "source": "Short Textbook of Anesthesia – Ajay Yadav",
+  "section": "Section 5: General Anesthesia (Chapter 13)",
+  "total_questions": 50,
+  "time_limit_minutes": 35,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Acetylcholine is synthesized in the nerve cytoplasm from choline and acetyl coenzyme A by which enzyme?",
+      "options": {"A": "Acetylcholinesterase", "B": "Choline acetyltransferase", "C": "Pseudocholinesterase", "D": "Monoamine oxidase"},
+      "answer": "B",
+      "explanation": "Page 122: Acetylcholine is synthesized in the nerve cytoplasm by combination of choline and acetyl coenzyme A. This reaction is mediated by the enzyme choline acetyltransferase. The synthesized ACh is stored in vesicles.",
+      "topic": "Physiology of NMJ"
+    },
+    {
+      "id": 2,
+      "question": "Acetylcholine is destroyed in less than 1 ms at the neuromuscular junction by which enzyme?",
+      "options": {"A": "Pseudocholinesterase (butyrylcholinesterase)", "B": "Choline acetyltransferase", "C": "Acetylcholinesterase (true cholinesterase)", "D": "Catechol-O-methyltransferase"},
+      "answer": "C",
+      "explanation": "Page 123: The acetylcholine is destroyed in less than 1 ms by acetylcholinesterase (true cholinesterase) which is synthesized by the underlying muscle.",
+      "topic": "Physiology of NMJ"
+    },
+    {
+      "id": 3,
+      "question": "Which subunit of the acetylcholine receptor is the important site where ACh, succinylcholine and competitive antagonists bind?",
+      "options": {"A": "Beta (β) subunit", "B": "Alpha (α) subunit", "C": "Gamma (γ) subunit", "D": "Delta (δ) subunit"},
+      "answer": "B",
+      "explanation": "Page 123: The alpha (α) subunit is important because ACh, succinylcholine and competitive antagonists (nondepolarizing relaxants) bind to this site. The receptor has two gates — an upper voltage-dependent and a lower time-dependent gate.",
+      "topic": "Acetylcholine Receptor"
+    },
+    {
+      "id": 4,
+      "question": "Which muscle is considered the most resistant to muscle relaxants?",
+      "options": {"A": "Adductor pollicis", "B": "Diaphragm", "C": "Orbicularis oculi", "D": "Laryngeal muscles"},
+      "answer": "B",
+      "explanation": "Page 123: Laryngeal muscles and diaphragm may require more than double the doses required to block adductor pollicis. In fact, the diaphragm is considered as the most resistant muscle.",
+      "topic": "Sequence of Muscle Blockade"
+    },
+    {
+      "id": 5,
+      "question": "In clinical practice, central muscles are blocked earlier than peripheral muscles (limb muscles). This is because:",
+      "options": {"A": "Central muscles are smaller", "B": "Of early and more blood supply delivering more relaxant to central muscles", "C": "Central muscles have fewer receptors", "D": "Peripheral muscles are more sensitive"},
+      "answer": "B",
+      "explanation": "Page 123: Central muscles are blocked earlier than peripheral muscles simply because of early and more blood supply delivering more quantity of muscle relaxants to central muscles as compared to peripheral muscles. The sequence of recovery is also the same — central muscles recover first and limb muscles last.",
+      "topic": "Sequence of Muscle Blockade"
+    },
+    {
+      "id": 6,
+      "question": "Which muscle is most commonly monitored for neuromuscular blockade?",
+      "options": {"A": "Diaphragm", "B": "Adductor pollicis (supplied by ulnar nerve)", "C": "Orbicularis oculi", "D": "Masseter"},
+      "answer": "B",
+      "explanation": "Page 123: The most commonly chosen muscle is adductor pollicis, supplied by the ulnar nerve. Relaxation of adductor pollicis means laryngeal muscles have already been blocked and intubation can be performed.",
+      "topic": "Neuromuscular Monitoring"
+    },
+    {
+      "id": 7,
+      "question": "Succinylcholine is metabolized by which enzyme?",
+      "options": {"A": "Acetylcholinesterase", "B": "Plasma pseudocholinesterase (butyrylcholinesterase)", "C": "Choline acetyltransferase", "D": "Hoffman degradation"},
+      "answer": "B",
+      "explanation": "Page 124: Succinylcholine is immediately metabolized in plasma by pseudocholinesterase (butyrylcholinesterase), which is synthesized in liver and present in plasma in abundant quantities. To prevent its metabolism, it should be given at a faster rate.",
+      "topic": "Suxamethonium"
+    },
+    {
+      "id": 8,
+      "question": "The excessive repeated depolarization and contractions produced by succinylcholine can be directly visualized as:",
+      "options": {"A": "Fasciculations", "B": "Tetany", "C": "Tremor", "D": "Fading"},
+      "answer": "A",
+      "explanation": "Page 124: Excessive succinylcholine produces repeated depolarization and contractions which can be directly visualized as fasciculations. Persistent depolarization makes the membrane refractory, producing what is termed phase I block.",
+      "topic": "Suxamethonium"
+    },
+    {
+      "id": 9,
+      "question": "According to Table 13.1, which feature distinguishes a depolarizing block from a nondepolarizing block?",
+      "options": {"A": "It shows fading on neuromuscular monitoring", "B": "It is preceded by muscle fasciculations", "C": "It exhibits post-tetanic facilitation", "D": "It is reversed by neostigmine"},
+      "answer": "B",
+      "explanation": "Page 124, Table 13.1: A depolarizing block (phase I block) is preceded by muscle fasciculations, shows no fading, no post-tetanic facilitation, and is not reversed by cholinesterase inhibitors. A nondepolarizing block shows no fasciculations, fading, post-tetanic facilitation, and is reversed by neostigmine.",
+      "topic": "Suxamethonium"
+    },
+    {
+      "id": 10,
+      "question": "What is the most prominent effect of suxamethonium?",
+      "options": {"A": "Bradycardia", "B": "Hyperkalemia", "C": "Increased intraocular tension", "D": "Increased intragastric pressure"},
+      "answer": "B",
+      "explanation": "Page 125: Hyperkalemia is the most prominent effect of suxamethonium, which occurs due to excessive muscle fasciculations. In normal circumstances serum potassium increases by 0.5 mEq/L. Hyperkalemia increases the risk of ventricular arrhythmias.",
+      "topic": "Suxamethonium"
+    },
+    {
+      "id": 11,
+      "question": "Postoperative myalgia (muscle pains) from succinylcholine can be reduced by precurarization, which involves:",
+      "options": {"A": "Giving one-tenth dose of nondepolarizing relaxant 3 minutes prior to succinylcholine", "B": "Giving a double dose of succinylcholine", "C": "Giving neostigmine before succinylcholine", "D": "Hyperventilating the patient"},
+      "answer": "A",
+      "explanation": "Page 125: Precurarization is the technique in which one-tenth dose of nondepolarizing muscle relaxant is given 3 minutes prior to succinylcholine. This small dose decreases fasciculations and hence myalgia. Incidence of muscle pains is 40–50%.",
+      "topic": "Suxamethonium"
+    },
+    {
+      "id": 12,
+      "question": "Succinylcholine is the most commonly implicated drug for which life-threatening condition?",
+      "options": {"A": "Anaphylaxis", "B": "Malignant hyperthermia", "C": "Masseter spasm", "D": "Pulmonary edema"},
+      "answer": "B",
+      "explanation": "Page 125: Malignant hyperthermia — succinylcholine is the most commonly implicated drug. Masseter spasm with succinylcholine, especially in children, may be a precursor sign for malignant hyperthermia.",
+      "topic": "Suxamethonium"
+    },
+    {
+      "id": 13,
+      "question": "Which serum potassium level is an absolute contraindication for using suxamethonium?",
+      "options": {"A": "Serum K+ > 5.5 mEq/L", "B": "Serum K+ > 3.5 mEq/L", "C": "Serum K+ < 3.0 mEq/L", "D": "Serum K+ > 4.0 mEq/L"},
+      "answer": "A",
+      "explanation": "Page 125: Hyperkalemia — serum K+ > 5.5 mEq/L is an absolute contraindication for using suxamethonium, because suxamethonium further increases serum potassium.",
+      "topic": "Suxamethonium"
+    },
+    {
+      "id": 14,
+      "question": "Prolonged apnea after succinylcholine can be due to all of the following EXCEPT:",
+      "options": {"A": "Low pseudocholinesterase", "B": "Atypical pseudocholinesterase", "C": "Phase II block", "D": "Hyperkalemia"},
+      "answer": "D",
+      "explanation": "Page 126: Prolonged apnea after succinylcholine can be because of low pseudocholinesterase, atypical pseudocholinesterase, or phase II block.",
+      "topic": "Suxamethonium"
+    },
+    {
+      "id": 15,
+      "question": "Atypical pseudocholinesterase is a genetic disorder diagnosed by which test?",
+      "options": {"A": "Fluoride number", "B": "Dibucaine number", "C": "Train of four ratio", "D": "Tensilon test"},
+      "answer": "B",
+      "explanation": "Page 126: Atypical (abnormal) pseudocholinesterase is a genetic disease in which the patient has abnormal enzyme not able to metabolize suxamethonium. Incidence is 1 in 3,000. This is diagnosed by the dibucaine number. Dibucaine inhibits 80% of normal enzyme and 20% of abnormal enzyme.",
+      "topic": "Suxamethonium"
+    },
+    {
+      "id": 16,
+      "question": "Phase II block (dual block) is produced by an excessive dose of suxamethonium (> 5 mg/kg or > 500 mg). Which finding is pathognomonic of phase II block?",
+      "options": {"A": "Fasciculations", "B": "Succinylcholine showing fading on neuromuscular monitoring", "C": "Post-tetanic depression", "D": "Hyperkalemia"},
+      "answer": "B",
+      "explanation": "Page 127: Phase II block (also called dual block) is prolonged block seen after excessive dose of suxamethonium (> 5 mg/kg or > 500 mg). Succinylcholine showing fading on neuromuscular monitoring is pathognomonic of phase II block.",
+      "topic": "Suxamethonium"
+    },
+    {
+      "id": 17,
+      "question": "The onset of action of a nondepolarizer is inversely proportional to its:",
+      "options": {"A": "Potency", "B": "Molecular weight", "C": "Duration", "D": "Lipid solubility"},
+      "answer": "A",
+      "explanation": "Page 127–128: Onset of a nondepolarizer is inversely proportional to potency. More the potency, lesser the dose required, means less molecules delivered at the neuromuscular junction to compete with acetylcholine, delaying the onset of action.",
+      "topic": "Nondepolarizing Muscle Relaxants"
+    },
+    {
+      "id": 18,
+      "question": "The basic difference between steroidal and benzylisoquinoline (BZIQ) compounds is that:",
+      "options": {"A": "Histamine release is seen with BZIQ compounds and vagolytic property with steroidal compounds", "B": "Steroidal compounds release histamine", "C": "BZIQ compounds are vagolytic", "D": "Both groups are identical"},
+      "answer": "A",
+      "explanation": "Page 127: The basic difference between steroidal and benzylisoquinoline (BZIQ) compounds is that histamine release is seen with BZIQ compounds and vagolytic property with steroidal compounds.",
+      "topic": "Nondepolarizing Muscle Relaxants"
+    },
+    {
+      "id": 19,
+      "question": "The main reason for not preferring pancuronium in current day practice is its:",
+      "options": {"A": "Cardiac instability (tachycardia and hypertension)", "B": "Histamine release", "C": "Short duration", "D": "Hepatic metabolism"},
+      "answer": "A",
+      "explanation": "Page 128: The main reason for not preferring pancuronium is its cardiac instability. It releases nor-adrenaline and causes vagal blockade, leading to tachycardia and hypertension. By releasing nor-adrenaline it increases the chances of arrhythmias with halothane.",
+      "topic": "Steroidal Compounds"
+    },
+    {
+      "id": 20,
+      "question": "Which nondepolarizing muscle relaxant is the most cardiovascular stable, making it the muscle relaxant of choice for cardiac patients?",
+      "options": {"A": "Pancuronium", "B": "Vecuronium", "C": "Atracurium", "D": "Gallamine"},
+      "answer": "B",
+      "explanation": "Page 128: As vecuronium is the most cardiovascular stable, it is the muscle relaxant of choice for cardiac patients. Long-term use in ICU has resulted in polyneuropathy due to accumulation of its metabolite, 3-hydroxy metabolite.",
+      "topic": "Steroidal Compounds"
+    },
+    {
+      "id": 21,
+      "question": "Which nondepolarizing muscle relaxant is the agent of choice for intubation and precurarization due to its early onset (60–90 seconds)?",
+      "options": {"A": "Vecuronium", "B": "Pancuronium", "C": "Rocuronium", "D": "Atracurium"},
+      "answer": "C",
+      "explanation": "Page 128: The advantage of rocuronium over other nondepolarizing muscle relaxants is its early onset (within 60–90 seconds compared to 3–4 minutes for other relaxants). As its onset is comparable to succinylcholine, it is the nondepolarizer of choice for intubation and precurarization. It is also the only nondepolarizing muscle relaxant which can be given by intramuscular route.",
+      "topic": "Steroidal Compounds"
+    },
+    {
+      "id": 22,
+      "question": "Rapacuronium was withdrawn from the market because it produced:",
+      "options": {"A": "Intense bronchospasm in a significant number of patients (> 9%)", "B": "Severe hyperkalemia", "C": "Malignant hyperthermia", "D": "Prolonged apnea"},
+      "answer": "A",
+      "explanation": "Page 128: Rapacuronium is the analog of vecuronium with less potency. It has been withdrawn from the market because it produced intense bronchospasm in a significant number of patients (> 9%).",
+      "topic": "Steroidal Compounds"
+    },
+    {
+      "id": 23,
+      "question": "D-tubocurare is no more used in current practice because of its:",
+      "options": {"A": "Highest propensity for histamine release and ganglion blockade (and hence severe hypotension)", "B": "Cardiac instability", "C": "Renal toxicity", "D": "Short duration of action"},
+      "answer": "A",
+      "explanation": "Page 128: D-tubocurare is not used in present day practice because of its highest propensity for histamine release and ganglion blockade (and hence severe hypotension). It was named so because it was carried in bamboo tubes and used as arrow poison by Amazon people.",
+      "topic": "Benzylisoquinoline Compounds"
+    },
+    {
+      "id": 24,
+      "question": "Atracurium undergoes a unique method of degradation which is pH and temperature dependent. What is this called?",
+      "options": {"A": "Ester hydrolysis", "B": "Hoffman degradation", "C": "Pseudocholinesterase metabolism", "D": "Renal elimination"},
+      "answer": "B",
+      "explanation": "Page 129: The majority of atracurium undergoes spontaneous degradation in plasma called Hoffman degradation. Hoffman degradation is a pH and temperature-dependent reaction; higher pH and temperature favor more degradation.",
+      "topic": "Benzylisoquinoline Compounds"
+    },
+    {
+      "id": 25,
+      "question": "Because its metabolism is not dependent on hepatic or renal functions, atracurium is the relaxant of choice for:",
+      "options": {"A": "Cardiac patients only", "B": "Hepatic failure, renal failure, newborn and old age", "C": "Day care surgery", "D": "Intubation"},
+      "answer": "B",
+      "explanation": "Page 129: As atracurium metabolism is not dependent on hepatic or renal functions, it is the relaxant of choice for hepatic failure, renal failure, newborn (immature hepatic/renal function), old age, and when reversal agent is contraindicated.",
+      "topic": "Benzylisoquinoline Compounds"
+    },
+    {
+      "id": 26,
+      "question": "Atracurium's metabolic product laudanosine can cross the blood brain barrier and produce:",
+      "options": {"A": "Convulsions", "B": "Bronchospasm", "C": "Hypotension", "D": "Bradycardia"},
+      "answer": "A",
+      "explanation": "Page 129: At higher doses, atracurium's metabolic product laudanosine can cross the blood brain barrier and can produce convulsions. As it is a benzylisoquinoline compound, it can release histamine producing allergic reactions ranging from pruritic rash to angioneurotic edema, bronchospasm or hypotension.",
+      "topic": "Benzylisoquinoline Compounds"
+    },
+    {
+      "id": 27,
+      "question": "The chief advantage of cisatracurium over atracurium is that:",
+      "options": {"A": "It does not release histamine and laudanosine production is 5 times less", "B": "It has a faster onset", "C": "It is eliminated by kidneys", "D": "It is more potent and cardiac stable"},
+      "answer": "A",
+      "explanation": "Page 129: Cisatracurium is an isomer of atracurium with 4 times more potency. The chief advantage of cisatracurium over atracurium is that it does not release histamine and laudanosine production is 5 times less than atracurium, therefore always preferred over atracurium. It is only metabolized by Hoffman degradation.",
+      "topic": "Benzylisoquinoline Compounds"
+    },
+    {
+      "id": 28,
+      "question": "Which nondepolarizing muscle relaxant is metabolized by pseudocholinesterase and is the muscle relaxant of choice for day care surgery?",
+      "options": {"A": "Mivacurium", "B": "Doxacurium", "C": "Pancuronium", "D": "Pipecuronium"},
+      "answer": "A",
+      "explanation": "Page 129: Like succinylcholine, mivacurium is metabolized in plasma by pseudocholinesterase, therefore prolonged block is expected in conditions causing low pseudocholinesterase. Its short duration of action (5–10 minutes) makes it a muscle relaxant of choice for day care surgery. The major side effect is histamine release.",
+      "topic": "Benzylisoquinoline Compounds"
+    },
+    {
+      "id": 29,
+      "question": "Gallamine is the only nondepolarizer which can cross the placenta, therefore it is absolutely contraindicated in:",
+      "options": {"A": "Renal disease", "B": "Pregnancy", "C": "Hepatic disease", "D": "Cardiac disease"},
+      "answer": "B",
+      "explanation": "Page 129: Gallamine is the only nondepolarizer which can cross the placenta and cause fetal death, therefore absolutely contraindicated in pregnancy. More than 80% is excreted by kidneys, therefore it is also contraindicated in renal disease. It has maximum propensity for vagal blockade (vagolytic), causing severe tachycardia.",
+      "topic": "Benzylisoquinoline Compounds"
+    },
+    {
+      "id": 30,
+      "question": "Gantacurium, an onium chlorofumarate under research, is metabolized by forming a cysteine adduct followed by ester hydrolysis. It may emerge as an alternative to which drug?",
+      "options": {"A": "Atracurium", "B": "Suxamethonium for intubation", "C": "Vecuronium", "D": "Pancuronium"},
+      "answer": "B",
+      "explanation": "Page 130: Gantacurium (previously AV430A) is a mixed onium chlorofumarate having fast onset (< 90 seconds) and ultra short duration (shortest among nondepolarizers). It may emerge as an alternative to suxamethonium for intubation. It is rapidly metabolized by forming a cysteine adduct followed by ester hydrolysis.",
+      "topic": "Compounds Under Research"
+    },
+    {
+      "id": 31,
+      "question": "When two muscle relaxants of the SAME group (steroid + steroid or BZIQ + BZIQ) are added, the effect produced is:",
+      "options": {"A": "Additive", "B": "Synergistic", "C": "Antagonistic", "D": "No effect"},
+      "answer": "A",
+      "explanation": "Page 130: Two muscle relaxants of the same group (steroid + steroid or BZIQ + BZIQ) produce an additive effect, while addition of different groups (steroid + BZIQ) produces a synergistic effect.",
+      "topic": "Drug Interactions"
+    },
+    {
+      "id": 32,
+      "question": "Inhalational agents prolong the block of muscle relaxants and decrease the requirement of relaxant by:",
+      "options": {"A": "20–30%", "B": "50–60%", "C": "5–10%", "D": "70–80%"},
+      "answer": "A",
+      "explanation": "Page 130: Inhalational agents prolong the block by both depolarizers and NDMR and decrease the requirement of relaxant by 20–30%. Maximum relaxation among inhalational agents is produced by desflurane (Desflurane > Sevoflurane > Isoflurane > Halothane).",
+      "topic": "Drug Interactions"
+    },
+    {
+      "id": 33,
+      "question": "Which class of antibiotics prolongs the effect of both depolarizers and NDMR, and is reversed by 4-aminopyridine?",
+      "options": {"A": "Penicillins", "B": "Aminoglycosides", "C": "Cephalosporins", "D": "Macrolides"},
+      "answer": "B",
+      "explanation": "Page 130: Antibiotics prolong the effect of both depolarizers and NDMR. Aminoglycosides (neomycin, streptomycin, gentamicin, kanamycin, polymyxin, tobramycin), lincomycin and clindamycin are implicated. To reverse the effect of block by aminoglycosides, the drug used is 4-aminopyridine.",
+      "topic": "Drug Interactions"
+    },
+    {
+      "id": 34,
+      "question": "According to Table 13.2, in conditions with extrajunctional receptors (burns, hemiplegia, paraplegia, denervation), the response to depolarizers and nondepolarizers is:",
+      "options": {"A": "Increased sensitivity/hyperkalemia to depolarizers and resistance to nondepolarizers", "B": "Resistance to depolarizers and increased sensitivity to nondepolarizers", "C": "Increased sensitivity to both", "D": "Resistance to both"},
+      "answer": "A",
+      "explanation": "Page 131, Table 13.2: In conditions with extrajunctional receptors (burns, hemiplegia, paraplegia, denervation muscle injuries, tetanus, cerebral palsy), there is increased sensitivity and hyperkalemia to depolarizers but resistance to nondepolarizers, because extrajunctional receptors are sensitive to depolarizing agents and resistant to nondepolarizers.",
+      "topic": "Muscular Diseases"
+    },
+    {
+      "id": 35,
+      "question": "In myasthenia gravis, the response to muscle relaxants is:",
+      "options": {"A": "Increased sensitivity to depolarizers and resistance to nondepolarizers", "B": "Resistance to depolarizers and increased sensitivity to nondepolarizers", "C": "Increased sensitivity to both", "D": "Resistance to both"},
+      "answer": "B",
+      "explanation": "Page 131, Table 13.2: In myasthenia gravis there is resistance to depolarizers and increased sensitivity to nondepolarizers. This autoimmune disease destroys acetylcholine receptors, leaving fewer receptors for succinylcholine (increasing resistance) but less competition for nondepolarizers (increasing their sensitivity).",
+      "topic": "Muscular Diseases"
+    },
+    {
+      "id": 36,
+      "question": "According to the rules of reversal, a reversal agent should be given only after:",
+      "options": {"A": "Immediately after the last dose of relaxant", "B": "Some evidence of spontaneous recovery has appeared (e.g. spontaneous respiration, TO4 shows at least 1 twitch)", "C": "The patient is fully awake", "D": "30 minutes regardless of recovery"},
+      "answer": "B",
+      "explanation": "Page 131: Reversal should be given only after some evidence of spontaneous recovery has appeared, like the patient has started spontaneous respiration and TO4 shows at least 1 twitch; otherwise reversal agents may enter the open channels and themselves produce block.",
+      "topic": "Reversal of Block"
+    },
+    {
+      "id": 37,
+      "question": "Which anticholinesterase, being NOT a quaternary ammonium compound, can cross the blood brain barrier?",
+      "options": {"A": "Neostigmine", "B": "Pyridostigmine", "C": "Edrophonium", "D": "Physostigmine"},
+      "answer": "D",
+      "explanation": "Page 131: Anticholinesterases used for reversal are neostigmine, pyridostigmine, edrophonium and physostigmine. All except physostigmine are quaternary ammonium compounds and therefore do not cross the blood brain barrier (physostigmine does).",
+      "topic": "Reversal of Block"
+    },
+    {
+      "id": 38,
+      "question": "Why is glycopyrrolate preferred over atropine when given with cholinesterase inhibitors during reversal?",
+      "options": {"A": "Because glycopyrrolate is devoid of central side effects", "B": "Because glycopyrrolate is cheaper", "C": "Because glycopyrrolate has a faster onset", "D": "Because glycopyrrolate increases heart rate more"},
+      "answer": "A",
+      "explanation": "Page 132: To prevent muscarinic side effects (bradycardia, bronchospasm, secretions), atropine or glycopyrrolate has to be given with cholinesterase inhibitors. Glycopyrrolate, being devoid of central side effects, is always preferred over atropine.",
+      "topic": "Reversal of Block"
+    },
+    {
+      "id": 39,
+      "question": "Which is the most commonly used reversal agent, and what is its dose?",
+      "options": {"A": "Neostigmine, 0.04–0.08 mg/kg", "B": "Edrophonium, 0.5 mg/kg", "C": "Pyridostigmine, 0.2 mg/kg", "D": "Physostigmine, 0.1 mg/kg"},
+      "answer": "A",
+      "explanation": "Page 132: Neostigmine is the most commonly used reversal agent. Dose is 0.04–0.08 mg/kg. The effect begins in 5–10 minutes and peaks in half hour and lasts for one hour. The anticholinergic preferred with neostigmine is glycopyrrolate.",
+      "topic": "Reversal of Block"
+    },
+    {
+      "id": 40,
+      "question": "Which is the reversal agent of choice for mivacurium?",
+      "options": {"A": "Neostigmine", "B": "Pyridostigmine", "C": "Edrophonium", "D": "Sugammadex"},
+      "answer": "C",
+      "explanation": "Page 132: As neostigmine and pyridostigmine inhibit pseudocholinesterase, they cannot be used to reverse mivacurium (which is metabolized by pseudocholinesterase). Edrophonium does not inhibit pseudocholinesterase, therefore it is the reversal agent of choice for mivacurium.",
+      "topic": "Reversal of Block"
+    },
+    {
+      "id": 41,
+      "question": "Sugammadex (gamma cyclodextrin) directly binds which type of muscle relaxants to form a complex eliminated unchanged through the kidney?",
+      "options": {"A": "Benzylisoquinoline type", "B": "Steroidal type of nondepolarizing muscle relaxants", "C": "Depolarizing type", "D": "Centrally acting relaxants"},
+      "answer": "B",
+      "explanation": "Page 132: Sugammadex directly binds to the steroidal type of nondepolarizing muscle relaxants to form a complex which gets eliminated unchanged through the kidney. Its major disadvantage is that it cannot reverse benzylisoquinoline type of nondepolarizers.",
+      "topic": "Reversal of Block"
+    },
+    {
+      "id": 42,
+      "question": "A major advantage of sugammadex over anticholinesterases is that:",
+      "options": {"A": "It is effective in reversing profound block, while anticholinesterases cannot reverse deeper blocks", "B": "It is cheaper", "C": "It can reverse benzylisoquinoline relaxants", "D": "It can be used in severe renal insufficiency"},
+      "answer": "A",
+      "explanation": "Page 132: Anticholinesterases are unable to reverse deeper blocks, while sugammadex is effective in reversing profound blockade. The reversal of block with cholinesterase inhibitors is slow (10–15 min) while reversal with sugammadex is very fast (2–3 minutes). It also has no muscarinic side effects, so there is no need to use glycopyrrolate or atropine.",
+      "topic": "Reversal of Block"
+    },
+    {
+      "id": 43,
+      "question": "Which clinical sign is considered the BEST clinical sign of adequate reversal, though difficult to perform, making head lift the most widely used test?",
+      "options": {"A": "Spontaneous eye opening", "B": "Sustained jaw clench over a tongue blade", "C": "Recovery of cough reflex", "D": "Spontaneous limb movements"},
+      "answer": "B",
+      "explanation": "Page 132: Sustained jaw clench over a tongue blade is considered the best clinical sign of adequate reversal; however, it is difficult to perform by the patient, therefore head lift (ability to lift head for more than 5 seconds) is still the most widely used clinical test.",
+      "topic": "Signs of Adequate Reversal"
+    },
+    {
+      "id": 44,
+      "question": "A train of four (TO4) ratio of what value indicates adequate recovery, with a ratio above 0.9 guaranteeing recovery?",
+      "options": {"A": "> 0.7 (70%)", "B": "> 0.3 (30%)", "C": "> 0.5 (50%)", "D": "> 0.1 (10%)"},
+      "answer": "A",
+      "explanation": "Page 132: Train of four (TO4) ratio > 0.7 (70%) indicates adequate recovery, but a ratio > 0.9 guarantees recovery. Most clinicians believe that in addition to TO4 ratio > 0.9, patients must not exhibit any clinical symptom/sign of impaired neuromuscular recovery. General weakness is considered as the most sensitive symptom of inadequate reversal.",
+      "topic": "Signs of Adequate Reversal"
+    },
+    {
+      "id": 45,
+      "question": "Respiratory acidosis and metabolic alkalosis can double the dose of neostigmine required, and it becomes almost impossible to reverse a patient with pCO2 more than:",
+      "options": {"A": "50 mm Hg", "B": "40 mm Hg", "C": "60 mm Hg", "D": "30 mm Hg"},
+      "answer": "A",
+      "explanation": "Page 133: Acid base abnormalities — respiratory acidosis and metabolic alkalosis double the dose of neostigmine. It becomes almost impossible to reverse a patient with pCO2 more than 50 mm Hg.",
+      "topic": "Common Causes of Inadequate Reversal"
+    },
+    {
+      "id": 46,
+      "question": "Centrally acting muscle relaxants produce muscle relaxation by which mechanism?",
+      "options": {"A": "By acting at the neuromuscular junction", "B": "Through a central mechanism (both supraspinal and spinal level), inhibiting polysynaptic reflexes; they have no action on the NMJ", "C": "By blocking acetylcholine receptors", "D": "By inhibiting pseudocholinesterase"},
+      "answer": "B",
+      "explanation": "Page 133: Centrally acting muscle relaxants produce muscle relaxation through a central mechanism both at supraspinal and spinal level. Polysynaptic reflexes involved in maintenance of muscle tone are inhibited at both spinal and supraspinal level. These drugs have no action on the neuromuscular junction.",
+      "topic": "Centrally Acting Muscle Relaxants"
+    },
+    {
+      "id": 47,
+      "question": "For the treatment of tetanus, which centrally acting muscle relaxant is most effective?",
+      "options": {"A": "Intravenous diazepam", "B": "Baclofen", "C": "Tizanidine", "D": "Chlorzoxazone"},
+      "answer": "A",
+      "explanation": "Page 133: Among centrally acting muscle relaxants, for tetanus, intravenous diazepam is most effective. They are also used for muscle spasms, spastic neurological diseases (cerebral palsy, spinal injuries), and closed reductions/dislocations in orthopedics.",
+      "topic": "Centrally Acting Muscle Relaxants"
+    },
+    {
+      "id": 48,
+      "question": "Suxamethonium increases which pressures in the body?",
+      "options": {"A": "Only intraocular pressure", "B": "Intraocular, intragastric and intracranial pressures", "C": "Only intracranial pressure", "D": "Only intragastric pressure"},
+      "answer": "B",
+      "explanation": "Page 125: Intraocular, intragastric and intracranial pressures are all increased by suxamethonium. Ocular muscles undergo tonic contraction increasing intraocular tension; neck muscle contraction blocks jugular venous outflow increasing intracranial tension; and contraction of abdominal muscles increases intragastric pressure.",
+      "topic": "Suxamethonium"
+    },
+    {
+      "id": 49,
+      "question": "Which nondepolarizing muscle relaxant has the longest duration of action?",
+      "options": {"A": "Vecuronium", "B": "Mivacurium", "C": "Doxacurium", "D": "Rocuronium"},
+      "answer": "C",
+      "explanation": "Page 128–129: Doxacurium has a long duration of action (60 minutes), the longest acting nondepolarizer, with high potency and almost complete elimination as unchanged drug by kidneys, making it a least preferred drug by clinicians.",
+      "topic": "Nondepolarizing Muscle Relaxants"
+    },
+    {
+      "id": 50,
+      "question": "Which nondepolarizing muscle relaxants are SAFE in renal failure?",
+      "options": {"A": "Gallamine, metocurine, doxacurium, pancuronium", "B": "Atracurium, cisatracurium, rocuronium, mivacurium", "C": "Vecuronium and pancuronium only", "D": "Tubocurare and gallamine"},
+      "answer": "B",
+      "explanation": "Page 134: NDMR safe in renal failure are atracurium, cisatracurium, rocuronium and mivacurium. NDMR absolutely contraindicated in renal failure are gallamine, metocurine, doxacurium, pancuronium and tubocurare.",
+      "topic": "Nondepolarizing Muscle Relaxants"
+    }
+  ]
+}

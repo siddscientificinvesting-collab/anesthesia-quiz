@@ -1,0 +1,209 @@
+{
+  "title": "Introduction to General Anesthesia MCQ – Chapter 9",
+  "source": "Short Textbook of Anesthesia – Ajay Yadav",
+  "section": "Section 5: General Anesthesia (Chapter 9)",
+  "total_questions": 25,
+  "time_limit_minutes": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What are the three basic components (TRIAD) of general anesthesia?",
+      "options": {"A": "Narcosis, analgesia and muscle relaxation", "B": "Amnesia, analgesia and hypnosis", "C": "Sedation, paralysis and reflex abolition", "D": "Narcosis, amnesia and homeostasis"},
+      "answer": "A",
+      "explanation": "Page 87: The basic components (TRIAD) of general anesthesia are narcosis, analgesia and muscle relaxation.",
+      "topic": "Components of General Anesthesia"
+    },
+    {
+      "id": 2,
+      "question": "The concept of 'balanced anesthesia' was laid in 1926 by:",
+      "options": {"A": "Oliver Wendell Holmes", "B": "John Lundy", "C": "Guedel", "D": "Ralph Waters"},
+      "answer": "B",
+      "explanation": "Page 87: The anesthesia in present day should be balanced anesthesia, a concept laid by John Lundy in 1926.",
+      "topic": "Components of General Anesthesia"
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is NOT one of the listed components of balanced anesthesia?",
+      "options": {"A": "Amnesia", "B": "Abolition of reflexes", "C": "Hypothermia", "D": "Maintenance of normal hemodynamics and physiologic homeostasis"},
+      "answer": "C",
+      "explanation": "Page 87: The components of balanced anesthesia are narcosis, analgesia, muscle relaxation, amnesia, abolition of reflexes, and maintenance of normal hemodynamics and physiologic homeostasis.",
+      "topic": "Components of General Anesthesia"
+    },
+    {
+      "id": 4,
+      "question": "Which drugs are used to premedicate the patient the night before surgery to induce good sleep and produce amnesia?",
+      "options": {"A": "Opioids", "B": "Benzodiazepines (lorazepam or diazepam)", "C": "Beta-blockers", "D": "Anticholinergics"},
+      "answer": "B",
+      "explanation": "Page 87: Selected indoor patients may be premedicated with lorazepam or diazepam night before surgery. Benzodiazepines are used to induce good sleep and produce amnesia.",
+      "topic": "General Anesthesia Protocol"
+    },
+    {
+      "id": 5,
+      "question": "Preoxygenation with 100% oxygen for 3 minutes replaces 99% of the nitrogen in the lungs. What is this process called?",
+      "options": {"A": "Denitrogenation", "B": "Diffusion hypoxia", "C": "Concentration effect", "D": "Second gas effect"},
+      "answer": "A",
+      "explanation": "Page 87: As 99% of the nitrogen in lungs can be replaced with oxygen (called as Denitrogenation) in 3 minutes, preoxygenation increases the oxygen reserve enabling the patient to sustain hypoxia for longer periods.",
+      "topic": "General Anesthesia Protocol"
+    },
+    {
+      "id": 6,
+      "question": "Why are intravenous agents such as propofol preferred for induction?",
+      "options": {"A": "Because of their long duration of action", "B": "Because of their ultrafast action (within 15 seconds)", "C": "Because they provide muscle relaxation", "D": "Because they prevent aspiration"},
+      "answer": "B",
+      "explanation": "Page 87: Intravenous agents are preferred for induction because of their ultrafast action (with 15 seconds). After the patient becomes unconscious, the aim is to secure the airway as early as possible.",
+      "topic": "General Anesthesia Protocol"
+    },
+    {
+      "id": 7,
+      "question": "Which muscle relaxant is the ideal agent for intubation due to its rapid onset, but whose use is restricted to rapid sequence or difficult intubation?",
+      "options": {"A": "Vecuronium", "B": "Atracurium", "C": "Suxamethonium (succinylcholine)", "D": "Rocuronium"},
+      "answer": "C",
+      "explanation": "Page 87: Due to its rapid onset, suxamethonium (succinylcholine) is the ideal muscle relaxant for intubation; however, its use is only restricted to rapid sequence or difficult intubation. In normal circumstances, patients are generally intubated with non-depolarizers.",
+      "topic": "General Anesthesia Protocol"
+    },
+    {
+      "id": 8,
+      "question": "After intubation, the position of the cuffed endotracheal tube is verified by:",
+      "options": {"A": "Chest X-ray only", "B": "Auscultation and capnography", "C": "Pulse oximetry only", "D": "Arterial blood gas"},
+      "answer": "B",
+      "explanation": "Page 87: After the patient is intubated with a cuffed endotracheal tube, the position of the tube is verified by auscultation and capnography. The tube is fixed with adhesive and positive pressure ventilation (IPPV) is started.",
+      "topic": "General Anesthesia Protocol"
+    },
+    {
+      "id": 9,
+      "question": "In a typical maintenance gas mixture, what proportions of oxygen and nitrous oxide are used?",
+      "options": {"A": "Oxygen 66% + nitrous oxide 33%", "B": "Oxygen 50% + nitrous oxide 50%", "C": "Oxygen 33% + nitrous oxide 66%", "D": "Oxygen 21% + nitrous oxide 79%"},
+      "answer": "C",
+      "explanation": "Page 87: Anesthesia is maintained with oxygen (33%) + nitrous oxide (66%) + inhalational agent. As nitrous oxide depletes ozone, the majority of anesthesiologists in current day practice use air instead of nitrous oxide.",
+      "topic": "General Anesthesia Protocol"
+    },
+    {
+      "id": 10,
+      "question": "Why do the majority of anesthesiologists in current practice use air instead of nitrous oxide?",
+      "options": {"A": "Nitrous oxide is too expensive", "B": "Nitrous oxide depletes ozone", "C": "Nitrous oxide causes hypotension", "D": "Air provides better analgesia"},
+      "answer": "B",
+      "explanation": "Page 87: As nitrous oxide depletes ozone, the majority of anesthesiologists in current day practice use air instead of nitrous oxide.",
+      "topic": "General Anesthesia Protocol"
+    },
+    {
+      "id": 11,
+      "question": "At the end of surgery, the muscle blockade is reversed with which combination?",
+      "options": {"A": "Neostigmine + glycopyrrolate", "B": "Atropine + suxamethonium", "C": "Propofol + fentanyl", "D": "Naloxone + flumazenil"},
+      "answer": "A",
+      "explanation": "Page 87: At the end of the surgery, the muscle blockade effect of non-depolarizers is reversed with neostigmine + glycopyrrolate, and then the patient is extubated after thorough suctioning of oral cavity.",
+      "topic": "General Anesthesia Protocol"
+    },
+    {
+      "id": 12,
+      "question": "The stages of anesthesia were described by Guedel using which agent?",
+      "options": {"A": "Halothane", "B": "Ether", "C": "Nitrous oxide", "D": "Propofol"},
+      "answer": "B",
+      "explanation": "Page 88: Stages were described by Guedel with ether (Table 9.1). In current anesthesia, newer inhalational agents are so fast acting that these stages do not exist.",
+      "topic": "Stages of Anesthesia"
+    },
+    {
+      "id": 13,
+      "question": "Which stage of anesthesia is the stage of analgesia?",
+      "options": {"A": "Stage 1", "B": "Stage 2", "C": "Stage 3", "D": "Stage 4"},
+      "answer": "A",
+      "explanation": "Page 88, Table 9.1: Stage-1 is the stage of analgesia (from analgesia to loss of consciousness). Respiration is irregular, tidal volume small, pupils constricted.",
+      "topic": "Stages of Anesthesia"
+    },
+    {
+      "id": 14,
+      "question": "Stage 2 of anesthesia is known as the stage of:",
+      "options": {"A": "Analgesia", "B": "Excitement", "C": "Surgical anesthesia", "D": "Medullary paralysis"},
+      "answer": "B",
+      "explanation": "Page 88, Table 9.1: Stage-2 is the stage of excitement (from loss of consciousness to rhythmic respiration). Pupils are dilated due to sympathetic stimulation and the eyelash reflex is abolished.",
+      "topic": "Stages of Anesthesia"
+    },
+    {
+      "id": 15,
+      "question": "Surgical anesthesia (Stage 3) is divided into how many planes?",
+      "options": {"A": "Two planes", "B": "Three planes", "C": "Four planes", "D": "Five planes"},
+      "answer": "C",
+      "explanation": "Page 88, Table 9.1: Stage-3 (stage of surgical anesthesia) is divided into four planes.",
+      "topic": "Stages of Anesthesia"
+    },
+    {
+      "id": 16,
+      "question": "The ideal stage for surgical anesthesia / intubation is:",
+      "options": {"A": "Stage III, plane 1", "B": "Stage III, plane 3", "C": "Stage II", "D": "Stage IV"},
+      "answer": "B",
+      "explanation": "Page 88: The stage of surgical anesthesia is stage III plane 3 because laryngeal reflexes go in this stage and intubation can be performed.",
+      "topic": "Stages of Anesthesia"
+    },
+    {
+      "id": 17,
+      "question": "The onset of surgical anesthesia (stage III) is best indicated by:",
+      "options": {"A": "Onset of regular respiration", "B": "Pupillary constriction", "C": "Loss of eyelash reflex", "D": "Diaphragmatic paralysis"},
+      "answer": "A",
+      "explanation": "Page 88: Onset of surgical anesthesia (stage III) is best indicated by onset of regular respiration.",
+      "topic": "Stages of Anesthesia"
+    },
+    {
+      "id": 18,
+      "question": "Which is the first reflex to go during induction, used to test loss of consciousness?",
+      "options": {"A": "Carinal reflex", "B": "Corneal reflex", "C": "Eyelash reflex", "D": "Laryngeal reflex"},
+      "answer": "C",
+      "explanation": "Page 88: The first reflex to go is eyelash, therefore loss of consciousness is tested by absence of eyelash reflex, while the last reflex to go is the carinal reflex (tested by touching the carina with a suction catheter, which should initiate cough).",
+      "topic": "Stages of Anesthesia"
+    },
+    {
+      "id": 19,
+      "question": "Which is the LAST reflex to be abolished during deepening anesthesia?",
+      "options": {"A": "Eyelash reflex", "B": "Carinal reflex", "C": "Conjunctival reflex", "D": "Corneal reflex"},
+      "answer": "B",
+      "explanation": "Page 88: The last reflex to go is the carinal reflex, tested by touching the carina with a suction catheter, which should initiate cough.",
+      "topic": "Stages of Anesthesia"
+    },
+    {
+      "id": 20,
+      "question": "The initial pupillary dilatation seen in Stage 2 is because of:",
+      "options": {"A": "Parasympathetic stimulation", "B": "Sympathetic stimulation", "C": "Direct drug effect on the iris", "D": "Hypoxia"},
+      "answer": "B",
+      "explanation": "Page 88: Initial pupillary dilatation seen in stage II is because of sympathetic stimulation.",
+      "topic": "Stages of Anesthesia"
+    },
+    {
+      "id": 21,
+      "question": "The return of reflexes during recovery occurs in what sequence relative to their abolition?",
+      "options": {"A": "In the same sequence", "B": "In the opposite sequence", "C": "Randomly", "D": "All return simultaneously"},
+      "answer": "B",
+      "explanation": "Page 88: The return of reflexes is in the opposite sequence, i.e. the carinal reflex returns first to come and the eyelash reflex last.",
+      "topic": "Stages of Anesthesia"
+    },
+    {
+      "id": 22,
+      "question": "In Stage 3, Plane 4 (diaphragmatic paralysis), the respiration is described as:",
+      "options": {"A": "Regular", "B": "Irregular", "C": "Jerky", "D": "Absent"},
+      "answer": "C",
+      "explanation": "Page 88, Table 9.1: In Plane 4 (diaphragmatic paralysis) respiration is jerky, tidal volume small, pupils fully dilated, and the carinal and anal sphincter reflexes are abolished.",
+      "topic": "Stages of Anesthesia"
+    },
+    {
+      "id": 23,
+      "question": "The term 'anesthesia' (as the basic concept of general anesthesia) was given by:",
+      "options": {"A": "John Lundy", "B": "Guedel", "C": "Oliver Wendell Holmes", "D": "Ralph Waters"},
+      "answer": "C",
+      "explanation": "Page 87: The term anesthesia was given by Oliver Wendell Holmes.",
+      "topic": "Components of General Anesthesia"
+    },
+    {
+      "id": 24,
+      "question": "During preoxygenation, the patient is given 100% oxygen for how long?",
+      "options": {"A": "30 seconds", "B": "1 minute", "C": "3 minutes", "D": "10 minutes"},
+      "answer": "C",
+      "explanation": "Page 87: The anesthesiologist preoxygenates the patient with 100% oxygen for 3 minutes, replacing 99% of the nitrogen in the lungs (denitrogenation).",
+      "topic": "General Anesthesia Protocol"
+    },
+    {
+      "id": 25,
+      "question": "In Stage 3 Plane 2, which reflex is abolished and what is the eye position?",
+      "options": {"A": "Corneal reflex abolished, eyes fixed centrally", "B": "Laryngeal reflex abolished, eyes roving", "C": "Eyelash reflex abolished, eyes divergent", "D": "Carinal reflex abolished, eyes fully dilated"},
+      "answer": "A",
+      "explanation": "Page 88, Table 9.1: In Plane 2 (cessation of eye movement to respiratory paresis), respiration is regular, tidal volume medium, pupils ½ dilated, eyes fixed centrally, and the corneal reflex is abolished.",
+      "topic": "Stages of Anesthesia"
+    }
+  ]
+}

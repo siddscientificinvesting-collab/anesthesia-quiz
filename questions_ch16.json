@@ -1,0 +1,209 @@
+{
+  "title": "Peripheral Nerve Blocks MCQ – Chapter 16",
+  "source": "Short Textbook of Anesthesia – Ajay Yadav",
+  "section": "Section 6: Regional Anesthesia (Chapter 16)",
+  "total_questions": 25,
+  "time_limit_minutes": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What has revolutionized the practice of nerve block in modern day anesthetic practice (compared to the conventional method of eliciting paresthesia or using a nerve stimulator)?",
+      "options": {"A": "Use of ultrasound", "B": "Use of fluoroscopy", "C": "Use of CT guidance", "D": "Use of MRI"},
+      "answer": "A",
+      "explanation": "Page 160: The conventional method of giving a nerve block is by eliciting paresthesia and/or using the nerve stimulator. However, the use of ultrasound has revolutionized the practice of nerve block in modern day anesthetic practice, making it technically easy and improving precision.",
+      "topic": "Technique"
+    },
+    {
+      "id": 2,
+      "question": "Brachial plexus block is the second most commonly performed block. Which is the most commonly performed block?",
+      "options": {"A": "Central neuraxial block", "B": "Intercostal nerve block", "C": "Axillary block", "D": "Ankle block"},
+      "answer": "A",
+      "explanation": "Page 160: Brachial plexus block is the second most commonly performed block (after central neuraxial block). It is used for surgery of upper limb and shoulder, and can be blocked by 4 approaches — interscalene, supraclavicular, infraclavicular and axillary.",
+      "topic": "Brachial Plexus Block"
+    },
+    {
+      "id": 3,
+      "question": "The interscalene approach is unsuitable for hand surgeries because which nerve is usually spared?",
+      "options": {"A": "Radial nerve", "B": "Ulnar nerve", "C": "Median nerve", "D": "Musculocutaneous nerve"},
+      "answer": "B",
+      "explanation": "Page 160: The interscalene approach blocks the brachial plexus between anterior and middle scalene at the level of cricoid. Blockade occurs at the level of superior and middle trunks. Ulnar nerve is usually spared with this approach, making it unsuitable for hand surgeries.",
+      "topic": "Brachial Plexus Block"
+    },
+    {
+      "id": 4,
+      "question": "Phrenic nerve block occurs in almost all patients with the interscalene approach. Why does unilateral phrenic nerve block usually have no clinically significant consequences?",
+      "options": {"A": "Because it is compensated by the other side", "B": "Because pulmonary functions are only reduced by 20–25% in a normal individual", "C": "Because the diaphragm is not affected", "D": "Because phrenic nerve is not blocked"},
+      "answer": "B",
+      "explanation": "Page 160: Phrenic nerve block occurs in almost all patients with interscalene approach, but unilateral phrenic nerve block has no clinically significant consequences in a normal individual (pulmonary functions are only reduced by 20–25%).",
+      "topic": "Brachial Plexus Block"
+    },
+    {
+      "id": 5,
+      "question": "The supraclavicular approach to brachial plexus block is performed with the needle inserted in which relationship to the subclavian artery (Fig. 16.1)?",
+      "options": {"A": "Lateral to the subclavian artery", "B": "Medial to the subclavian artery", "C": "Directly over the artery", "D": "Below the first rib"},
+      "answer": "A",
+      "explanation": "Page 160–161, Fig. 16.1: In the supraclavicular approach, the needle is inserted lateral to subclavian vessels. As the dome of pleura is on the medial side, keeping the direction of needle laterally is the best way to avoid pneumothorax.",
+      "topic": "Brachial Plexus Block"
+    },
+    {
+      "id": 6,
+      "question": "What is the most bothersome complication of the supraclavicular block, with an incidence of 1–6%?",
+      "options": {"A": "Pneumothorax", "B": "Horner syndrome", "C": "Phrenic nerve block", "D": "Hematoma"},
+      "answer": "A",
+      "explanation": "Page 161: Pneumothorax is the most bothersome complication of supraclavicular block. Incidence is 1–6%, but fortunately in more than 98% of the cases pneumothorax is small enough to require any intervention. Keeping the direction of needle lateral to the subclavian artery is the best way to avoid pneumothorax.",
+      "topic": "Brachial Plexus Block"
+    },
+    {
+      "id": 7,
+      "question": "The advantage of the axillary approach over the supraclavicular approach is that:",
+      "options": {"A": "Complications like pneumothorax, phrenic nerve block and Horner syndrome can be avoided", "B": "It blocks all nerves including musculocutaneous", "C": "It is suitable for shoulder surgery", "D": "It has no chance of intravascular injection"},
+      "answer": "A",
+      "explanation": "Page 161: The advantage of axillary approach over supraclavicular is that complications like pneumothorax, phrenic nerve block and Horner syndrome can be avoided. However, musculocutaneous and intercostobrachial nerves are spared, making it not suitable for arm surgery. Intravascular injection and hematoma formation are high.",
+      "topic": "Brachial Plexus Block"
+    },
+    {
+      "id": 8,
+      "question": "A wrist block is used for hand surgeries. Where is the ulnar nerve blocked in a wrist block?",
+      "options": {"A": "Just lateral to flexor carpi ulnaris tendon", "B": "Between Palmaris longus and flexor carpi radialis", "C": "Posterior to extensor carpi radialis tendon", "D": "At the cubital fossa"},
+      "answer": "A",
+      "explanation": "Page 161: Wrist block is used for hand surgeries where ulnar nerve is blocked just lateral to flexor carpi ulnaris tendon, median nerve between tendons of Palmaris longus and flexor carpi radialis, and radial nerve by 8–10 mL subcutaneous injection extending from radial artery anteriorly to extensor carpi radialis tendon posteriorly.",
+      "topic": "Individual Nerve Blocks"
+    },
+    {
+      "id": 9,
+      "question": "Intravenous regional block (Bier block) was first given by August Bier. Which local anesthetic is absolutely contraindicated for it?",
+      "options": {"A": "Lignocaine", "B": "Prilocaine", "C": "Bupivacaine", "D": "Procaine"},
+      "answer": "C",
+      "explanation": "Page 161: In Bier block, accidental deflation or leak of tourniquet can cause drug toxicity and death; therefore, a toxic drug like bupivacaine is absolutely contraindicated for Bier block. 30–40 mL of 0.5% lignocaine (xylocard) or prilocaine is used.",
+      "topic": "Intravenous Regional Block (Bier Block)"
+    },
+    {
+      "id": 10,
+      "question": "Which is an advantage of the Bier block?",
+      "options": {"A": "Long duration of action", "B": "Rapid onset (within 5 minutes), easy procedure, almost no chance of failure", "C": "No tourniquet required", "D": "Provides postoperative analgesia"},
+      "answer": "B",
+      "explanation": "Page 161: Advantages of Bier block include easy procedure, almost no chances of failure, rapid onset (within 5 minutes), and good muscle relaxation. Disadvantages include tourniquet discomfort or compartment syndrome, short duration, and the tourniquet cannot be released before 30 minutes (even if surgery finishes before it).",
+      "topic": "Intravenous Regional Block (Bier Block)"
+    },
+    {
+      "id": 11,
+      "question": "In the Bier block, the tourniquet cannot be released before how long, even if the surgery finishes before it?",
+      "options": {"A": "30 minutes", "B": "10 minutes", "C": "1 hour", "D": "5 minutes"},
+      "answer": "A",
+      "explanation": "Page 162: In Bier block, the tourniquet cannot be released before 30 minutes (even if the surgery finishes before it), because accidental deflation or leak of tourniquet can cause drug toxicity and even death.",
+      "topic": "Intravenous Regional Block (Bier Block)"
+    },
+    {
+      "id": 12,
+      "question": "Blocks of the lower limb are rarely used for providing anesthesia. The perivascular block (3 in 1 block) blocks which three nerves simultaneously?",
+      "options": {"A": "Femoral, sciatic and obturator nerves", "B": "Radial, ulnar and median nerves", "C": "Tibial, peroneal and sural nerves", "D": "Pudendal, ilioinguinal and iliohypogastric nerves"},
+      "answer": "A",
+      "explanation": "Page 162: The perivascular block (3 in 1 block) involves drug injected in femoral canal while maintaining distal pressure, resulting in upward spread of drug, blocking femoral, sciatic and obturator nerves simultaneously (that is why called as 3 in 1 block).",
+      "topic": "Blocks of Lower Limb"
+    },
+    {
+      "id": 13,
+      "question": "An ankle block is performed for foot surgeries. How many nerves are blocked in an ankle block?",
+      "options": {"A": "Three nerves", "B": "Four nerves", "C": "Five nerves (deep peroneal, superficial peroneal, saphenous, posterior tibial, sural)", "D": "Two nerves"},
+      "answer": "C",
+      "explanation": "Page 162: Ankle block is performed for foot surgeries, where five nerves are blocked — deep peroneal, superficial peroneal and saphenous nerve with subcutaneous infiltration at the dorsum of foot, posterior tibial posterior to medial malleolus, and sural laterally between lateral malleolus and achilles tendon. As it requires multiple injections, ankle block can be painful. Lignocaine with adrenaline should not be used for ankle block.",
+      "topic": "Blocks of Lower Limb"
+    },
+    {
+      "id": 14,
+      "question": "Cervical plexus block is best utilized for which surgery, where the patient's awake state is the best monitor to assess neurologic status?",
+      "options": {"A": "Carotid endarterectomy", "B": "Thyroidectomy only", "C": "Hernia repair", "D": "Breast surgery"},
+      "answer": "A",
+      "explanation": "Page 162: As patient's awake state is the best monitor to assess the neurologic status, cervical plexus block is best utilized for carotid endarterectomy. In selected cases, it is possible to do tracheostomy and thyroidectomy with bilateral cervical plexus block.",
+      "topic": "Blocks of Head and Neck"
+    },
+    {
+      "id": 15,
+      "question": "The phrenic nerve block (3 cm above the clavicle just lateral to the posterior border of sternocleidomastoid) is sometimes performed for:",
+      "options": {"A": "Intractable hiccups", "B": "Hernia repair", "C": "Carotid endarterectomy", "D": "Penile surgery"},
+      "answer": "A",
+      "explanation": "Page 162: Phrenic nerve block is sometimes performed for intractable hiccups; the nerve is blocked 3 cm above the clavicle just lateral to the posterior border of sternocleidomastoid.",
+      "topic": "Blocks of Head and Neck"
+    },
+    {
+      "id": 16,
+      "question": "Ilioinguinal and iliohypogastric nerve blocks are performed for hernia repair. Where are they blocked?",
+      "options": {"A": "3 cm medial to anterior superior iliac spine", "B": "At the base of the penis", "C": "Lateral to subclavian artery", "D": "At the posterior angle of rib"},
+      "answer": "A",
+      "explanation": "Page 162: Ilioinguinal and iliohypogastric nerve blocks are performed for hernia repair; these are blocked at a point 3 cm medial to anterior superior iliac spine.",
+      "topic": "Blocks of Head and Neck"
+    },
+    {
+      "id": 17,
+      "question": "For a penile block, the pudendal nerve is blocked by injection of 10–15 mL of local anesthetic at the base of penis. Which preparation is contraindicated?",
+      "options": {"A": "Xylocaine with adrenaline", "B": "Plain lignocaine", "C": "Bupivacaine", "D": "Prilocaine"},
+      "answer": "A",
+      "explanation": "Page 162: Penile block — pudendal nerve is blocked by injection of 10–15 mL of local anesthetic at the base of penis. Xylocaine with adrenaline is contraindicated for penile block (because the penis has end arteries).",
+      "topic": "Blocks of Head and Neck"
+    },
+    {
+      "id": 18,
+      "question": "The intercostal nerve block is most often performed for which indication?",
+      "options": {"A": "Pain relief for rib fractures and post-herpetic neuropathies", "B": "Hand surgery", "C": "Foot surgery", "D": "Carotid endarterectomy"},
+      "answer": "A",
+      "explanation": "Page 163: Intercostal nerve block is most often performed for pain relief for rib fractures and post-herpetic neuropathies; however, it can be used for chest tube insertion or doing thoracoscopies. Block is given at the lower border of rib, usually at the posterior angle of rib.",
+      "topic": "Intercostal Nerve Block"
+    },
+    {
+      "id": 19,
+      "question": "The most bothersome complications of the intercostal nerve block are pneumothorax and:",
+      "options": {"A": "Risk of systemic local anesthetic toxicity (maximum systemic absorption occurs after intercostal nerve block)", "B": "Horner syndrome", "C": "Phrenic nerve block", "D": "Compartment syndrome"},
+      "answer": "A",
+      "explanation": "Page 163: The most bothersome complications of intercostal nerve block may be pneumothorax and risk of systemic local anesthetic toxicity (maximum systemic absorption occurs after intercostal nerve block).",
+      "topic": "Intercostal Nerve Block"
+    },
+    {
+      "id": 20,
+      "question": "Which is an absolute contraindication for peripheral nerve blocks?",
+      "options": {"A": "Coagulopathy or being on anticoagulants (except aspirin) and infection at the site of needle placement", "B": "Hypertension", "C": "Diabetes", "D": "Old age"},
+      "answer": "A",
+      "explanation": "Page 163: Contraindications for peripheral nerve blocks include patient suffering from coagulopathy or on anticoagulants (except aspirin), infection at the site of needle placement, known case of drug allergy to local anesthetics, and pre-existing neuropathy (avoid regional anesthesia to avoid medicolegal issues).",
+      "topic": "Contraindications"
+    },
+    {
+      "id": 21,
+      "question": "In the axillary approach, which nerves are spared, requiring them to be blocked separately?",
+      "options": {"A": "Musculocutaneous and intercostobrachial nerves", "B": "Ulnar and median nerves", "C": "Radial and ulnar nerves", "D": "Phrenic and vagus nerves"},
+      "answer": "A",
+      "explanation": "Page 161: In the axillary approach, musculocutaneous and intercostobrachial nerves are spared, therefore axillary block is not suitable for arm surgery. Musculocutaneous and intercostobrachial nerves have to be blocked separately.",
+      "topic": "Brachial Plexus Block"
+    },
+    {
+      "id": 22,
+      "question": "Why is the infraclavicular route for blocking the brachial plexus not utilized routinely?",
+      "options": {"A": "Due to high failure rate in coracoid approach and increased incidence of pneumothorax and hematoma in classical approach", "B": "Because it cannot block any nerve", "C": "Because it requires general anesthesia", "D": "Because it is too painful"},
+      "answer": "A",
+      "explanation": "Page 161: In the infraclavicular approach, the theoretical advantage is that musculocutaneous and axillary nerve can be blocked. However, due to high failure rate in coracoid approach and increased incidence of pneumothorax and hematoma in classical approach, the infraclavicular route is not utilized routinely.",
+      "topic": "Brachial Plexus Block"
+    },
+    {
+      "id": 23,
+      "question": "The paravertebral block, if large volumes are used, can spread to which spaces?",
+      "options": {"A": "Superior and inferior paravertebral spaces, intercostal spaces, and epidural space", "B": "Only the intercostal space", "C": "Only the subarachnoid space", "D": "Only the pleural space"},
+      "answer": "A",
+      "explanation": "Page 162–163: In paravertebral block, each spinal nerve is blocked just after it exits from intervertebral foramen. It can be utilized for breast, thoracic or abdominal surgeries. If large volumes are used, the drug may spread laterally into superior and inferior paravertebral spaces, superior and inferior intercostal spaces, and medially along with the nerve sheath into epidural space.",
+      "topic": "Blocks of Head and Neck"
+    },
+    {
+      "id": 24,
+      "question": "The supraclavicular approach is usually employed for surgeries on which area?",
+      "options": {"A": "Lower arm, elbow, forearm and hand", "B": "Shoulder only", "C": "Upper arm only", "D": "Neck only"},
+      "answer": "A",
+      "explanation": "Page 160: The supraclavicular approach is very commonly used and is usually employed for surgeries on lower arm, elbow, forearm and hand. Distal trunk and proximal division of brachial plexus is blocked by this approach.",
+      "topic": "Brachial Plexus Block"
+    },
+    {
+      "id": 25,
+      "question": "The fascia iliaca block (modified femoral block) is usually performed under ultrasound guidance, but can be performed blindly with which technique?",
+      "options": {"A": "Double pop technique (first pop of fascia lata followed by second pop of fascia iliaca)", "B": "Single pop technique", "C": "Loss of resistance to air", "D": "Hanging drop technique"},
+      "answer": "A",
+      "explanation": "Page 162: Fascia iliaca nerve (modified femoral) block — a large volume of drug is injected just below the fascia iliaca to block femoral nerve as it traverses the fascia iliaca. Usually performed under ultrasound guidance; however, it can be performed blindly with double pop technique (first pop of fascia lata followed by second pop of fascia iliaca).",
+      "topic": "Blocks of Lower Limb"
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "title": "Anesthesia for Ophthalmic Surgery MCQ – Chapter 33",
+  "source": "Short Textbook of Anesthesia – Ajay Yadav",
+  "section": "Section 8: Subspecialty Anesthetic Management (Chapter 33)",
+  "total_questions": 25,
+  "time_limit_minutes": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Patients posted for ocular surgeries are usually of which age groups?",
+      "options": {"A": "Pediatric or geriatric", "B": "Only adults", "C": "Only young adults", "D": "Only middle-aged"},
+      "answer": "A",
+      "explanation": "Page 252: The patients usually posted for ocular surgeries are either pediatric or geriatric. Therefore, proper preoperative evaluation should be done in geriatric population to rule out coexisting medical diseases.",
+      "topic": "Preoperative Evaluation"
+    },
+    {
+      "id": 2,
+      "question": "Which topical eye medication can prolong the effect of suxamethonium by inhibiting pseudocholinesterase?",
+      "options": {"A": "Echothiophate", "B": "Phenylephrine", "C": "Timolol", "D": "Acetazolamide"},
+      "answer": "A",
+      "explanation": "Page 252: Topical eye medications can have systemic effects. For example, echothiophate by inhibiting pseudocholinesterase can prolong the effect of suxamethonium, phenylephrine can cause hypertension, timolol can cause bradycardia and bronchospasm, and acetazolamide can cause hypokalemia.",
+      "topic": "Preoperative Evaluation"
+    },
+    {
+      "id": 3,
+      "question": "What is the normal range of intraocular pressure (IOP), the maintenance of which is one of the most important goals during eye surgery?",
+      "options": {"A": "10–20 mm Hg", "B": "5–10 mm Hg", "C": "20–30 mm Hg", "D": "30–40 mm Hg"},
+      "answer": "A",
+      "explanation": "Page 252: One of the most important goals during eye surgery is to reduce or at least maintain the intraocular pressure within normal range of 10–20 mm Hg. Factors that increase IOP — hypertension, coughing, straining, hypercapnia, hypoxia, ketamine, suxamethonium and light anesthesia — must be avoided.",
+      "topic": "Intraoperative"
+    },
+    {
+      "id": 4,
+      "question": "The oculocardiac reflex is triggered by pressure on the globe or by traction on extraocular muscle (especially the medial rectus) during squint surgery. What is its afferent and efferent pathway?",
+      "options": {"A": "Afferent trigeminal, efferent vagus", "B": "Afferent vagus, efferent trigeminal", "C": "Afferent facial, efferent vagus", "D": "Afferent optic, efferent oculomotor"},
+      "answer": "A",
+      "explanation": "Page 252: Prevention of oculocardiac reflex — it is triggered by pressure on globe or by traction on extraocular muscle (especially the medial rectus) during squint surgery. The afferents are carried by trigeminal and efferent by vagus. It is manifested as bradycardia, atrioventricular (AV) block or even asystole.",
+      "topic": "Intraoperative"
+    },
+    {
+      "id": 5,
+      "question": "What is the treatment of the oculocardiac reflex?",
+      "options": {"A": "Immediate cessation of manipulation and IV atropine if not reversed by cessation of manipulation", "B": "Increasing the depth of anesthesia", "C": "Giving adrenaline", "D": "Giving suxamethonium"},
+      "answer": "A",
+      "explanation": "Page 252: Treatment of oculocardiac reflex includes immediate cessation of manipulation and intravenous (IV) atropine if not reversed by cessation of manipulation. Pretreatment with atropine may be indicated in patients with a history of conduction blocks and β-blocker therapy.",
+      "topic": "Intraoperative"
+    },
+    {
+      "id": 6,
+      "question": "Under what type of anesthesia are most ocular surgeries performed?",
+      "options": {"A": "Regional anesthesia (topical, peribulbar, retrobulbar and sub-tenon blocks)", "B": "General anesthesia", "C": "Local infiltration only", "D": "Total intravenous anesthesia"},
+      "answer": "A",
+      "explanation": "Page 252: Most of the ocular surgeries are performed under regional anesthesia (topical, peribulbar, retrobulbar and sub-tenon blocks). Eye blocks are most often given by ophthalmologist themselves.",
+      "topic": "Anesthesia"
+    },
+    {
+      "id": 7,
+      "question": "Which block has now almost completely replaced the retrobulbar block?",
+      "options": {"A": "Peribulbar block", "B": "Sub-tenon block", "C": "Topical anesthesia", "D": "General anesthesia"},
+      "answer": "A",
+      "explanation": "Page 252: Peribulbar block has now almost completely replaced retrobulbar block because of its less serious complications and avoidance of separate facial block to provide ocular akinesia.",
+      "topic": "Peribulbar Block"
+    },
+    {
+      "id": 8,
+      "question": "In a peribulbar block, the needle is never inserted beyond how much depth (because large vessels and optic nerve are encountered with deeper penetration)?",
+      "options": {"A": "25 mm", "B": "10 mm", "C": "40 mm", "D": "50 mm"},
+      "answer": "A",
+      "explanation": "Page 252: In peribulbar block, the needle is never inserted beyond 25 mm because large vessels and optic nerve are encountered with deeper penetration. 6–10 mL of drug is injected. Orbital compression with Hanon ball or compression balloon (30–40 mm Hg) facilitates the block and decreases the IOP.",
+      "topic": "Peribulbar Block"
+    },
+    {
+      "id": 9,
+      "question": "In retrobulbar block, a serious complication where the drug travels along the optic nerve sheath can enter the central nervous system, causing:",
+      "options": {"A": "Brain stem anesthesia", "B": "Retinal detachment", "C": "Ecchymosis", "D": "Oculocardiac reflex"},
+      "answer": "A",
+      "explanation": "Page 253: In retrobulbar block, complications include oculocardiac reflex, retrobulbar hemorrhage, puncture of globe (leading to retinal detachment), optic nerve injury, intraocular injection, brain stem anesthesia (drug traveling along optic nerve sheath can enter central nervous system), retinal artery occlusion and blindness, and death.",
+      "topic": "Retrobulbar Block"
+    },
+    {
+      "id": 10,
+      "question": "All IV induction agents reduce the IOP EXCEPT which one (which increases the IOP and should be avoided in ocular surgeries)?",
+      "options": {"A": "Ketamine", "B": "Propofol", "C": "Thiopentone", "D": "Etomidate"},
+      "answer": "A",
+      "explanation": "Page 253: All IV agents, except ketamine, reduce the IOP therefore can be safely used for maintenance. Ketamine increases the IOP, therefore should be avoided in ocular surgeries. Propofol is most often used for induction.",
+      "topic": "General Anesthesia"
+    },
+    {
+      "id": 11,
+      "question": "Intubation and laryngoscopy can increase the IOP. How should the response be blunted?",
+      "options": {"A": "By IV lignocaine and fentanyl", "B": "By increasing depth of inhalational agent only", "C": "By giving ketamine", "D": "By suxamethonium"},
+      "answer": "A",
+      "explanation": "Page 253: Intubation and laryngoscopy can increase the IOP, therefore the response should be blunted by IV lignocaine and fentanyl.",
+      "topic": "General Anesthesia"
+    },
+    {
+      "id": 12,
+      "question": "Why should nitrous oxide be avoided in retinal detachment surgery if an air, sulfur hexafluoride or perfluoropropane bubble is used for correction?",
+      "options": {"A": "Nitrous oxide can expand the bubble size and raise the IOP significantly", "B": "Nitrous oxide decreases the bubble size", "C": "Nitrous oxide causes retinal artery occlusion", "D": "Nitrous oxide causes bradycardia"},
+      "answer": "A",
+      "explanation": "Page 253: Nitrous oxide should be avoided in retinal detachment surgery if air, sulfur hexafluoride or perfluoropropane bubble is used for correction. Nitrous oxide can expand the bubble size and thus can raise the IOP significantly. Nitrous oxide should not be used for 5 days after air, 10 days after sulfur hexafluoride and 30 days after perfluoropropane.",
+      "topic": "General Anesthesia"
+    },
+    {
+      "id": 13,
+      "question": "Succinylcholine increases the IOP, but the rise is transient (5–10 minutes). When is it safer to use succinylcholine?",
+      "options": {"A": "If the patient is not fasting and risk of pulmonary aspiration is high", "B": "In all ocular surgeries", "C": "In retinal detachment surgery", "D": "When the eye is open"},
+      "answer": "A",
+      "explanation": "Page 253: Succinylcholine increases the IOP; however, the rise is transient (5–10 minutes), therefore if the patient is not fasting and risk of pulmonary aspiration is high, it is safer to use succinylcholine. Non-depolarizing agents decrease the IOP.",
+      "topic": "General Anesthesia"
+    },
+    {
+      "id": 14,
+      "question": "During reversal in ocular surgery, anticholinergics (atropine/glycopyrrolate) given IV or IM:",
+      "options": {"A": "Do not raise the IOP significantly, therefore can be used safely with anticholinesterases", "B": "Significantly raise the IOP and should be avoided", "C": "Cause retinal detachment", "D": "Trigger oculocardiac reflex"},
+      "answer": "A",
+      "explanation": "Page 253: Anticholinergics (atropine/glycopyrrolate) when given IV or IM do not raise IOP significantly, therefore can be used safely with anticholinesterases. Recovery should be very smooth — coughing and straining during extubation can be disastrous.",
+      "topic": "General Anesthesia"
+    },
+    {
+      "id": 15,
+      "question": "Which patient position decreases the IOP by reducing the venous pressure?",
+      "options": {"A": "Head up by 10–15°", "B": "Head down by 15°", "C": "Supine flat", "D": "Lateral position"},
+      "answer": "A",
+      "explanation": "Page 254: Position of patient — head up by 10–15° decreases the IOP by reducing the venous pressure.",
+      "topic": "General Anesthesia"
+    },
+    {
+      "id": 16,
+      "question": "Postoperative nausea and vomiting incidence is very high after which ocular surgery?",
+      "options": {"A": "Strabismus surgery", "B": "Cataract surgery", "C": "Keratoplasty", "D": "Retinal detachment surgery"},
+      "answer": "A",
+      "explanation": "Page 254: The incidence of postoperative nausea and vomiting is very high after strabismus surgery.",
+      "topic": "Postoperative"
+    },
+    {
+      "id": 17,
+      "question": "Cataract surgery can be performed in patients receiving warfarin. For other ocular surgeries, warfarin should be stopped how many days before?",
+      "options": {"A": "4 days", "B": "1 day", "C": "7 days", "D": "10 days"},
+      "answer": "A",
+      "explanation": "Page 252: Cataract surgery can be performed in patients receiving warfarin. For other ocular surgeries, warfarin should be stopped 4 days before.",
+      "topic": "Preoperative Evaluation"
+    },
+    {
+      "id": 18,
+      "question": "Which local anesthetic is used for rapid onset in eye blocks, and which for prolonged effect?",
+      "options": {"A": "2% xylocaine for rapid onset; 0.5% bupivacaine for prolonged effect", "B": "0.5% bupivacaine for rapid onset; 2% xylocaine for prolonged effect", "C": "Procaine for both", "D": "Ropivacaine for rapid onset"},
+      "answer": "A",
+      "explanation": "Page 253: A solution for eye blocks consists of 2% xylocaine for rapid onset, 0.5% bupivacaine for prolonged effect, 1 in 200000 adrenaline for vasoconstriction, and hyaluronidase for better spread.",
+      "topic": "Local Anesthetics for Blocks"
+    },
+    {
+      "id": 19,
+      "question": "In the sub-tenon (episcleral) block, the drug is injected beneath the Tenon's fascia. Compared to retrobulbar and peribulbar blocks, the complications are:",
+      "options": {"A": "Reported to be less", "B": "Reported to be more", "C": "Equal", "D": "Much more severe"},
+      "answer": "A",
+      "explanation": "Page 253: In sub-tenon block, the drug is injected beneath the Tenon's fascia. Complications are reported to be less than retrobulbar and peribulbar block.",
+      "topic": "Sub-tenon Block"
+    },
+    {
+      "id": 20,
+      "question": "Cataract surgery (phaco-emulsification) is possible under which type of anesthesia?",
+      "options": {"A": "Topical anesthesia of the eye", "B": "General anesthesia only", "C": "Retrobulbar block only", "D": "Spinal anesthesia"},
+      "answer": "A",
+      "explanation": "Page 253: The majority of the cataract surgeries (phaco-emulsification) is possible under topical anaesthesia of the eye.",
+      "topic": "Topical Anesthesia"
+    },
+    {
+      "id": 21,
+      "question": "What are the usual indications for general anesthesia in ophthalmic surgery?",
+      "options": {"A": "Pediatric patients, uncooperative patients not allowing regional anesthesia, retinal detachment surgeries and keratoplasties", "B": "All cataract surgeries", "C": "Only diabetic patients", "D": "Only elderly patients"},
+      "answer": "A",
+      "explanation": "Page 253: Usual indications for general anesthesia are pediatric patients, uncooperative patients not allowing regional anesthesia, retinal detachment surgeries and keratoplasties.",
+      "topic": "General Anesthesia"
+    },
+    {
+      "id": 22,
+      "question": "Although benzodiazepines reduce the intraocular pressure, in which patients should they be used cautiously?",
+      "options": {"A": "Old age patients", "B": "Pediatric patients", "C": "Diabetic patients", "D": "Hypertensive patients"},
+      "answer": "A",
+      "explanation": "Page 253: Although benzodiazepines reduce the intraocular pressure, however they should be used cautiously in old age patients.",
+      "topic": "General Anesthesia"
+    },
+    {
+      "id": 23,
+      "question": "A disadvantage of the peribulbar block compared to the retrobulbar block is:",
+      "options": {"A": "Slower onset and more chances of ecchymosis", "B": "More serious complications", "C": "Need to block facial nerve separately", "D": "More painful"},
+      "answer": "A",
+      "explanation": "Page 253: Disadvantages of peribulbar block are slower onset and more chances of ecchymosis. Advantages include less serious complications, facial nerve need not be blocked separately, and it is less painful.",
+      "topic": "Peribulbar Block"
+    },
+    {
+      "id": 24,
+      "question": "In the peribulbar block technique, the patient is asked to look in which direction?",
+      "options": {"A": "Straight ahead (neutral gaze)", "B": "Upward and inward", "C": "Downward", "D": "To the side"},
+      "answer": "A",
+      "explanation": "Page 252: In peribulbar block, ask the patient to look straight ahead (neutral gaze). A dull short beveled needle is entered through the inferior fornix of conjunctiva at the junction of lateral 1/3rd and medial 2/3rd.",
+      "topic": "Peribulbar Block"
+    },
+    {
+      "id": 25,
+      "question": "Which agent is most often used for induction in ophthalmic general anesthesia (as it reduces IOP)?",
+      "options": {"A": "Propofol", "B": "Ketamine", "C": "Etomidate", "D": "Thiopentone"},
+      "answer": "A",
+      "explanation": "Page 253: All IV agents except ketamine reduce the IOP. Propofol is most often used for induction. Ketamine increases the IOP, therefore should be avoided in ocular surgeries.",
+      "topic": "General Anesthesia"
+    }
+  ]
+}

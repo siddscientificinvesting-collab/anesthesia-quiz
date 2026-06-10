@@ -188,6 +188,96 @@ QUIZ_CATALOG = {
         "short": "Pediatric (Ch 29)",
         "icon": "👶",
     },
+    "ch1": {
+        "file": "questions_ch1.json",
+        "label": "new Chapter 1 – Applied Anatomy, Physiology and Physics",
+        "short": "new Anatomy/Physiology (Ch 1)",
+        "icon": "🫁",
+    },
+    "ch8": {
+        "file": "questions_ch8.json",
+        "label": "new Chapter 8 – History of Anesthesia",
+        "short": "new History (Ch 8)",
+        "icon": "📜",
+    },
+    "ch9": {
+        "file": "questions_ch9.json",
+        "label": "new Chapter 9 – Introduction to General Anesthesia",
+        "short": "new Intro to GA (Ch 9)",
+        "icon": "💉",
+    },
+    "ch10": {
+        "file": "questions_ch10.json",
+        "label": "new Chapter 10 – Inhalational Agents",
+        "short": "new Inhalational Agents (Ch 10)",
+        "icon": "🌬️",
+    },
+    "ch11": {
+        "file": "questions_ch11.json",
+        "label": "new Chapter 11 – Gases Used in Anesthesia",
+        "short": "new Gases (Ch 11)",
+        "icon": "🧪",
+    },
+    "ch12": {
+        "file": "questions_ch12.json",
+        "label": "new Chapter 12 – Intravenous Anesthetics",
+        "short": "new IV Anesthetics (Ch 12)",
+        "icon": "💊",
+    },
+    "ch13": {
+        "file": "questions_ch13.json",
+        "label": "new Chapter 13 – Muscle Relaxants",
+        "short": "new Muscle Relaxants (Ch 13)",
+        "icon": "💪",
+    },
+    "ch14": {
+        "file": "questions_ch14.json",
+        "label": "new Chapter 14 – Perioperative Complications of GA",
+        "short": "new Perioperative Complications (Ch 14)",
+        "icon": "⚠️",
+    },
+    "ch15": {
+        "file": "questions_ch15.json",
+        "label": "new Chapter 15 – Local Anesthetics",
+        "short": "new Local Anesthetics (Ch 15)",
+        "icon": "🧴",
+    },
+    "ch16": {
+        "file": "questions_ch16.json",
+        "label": "new Chapter 16 – Peripheral Nerve Blocks",
+        "short": "new Peripheral Nerve Blocks (Ch 16)",
+        "icon": "🎯",
+    },
+    "ch17": {
+        "file": "questions_ch17.json",
+        "label": "new Chapter 17 – Central Neuraxial Blocks (Spinal & Epidural)",
+        "short": "new Spinal & Epidural (Ch 17)",
+        "icon": "🦴",
+    },
+    "ch24": {
+        "file": "questions_ch24.json",
+        "label": "new Chapter 24 – Anesthesia for Neuromuscular Diseases",
+        "short": "new Neuromuscular Diseases (Ch 24)",
+        "icon": "🧬",
+    },
+    "ch28": {
+        "file": "questions_ch28.json",
+        "label": "new Chapter 28 – Anesthesia for Obstetrics",
+        "short": "new Obstetrics (Ch 28)",
+        "icon": "🤰",
+    },
+    "ch33": {
+        "file": "questions_ch33.json",
+        "label": "new Chapter 33 – Anesthesia for Ophthalmic Surgery",
+        "short": "new Ophthalmic Surgery (Ch 33)",
+        "icon": "👁️",
+    },
+    "ch39": {
+        "file": "questions_ch39.json",
+        "label": "new Chapter 39 – Pain Management",
+        "short": "new Pain Management (Ch 39)",
+        "icon": "🩹",
+    },
 }
 
 # ─── Load Questions ──────────────────────────────────────────────────────────

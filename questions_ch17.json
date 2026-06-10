@@ -1,0 +1,409 @@
+{
+  "title": "Central Neuraxial Blocks (Spinal and Epidural Anesthesia) MCQ – Chapter 17",
+  "source": "Short Textbook of Anesthesia – Ajay Yadav",
+  "section": "Section 6: Regional Anesthesia (Chapter 17)",
+  "total_questions": 50,
+  "time_limit_minutes": 35,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The vertebral column consists of how many vertebrae?",
+      "options": {"A": "33 (7 cervical, 12 thoracic, 5 lumbar, 5 fused sacral, 4 fused coccygeal)", "B": "31", "C": "30", "D": "26"},
+      "answer": "A",
+      "explanation": "Page 164: Vertebral column consists of 33 vertebrae: 7 cervical, 12 thoracic, 5 lumbar, 5 fused sacral and 4 fused coccygeal. It has 4 curves: thoracic and sacral spine are convex posteriorly (kyphotic) while cervical and lumbar spine are convex anteriorly (lordotic).",
+      "topic": "Applied Anatomy"
+    },
+    {
+      "id": 2,
+      "question": "Which is the correct order of structures encountered (posterior to anterior) while giving spinal anesthesia?",
+      "options": {"A": "Skin → subcutaneous → supraspinous ligament → interspinous ligament → ligamentum flavum → dura → arachnoid", "B": "Skin → dura → ligamentum flavum → arachnoid", "C": "Skin → ligamentum flavum → supraspinous ligament → dura", "D": "Skin → arachnoid → dura → ligamentum flavum"},
+      "answer": "A",
+      "explanation": "Page 164, Fig. 17.1: Structures encountered while giving spinal anesthesia from posterior to anterior are skin, subcutaneous tissue, supraspinous ligament, interspinous ligament, ligamentum flavum (yellow ligament), dura, and arachnoid.",
+      "topic": "Applied Anatomy"
+    },
+    {
+      "id": 3,
+      "question": "The line joining the highest point on the iliac crest (intercristal line / Tuffier's line) corresponds to which level?",
+      "options": {"A": "L4 and L5 interspace or L4 spine", "B": "L2 and L3 interspace", "C": "T12 and L1 interspace", "D": "S1 spine"},
+      "answer": "A",
+      "explanation": "Page 165: The line joining the highest point on iliac crest (intercristal line, also called as Tuffier's line) corresponds to L4 and L5 interspace or L4 spine. It is very important to identify this intervertebral space while choosing the space for giving spinal or epidural anesthesia.",
+      "topic": "Applied Anatomy"
+    },
+    {
+      "id": 4,
+      "question": "The epidural veins form a plexus called the plexus of Batson. When engorged (e.g. in pregnancy), they push the dura medially, which:",
+      "options": {"A": "Reduces the subarachnoid space, leading to higher spread of local anesthetic", "B": "Increases the subarachnoid space", "C": "Has no effect on spread", "D": "Blocks CSF circulation"},
+      "answer": "A",
+      "explanation": "Page 165: The epidural veins form a plexus called the plexus of Batson, which drain into inferior vena cava. Any pressure on inferior vena cava (pregnancy, abdominal tumors, ascites) leads these veins to become engorged, pushing the dura medially, which reduces the subarachnoid space leading to higher spread of local anesthetic.",
+      "topic": "Epidural Space"
+    },
+    {
+      "id": 5,
+      "question": "The spinal cord extends from the medulla oblongata to which level in adults and infants?",
+      "options": {"A": "Lower border of L1 in adults and L3 in infants", "B": "L3 in adults and L5 in infants", "C": "T12 in adults and L1 in infants", "D": "L5 in adults and S1 in infants"},
+      "answer": "A",
+      "explanation": "Page 165: Spinal cord extends from medulla oblongata to lower border of L1 in adults and L3 in infants (adult level is achieved by the age of 2 years). Therefore, in infancy spinal anesthesia should be given in L4-5 space while in adults it can be given in L3-4 or L4-5 space.",
+      "topic": "Anatomy of Spinal Cord"
+    },
+    {
+      "id": 6,
+      "question": "The anterior spinal artery is reinforced by which important artery?",
+      "options": {"A": "Artery of Adamkiewicz (arteria radicularis magna)", "B": "Posterior inferior cerebellar artery", "C": "Vertebral artery", "D": "Spinal branch of intercostal artery"},
+      "answer": "A",
+      "explanation": "Page 165: The spinal cord is supplied by 2 posterior spinal arteries and 1 anterior spinal artery. The anterior spinal artery is reinforced by the artery of Adamkiewicz (arteria radicularis magna), which usually enters between T5 and L2 and usually (75%) enters from the left side. Damage/vasoconstriction can lead to cord ischemia and paraplegia.",
+      "topic": "Blood Supply of Spinal Cord"
+    },
+    {
+      "id": 7,
+      "question": "What is the volume of CSF at one time, and how is it distributed?",
+      "options": {"A": "140 mL; half in cranium and half in spinal canal", "B": "500 mL; all in spinal canal", "C": "50 mL; all in cranium", "D": "250 mL; entirely in ventricles"},
+      "answer": "A",
+      "explanation": "Page 165: The CSF is secreted by choroid plexus of third, fourth and lateral ventricles and absorbed into venous sinuses via arachnoid villi. 500 mL is secreted in 24 hours. Volume of CSF at one time is 140 mL, half of which is present in cranium and half in spinal canal. Specific gravity is 1.003–1.009 and pH is 7.35.",
+      "topic": "Cerebrospinal Fluid"
+    },
+    {
+      "id": 8,
+      "question": "Several meta-analyses have shown a reduced risk in overall mortality and morbidity by how much in patients undergoing surgeries under central neuraxial blocks compared to general anesthesia?",
+      "options": {"A": "As high as 30%", "B": "5%", "C": "50%", "D": "10%"},
+      "answer": "A",
+      "explanation": "Page 166: Several meta-analyses have shown a reduced risk in overall mortality and morbidity as high as 30% in patients who underwent surgeries under CNB as compared to general anesthesia (GA).",
+      "topic": "Advantages of CNB"
+    },
+    {
+      "id": 9,
+      "question": "What is the most prominent cardiovascular effect of central neuraxial blocks?",
+      "options": {"A": "Hypertension", "B": "Hypotension", "C": "Tachycardia", "D": "Increased cardiac output"},
+      "answer": "B",
+      "explanation": "Page 166: The most prominent effect of central neuraxial blocks on the cardiovascular system is hypotension, which occurs due to sympathetic block (venodilatation, venous pooling, decreased venous return, decreased cardiac output), bradycardia, blockade of nerve supply to adrenal glands, direct absorption of drug, and compression of IVC/aorta by pregnant uterus.",
+      "topic": "Systemic Effects – Cardiovascular"
+    },
+    {
+      "id": 10,
+      "question": "What is the sequence of blockade in central neuraxial blocks?",
+      "options": {"A": "Autonomic > sensory > motor", "B": "Motor > sensory > autonomic", "C": "Sensory > motor > autonomic", "D": "Motor > autonomic > sensory"},
+      "answer": "A",
+      "explanation": "Page 166: In spinal nerve, autonomic fibers are on the most outer (posterior) side while motor on most inner (anterior) side, therefore the sequence of blockade is autonomic > sensory > motor. The autonomic level is 2 segments higher than sensory which is 2 segments higher than motor (zones of differential blockade).",
+      "topic": "Systemic Effects – Nervous System"
+    },
+    {
+      "id": 11,
+      "question": "How is the autonomic level tested in central neuraxial blocks?",
+      "options": {"A": "By temperature (cold)", "B": "By pin prick", "C": "By toe movement", "D": "By touch"},
+      "answer": "A",
+      "explanation": "Page 166: Autonomic level is tested by temperature (cold), sensory by pin prick (by non-pricking needles) and motor by toe movement.",
+      "topic": "Systemic Effects – Nervous System"
+    },
+    {
+      "id": 12,
+      "question": "What is the most common postoperative complication of central neuraxial blocks in present day practice?",
+      "options": {"A": "Post-spinal headache", "B": "Urinary retention", "C": "Paraplegia", "D": "Meningitis"},
+      "answer": "B",
+      "explanation": "Page 167: Urinary retention is the most common postoperative complication of central neuraxial blocks in present day practice. It is due to blockade of sacral parasympathetic fibers (S2, 3, 4). Flaccid paralysis of nervi erigentes and engorged penis is one of the signs of successful block.",
+      "topic": "Systemic Effects – Genitourinary"
+    },
+    {
+      "id": 13,
+      "question": "Spinal anesthesia is usually given in which space in adults?",
+      "options": {"A": "L3-4 (or L4-5)", "B": "T12-L1", "C": "L1-2", "D": "S1-2"},
+      "answer": "A",
+      "explanation": "Page 165, 167: Spinal anesthesia is usually given in L3-4 (or L4-5) space in adults because the spinal cord ends at L1, avoiding cord injury. The Taylor (lumbosacral) approach has its point of insertion 1 cm medial and 1 cm caudal to the posterior superior iliac spine.",
+      "topic": "Spinal Anesthesia"
+    },
+    {
+      "id": 14,
+      "question": "Which is the most commonly used drug for spinal anesthesia?",
+      "options": {"A": "Lignocaine 5%", "B": "Hyperbaric bupivacaine 0.5% (made hyperbaric by 8% dextrose)", "C": "Tetracaine 1%", "D": "Ropivacaine 0.5%"},
+      "answer": "B",
+      "explanation": "Page 167, Table 17.1: Bupivacaine is the most commonly used drug for spinal. The concentration used is 0.5% and it is made hyperbaric by addition of 8% dextrose. Lignocaine 5% (hyperbaric by 7.5% dextrose) is rarely used in current practice due to TNS and cauda equina syndrome.",
+      "topic": "Drugs for Spinal Anesthesia"
+    },
+    {
+      "id": 15,
+      "question": "Which two factors significantly affect the level (height) of spinal block?",
+      "options": {"A": "Dose and baricity", "B": "Speed of injection and sex", "C": "CSF pressure and addition of vasoconstrictor", "D": "Barbotage and coughing"},
+      "answer": "A",
+      "explanation": "Page 168–169: Dose and baricity are two very important determinants of level of block. Greater the dose, higher the level. Baricity is the ratio of specific gravity of agent to CSF; hyperbaric solutions settle downwards governed by patient position. Sex, speed of injection, increased CSF pressure (Barbotage), and addition of vasoconstrictor do NOT affect the level of block.",
+      "topic": "Factors Affecting Level of Block"
+    },
+    {
+      "id": 16,
+      "question": "CSF volume has what kind of relation with the level of block?",
+      "options": {"A": "Inverse relation (decreased CSF volume leads to higher spread)", "B": "Direct relation", "C": "No relation", "D": "Exponential relation"},
+      "answer": "A",
+      "explanation": "Page 168–169: CSF volume has an inverse relation with the level of block; decreased CSF volume will lead to higher spread of drug while increased CSF volume will lead to attainment of lower levels.",
+      "topic": "Factors Affecting Level of Block"
+    },
+    {
+      "id": 17,
+      "question": "Pencil tip point end spinal needles (e.g. Whitacre, Sprotte) are dura separating. What is their advantage?",
+      "options": {"A": "Less damage to dural fibers and hence less incidence of postspinal headache", "B": "They are cheaper", "C": "Faster onset of block", "D": "Longer duration of block"},
+      "answer": "A",
+      "explanation": "Page 168: Dura separating needles have pencil tip point end (e.g. Whitacre and Sprotte). As these needles only separate the dural fibers, damage to dural fibers and hence incidence of postspinal headache is less, but these needles are expensive. Dura cutting needles (Quincke-Babcock, Greene, Pitkin) cause more damage and high PDPH but are cheaper.",
+      "topic": "Spinal Needles"
+    },
+    {
+      "id": 18,
+      "question": "What is the most common complication of spinal anesthesia?",
+      "options": {"A": "Hypotension", "B": "Bradycardia", "C": "Post-spinal headache", "D": "Cardiac arrest"},
+      "answer": "A",
+      "explanation": "Page 169: Hypotension is the most common complication of spinal anesthesia. Mild hypotension occurs in almost all patients and significant hypotension (systolic BP < 90 mm Hg) may be seen in up to 1/3rd of patients. Mild hypotension is beneficial in reducing blood loss.",
+      "topic": "Complications of Spinal Anesthesia"
+    },
+    {
+      "id": 19,
+      "question": "Which is the most preferred vasopressor for the treatment of spinal hypotension?",
+      "options": {"A": "Ephedrine", "B": "Phenylephrine", "C": "Methoxamine", "D": "Dopamine"},
+      "answer": "A",
+      "explanation": "Page 170: Ephedrine not only produces vasoconstriction (α agonist) but also increases the cardiac output and heart rate by its β adrenergic properties, therefore it is the most preferred vasopressor for the treatment of spinal hypotension. However, mephentermine is more frequently used in India.",
+      "topic": "Complications of Spinal Anesthesia"
+    },
+    {
+      "id": 20,
+      "question": "Total spinal anesthesia refers to:",
+      "options": {"A": "When the drug reaches up to the cranium and involves the cranial nerves", "B": "A block extending up to T4", "C": "Bilateral motor block of the legs", "D": "A failed spinal block"},
+      "answer": "A",
+      "explanation": "Page 170: High spinal refers to a level high enough to block phrenic nerve causing diaphragmatic paralysis and apnea. If the drug reaches cranium and involves cranial nerves it is called total spinal. It usually happens due to accidental intrathecal injection of large volume of drug during epidural anesthesia.",
+      "topic": "Complications of Spinal Anesthesia"
+    },
+    {
+      "id": 21,
+      "question": "Which is the drug of choice for treatment of shivering after spinal anesthesia?",
+      "options": {"A": "Tramadol", "B": "Pethidine", "C": "Clonidine", "D": "Ondansetron"},
+      "answer": "B",
+      "explanation": "Page 170: Shivering is one of the very common complications of spinal anesthesia, seen in almost half of the patients. Oxygen consumption can increase 4–5 times. The drug of choice for treatment of shivering is pethidine followed by tramadol.",
+      "topic": "Complications of Spinal Anesthesia"
+    },
+    {
+      "id": 22,
+      "question": "Post-spinal headache is a low pressure headache due to seepage of CSF. What is the typical postural feature?",
+      "options": {"A": "Pain in sitting/standing position which gets relieved in lying down", "B": "Pain present in all positions", "C": "Pain only in lying down position", "D": "Pain unrelated to posture"},
+      "answer": "A",
+      "explanation": "Page 171: The typical symptomatology of post spinal headache is that patient will complain of pain in sitting and standing position while pain gets relieved in lying down, whereas headache due to meningitis will remain same in all positions. The pain is usually occipital. CSF loss around 10 mL/hr is considered significant.",
+      "topic": "Post-Spinal Headache"
+    },
+    {
+      "id": 23,
+      "question": "What is the single most important factor in the etiology of post-spinal headache?",
+      "options": {"A": "Needle size", "B": "Altitude", "C": "Hydration status", "D": "Age of patient"},
+      "answer": "A",
+      "explanation": "Page 171: Needle size is the single most important factor; incidence with 16G needle may be 75% while with 26G needle it is 1 to 3%. Use of small gauge and dura separating needles are the most important preventive measures.",
+      "topic": "Post-Spinal Headache"
+    },
+    {
+      "id": 24,
+      "question": "What is the definitive (3rd line) method of treatment of post-spinal headache?",
+      "options": {"A": "Autologous epidural blood patch", "B": "Caffeine in Ringer lactate", "C": "Intravenous fluids", "D": "Abdominal binders"},
+      "answer": "A",
+      "explanation": "Page 172: The third line of management, although interventional, is the definitive method of treatment — autologous epidural blood patch. 10–20 mL of the patient's own blood is given in the same space; blood will clot and seal the rent. 1st blood patch is effective in 95% patients and 2nd in 99%.",
+      "topic": "Post-Spinal Headache"
+    },
+    {
+      "id": 25,
+      "question": "Which cranial nerve is most commonly (90%) involved after spinal anesthesia (due to the longest intracranial course)?",
+      "options": {"A": "3rd cranial nerve", "B": "6th cranial nerve", "C": "7th cranial nerve", "D": "8th cranial nerve"},
+      "answer": "B",
+      "explanation": "Page 172: All cranial nerves except 1st, 9th and 10th can be involved after spinal anesthesia. Most commonly (90%) the 6th nerve is involved because of the longest intracranial course of the 6th nerve. As a result of low CSF pressure, descent of pons and medulla causes stretching of the 6th nerve at the apex of petrous temporal bone.",
+      "topic": "Neurological Complications"
+    },
+    {
+      "id": 26,
+      "question": "Which organism has been cited as the most common cause of meningitis after spinal anesthesia?",
+      "options": {"A": "Staphylococcus epidermidis", "B": "Streptococcus viridans (an oral flora)", "C": "Escherichia coli", "D": "Pseudomonas"},
+      "answer": "B",
+      "explanation": "Page 172: Streptococcus viridans (an oral flora) has been cited as the most common organism responsible for meningitis after spinal, emphasizing the mandatory requirement of facemask to be worn during the procedure. However, after epidural, meningitis most often occurs because of Staphylococcus epidermidis which can contaminate the epidural catheter.",
+      "topic": "Neurological Complications"
+    },
+    {
+      "id": 27,
+      "question": "Cauda equina syndrome (CES), a classical example of local anesthetic neurotoxicity, is usually seen with which agent given as continuous spinal with small bore catheters?",
+      "options": {"A": "Bupivacaine", "B": "Lignocaine", "C": "Ropivacaine", "D": "Tetracaine only"},
+      "answer": "B",
+      "explanation": "Page 172–173: Cauda equina syndrome (CES) is one of the classical examples of neurotoxicity caused by local anesthetic. It is usually seen with lignocaine when given as continuous spinal with small bore catheters. Clinical features include retention of urine, incontinence of feces, loss of sexual function and loss of sensation in perineal region.",
+      "topic": "Neurological Complications"
+    },
+    {
+      "id": 28,
+      "question": "Transient neurological symptoms (TNS) can occur with any local anesthetic but most often with lignocaine. What is the incidence with lignocaine?",
+      "options": {"A": "10–11%", "B": "1–2%", "C": "30–40%", "D": "50%"},
+      "answer": "A",
+      "explanation": "Page 172: Transient neurological symptoms (TNS) can occur with any local anesthetic but most often with lignocaine. The incidence with lignocaine can be as high as 10–11% (that is why lignocaine is hardly used for spinal). Patients complain of pain in buttocks radiating to legs without neurological deficit, resolving in a few days (< 1 week).",
+      "topic": "Neurological Complications"
+    },
+    {
+      "id": 29,
+      "question": "Epidural hematoma leading to paraplegia is rare (1:200,000) but occurs in patients on anticoagulants. What is the diagnosis and management?",
+      "options": {"A": "Confirmed by MRI; immediate neurosurgical intervention to drain the hematoma", "B": "Confirmed by X-ray; conservative management", "C": "Confirmed by CSF analysis; antibiotics", "D": "No treatment needed as it resolves spontaneously"},
+      "answer": "A",
+      "explanation": "Page 173: Epidural hematoma is rare (1:200,000) but large enough to cause paraplegia in patients on anticoagulants therapy or suffering from coagulopathies. The presentation is sharp back pain with motor weakness and/or bladder/bowel dysfunction. The diagnosis should be confirmed by MRI and management includes immediate neurosurgical intervention to drain the hematoma.",
+      "topic": "Neurological Complications"
+    },
+    {
+      "id": 30,
+      "question": "Direct trauma to the spinal cord is avoided by giving spinal below which level in adults?",
+      "options": {"A": "Below L1 (and in children up to 2 years, below L3)", "B": "Below T12", "C": "Below L5", "D": "Below S1"},
+      "answer": "A",
+      "explanation": "Page 173: To avoid direct trauma to spinal cord, spinal in adults should be given below L1 and in children up to 2 years below L3.",
+      "topic": "Neurological Complications"
+    },
+    {
+      "id": 31,
+      "question": "What is the most common side effect of intrathecal opioids?",
+      "options": {"A": "Pruritus", "B": "Respiratory depression", "C": "Nausea", "D": "Urinary retention"},
+      "answer": "A",
+      "explanation": "Page 173: Pruritus is the most common side effect of intrathecal opioids. It can be treated with opioid antagonists.",
+      "topic": "Complications of Spinal Anesthesia"
+    },
+    {
+      "id": 32,
+      "question": "A saddle block is given in which position and is utilized for which surgeries?",
+      "options": {"A": "Sitting position (patient seated 5–10 minutes till drug gets fixed); perianal surgeries", "B": "Lateral position; lower limb surgeries", "C": "Prone position; spine surgeries", "D": "Trendelenburg position; abdominal surgeries"},
+      "answer": "A",
+      "explanation": "Page 173: A saddle block is the spinal given in sitting position and the patient remains seated for 5–10 minutes till drug gets fixed. As only sacral segments are blocked, it can be utilized only for perianal surgeries. The advantage is that hemodynamic fluctuations are minimal and there is no possibility of high spinal.",
+      "topic": "Saddle Block"
+    },
+    {
+      "id": 33,
+      "question": "Which is the most commonly used epidural needle?",
+      "options": {"A": "Tuohy needle (blunt bevel with curve of 15 to 30 degrees at tip, called Huber tip)", "B": "Quincke-Babcock needle", "C": "Whitacre needle", "D": "Crawford needle"},
+      "answer": "A",
+      "explanation": "Page 174, Fig. 17.2: The most commonly used needle for epidural is the Tuohy needle. It has blunt bevel with curve of 15 to 30 degrees at tip (called as Huber tip). Other needles include Weiss (winged) and Crawford (straight blunt bevel with no curve).",
+      "topic": "Epidural Anesthesia"
+    },
+    {
+      "id": 34,
+      "question": "What is the most commonly used method to locate the epidural space?",
+      "options": {"A": "Loss of resistance technique", "B": "Hanging drop technique (Gutierrez's sign)", "C": "Free flow of CSF", "D": "Nerve stimulation"},
+      "answer": "A",
+      "explanation": "Page 174: The most commonly used method to locate epidural space is by loss of resistance technique. Once the needle pierces the ligamentum flavum, there is sudden loss of resistance and the syringe filled with air or saline will be felt literally sucked in epidural space. The hanging drop technique (Gutierrez's sign) is hardly used in current practice.",
+      "topic": "Epidural Anesthesia"
+    },
+    {
+      "id": 35,
+      "question": "How much local anesthetic is required for blocking 1 segment in epidural anesthesia?",
+      "options": {"A": "2–3 mL", "B": "0.5 mL", "C": "5–6 mL", "D": "10 mL"},
+      "answer": "A",
+      "explanation": "Page 174: Usually 2–3 mL of local anesthetic is required for blocking 1 segment; therefore normally 15 to 20 mL of drug is required for epidural anesthesia.",
+      "topic": "Epidural Anesthesia"
+    },
+    {
+      "id": 36,
+      "question": "What is the most commonly used combination for postoperative analgesia and painless labor through an epidural catheter?",
+      "options": {"A": "Fentanyl + bupivacaine or ropivacaine (ropivacaine preferred) as continuous infusion", "B": "Morphine alone", "C": "Lignocaine with adrenaline", "D": "Bupivacaine alone"},
+      "answer": "A",
+      "explanation": "Page 174–175: Fentanyl (2–4 μg/mL) + bupivacaine (0.125%) or ropivacaine (0.2%) (ropivacaine preferred) as continuous infusion by syringe pump through epidural catheter is the most commonly used combination for postoperative analgesia and painless labor.",
+      "topic": "Epidural Anesthesia"
+    },
+    {
+      "id": 37,
+      "question": "Which local anesthetic is the most preferred for epidural anesthesia because of its high safety profile?",
+      "options": {"A": "Ropivacaine", "B": "Bupivacaine", "C": "Lignocaine", "D": "Levobupivacaine"},
+      "answer": "A",
+      "explanation": "Page 174: Ropivacaine, because of its high safety profile, is most preferred for epidural anesthesia. Concentrations used (Table 17.2): Lignocaine 1–2%, Levobupivacaine 0.125–0.75%, Ropivacaine 0.1–1%, Bupivacaine 0.625–0.5%.",
+      "topic": "Epidural Anesthesia"
+    },
+    {
+      "id": 38,
+      "question": "What is the most important factor affecting the spread (level) of block in epidural anesthesia?",
+      "options": {"A": "Volume of the drug", "B": "Concentration of the drug", "C": "Speed of injection", "D": "Baricity"},
+      "answer": "A",
+      "explanation": "Page 175: Volume of the drug is the most important factor affecting the spread (level) of block in epidural anesthesia. Old age requires less dose because the volume of epidural space is less. High concentration produces higher spread.",
+      "topic": "Epidural Anesthesia"
+    },
+    {
+      "id": 39,
+      "question": "What is a key advantage of epidural over spinal anesthesia?",
+      "options": {"A": "Less hypotension (slow onset gives body time to compensate), making epidural a better choice for cardiac compromised patients", "B": "Easier technically", "C": "Denser block", "D": "Less expensive"},
+      "answer": "A",
+      "explanation": "Page 175: Less hypotension — as the onset of action of epidural is slow, body gets sufficient time to compensate for hypotension, making epidural a better choice than spinal for cardiac compromised patients. Other advantages include no postspinal headache (unless dura punctured) and ability to change level and duration via catheter.",
+      "topic": "Advantages of Epidural over Spinal"
+    },
+    {
+      "id": 40,
+      "question": "The chance of epidural hematoma formation compared to spinal is:",
+      "options": {"A": "10 fold higher than spinal (as the veins are denser laterally, epidural should be given in midline)", "B": "Equal to spinal", "C": "Less than spinal", "D": "Half of spinal"},
+      "answer": "A",
+      "explanation": "Page 176: The possibility of hematoma formation can be 10 fold higher than spinal. As the veins are denser laterally, the epidural should be given in midline. To prevent intravascular injection, inject the drug only after confirming negative aspiration of blood.",
+      "topic": "Disadvantages of Epidural over Spinal"
+    },
+    {
+      "id": 41,
+      "question": "In combined spinal epidural (CSE) anesthesia, a special spinal needle (120 mm) is passed through the epidural needle. What is its purpose?",
+      "options": {"A": "To allow spinal anesthesia for surgery and the epidural catheter for prolonging/extending the block and postoperative analgesia", "B": "To increase the level of block", "C": "To prevent hypotension", "D": "To avoid post-spinal headache"},
+      "answer": "A",
+      "explanation": "Page 176: Combined spinal epidural (CSE) is now a very commonly performed technique where spinal is used for surgery and epidural is utilized if surgery gets prolonged or the surgeon wants to extend the incision. Later, the epidural catheter can be used for postoperative analgesia. A special spinal needle (120 mm) is passed through the epidural needle (90 mm normal spinal needle).",
+      "topic": "Combined Spinal Epidural"
+    },
+    {
+      "id": 42,
+      "question": "Caudal block (epidural sacral block) is commonly utilized in children, with drug injected in the sacral hiatus. For which surgeries is it most often used?",
+      "options": {"A": "Perianal, genital (circumcision), urethral (urethroplasty) and lower abdominal (herniotomy) surgeries", "B": "Upper abdominal surgeries", "C": "Thoracic surgeries", "D": "Neck surgeries"},
+      "answer": "A",
+      "explanation": "Page 176: Caudal block is a type of epidural block commonly utilized in children where drug is injected in sacral hiatus after piercing sacrococcygeal membrane. Most often utilized to produce analgesia for perianal surgeries, genital surgeries like circumcision, urethral surgeries like urethroplasties, or lower abdominal surgeries like herniotomies. In children it is easy to perform because sacral hiatus can be easily identified.",
+      "topic": "Caudal Block"
+    },
+    {
+      "id": 43,
+      "question": "Which is an ABSOLUTE contraindication for central neuraxial blocks?",
+      "options": {"A": "Raised intracranial tension (medullary coning can cause death)", "B": "Mild hypotension", "C": "Chronic backache", "D": "Mild fixed cardiac output lesion"},
+      "answer": "A",
+      "explanation": "Page 177: Raised intracranial tension is an absolute contraindication — medullary coning can cause death if spinal/epidural is given to patients with raised ICT (due to possibility of accidental dural puncture and increased CSF pressure). Other absolute contraindications include patient refusal, severe hypovolemia/hypotension, patients on anticoagulants, bleeding disorders, infection at local site, and severe fixed cardiac output lesions.",
+      "topic": "Contraindications"
+    },
+    {
+      "id": 44,
+      "question": "What platelet count allows central neuraxial blocks to be safely given, and what count is an absolute contraindication?",
+      "options": {"A": "Safe if > 80,000/cubic mm; absolute contraindication if < 50,000/cubic mm", "B": "Safe if > 50,000; absolute contraindication if < 20,000", "C": "Safe if > 100,000; absolute contraindication if < 80,000", "D": "Safe if > 40,000; absolute contraindication if < 10,000"},
+      "answer": "A",
+      "explanation": "Page 178: Patients with platelet count more than 80,000/cubic mm can be safely given central neuraxial blocks. A platelet count between 50,000–80,000/cubic mm is a relative contraindication while count less than 50,000 becomes an absolute contraindication.",
+      "topic": "Contraindications"
+    },
+    {
+      "id": 45,
+      "question": "Regarding low molecular weight heparin (LMWH) and central neuraxial blocks, it is considered safe to give the block:",
+      "options": {"A": "12 hours after the last dose of LMWH if prophylactic (and 24 hours if therapeutic dose)", "B": "Immediately after LMWH", "C": "1 hour after LMWH", "D": "48 hours after LMWH always"},
+      "answer": "A",
+      "explanation": "Page 177: It is considered safe to give central neuraxial block 12 hours after last dose of LMWH if the dose is prophylactic. However, if doses are therapeutic then CNB should be given only after 24 hours. LMWH can be safely given 6 hours after central neuraxial blocks.",
+      "topic": "Contraindications"
+    },
+    {
+      "id": 46,
+      "question": "Patients on which antiplatelet agents can be safely given central neuraxial blocks without delay?",
+      "options": {"A": "Aspirin and NSAIDs", "B": "Clopidogrel", "C": "Prasugrel", "D": "Ticlopidine"},
+      "answer": "A",
+      "explanation": "Page 177–178: Patients on aspirin and NSAIDs can be safely given central neuraxial blocks. For other antiplatelets, CNB should be delayed for 7 days after clopidogrel, 14 days after prasugrel and ticlopidine, 2 days after abciximab, and 8 hours after eptifibatide.",
+      "topic": "Contraindications"
+    },
+    {
+      "id": 47,
+      "question": "What level of block is required for a cesarean section?",
+      "options": {"A": "Up to T4", "B": "Up to T10", "C": "Up to T6", "D": "Sacral segments only"},
+      "answer": "A",
+      "explanation": "Page 179: For cesarean section, the block level required is up to T4. Although skin incision level for cesarean section is at T11 level, since the intestine and peritoneum are also handled, the block required is up to T4. Other levels: prostate T10, hernia T10, appendix T8, hysterectomy T6, perianal surgeries sacral segments.",
+      "topic": "Level of Block for Surgeries"
+    },
+    {
+      "id": 48,
+      "question": "According to Table 17.3, what is the quality of block in spinal versus epidural anesthesia?",
+      "options": {"A": "Spinal: more dense; Epidural: patchy block is common", "B": "Spinal: patchy; Epidural: more dense", "C": "Both produce equally dense blocks", "D": "Both produce patchy blocks"},
+      "answer": "A",
+      "explanation": "Page 178, Table 17.3: In spinal anesthesia the quality of block is more dense, while in epidural patchy block is common. Spinal is cheaper, fast onset, technically easy, with less block failure rate; epidural is expensive, slow onset (15–20 minutes), technically difficult, with higher block failure rate.",
+      "topic": "Spinal vs Epidural Comparison"
+    },
+    {
+      "id": 49,
+      "question": "Apnea after spinal anesthesia is usually due to:",
+      "options": {"A": "Severe hypotension causing medullary ischemia", "B": "Direct phrenic nerve block", "C": "Local anesthetic toxicity", "D": "Bronchospasm"},
+      "answer": "A",
+      "explanation": "Page 166, 170: Apnea after spinal anesthesia is usually due to severe hypotension causing medullary ischemia. Other causes of apnea include high spinal (high enough to block phrenic nerve C3, 4, 5 which is rare) and total spinal (when the drug reaches the cranium).",
+      "topic": "Systemic Effects – Respiratory"
+    },
+    {
+      "id": 50,
+      "question": "Why is bradycardia common after spinal anesthesia?",
+      "options": {"A": "Due to decreased atrial pressure (Bainbridge reflex), parasympathetic over dominance, and direct inhibition of cardioaccelerator fibers (T1 to T4)", "B": "Due to direct stimulation of the SA node", "C": "Due to hypertension", "D": "Due to increased venous return"},
+      "answer": "A",
+      "explanation": "Page 166: Bradycardia can further decrease cardiac output. The reasons for bradycardia are: decreased atrial pressure because of decreased venous return (Bainbridge reflex), parasympathetic over dominance due to sympathetic block, and direct inhibition of cardioaccelerator fibres (T1 to T4).",
+      "topic": "Systemic Effects – Cardiovascular"
+    }
+  ]
+}

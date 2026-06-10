@@ -1,0 +1,409 @@
+{
+  "title": "Inhalational Agents MCQ – Chapter 10",
+  "source": "Short Textbook of Anesthesia – Ajay Yadav",
+  "section": "Section 5: General Anesthesia (Chapter 10)",
+  "total_questions": 50,
+  "time_limit_minutes": 35,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Inhalational agents are mainly used in anesthesia for:",
+      "options": {"A": "Induction only", "B": "Maintenance of anesthesia", "C": "Premedication", "D": "Postoperative analgesia"},
+      "answer": "B",
+      "explanation": "Page 89: Inhalational agents are mainly used in anesthesia for maintenance of anesthesia; however, they can also be used for induction, especially in children.",
+      "topic": "Classification"
+    },
+    {
+      "id": 2,
+      "question": "According to the Meyer Overton rule, the anesthetic potency of an inhalational agent is directly proportional to its:",
+      "options": {"A": "Blood gas partition coefficient", "B": "Molecular weight", "C": "Lipid solubility (oil gas partition coefficient)", "D": "Vapor pressure"},
+      "answer": "C",
+      "explanation": "Page 89: Anesthetic potency of an inhalational agent is directly proportional to its lipid solubility (oil gas partition coefficient). This is called the Meyer Overton rule, which led to the unitary theory of narcosis.",
+      "topic": "Mechanism of Action"
+    },
+    {
+      "id": 3,
+      "question": "The most acceptable mechanism of action of inhalational agents involves shifting of the mechanism from lipid sites to:",
+      "options": {"A": "Protein sites — direct binding to cellular proteins altering their enzymes", "B": "Sodium channels exclusively", "C": "Potassium channels", "D": "The lipid bilayer permanently"},
+      "answer": "A",
+      "explanation": "Page 89: Exceptions to the Meyer Overton rule lead to shifting of mechanism from lipid sites to protein sites; the most acceptable mechanism is that they directly bind to cellular proteins, altering their enzymes.",
+      "topic": "Mechanism of Action"
+    },
+    {
+      "id": 4,
+      "question": "Which inhalational agents act principally by inhibiting N-methyl-D-aspartate (NMDA) receptors rather than via GABA?",
+      "options": {"A": "Halothane and isoflurane", "B": "Sevoflurane and desflurane", "C": "Nitrous oxide and xenon", "D": "Enflurane and ether"},
+      "answer": "C",
+      "explanation": "Page 89: Modulation of GABA receptors is the principal mechanism for all volatile agents except the gases — nitrous oxide and xenon, which act by inhibiting N-methyl-D-aspartate (NMDA) receptors.",
+      "topic": "Mechanism of Action"
+    },
+    {
+      "id": 5,
+      "question": "Potency of an inhalational agent is best determined by which parameter?",
+      "options": {"A": "Blood gas partition coefficient", "B": "Minimum alveolar concentration (MAC)", "C": "Vapor pressure", "D": "Boiling point"},
+      "answer": "B",
+      "explanation": "Page 90: The best estimate for determining the potency of an inhalational anesthetic is minimum alveolar concentration (MAC), defined as the minimum concentration of agent to produce immobility in 50% of subjects given noxious stimuli.",
+      "topic": "Potency / MAC"
+    },
+    {
+      "id": 6,
+      "question": "According to Table 10.1, which agent is the MOST potent and which is the LEAST potent?",
+      "options": {"A": "Most potent: Nitrous oxide; Least potent: Halothane", "B": "Most potent: Halothane (MAC 0.74%); Least potent: Nitrous oxide (MAC 104%)", "C": "Most potent: Desflurane; Least potent: Sevoflurane", "D": "Most potent: Isoflurane; Least potent: Desflurane"},
+      "answer": "B",
+      "explanation": "Page 90, Table 10.1: Halothane with MAC of 0.74% is the most potent, while nitrous oxide with a very high MAC of 104% is the least potent among the agents used nowadays.",
+      "topic": "Potency / MAC"
+    },
+    {
+      "id": 7,
+      "question": "At what age is the maximum MAC seen in human beings?",
+      "options": {"A": "At birth", "B": "6 months", "C": "1 year", "D": "Puberty"},
+      "answer": "B",
+      "explanation": "Page 90: Age — maximum MAC in human beings is at the age of 6 months, thereafter decreasing steadily throughout life (except a slight increase at puberty).",
+      "topic": "Factors Affecting MAC"
+    },
+    {
+      "id": 8,
+      "question": "Which of the following INCREASES the MAC?",
+      "options": {"A": "Hyponatremia", "B": "Pregnancy", "C": "Hypernatremia", "D": "Hypothermia"},
+      "answer": "C",
+      "explanation": "Page 90: Factors increasing MAC include hyperthermia >42°C, chronic intoxication of alcohol and amphetamines, cocaine, ephedrine, increasing barometric pressure, and hypernatremia. Hyponatremia, pregnancy and hypothermia decrease MAC.",
+      "topic": "Factors Affecting MAC"
+    },
+    {
+      "id": 9,
+      "question": "Which of the following has NO effect on MAC?",
+      "options": {"A": "Obesity", "B": "Anemia (severe)", "C": "Hypoxia", "D": "Hypercarbia"},
+      "answer": "A",
+      "explanation": "Page 90: Factors having no effect on MAC are thyroid disorders, sex (MAC is the same in males and females), and obesity (MAC does not increase in obese patients).",
+      "topic": "Factors Affecting MAC"
+    },
+    {
+      "id": 10,
+      "question": "Increasing barometric pressure affects the MAC by which mechanism?",
+      "options": {"A": "Increases the MAC (pressure reversal theory of anesthesia)", "B": "Decreases the MAC", "C": "Has no effect on MAC", "D": "Abolishes the MAC"},
+      "answer": "A",
+      "explanation": "Page 90: Barometric pressure — increasing pressure increases the MAC (pressure reversal theory of anesthesia).",
+      "topic": "Factors Affecting MAC"
+    },
+    {
+      "id": 11,
+      "question": "The most important factor determining the speed of induction and recovery of an inhalational agent is the:",
+      "options": {"A": "Oil gas partition coefficient", "B": "Blood gas (B/G) partition coefficient", "C": "MAC value", "D": "Molecular weight"},
+      "answer": "B",
+      "explanation": "Page 91: The blood gas partition coefficient (B/G coefficient) is the most important factor determining the uptake of an agent and so the speed of induction and recovery. Agents with low B/G coefficient will have high alveolar concentration (fast induction).",
+      "topic": "Uptake and Distribution"
+    },
+    {
+      "id": 12,
+      "question": "According to Table 10.2, which agent has the LOWEST blood gas partition coefficient (0.14), giving the fastest induction?",
+      "options": {"A": "Nitrous oxide", "B": "Desflurane", "C": "Xenon", "D": "Halothane"},
+      "answer": "C",
+      "explanation": "Page 91, Table 10.2: Xenon has the lowest blood gas partition coefficient (0.14), so the fastest induction is seen with xenon. Among the agents used now-a-day, induction is fastest with desflurane (0.42) and slowest with halothane (2.4).",
+      "topic": "Uptake and Distribution"
+    },
+    {
+      "id": 13,
+      "question": "A low blood gas partition coefficient agent (e.g. nitrous oxide, desflurane) is relatively SAFE in shock because:",
+      "options": {"A": "It increases cardiac output", "B": "Its alveolar concentration will not be so high even when cardiac output is decreased", "C": "It is more potent", "D": "It is more soluble in blood"},
+      "answer": "B",
+      "explanation": "Page 91: In low cardiac output states such as shock, agents with high B/G coefficient can achieve dangerously high concentrations. That is why agents with low B/G coefficient such as nitrous oxide, desflurane or sevoflurane are relatively safe in shock.",
+      "topic": "Uptake and Distribution"
+    },
+    {
+      "id": 14,
+      "question": "What is the augmented inflow effect of nitrous oxide?",
+      "options": {"A": "Large uptake of nitrous oxide creates a void in the alveoli, drawing in more nitrous oxide from the machine", "B": "Nitrous oxide expands gas-filled spaces", "C": "Nitrous oxide increases the concentration of a second gas", "D": "Nitrous oxide is excreted through the lungs after surgery"},
+      "answer": "A",
+      "explanation": "Page 92: When nitrous oxide is given in high concentration, the large uptake of nitrous oxide creates a void to indraw more nitrous oxide from the machine — this is called augmented inflow effect (nitrous oxide has augmented its inflow from the machine).",
+      "topic": "Uptake and Distribution"
+    },
+    {
+      "id": 15,
+      "question": "The second gas effect describes how nitrous oxide increases the concentration of another agent (e.g. halothane or isoflurane) given along with it. What is the term for nitrous oxide increasing its OWN concentration?",
+      "options": {"A": "Second gas effect", "B": "Concentration effect", "C": "Diffusion hypoxia", "D": "Pressure effect"},
+      "answer": "B",
+      "explanation": "Page 92: The concentration effect is where nitrous oxide increases its own concentration. The second gas effect is when another agent given along with nitrous oxide also has its concentration increased by the same mechanism.",
+      "topic": "Uptake and Distribution"
+    },
+    {
+      "id": 16,
+      "question": "Diffusion hypoxia (Fink effect) at the end of surgery is prevented by:",
+      "options": {"A": "Giving 100% oxygen for 5–10 minutes after discontinuing nitrous oxide", "B": "Continuing nitrous oxide for longer", "C": "Hyperventilating the patient", "D": "Giving a second gas"},
+      "answer": "A",
+      "explanation": "Page 92: Towards the end of surgery when nitrous oxide delivery is stopped, the gradient reverses and nitrous oxide gushes into alveoli replacing oxygen, causing hypoxia (diffusion hypoxia). To avoid this, 100% oxygen should be given for 5–10 minutes after discontinuing nitrous oxide.",
+      "topic": "Uptake and Distribution"
+    },
+    {
+      "id": 17,
+      "question": "Among the inhalational agents, the earliest recovery is seen with which agent, and the most delayed with which?",
+      "options": {"A": "Earliest: Halothane; Most delayed: Desflurane", "B": "Earliest: Desflurane (B/G 0.42); Most delayed: Halothane (B/G 2.4)", "C": "Earliest: Isoflurane; Most delayed: Sevoflurane", "D": "Earliest: Nitrous oxide; Most delayed: Xenon"},
+      "answer": "B",
+      "explanation": "Page 92: Recovery is rapid with agents with low B/G coefficient. Therefore, earliest recovery will be with desflurane (B/G coefficient 0.42) and most delayed with halothane (B/G coefficient 2.4).",
+      "topic": "Recovery"
+    },
+    {
+      "id": 18,
+      "question": "Maximum metabolism among current inhalational agents is seen with which agent?",
+      "options": {"A": "Desflurane (<0.02%)", "B": "Sevoflurane", "C": "Halothane (20%)", "D": "Isoflurane"},
+      "answer": "C",
+      "explanation": "Page 92: All inhalational agents undergo oxidation by cytochrome P-450 enzymes. Among current agents, maximum metabolism is seen with halothane (20%). Desflurane is negligibly metabolized (<0.02%) and nitrous oxide does not undergo any metabolism in the human body.",
+      "topic": "Metabolism"
+    },
+    {
+      "id": 19,
+      "question": "Ventilatory responses to increased CO2 and hypoxia are blunted maximally by which agent?",
+      "options": {"A": "Halothane", "B": "Isoflurane", "C": "Sevoflurane", "D": "Nitrous oxide"},
+      "answer": "A",
+      "explanation": "Page 92: Initially all agents decrease the tidal volume and increase the frequency, finally decreasing the minute volume. Maximum inhibition to ventilatory response is seen with halothane.",
+      "topic": "Systemic Effects – Respiratory"
+    },
+    {
+      "id": 20,
+      "question": "All inhalational agents blunt hypoxic pulmonary vasoconstriction (HPV) EXCEPT which one (which is itself a pulmonary vasoconstrictor)?",
+      "options": {"A": "Halothane", "B": "Nitrous oxide", "C": "Sevoflurane", "D": "Desflurane"},
+      "answer": "B",
+      "explanation": "Page 92: All inhalational agents are pulmonary vasodilators (except nitrous oxide which is a pulmonary vasoconstrictor) thereby blunting HPV response and worsening V/Q mismatch.",
+      "topic": "Systemic Effects – Respiratory"
+    },
+    {
+      "id": 21,
+      "question": "The minimum decrease in cardiac output among inhalational agents is seen with:",
+      "options": {"A": "Halothane", "B": "Isoflurane", "C": "Enflurane", "D": "Sevoflurane"},
+      "answer": "B",
+      "explanation": "Page 92–93: By causing direct myocardial depression, all new inhalational agents decrease the cardiac output. The minimum decrease in cardiac output is seen with isoflurane.",
+      "topic": "Systemic Effects – Cardiovascular"
+    },
+    {
+      "id": 22,
+      "question": "Which inhalational agent is the agent of choice for cardiac patients (except in myocardial ischemia)?",
+      "options": {"A": "Halothane", "B": "Sevoflurane", "C": "Isoflurane", "D": "Desflurane"},
+      "answer": "C",
+      "explanation": "Page 93: Among all inhalational agents, isoflurane minimally depresses myocardium, does not cause bradycardia, and baroreceptor reflex is preserved, so cardiac output is best maintained — making isoflurane the inhalational agent of choice for cardiac patients (except myocardial ischemia, where coronary steal is a theoretical concern).",
+      "topic": "Systemic Effects – Cardiovascular"
+    },
+    {
+      "id": 23,
+      "question": "Which agent does NOT sensitize the myocardium to adrenaline?",
+      "options": {"A": "Halothane", "B": "Isoflurane", "C": "Enflurane", "D": "Sevoflurane"},
+      "answer": "B",
+      "explanation": "Page 93: Halothane (and theoretically other agents too, except isoflurane) can sensitize the myocardium to adrenaline. Isoflurane does not sensitize the myocardium to adrenaline.",
+      "topic": "Systemic Effects – Cardiovascular"
+    },
+    {
+      "id": 24,
+      "question": "Increase in cerebral blood flow and intracranial tension (ICT) caused by inhalational agents is maximum with which agent?",
+      "options": {"A": "Sevoflurane", "B": "Isoflurane", "C": "Desflurane", "D": "Halothane"},
+      "answer": "D",
+      "explanation": "Page 93: All inhalational agents (including nitrous oxide) increase cerebral blood flow and hence ICT. The order is halothane >> desflurane ≈ isoflurane > sevoflurane.",
+      "topic": "Systemic Effects – CNS"
+    },
+    {
+      "id": 25,
+      "question": "Which inhalational agent is preferred as the agent of choice for neurosurgery in current practice?",
+      "options": {"A": "Halothane", "B": "Sevoflurane", "C": "Desflurane", "D": "Nitrous oxide"},
+      "answer": "B",
+      "explanation": "Page 93: Due to more favorable effects on cerebral hemodynamics, better preservation of autoregulation, equivalent reduction in cerebral metabolic rate, and smoother recovery, sevoflurane is preferred over isoflurane as the inhalational agent of choice for neurosurgery in current day practice.",
+      "topic": "Systemic Effects – CNS"
+    },
+    {
+      "id": 26,
+      "question": "Direct hepatocellular damage is classically seen with which agent but NOT with sevoflurane?",
+      "options": {"A": "Halothane", "B": "Nitrous oxide", "C": "Xenon", "D": "Ether"},
+      "answer": "A",
+      "explanation": "Page 93: Direct hepatocellular damage is seen with halothane (and theoretically with isoflurane and desflurane) but not with sevoflurane. Maximal decrease in blood supply to liver is seen with halothane and least with sevoflurane.",
+      "topic": "Systemic Effects – Liver"
+    },
+    {
+      "id": 27,
+      "question": "Nephrotoxicity produced by fluorinated inhalational agents is characterized as:",
+      "options": {"A": "Oliguric renal failure with hyperkalemia", "B": "Vasopressin-resistant polyuric renal failure", "C": "Acute glomerulonephritis", "D": "Renal artery stenosis"},
+      "answer": "B",
+      "explanation": "Page 93: All inhalational agents depress renal function by decreasing renal blood flow. Direct renal toxicity is due to inorganic fluoride. The nephrotoxicity produced by fluorinated agents is vasopressin-resistant polyuric renal failure. Fluoride is toxic at 50 μM.",
+      "topic": "Systemic Effects – Renal"
+    },
+    {
+      "id": 28,
+      "question": "Although sevoflurane produces high fluoride levels, it does NOT cause nephrotoxicity because:",
+      "options": {"A": "Its low blood gas coefficient (0.69) allows rapid elimination from the body", "B": "It does not undergo metabolism", "C": "It is not fluorinated", "D": "It increases renal blood flow"},
+      "answer": "A",
+      "explanation": "Page 93, Table 10.3 note: Sevoflurane, although it produces high fluoride, still does not cause nephrotoxicity even after long exposures because its low blood gas coefficient (0.69) allows its rapid elimination from the body.",
+      "topic": "Systemic Effects – Renal"
+    },
+    {
+      "id": 29,
+      "question": "Nitrous oxide can cause megaloblastic and aplastic anemia if used for more than how long, due to interaction with vitamin B12?",
+      "options": {"A": "More than 12 hours", "B": "More than 1 hour", "C": "More than 24 hours", "D": "More than 1 week"},
+      "answer": "A",
+      "explanation": "Page 93–94: Nitrous oxide interacts with vitamin B12 and inhibits methionine synthetase, leading to bone marrow depression causing aplastic and megaloblastic anemia. Vitamin B12 inactivation is seen if nitrous oxide is used for more than 12 hours.",
+      "topic": "Systemic Effects – Hematopoietic"
+    },
+    {
+      "id": 30,
+      "question": "Prolonged nitrous oxide exposure can impair myelin formation leading to which neurological complication?",
+      "options": {"A": "Subacute degeneration of spinal cord", "B": "Guillain-Barré syndrome", "C": "Multiple sclerosis", "D": "Parkinson's disease"},
+      "answer": "A",
+      "explanation": "Page 94: Nitrous oxide, by inhibiting the production of thymidate, can impair myelin formation leading to subacute degeneration of spinal cord.",
+      "topic": "Systemic Effects – Spinal Cord"
+    },
+    {
+      "id": 31,
+      "question": "Maximum muscle relaxation among current inhalational agents is seen with:",
+      "options": {"A": "Halothane", "B": "Nitrous oxide", "C": "Desflurane", "D": "Isoflurane"},
+      "answer": "C",
+      "explanation": "Page 94: All inhalational agents are centrally acting muscle relaxants (except nitrous oxide). Among the agents used now-a-day, maximum relaxation is seen with desflurane.",
+      "topic": "Systemic Effects – Neuromuscular"
+    },
+    {
+      "id": 32,
+      "question": "Trilene (trichloroethylene) reacting with sodalime can produce dichloroacetylene and which other gas that can cause ARDS?",
+      "options": {"A": "Carbon monoxide", "B": "Compound A", "C": "Phosgene", "D": "Hydrogen fluoride"},
+      "answer": "C",
+      "explanation": "Page 94: Trilene can produce dichloroacetylene (which is neurotoxic) and phosgene gas (which can cause ARDS) on reaction with sodalime.",
+      "topic": "Reaction with Sodalime"
+    },
+    {
+      "id": 33,
+      "question": "Which inhalational agent produces Compound A on reaction with sodalime and barylime?",
+      "options": {"A": "Desflurane", "B": "Sevoflurane", "C": "Halothane", "D": "Isoflurane"},
+      "answer": "B",
+      "explanation": "Page 94: Sevoflurane can produce a toxic compound called compound A with sodalime and barylime. Compound A can cause nephrotoxicity.",
+      "topic": "Reaction with Sodalime"
+    },
+    {
+      "id": 34,
+      "question": "Desflurane (and other agents) reacting with DESICCATED (dried) sodalime can produce which toxic gas?",
+      "options": {"A": "Phosgene", "B": "Compound A", "C": "Carbon monoxide", "D": "Nitric oxide"},
+      "answer": "C",
+      "explanation": "Page 94: Desflurane (and other agents too) can produce carbon monoxide by reacting with desiccated sodalime.",
+      "topic": "Reaction with Sodalime"
+    },
+    {
+      "id": 35,
+      "question": "Which agents are responsible for ozone depletion and global warming (in order)?",
+      "options": {"A": "Halothane followed by isoflurane", "B": "N2O followed by desflurane", "C": "Sevoflurane followed by xenon", "D": "Ether followed by cyclopropane"},
+      "answer": "B",
+      "explanation": "Page 94: Inhalational agents are responsible for ozone depletion and global warming, with N2O followed by desflurane. The best way to reduce this environmental impact is to use closed-circuit anesthesia and avoid N2O as much as possible.",
+      "topic": "Environmental Effects"
+    },
+    {
+      "id": 36,
+      "question": "Which inhalational agents are good amnesic agents EXCEPT which one?",
+      "options": {"A": "Halothane", "B": "Nitrous oxide", "C": "Sevoflurane", "D": "Isoflurane"},
+      "answer": "B",
+      "explanation": "Page 94: All inhalational agents are good amnesic agents except nitrous oxide.",
+      "topic": "Systemic Effects"
+    },
+    {
+      "id": 37,
+      "question": "Nitrous oxide is prepared by heating ammonium nitrate at what temperature?",
+      "options": {"A": "100–150°C", "B": "245–270°C", "C": "350–400°C", "D": "50–60°C"},
+      "answer": "B",
+      "explanation": "Page 94: Nitrous oxide is prepared by heating ammonium nitrate between 245 and 270°C.",
+      "topic": "Nitrous Oxide"
+    },
+    {
+      "id": 38,
+      "question": "Nitrous oxide is stored in cylinders of which color, and is how many times more soluble than nitrogen?",
+      "options": {"A": "Black cylinders; 1.5 times", "B": "Blue cylinders; 35 times more soluble than nitrogen", "C": "Green cylinders; 10 times", "D": "White cylinders; 5 times"},
+      "answer": "B",
+      "explanation": "Page 94: Nitrous oxide is stored in blue color cylinders at a pressure of 760 psi. It is 1.5 times heavier than air and 35 times more soluble than nitrogen.",
+      "topic": "Nitrous Oxide"
+    },
+    {
+      "id": 39,
+      "question": "Nitrous oxide is absolutely contraindicated in pneumothorax because it doubles the pneumothorax volume in how long?",
+      "options": {"A": "10 minutes (and triples in 30 minutes)", "B": "1 minute", "C": "1 hour", "D": "5 minutes"},
+      "answer": "A",
+      "explanation": "Page 95: Nitrous oxide doubles the pneumothorax volume in 10 minutes and triples in 30 minutes, producing severe cardiorespiratory compromise. The 35 times more solubility of nitrous oxide than nitrogen makes it contraindicated in closed gas spaces.",
+      "topic": "Nitrous Oxide"
+    },
+    {
+      "id": 40,
+      "question": "Entonox is a mixture of:",
+      "options": {"A": "50% oxygen and 50% nitrous oxide, used commonly for labor analgesia", "B": "33% oxygen and 66% nitrous oxide", "C": "21% oxygen and 79% nitrogen", "D": "100% nitrous oxide"},
+      "answer": "A",
+      "explanation": "Page 96: Entonox is a mixture of 50% oxygen and 50% nitrous oxide, used commonly for labor analgesia. It is stored in blue colored cylinders with blue and white shoulders at a pressure of 2,000 psi.",
+      "topic": "Entonox"
+    },
+    {
+      "id": 41,
+      "question": "Why should Entonox be stored above 10°C?",
+      "options": {"A": "Otherwise the cylinder explodes", "B": "Otherwise low temperature can cause separation of oxygen and nitrous oxide, delivering high concentration of nitrous oxide", "C": "Otherwise it loses potency", "D": "Otherwise it becomes flammable"},
+      "answer": "B",
+      "explanation": "Page 96: Entonox should be stored above 10°C otherwise low temperature can cause separation of oxygen and nitrous oxide, and high concentration of nitrous oxide can be delivered. To prevent this, the cylinder should be inverted 2–3 times to ensure good mixing.",
+      "topic": "Entonox"
+    },
+    {
+      "id": 42,
+      "question": "Which noble gas, having the lowest blood gas coefficient (0.14), provides the fastest induction and recovery (almost 3 times faster than N2O)?",
+      "options": {"A": "Helium", "B": "Argon", "C": "Xenon", "D": "Krypton"},
+      "answer": "C",
+      "explanation": "Page 96: Xenon has the lowest blood gas coefficient (0.14), therefore induction and recovery is fastest (almost 3 times faster than N2O which has blood gas coefficient of 0.47). It is more potent than nitrous oxide (MAC 70%).",
+      "topic": "Xenon"
+    },
+    {
+      "id": 43,
+      "question": "Why is xenon unsuitable for asthma patients?",
+      "options": {"A": "Because of its high density (almost 6 times of air), which increases airway resistance", "B": "Because it causes bronchoconstriction directly", "C": "Because it depresses respiration", "D": "Because it is flammable"},
+      "answer": "A",
+      "explanation": "Page 96: Because of high density (almost 6 times of air), xenon increases airway resistance, making it unsuitable for asthma patients.",
+      "topic": "Xenon"
+    },
+    {
+      "id": 44,
+      "question": "What is the most important risk factor for halothane hepatitis?",
+      "options": {"A": "Hypoxia", "B": "Multiple and frequent exposures", "C": "Obesity", "D": "Female gender"},
+      "answer": "B",
+      "explanation": "Page 97: The most important risk factor for halothane hepatitis is multiple and frequent exposures. Other risk factors are hypoxia, middle age, obesity, female gender, and patients suffering from autoimmune diseases. The pathologic lesion is centrilobular necrosis.",
+      "topic": "Halothane"
+    },
+    {
+      "id": 45,
+      "question": "Halothane is contraindicated in pheochromocytoma because it:",
+      "options": {"A": "Sensitizes the myocardium to adrenaline, producing ventricular arrhythmias", "B": "Causes severe hypertension", "C": "Increases catecholamine synthesis", "D": "Causes bronchospasm"},
+      "answer": "A",
+      "explanation": "Page 97: Halothane sensitizes the heart to adrenaline (exogenous to heart) producing ventricular arrhythmias; therefore the maximum permissible dose of adrenaline with halothane for local ischemia is limited, and for the same reason it is contraindicated in pheochromocytoma.",
+      "topic": "Halothane"
+    },
+    {
+      "id": 46,
+      "question": "Which agent is the inhalational agent of choice for a known case of halothane hepatitis?",
+      "options": {"A": "Isoflurane", "B": "Desflurane", "C": "Sevoflurane", "D": "Enflurane"},
+      "answer": "C",
+      "explanation": "Page 98: Sevoflurane is the inhalational agent of choice for a known case of halothane hepatitis because sevoflurane does not produce trifluoroacetic acid, avoiding the possibility of hepatitis in such a patient.",
+      "topic": "Halothane"
+    },
+    {
+      "id": 47,
+      "question": "Hypotension is maximum with which agent, making it the inhalational agent of choice for controlled hypotension?",
+      "options": {"A": "Halothane", "B": "Isoflurane", "C": "Sevoflurane", "D": "Nitrous oxide"},
+      "answer": "B",
+      "explanation": "Page 98: Hypotension is maximum with isoflurane (it is the inhalational agent of choice for controlled hypotension). At the same time, it minimally depresses myocardium and does not cause bradycardia.",
+      "topic": "Isoflurane"
+    },
+    {
+      "id": 48,
+      "question": "Desflurane requires a special vaporizer (TEC 6) which is temperature and pressure compensated because:",
+      "options": {"A": "Its vapor pressure is very high (681 mm Hg) and boiling point is less than 23°C, so it can boil at room temperature", "B": "It is highly flammable", "C": "It is unstable in light", "D": "It reacts with metal"},
+      "answer": "A",
+      "explanation": "Page 98–99: Desflurane has a very high vapor pressure (681 mm Hg) and boiling point less than 23°C, therefore it can boil at room temperature; that is why a special vaporizer (TEC 6) which is temperature and pressure compensated is required for its delivery.",
+      "topic": "Desflurane"
+    },
+    {
+      "id": 49,
+      "question": "Sevoflurane is the inhalational agent of choice for which patients (due to maintained hepatic blood flow and no trifluoroacetic acid)?",
+      "options": {"A": "Cardiac patients", "B": "Renal patients", "C": "Hepatic patients", "D": "Obese patients"},
+      "answer": "C",
+      "explanation": "Page 99: Sevoflurane decreases portal blood flow but increases hepatic artery blood flow, so hepatic blood flow is best maintained. It does not produce trifluoroacetic acid and cannot cause immunologic hepatitis. These properties make sevoflurane the inhalational agent of choice for hepatic patients.",
+      "topic": "Sevoflurane"
+    },
+    {
+      "id": 50,
+      "question": "Why is ether considered the only 'complete anesthetic' and the safest inhalational agent for remote locations?",
+      "options": {"A": "It is the most potent agent", "B": "It has all three basic properties of anesthesia (narcosis, analgesia, muscle relaxation), does not cause cardiac/respiratory depression, preserves ciliary activity, can be given by open drop method, and is very cheap", "C": "It has the fastest induction and recovery", "D": "It is non-inflammable"},
+      "answer": "B",
+      "explanation": "Page 100: Ether is the only anesthetic till date which can be considered complete, i.e. it has all three basic properties of anesthesia (narcosis, analgesia and muscle relaxation). It is the safest inhalational anesthetic (no cardiac or respiratory depression), the only agent which preserves ciliary activity, can be given by open drop method, and is very cheap — making it the agent of choice for remote locations. Its main disadvantage is that it is highly inflammable and explosive.",
+      "topic": "Ether"
+    }
+  ]
+}

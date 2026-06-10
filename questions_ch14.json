@@ -1,0 +1,409 @@
+{
+  "title": "Perioperative Complications of General Anesthesia MCQ – Chapter 14",
+  "source": "Short Textbook of Anesthesia – Ajay Yadav",
+  "section": "Section 5: General Anesthesia (Chapter 14)",
+  "total_questions": 50,
+  "time_limit_minutes": 35,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Although the more turbulent periods in anesthesia are induction and emergence, maximum complications are reported in which period?",
+      "options": {"A": "Maintenance period", "B": "Induction period", "C": "Emergence period", "D": "Recovery period"},
+      "answer": "A",
+      "explanation": "Page 136: Although the more turbulent periods are induction and emergence, maximum complications are reported in the maintenance period, necessitating the same vigilance standards in maintenance period as in induction and recovery phase.",
+      "topic": "Introduction"
+    },
+    {
+      "id": 2,
+      "question": "Which has been cited as the most common cause of anesthesia-related death in the perioperative period?",
+      "options": {"A": "Cardiac arrest", "B": "Postoperative respiratory depression", "C": "Anaphylaxis", "D": "Aspiration"},
+      "answer": "B",
+      "explanation": "Page 136: Postoperative respiratory depression has been cited as the most common cause of anesthesia related death in perioperative period, and the usual cause is transferring the patient to PACU without oxygen and reluctance to give oxygen in the postoperative period.",
+      "topic": "Mortality"
+    },
+    {
+      "id": 3,
+      "question": "What is the most important risk factor for aspiration (single most important predisposing factor)?",
+      "options": {"A": "Pregnancy", "B": "Full stomach", "C": "Hiatus hernia", "D": "Diabetes"},
+      "answer": "B",
+      "explanation": "Page 137: Among predisposing factors for regurgitation, full stomach is the single most important factor. Other factors include depressed level of consciousness and conditions decreasing the tone of LES.",
+      "topic": "Pulmonary Aspiration"
+    },
+    {
+      "id": 4,
+      "question": "Aspiration of late pregnancy was described by Mendelson and is called:",
+      "options": {"A": "Mendelson syndrome", "B": "Breuer Lockhart reflex", "C": "Sellick's syndrome", "D": "Fink effect"},
+      "answer": "A",
+      "explanation": "Page 137: Pregnancy (acid aspiration in late pregnancy) was described by Mendelson and is called as Mendelson syndrome. The gravid uterus compresses the stomach leading to distortion of gastro-esophageal angle making LES to become incompetent.",
+      "topic": "Pulmonary Aspiration"
+    },
+    {
+      "id": 5,
+      "question": "What is the most important risk factor of aspirate that produces the most fulminant reaction?",
+      "options": {"A": "Volume > 25 mL", "B": "pH < 2.5", "C": "Solid particles", "D": "Temperature of aspirate"},
+      "answer": "A",
+      "explanation": "Page 137: Risk factors of aspiration are volume > 25 mL (the most important risk factor), pH < 2.5, and solid particles. Therefore, acidic solid particles in large quantity (> 25 mL) will produce the most fulminant reaction.",
+      "topic": "Pulmonary Aspiration"
+    },
+    {
+      "id": 6,
+      "question": "During the cricoid pressure (Sellick's maneuver), backward and downward pressure of how much force is applied on the cricoid cartilage?",
+      "options": {"A": "30–40 Newtons (8–9 pounds)", "B": "10–20 Newtons", "C": "50–60 Newtons", "D": "5–8 Newtons"},
+      "answer": "A",
+      "explanation": "Page 138: As soon as the patient becomes unconscious, the assistant applies the backward and downward pressure of 30–40 Newtons (equivalent to 8–9 pounds) on cricoid cartilage (called as Sellick's maneuver) which compresses esophagus between assistant finger and vertebral column preventing aspiration. Cricoid pressure should be released only once the cuff is inflated and tube position is confirmed.",
+      "topic": "Rapid Sequence Induction"
+    },
+    {
+      "id": 7,
+      "question": "Which is the most common postoperative pulmonary complication, and its most common cause?",
+      "options": {"A": "Pneumothorax; caused by barotrauma", "B": "Atelectasis; caused by secretions", "C": "Pulmonary embolism; caused by DVT", "D": "Pulmonary edema; caused by fluid overload"},
+      "answer": "B",
+      "explanation": "Page 139: Atelectasis is the most common postoperative pulmonary complication. The most common cause of atelectasis is the secretions. V/Q mismatch caused by atelectasis is the most common cause of postoperative hypoxia.",
+      "topic": "V/Q Mismatch"
+    },
+    {
+      "id": 8,
+      "question": "What is the most common cause of laryngospasm in anesthesia?",
+      "options": {"A": "Tongue fall", "B": "Secretions", "C": "Light anesthesia", "D": "Endotracheal tube kinking"},
+      "answer": "B",
+      "explanation": "Page 139: Blood and mucous can irritate the larynx producing laryngospasm (glottic closure) and desaturation. Secretions are the most common cause of laryngospasm in anesthesia. Treatment includes removing secretions by suction, IPPV with bag and mask, and small doses of succinylcholine (25–50 mg IV) if not relieved.",
+      "topic": "Upper Airway Obstruction"
+    },
+    {
+      "id": 9,
+      "question": "Negative pressure pulmonary edema occurs due to upper airway obstruction, particularly from:",
+      "options": {"A": "Laryngospasm", "B": "Bronchospasm", "C": "Tongue fall", "D": "Secretions"},
+      "answer": "A",
+      "explanation": "Page 139: The causes of pulmonary edema in perioperative period include cardiac failure, fluid overload, transfusion related, aspiration, sepsis, or negative pressure pulmonary edema due to upper airway obstruction (particularly laryngospasm).",
+      "topic": "Pulmonary Edema"
+    },
+    {
+      "id": 10,
+      "question": "Pulmonary embolism usually presents in which postoperative period?",
+      "options": {"A": "Second week (but can present with sudden onset from 2nd to 4th postoperative day)", "B": "First 24 hours only", "C": "After 1 month", "D": "Only during induction"},
+      "answer": "A",
+      "explanation": "Page 139: Pulmonary embolism usually presents in second week but can present with sudden onset from 2nd to 4th postoperative day. Signs include dyspnea, substernal/chest pain, pleural pain, hemoptysis, tachycardia, increased CVP, hypotension, and gallop rhythm.",
+      "topic": "Pulmonary Embolism"
+    },
+    {
+      "id": 11,
+      "question": "Postoperative hypertension and tachycardia are more responsible for unplanned ICU admission and carry higher morbidity and mortality than:",
+      "options": {"A": "Hypotension and bradycardia", "B": "Aspiration", "C": "Hypoxia", "D": "Arrhythmias"},
+      "answer": "A",
+      "explanation": "Page 140: It has been observed that postoperative hypertension and tachycardia are more responsible for unplanned ICU admission and carry higher morbidity and mortality than hypotension and bradycardia.",
+      "topic": "Cardiovascular Complications"
+    },
+    {
+      "id": 12,
+      "question": "What is the most common arrhythmia seen in the perioperative period?",
+      "options": {"A": "Ventricular fibrillation", "B": "Bradycardia", "C": "Tachycardia", "D": "Atrial fibrillation"},
+      "answer": "C",
+      "explanation": "Page 140: Although any arrhythmia may occur, the most common arrhythmia seen in perioperative period is tachycardia. The most common cause of tachycardia in intraoperative period is inadequate depth of anesthesia, and in postoperative period is pain and anxiety.",
+      "topic": "Cardiac Arrhythmias"
+    },
+    {
+      "id": 13,
+      "question": "What is the most common cause of hypotension in the perioperative period?",
+      "options": {"A": "Anesthetic drugs", "B": "Intravascular volume depletion", "C": "Cardiac arrhythmias", "D": "Anaphylaxis"},
+      "answer": "B",
+      "explanation": "Page 140: The most common cause of hypotension in perioperative period is intravascular volume depletion, which could be because of excessive blood and fluid loss (particularly in major GI surgeries) or inadequate volume replacement.",
+      "topic": "Hypotension"
+    },
+    {
+      "id": 14,
+      "question": "Which is the most commonly used agent to produce controlled hypotension as a continuous infusion?",
+      "options": {"A": "Sodium nitroprusside", "B": "Nitroglycerin", "C": "Labetalol", "D": "Dexmedetomidine"},
+      "answer": "B",
+      "explanation": "Page 141: To produce controlled hypotension, short acting vasodilator especially nitroglycerin as continuous infusion is the most commonly used agent. The concern of methemoglobinemia by nitroglycerine is very rare and treated with methylene blue. Sodium nitroprusside is now not preferred due to possibility of cyanide toxicity.",
+      "topic": "Hypotension / Controlled Hypotension"
+    },
+    {
+      "id": 15,
+      "question": "In controlled hypotension, in a person with normal BP, blood pressure is reduced to a mean arterial pressure of:",
+      "options": {"A": "50–65 mm Hg", "B": "30–40 mm Hg", "C": "70–80 mm Hg", "D": "90–100 mm Hg"},
+      "answer": "A",
+      "explanation": "Page 141: In a person with normal BP, no organ dysfunction occurs if blood pressure is maintained within the limits of autoregulation, i.e. if mean arterial pressure is maintained between 50–65 mm Hg. For a patient with normal BP, controlled hypotension means reduction of mean arterial pressure to 50–65 mm Hg.",
+      "topic": "Hypotension / Controlled Hypotension"
+    },
+    {
+      "id": 16,
+      "question": "More than 80% of cardiac arrests occur at which time?",
+      "options": {"A": "Time of induction", "B": "Maintenance period", "C": "Emergence", "D": "Recovery in PACU"},
+      "answer": "A",
+      "explanation": "Page 141: More than 80% of cardiac arrest occurs at the time of induction. The common causes of cardiac arrest are inability to ventilate, side effects of anesthetic agents like severe hypotension with inhalational agents or bradycardia proceeding to asystole after succinylcholine, and anaphylaxis.",
+      "topic": "Cardiac Arrest"
+    },
+    {
+      "id": 17,
+      "question": "Which is the most common CNS complication of anesthesia?",
+      "options": {"A": "Awareness", "B": "Convulsions", "C": "Delayed recovery", "D": "Permanent brain damage"},
+      "answer": "C",
+      "explanation": "Page 141: Delayed recovery (which means patient not regaining consciousness within 30–60 minutes after discontinuing anesthesia) is the most common CNS complication and is usually due to the residual effect of anesthetic agents.",
+      "topic": "Neurological Complications"
+    },
+    {
+      "id": 18,
+      "question": "Brachial plexus injuries are the most common postoperative nerve injury associated with general anesthesia, followed by which nerve?",
+      "options": {"A": "Ulnar nerve", "B": "Common peroneal nerve", "C": "Radial nerve", "D": "Femoral nerve"},
+      "answer": "A",
+      "explanation": "Page 142: Brachial plexus injuries are the most common postoperative nerve injury associated with general anesthesia, followed by ulnar nerve. However, after regional anesthesia, lumbosacral nerve roots are most commonly involved nerves. When combined (GA+RA), spinal cord injury becomes the most common injury, followed by brachial plexus.",
+      "topic": "Peripheral Neuropathies"
+    },
+    {
+      "id": 19,
+      "question": "For tourniquet use, the pressure should not exceed more than how much above systolic pressure?",
+      "options": {"A": "100 mm Hg (maximum 250 mm Hg)", "B": "50 mm Hg (maximum 150 mm Hg)", "C": "200 mm Hg (maximum 350 mm Hg)", "D": "20 mm Hg (maximum 100 mm Hg)"},
+      "answer": "A",
+      "explanation": "Page 142: Tourniquet palsies — pressure in tourniquet should not exceed more than 100 mm Hg above systolic pressure (maximum 250 mm Hg) and duration should not exceed more than 2 hours for both upper and lower limb.",
+      "topic": "Peripheral Neuropathies"
+    },
+    {
+      "id": 20,
+      "question": "The incidence of awareness (inadequate amnesia) is less than 1%. What is the most common type?",
+      "options": {"A": "Visual", "B": "Auditory", "C": "Tactile", "D": "Painful"},
+      "answer": "B",
+      "explanation": "Page 142: Incidence of awareness is < 1% however very important from medico legal point of view. Most common type is auditory. Awareness usually occurs when oxygen, nitrous oxide and opioids are used for maintenance of anesthesia.",
+      "topic": "Awareness"
+    },
+    {
+      "id": 21,
+      "question": "What is the incidence of postoperative cognitive dysfunction (POCD) at 1 year after cardiac surgery?",
+      "options": {"A": "20% to 40%", "B": "4–10%", "C": "50–60%", "D": "1–2%"},
+      "answer": "A",
+      "explanation": "Page 142: The incidence of postoperative cognitive dysfunction (POCD) at 1 year after cardiac surgery is 20% to 40% and 4–10% after noncardiac surgery. It is more common in old age.",
+      "topic": "Postoperative Cognitive Dysfunction"
+    },
+    {
+      "id": 22,
+      "question": "What is the second most common complaint after pain in the postoperative period?",
+      "options": {"A": "Postoperative nausea and vomiting (PONV)", "B": "Shivering", "C": "Sore throat", "D": "Headache"},
+      "answer": "A",
+      "explanation": "Page 142–143: The incidence of postoperative nausea and vomiting (PONV) is 20% to 30% making it the second most common complaint after pain in postoperative period.",
+      "topic": "Postoperative Nausea and Vomiting"
+    },
+    {
+      "id": 23,
+      "question": "Which are the drugs of choice for treatment as well as prophylaxis of PONV?",
+      "options": {"A": "Serotonin antagonists (ondansetron, granisetron)", "B": "Metoclopramide", "C": "Dexamethasone", "D": "Droperidol"},
+      "answer": "A",
+      "explanation": "Page 143: Serotonin antagonists (ondansetron, granisetron) remain the drugs of choice for treatment as well as prophylaxis for PONV. Interestingly all are equally effective at equipotent doses. Metoclopramide is the preferred antiemetic in conditions associated with high incidence of aspiration.",
+      "topic": "Postoperative Nausea and Vomiting"
+    },
+    {
+      "id": 24,
+      "question": "Regarding PONV risk factors, female gender increases vulnerability by how much compared to males?",
+      "options": {"A": "Three times", "B": "Two times", "C": "Four times", "D": "1.8 times"},
+      "answer": "A",
+      "explanation": "Page 143: Female gender is three times more vulnerable than males. General anesthesia has 4 times more incidence of PONV than regional anesthesia (most common reason being opioids). Nonsmokers are 1.8 times more vulnerable than smokers.",
+      "topic": "Postoperative Nausea and Vomiting"
+    },
+    {
+      "id": 25,
+      "question": "What is the most common thermal perturbation seen in anesthesia?",
+      "options": {"A": "Hyperthermia", "B": "Hypothermia", "C": "Malignant hyperthermia", "D": "Fever"},
+      "answer": "B",
+      "explanation": "Page 143: Hypothermia is the most common thermal perturbation seen in anesthesia. Shivering occurs as a protective mechanism to hypothermia. O2 consumption may increase to 4 times (400%) during shivering, therefore oxygen supplementation during shivering is mandatory.",
+      "topic": "Thermal Perturbations"
+    },
+    {
+      "id": 26,
+      "question": "Which is the drug of choice for postoperative shivering?",
+      "options": {"A": "Tramadol", "B": "Pethidine", "C": "Clonidine", "D": "Propofol"},
+      "answer": "B",
+      "explanation": "Page 143: Pethidine is the drug of choice for shivering. Tramadol is the 2nd drug of choice after pethidine. Other drugs include alpha 2 agonists (clonidine, dexmedetomidine), butorphanol, chlorpromazine, physostigmine, magnesium sulfate, ketanserin and propofol.",
+      "topic": "Shivering"
+    },
+    {
+      "id": 27,
+      "question": "Malignant hyperthermia is due to an abnormality of which receptor?",
+      "options": {"A": "Type 1 Ryanodine receptor (RYR1)", "B": "NMDA receptor", "C": "GABA-A receptor", "D": "Acetylcholine receptor"},
+      "answer": "A",
+      "explanation": "Page 144: Malignant hyperthermia is due to an abnormality of type 1 Ryanodine receptor (RYR1) which is the calcium releasing channel of sarcoplasmic reticulum. The abnormality leads to excessive accumulation of calcium in sarcoplasmic reticulum causing sustained contraction of muscle. It is a genetic disease, usually autosomal dominant.",
+      "topic": "Malignant Hyperthermia"
+    },
+    {
+      "id": 28,
+      "question": "Which muscle relaxant is the most commonly implicated drug in malignant hyperthermia?",
+      "options": {"A": "Vecuronium", "B": "Atracurium", "C": "Succinylcholine", "D": "Rocuronium"},
+      "answer": "C",
+      "explanation": "Page 144: Succinylcholine is the most commonly implicated drug (muscle relaxant) in malignant hyperthermia. Among inhalational agents, halothane is the most commonly implicated inhalational agent.",
+      "topic": "Malignant Hyperthermia"
+    },
+    {
+      "id": 29,
+      "question": "What is the most sensitive early sign of malignant hyperthermia?",
+      "options": {"A": "Hyperthermia", "B": "Rapid increase in end tidal CO2 (ETCO2)", "C": "Masseter spasm", "D": "Hyperkalemia"},
+      "answer": "B",
+      "explanation": "Page 144: Rapid increase in end tidal CO2 (ETCO2) is the most sensitive early sign of malignant hyperthermia (may rise to more than 100 mm Hg; normal 32–42 mm Hg). Hyperthermia is the most important sign in diagnosing MH but unfortunately it is a late sign.",
+      "topic": "Malignant Hyperthermia"
+    },
+    {
+      "id": 30,
+      "question": "What is the most common cause of death in malignant hyperthermia?",
+      "options": {"A": "Renal failure", "B": "Hyperkalemia induced ventricular fibrillation", "C": "Pulmonary edema", "D": "DIC"},
+      "answer": "B",
+      "explanation": "Page 145: Hyperkalemia induced ventricular fibrillation is the most common cause of death in malignant hyperthermia.",
+      "topic": "Malignant Hyperthermia"
+    },
+    {
+      "id": 31,
+      "question": "What is the specific treatment of malignant hyperthermia?",
+      "options": {"A": "Dantrolene, 2 mg/kg repeated every 5 minutes (max 10 mg/kg)", "B": "Adrenaline", "C": "Sodium bicarbonate", "D": "Insulin and dextrose"},
+      "answer": "A",
+      "explanation": "Page 145: The specific treatment is dantrolene, 2 mg/kg to be repeated every 5 minutes (maximum 10 mg/kg). Dantrolene should be continued 1 mg/kg every 6 hourly for next 24 hours as chances of recurrence is 50%. Dantrolene directly binds to ryanodine receptor inhibiting calcium release.",
+      "topic": "Malignant Hyperthermia"
+    },
+    {
+      "id": 32,
+      "question": "What is considered the gold standard test for diagnosing susceptibility to malignant hyperthermia?",
+      "options": {"A": "Blood creatinine kinase (CK) levels", "B": "Muscle contracture test (with halothane and caffeine)", "C": "Genetic testing", "D": "ECG"},
+      "answer": "B",
+      "explanation": "Page 145: Patients with normal CK levels should undergo muscle contracture test. In this test a muscle biopsy is taken and subjected to halothane and caffeine to see the pathological changes of malignant hyperthermia. Muscle contracture test is considered as gold standard test for diagnosing susceptibility to malignant hyperthermia.",
+      "topic": "Malignant Hyperthermia"
+    },
+    {
+      "id": 33,
+      "question": "Which agents can DELAY or PREVENT malignant hyperthermia?",
+      "options": {"A": "Halothane and succinylcholine", "B": "Propofol and nondepolarizing muscle relaxants", "C": "Sevoflurane and atropine", "D": "Isoflurane and ketamine"},
+      "answer": "B",
+      "explanation": "Page 145: Propofol (can delay or prevent malignant hyperthermia) and nondepolarizing muscle relaxants (can delay or prevent malignant hyperthermia) are safe drugs for general anesthesia in susceptible patients. Other safe drugs are barbiturates, narcotics, benzodiazepines and nitrous oxide.",
+      "topic": "Malignant Hyperthermia"
+    },
+    {
+      "id": 34,
+      "question": "What is the most common cause of anaphylaxis in the perioperative period?",
+      "options": {"A": "Latex allergy", "B": "Muscle relaxants (60–70%)", "C": "Antibiotics", "D": "Inhalational agents"},
+      "answer": "B",
+      "explanation": "Page 146: The most common cause of anaphylaxis is muscle relaxants (60–70%) followed by latex allergy (12%) and then antibiotics (8–10%). Among muscle relaxants, maximum incidence is with rocuronium to be followed by suxamethonium.",
+      "topic": "Anaphylactic Reactions"
+    },
+    {
+      "id": 35,
+      "question": "What is the mainstay of treatment of anaphylaxis?",
+      "options": {"A": "Steroids (hydrocortisone)", "B": "Adrenaline", "C": "Antihistamine (diphenhydramine)", "D": "Intravenous fluids"},
+      "answer": "B",
+      "explanation": "Page 146: Adrenaline is the mainstay of treatment of anaphylaxis. Doses: 0.5–1 mg of 1:1000 intramuscularly or subcutaneously. In life-threatening situations, 1:10,000 adrenaline can be given intravenously. Maintenance of airway, steroids (hydrocortisone) and histamine antagonist (diphenhydramine) are also given.",
+      "topic": "Anaphylactic Reactions"
+    },
+    {
+      "id": 36,
+      "question": "In the lithotomy position, which nerve injury is the most common neuropathy of the lower limb?",
+      "options": {"A": "Saphenous nerve", "B": "Common peroneal nerve (compressed between head of fibula and bar)", "C": "Femoral nerve", "D": "Obturator nerve"},
+      "answer": "B",
+      "explanation": "Page 146: In the lithotomy position, common peroneal nerve (compressed between head of fibula and bar) is the most common neuropathy of the lower limb. Functional residual capacity and vital capacity decrease by approx 20%, increasing the V/Q mismatch.",
+      "topic": "Complications of Different Positions"
+    },
+    {
+      "id": 37,
+      "question": "Which ocular complication is a common complication of general anesthesia if the eyes remain open?",
+      "options": {"A": "Exposure keratitis (corneal abrasion)", "B": "Glaucoma", "C": "Retinal detachment", "D": "Cataract"},
+      "answer": "A",
+      "explanation": "Page 146: Exposure keratitis (corneal abrasion) is a common complication of general anesthesia if eyes remain open (because of loss of blinking reflex). To prevent keratitis, artificial tears/eye ointment should be instilled and eyes should be covered with eye pads.",
+      "topic": "Ocular Complications"
+    },
+    {
+      "id": 38,
+      "question": "Fire requires three prerequisites (the triad of fire). What are they?",
+      "options": {"A": "Ignition source, fuel and an oxidizer (gas supporting combustion)", "B": "Heat, light and oxygen", "C": "Spark, electricity and nitrous oxide", "D": "Cautery, laser and air"},
+      "answer": "A",
+      "explanation": "Page 147: There are three prerequisites for a fire (the triad of fire): ignition source, fuel and an oxidizer (gas supporting combustion). The ignition source may be cautery (responsible for 68% of fires), laser, electric sparks, or static electricity.",
+      "topic": "Fires and Electric Hazards"
+    },
+    {
+      "id": 39,
+      "question": "Cautery is responsible for what percentage of fires seen in the operation theater?",
+      "options": {"A": "68%", "B": "25%", "C": "50%", "D": "90%"},
+      "answer": "A",
+      "explanation": "Page 147: Cautery is responsible for 68% of fires seen in OT. The maximum leakage allowed in operation theater is 10 μA (electric sparks and short circuits). Among fuels, silicone is most resistant to fire followed by PVC, while red rubber tubes are most vulnerable to catch fire.",
+      "topic": "Fires and Electric Hazards"
+    },
+    {
+      "id": 40,
+      "question": "The hydrodynamics of regurgitation: a pressure of more than how much (cm H2O) is required to overcome the competency of the lower esophageal sphincter (LES)?",
+      "options": {"A": "> 20 cm H2O", "B": "> 5 cm H2O", "C": "> 50 cm H2O", "D": "> 10 cm H2O"},
+      "answer": "A",
+      "explanation": "Page 137: Normal intragastric pressure is 5–7 cm H2O and regurgitation is prevented by the tone of LES. A pressure of > 20 cm H2O is required to overcome the competency of LES. In conditions like pregnancy and hiatus hernia, a pressure > 15 cm H2O can cause regurgitation.",
+      "topic": "Pulmonary Aspiration"
+    },
+    {
+      "id": 41,
+      "question": "Which drug is preferred for prevention of nausea and vomiting in conditions associated with high incidence of aspiration, as it fastens gastric emptying and increases LES tone?",
+      "options": {"A": "Ondansetron", "B": "Metoclopramide", "C": "Dexamethasone", "D": "Droperidol"},
+      "answer": "B",
+      "explanation": "Page 138, 143: Metoclopramide fastens gastric emptying and increases the tone of LES, therefore it is the preferred antiemetic for conditions associated with high incidence of aspiration.",
+      "topic": "Postoperative Nausea and Vomiting"
+    },
+    {
+      "id": 42,
+      "question": "Which drugs can cause convulsions as a perioperative complication?",
+      "options": {"A": "Local anesthetics, methohexitone, enflurane, sevoflurane and atracurium/cisatracurium", "B": "Propofol, thiopentone and morphine", "C": "Isoflurane, halothane and nitrous oxide", "D": "Vecuronium and pancuronium"},
+      "answer": "A",
+      "explanation": "Page 141: Convulsions may occur due to hypoxia, drugs like local anesthetics, methohexitone, enflurane, sevoflurane and atracurium/cisatracurium, and cerebrovascular accidents.",
+      "topic": "Convulsions"
+    },
+    {
+      "id": 43,
+      "question": "What is the lifetime risk of re-infarction in a known patient of myocardial infarction undergoing surgery?",
+      "options": {"A": "6%", "B": "20%", "C": "50%", "D": "1%"},
+      "answer": "A",
+      "explanation": "Page 141: Surgery and anesthesia are stressful conditions which can precipitate MI in susceptible individuals. The lifetime risk of re-infarction in a known patient of MI is 6%. Treatment includes oxygen, morphine, nitroglycerine, inotropes, thrombolytic therapy and intra-aortic balloon counterpulsations.",
+      "topic": "Myocardial Ischemia"
+    },
+    {
+      "id": 44,
+      "question": "What is the most popular recovery score used for discharge from the postanesthesia care unit (PACU)?",
+      "options": {"A": "Glasgow Coma Scale", "B": "ALDRETE score (color, respiration, consciousness level, circulation and activity)", "C": "APGAR score", "D": "Ramsay score"},
+      "answer": "B",
+      "explanation": "Page 148: The criteria for discharge from PACU vary depending on whether patient is discharged to ICU, ward or home. Although there are many recovery scores, the most popular are ALDRETE score (which includes color, respiration, consciousness level, circulation and activity level) and postanesthesia discharge scoring system (PADS).",
+      "topic": "Discharge Criteria from PACU"
+    },
+    {
+      "id": 45,
+      "question": "The Breuer Lockhart reflex refers to which phenomenon?",
+      "options": {"A": "Light anesthesia during Lord's (anal) stretching and cervical dilatation initiating parasympathetic overactivity causing laryngospasm, bronchospasm, bradycardia and even cardiac arrest", "B": "Cricoid pressure preventing aspiration", "C": "Pupillary dilatation during surgery", "D": "Diffusion hypoxia after nitrous oxide"},
+      "answer": "A",
+      "explanation": "Page 139: Light anesthesia during Lord's (anal) stretching and cervical dilatation can initiate parasympathetic over activity causing laryngospasm, bronchospasm, bradycardia and even cardiac arrest. This reflex is called as Breuer Lockhart reflex.",
+      "topic": "Bronchospasm"
+    },
+    {
+      "id": 46,
+      "question": "Which non-anesthetic causes of hyperthermia in anesthesia is correctly matched?",
+      "options": {"A": "Neuroleptic malignant syndrome — phenothiazines", "B": "Malignant hyperthermia — propofol", "C": "Hypermetabolic state — hypothyroidism", "D": "Hyperthermia — beta-blockers"},
+      "answer": "A",
+      "explanation": "Page 144: Causes of hyperthermia in anesthesia include hypermetabolic states (thyrotoxicosis, pheochromocytoma), neuroleptic malignant syndrome due to phenothiazines, drug induced (atropine, pethidine, MAO inhibitors, tricyclic antidepressants, amphetamines), injury to hypothalamic temperature regulatory centers, and malignant hyperthermia.",
+      "topic": "Hyperthermia"
+    },
+    {
+      "id": 47,
+      "question": "In the differential diagnosis between malignant hyperthermia (MH) and neuroleptic malignant syndrome (NMS), which feature points to NMS?",
+      "options": {"A": "Rapid and disproportionate CO2 rise", "B": "History of intake of antidopaminergic drugs (phenothiazines, metoclopramide) or missing levodopa in Parkinson patient", "C": "Inability to reverse muscle rigidity with nondepolarizers", "D": "Hyperkalemia"},
+      "answer": "B",
+      "explanation": "Page 145: In NMS, there is a history of intake of antidopaminergic drugs (like phenothiazines or metoclopramide) or missing the intake of levodopa in Parkinson patient. The rise in CO2 and muscle rigidity are slow and in proportion to rise in temperature. As the neuromuscular junction is normal in NMS, muscle rigidity can be reversed with nondepolarizing muscle relaxants (while in MH, it is not possible to reverse rigidity by nondepolarizers).",
+      "topic": "Malignant Hyperthermia"
+    },
+    {
+      "id": 48,
+      "question": "Which position can cause spinal cord ischemia and quadriplegia due to extreme flexion of the neck?",
+      "options": {"A": "Lithotomy", "B": "Trendelenburg", "C": "Sitting position", "D": "Supine"},
+      "answer": "C",
+      "explanation": "Page 146: In the sitting position, spinal cord ischemia and quadriplegia can occur due to extreme flexion of neck. Brachial plexus injury (weight of arm stretching the brachial plexus), femoral and obturator nerve injury, and venous air embolism can also occur.",
+      "topic": "Complications of Different Positions"
+    },
+    {
+      "id": 49,
+      "question": "In the perioperative period, what is the most common cause of tachycardia in the intraoperative period?",
+      "options": {"A": "Inadequate depth of anesthesia", "B": "Pain and anxiety", "C": "Hypovolemia", "D": "Hyperthermia"},
+      "answer": "A",
+      "explanation": "Page 140: The most common cause of tachycardia in intraoperative period is inadequate depth of anesthesia, and in postoperative period it is pain and anxiety. Treatment includes increasing the depth or treating the pain; if not due to these causes, it should be treated with esmolol.",
+      "topic": "Cardiac Arrhythmias"
+    },
+    {
+      "id": 50,
+      "question": "In the PACU, vitals should be monitored at what interval for the first 15 minutes?",
+      "options": {"A": "Every 5 minutes", "B": "Every 1 minute", "C": "Every 15 minutes", "D": "Every 30 minutes"},
+      "answer": "A",
+      "explanation": "Page 136: To prevent complications in PACU, vitals should be monitored every 5 minutes for the first 15 minutes and thereafter every 15 minutes in stable patients. All patients in PACU must receive supplemental oxygen and continuous monitoring of oxygen saturation.",
+      "topic": "Mortality / PACU"
+    }
+  ]
+}

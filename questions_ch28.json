@@ -1,0 +1,409 @@
+{
+  "title": "Anesthesia for Obstetrics MCQ – Chapter 28",
+  "source": "Short Textbook of Anesthesia – Ajay Yadav",
+  "section": "Section 8: Subspecialty Anesthetic Management (Chapter 28)",
+  "total_questions": 50,
+  "time_limit_minutes": 35,
+  "questions": [
+    {
+      "id": 1,
+      "question": "During pregnancy, the cardiac output increases by approximately:",
+      "options": {"A": "40%", "B": "15%", "C": "20%", "D": "60%"},
+      "answer": "A",
+      "explanation": "Page 230: In pregnancy, intravascular fluid volume increases by 35%, cardiac output by 40%, heart rate by 15%, while systemic vascular resistance decreases by 15% and blood pressure decreases by 5–20% (diastolic decreases more than systolic).",
+      "topic": "Physiological Changes in Pregnancy"
+    },
+    {
+      "id": 2,
+      "question": "Pregnant patients are more vulnerable to cardiac failure because of:",
+      "options": {"A": "Hyperdynamic circulation", "B": "Decreased blood volume", "C": "Bradycardia", "D": "Hypotension"},
+      "answer": "A",
+      "explanation": "Page 230: The clinical implication of cardiovascular changes is that pregnant patients are more vulnerable for cardiac failure due to hyperdynamic circulation.",
+      "topic": "Physiological Changes in Pregnancy"
+    },
+    {
+      "id": 3,
+      "question": "During pregnancy, minute ventilation increases by 50% and functional residual capacity (FRC) decreases by:",
+      "options": {"A": "20%", "B": "40%", "C": "10%", "D": "50%"},
+      "answer": "A",
+      "explanation": "Page 230: In pregnancy, tidal volume increases by 40%, respiratory rate by 10%, minute ventilation by 50%, oxygen consumption by 20%, while FRC decreases by 20% (FRC, ERV and RV decrease due to gravid uterus causing diaphragmatic elevation and basal atelectasis). Vital capacity shows no change.",
+      "topic": "Physiological Changes in Pregnancy"
+    },
+    {
+      "id": 4,
+      "question": "Why is preoxygenation a must in pregnant patients?",
+      "options": {"A": "Due to decreased FRC, ERV and increased oxygen requirement, making them more vulnerable for hypoxia", "B": "Due to increased FRC", "C": "Due to decreased oxygen consumption", "D": "Due to bradycardia"},
+      "answer": "A",
+      "explanation": "Page 230: Due to decreased FRC, ERV and increased oxygen requirement, pregnant patients are more vulnerable for hypoxia, therefore preoxygenation is a must. Due to increase in minute ventilation, induction with inhalational agents may be faster.",
+      "topic": "Physiological Changes in Pregnancy"
+    },
+    {
+      "id": 5,
+      "question": "Progesterone decreases the minimum alveolar concentration (MAC) by:",
+      "options": {"A": "25–40%, making pregnant patients more susceptible to anesthetic over dosage", "B": "5–10%", "C": "50–60%", "D": "It increases MAC by 25%"},
+      "answer": "A",
+      "explanation": "Page 230, 235: Progesterone decreases the minimum alveolar concentration by 25–40% making pregnant patients more susceptible to anesthetic over dosage.",
+      "topic": "Physiological Changes in Pregnancy"
+    },
+    {
+      "id": 6,
+      "question": "To prevent high spinal in pregnant patients (due to engorged epidural veins reducing subarachnoid space), the dose of local anesthetic for spinal has to be reduced by:",
+      "options": {"A": "30–40%", "B": "10–15%", "C": "50–60%", "D": "5–10%"},
+      "answer": "A",
+      "explanation": "Page 230: As the epidural veins communicate with inferior vena cava, compression of inferior vena cava by gravid uterus causes engorgement of epidural veins, decreasing the subarachnoid space, leading the drugs to spread higher making pregnant patients more vulnerable for high spinal. Therefore, to prevent high spinal, the dose of local anesthetic for spinal has to be reduced by 30–40%.",
+      "topic": "Physiological Changes in Pregnancy"
+    },
+    {
+      "id": 7,
+      "question": "Why are all pregnant patients considered full stomach even if fasting for more than 8 hours?",
+      "options": {"A": "Gastric emptying is delayed (progesterone), gravid uterus makes LES incompetent, progesterone relaxes LES, and gastric contents are more acidic", "B": "They eat more frequently", "C": "They have increased gastric secretions only", "D": "They have a smaller stomach"},
+      "answer": "A",
+      "explanation": "Page 231: Parturients are very vulnerable for aspiration (Mendelson syndrome) because gastric emptying is delayed due to progesterone, gravid uterus alters the gastro-esophageal angle making LES incompetent, progesterone relaxes the LES, and gastric contents are more acidic. Therefore, all pregnant patients should be considered full stomach even if they are fasting for more than 8 hours.",
+      "topic": "Gastrointestinal System"
+    },
+    {
+      "id": 8,
+      "question": "What is the cause of supine hypotension syndrome (SHS) in pregnancy?",
+      "options": {"A": "In supine position, the gravid uterus compresses the inferior vena cava and aorta, decreasing cardiac output", "B": "Increased venous return", "C": "Decreased blood volume", "D": "Excessive vasodilatation"},
+      "answer": "A",
+      "explanation": "Page 231: In supine position, the gravid uterus can compress the inferior vena cava and aorta decreasing the cardiac output causing supine hypotension syndrome (SHS), which can cause severe hypotension or even cardiac arrest after spinal anesthesia.",
+      "topic": "Uterus / Supine Hypotension Syndrome"
+    },
+    {
+      "id": 9,
+      "question": "To prevent supine hypotension syndrome (SHS), the pregnant patient should:",
+      "options": {"A": "Lie in left lateral position, or a 15° wedge placed under right buttock, or table tilted 15° to left, or uterus manually displaced to left", "B": "Lie flat supine", "C": "Be placed in Trendelenburg position", "D": "Lie in right lateral position"},
+      "answer": "A",
+      "explanation": "Page 231: To prevent SHS, the pregnant patient should lie in left lateral position, or by putting a 15° wedge under right buttock, or by tilting the delivery table by 15° to left, or by manually displacing the uterus to left.",
+      "topic": "Uterus / Supine Hypotension Syndrome"
+    },
+    {
+      "id": 10,
+      "question": "What is the normal uterine blood flow in pregnancy?",
+      "options": {"A": "500–700 mL/min (10% of cardiac output)", "B": "100–200 mL/min", "C": "1000–1500 mL/min", "D": "250 mL/min"},
+      "answer": "A",
+      "explanation": "Page 231: Uterine blood flow is 500–700 mL/min (10% of cardiac output) and placental flow is directly dependent on maternal blood flow. Anything that causes hypotension, vasoconstriction, or increases uterine tone (ketamine) can decrease maternal flow and hence placental blood flow.",
+      "topic": "Uteroplacental Circulation"
+    },
+    {
+      "id": 11,
+      "question": "All anesthetic drugs cross the placenta to fetal circulation EXCEPT:",
+      "options": {"A": "Muscle relaxants (only gallamine has significant transfer) and glycopyrrolate", "B": "Local anesthetics", "C": "Opioids", "D": "Inhalational agents"},
+      "answer": "A",
+      "explanation": "Page 231: All anesthetic drugs except muscle relaxants (only gallamine has significant transfer) and glycopyrrolate can be transferred to fetus from maternal circulation. Therefore, all drugs should be used in minimum concentration and dosage.",
+      "topic": "Transfer of Drugs to Fetal Circulation"
+    },
+    {
+      "id": 12,
+      "question": "Local anesthetics and opioids (weak bases) cross the placenta in unionized form but become ionized in the fetal circulation and cannot come back. This phenomenon is called:",
+      "options": {"A": "Ion trapping", "B": "Second gas effect", "C": "Concentration effect", "D": "Diffusion hypoxia"},
+      "answer": "A",
+      "explanation": "Page 231: Local anesthetics and opioids are bases; they cross the placenta in unionized form, become ionized in fetal circulation (due to low pH) and cannot come back to maternal circulation, leading to their trapping (called as ion trapping) and accumulation in fetus.",
+      "topic": "Transfer of Drugs to Fetal Circulation"
+    },
+    {
+      "id": 13,
+      "question": "Regional anesthesia is preferred over general anesthesia for cesarean section. The mortality in obstetrics during GA is:",
+      "options": {"A": "Twice as compared to regional anesthesia", "B": "Equal to regional anesthesia", "C": "Half of regional anesthesia", "D": "Five times regional anesthesia"},
+      "answer": "A",
+      "explanation": "Page 232: Because of pulmonary aspiration and failed intubation, the mortality in obstetrics during general anesthesia (GA) is twice as compared to regional anesthesia. Pulmonary aspiration is 4 times more and failed intubation is 8 times more in obstetrics.",
+      "topic": "Anesthesia for Cesarean Section"
+    },
+    {
+      "id": 14,
+      "question": "What level of block is required for cesarean section?",
+      "options": {"A": "Up to T4", "B": "Up to T10", "C": "Up to T6", "D": "Up to T8"},
+      "answer": "A",
+      "explanation": "Page 232: During cesarean there occurs handling of gut and mesentery, therefore level up to T4 is required.",
+      "topic": "Anesthesia for Cesarean Section"
+    },
+    {
+      "id": 15,
+      "question": "Which vasopressor has traditionally been the vasopressor of choice in pregnancy, as it does not produce significant vasoconstriction in the uteroplacental bed?",
+      "options": {"A": "Ephedrine", "B": "Phenylephrine", "C": "Noradrenaline", "D": "Methoxamine"},
+      "answer": "A",
+      "explanation": "Page 232: The disadvantage of vasopressors is that they not only produce vasoconstriction in maternal circulation but also in uteroplacental bed compromising fetal circulation — except ephedrine which does not produce significant vasoconstriction in uteroplacental bed. Therefore ephedrine had always been the vasopressor of choice in pregnancy.",
+      "topic": "Anesthesia for Cesarean Section"
+    },
+    {
+      "id": 16,
+      "question": "Recent human trials have shown that phenylephrine produces less fetal acidosis than ephedrine, making it:",
+      "options": {"A": "A preferred vasopressor over ephedrine in current day anesthetic practice", "B": "Contraindicated in pregnancy", "C": "Inferior to ephedrine", "D": "Only used in PIH"},
+      "answer": "A",
+      "explanation": "Page 232: Recent human trials have shown phenylephrine to produce less fetal acidosis than ephedrine, making phenylephrine a preferred vasopressor over ephedrine in current day anesthetic practice.",
+      "topic": "Anesthesia for Cesarean Section"
+    },
+    {
+      "id": 17,
+      "question": "Why is the onset of epidural anesthesia slow (15–20 minutes), making it reserved for elective cases or PIH?",
+      "options": {"A": "Onset takes a long time, so it is reserved for elective cases or specific conditions like pregnancy-induced hypertension (PIH)", "B": "Because it requires general anesthesia first", "C": "Because it is contraindicated in cesarean", "D": "Because it causes high spinal"},
+      "answer": "A",
+      "explanation": "Page 232: Onset of epidural takes a long time (15–20 minutes), therefore it is reserved for elective cases only or for specific conditions like pregnancy-induced hypertension (PIH).",
+      "topic": "Anesthesia for Cesarean Section"
+    },
+    {
+      "id": 18,
+      "question": "Regarding propofol use in pregnancy for cesarean induction, current evidence shows that:",
+      "options": {"A": "Propofol does not affect the APGAR and can be safely used in pregnancy", "B": "Propofol is absolutely contraindicated in pregnancy", "C": "Propofol always lowers APGAR scores", "D": "Propofol causes uterine atony"},
+      "answer": "A",
+      "explanation": "Page 232: Thiopentone had been the induction agent of choice in the past as propofol safety had not been proven in newborns; however, now it is seen that at the doses used for induction, propofol does not affect the APGAR therefore can be safely used in pregnancy.",
+      "topic": "General Anesthesia for Cesarean Section"
+    },
+    {
+      "id": 19,
+      "question": "Why must all pregnant patients undergoing GA for cesarean be premedicated (with metoclopramide, sodium citrate and ranitidine) and managed like rapid sequence induction?",
+      "options": {"A": "Because all pregnant patients must be considered full stomach irrespective of their fasting status", "B": "Because they have low blood pressure", "C": "Because of increased cardiac output", "D": "Because of decreased MAC"},
+      "answer": "A",
+      "explanation": "Page 232: All pregnant patients must be considered full stomach irrespective of their fasting status and must be managed like rapid sequence induction. Therefore they must be premedicated with metoclopramide, sodium citrate (to neutralize pH) and ranitidine.",
+      "topic": "General Anesthesia for Cesarean Section"
+    },
+    {
+      "id": 20,
+      "question": "All inhalational agents can relax the uterus and cause postpartum hemorrhage (PPH). At what concentration is significant uterine relaxation NOT produced?",
+      "options": {"A": "At concentration less than half MAC (< 0.5 MAC)", "B": "At concentration above 1 MAC", "C": "At any concentration", "D": "At concentration above 2 MAC"},
+      "answer": "A",
+      "explanation": "Page 232–233: All inhalational agents in current use can relax the uterus in same magnitude and can cause postpartum hemorrhage (PPH); however, it has been seen that at concentration less than half minimum alveolar concentration (MAC) they do not produce significant uterine relaxation, therefore can be used safely in concentration < 0.5 MAC.",
+      "topic": "General Anesthesia for Cesarean Section"
+    },
+    {
+      "id": 21,
+      "question": "When can opioids be given during GA for cesarean section?",
+      "options": {"A": "Only after the delivery of the baby", "B": "Before induction", "C": "During induction", "D": "Opioids are never given"},
+      "answer": "A",
+      "explanation": "Page 233: Opioids can be given only after the delivery of baby. All muscle relaxants except gallamine can be used safely.",
+      "topic": "General Anesthesia for Cesarean Section"
+    },
+    {
+      "id": 22,
+      "question": "What is the anesthetic technique of choice for cesarean section in patients with pregnancy-induced hypertension (PIH)/preeclampsia?",
+      "options": {"A": "Epidural", "B": "Spinal", "C": "General anesthesia", "D": "Local infiltration"},
+      "answer": "A",
+      "explanation": "Page 233: The anesthetic technique of choice for PIH is epidural. Difficult intubation due to laryngeal edema can make GA to become risky. As PIH patients are hypertensive they are more prone for hypotension; however, if necessary spinal can be given to PIH patients.",
+      "topic": "Cesarean for PIH/Preeclampsia"
+    },
+    {
+      "id": 23,
+      "question": "Before giving central neuraxial blocks in a PIH patient, it is important to rule out which condition?",
+      "options": {"A": "HELLP syndrome", "B": "Diabetes", "C": "Anemia", "D": "Hypothyroidism"},
+      "answer": "A",
+      "explanation": "Page 233: Before giving central neuraxial blocks in PIH it is important to rule out HELLP syndrome. If the patient has HELLP syndrome then epidural also becomes contraindicated and patient receives GA instead of laryngeal edema.",
+      "topic": "Cesarean for PIH/Preeclampsia"
+    },
+    {
+      "id": 24,
+      "question": "In PIH patients on magnesium therapy, what is the anesthetic concern during general anesthesia?",
+      "options": {"A": "Magnesium can potentiate the action of muscle relaxants or cause respiratory or cardiac arrest at toxic levels", "B": "Magnesium causes hypertension", "C": "Magnesium increases MAC", "D": "Magnesium causes tachycardia"},
+      "answer": "A",
+      "explanation": "Page 233: Many PIH patients are on magnesium which can potentiate the action of muscle relaxants or can cause respiratory or cardiac arrest at toxic levels. Attenuation of cardiovascular response to intubation must be blunted, otherwise intracranial hemorrhage can occur.",
+      "topic": "Cesarean for PIH/Preeclampsia"
+    },
+    {
+      "id": 25,
+      "question": "Pain afferents from the uterus and cervix during labor travel up to which spinal levels?",
+      "options": {"A": "T10-L1", "B": "T4-T6", "C": "L2-L4", "D": "S2-S4"},
+      "answer": "A",
+      "explanation": "Page 233: Pain afferents from uterus and cervix travel up to T10-L1. The most commonly used technique for labor analgesia (painless labor) is continuous lumbar epidural.",
+      "topic": "Labor Analgesia"
+    },
+    {
+      "id": 26,
+      "question": "What is the most commonly used technique for labor analgesia (painless labor)?",
+      "options": {"A": "Continuous lumbar epidural", "B": "Spinal anesthesia", "C": "Paracervical block", "D": "Pudendal nerve block"},
+      "answer": "A",
+      "explanation": "Page 233: The most commonly used technique for painless labor is continuous lumbar epidural.",
+      "topic": "Labor Analgesia"
+    },
+    {
+      "id": 27,
+      "question": "According to current recommendations, when should painless labor be started?",
+      "options": {"A": "When the patient demands, irrespective of the stage of labor", "B": "Only when cervix is at least 3–4 cm dilated", "C": "Only in second stage", "D": "Only after full dilatation"},
+      "answer": "A",
+      "explanation": "Page 233: Contrary to the previous recommendation that painless labor should be started once the labor is well established (cervix at least 3–4 cm dilated), the current recommendation is to start painless labor when the patient demands, irrespective of the stage of labor.",
+      "topic": "Labor Analgesia"
+    },
+    {
+      "id": 28,
+      "question": "When the concentration of bupivacaine used in epidural labor analgesia is too low (0.0625%), allowing the patient to move out of bed and sit, it is called:",
+      "options": {"A": "Walking epidural", "B": "Continuous spinal", "C": "Saddle block", "D": "Caudal block"},
+      "answer": "A",
+      "explanation": "Page 233: If the concentration of bupivacaine used is too low (0.0625%), it is called as walking epidural (means patient can move out of the bed and sit in recliner).",
+      "topic": "Labor Analgesia"
+    },
+    {
+      "id": 29,
+      "question": "Why should lignocaine with adrenaline be avoided for the test dose in a pregnant patient?",
+      "options": {"A": "Adrenaline can decrease uterine blood supply, and there is already too much variation in heart rate due to labor making it impossible to differentiate intravascular injection", "B": "Adrenaline causes hypotension", "C": "Adrenaline is teratogenic", "D": "Adrenaline causes uterine rupture"},
+      "answer": "A",
+      "explanation": "Page 233: Lignocaine with adrenaline should be avoided for test dose in pregnant patient due to 2 reasons: firstly, adrenaline can decrease uterine blood supply, and secondly, as there is already so much variation in heart rate due to labor, it becomes impossible to differentiate whether the change in heart rate is due to intravascular injection or labor.",
+      "topic": "Labor Analgesia"
+    },
+    {
+      "id": 30,
+      "question": "Low concentration epidurals for labor analgesia:",
+      "options": {"A": "Neither increase the rate of cesarean section nor the rate of instrumental delivery, but can delay the duration of labor by 30–60 minutes", "B": "Always increase cesarean rate", "C": "Always increase instrumental delivery", "D": "Shorten labor duration"},
+      "answer": "A",
+      "explanation": "Page 234: Low concentration epidurals neither increase the rate of cesarean section nor the rate of instrumental delivery, however can delay the duration of labour by 30–60 minutes.",
+      "topic": "Labor Analgesia"
+    },
+    {
+      "id": 31,
+      "question": "Which is the opioid of choice for pain relief in labor when given as a parenteral narcotic?",
+      "options": {"A": "Remifentanil (as it is metabolized in maternal plasma, with insignificant amount reaching the fetus)", "B": "Morphine", "C": "Pethidine", "D": "Pentazocine"},
+      "answer": "A",
+      "explanation": "Page 234: As remifentanil is metabolized in maternal plasma, insignificant amount reaches the fetus making remifentanil a parenteral opioid of choice for pain relief in labor analgesia. Parenteral narcotics should be used only as last resort as there is always a risk of fetal as well as maternal respiratory depression.",
+      "topic": "Labor Analgesia / Parenteral Narcotics"
+    },
+    {
+      "id": 32,
+      "question": "What is the anesthesia of choice for manual removal of retained placenta?",
+      "options": {"A": "General anesthesia with inhalational agents (as all inhalational agents are uterine relaxants)", "B": "Spinal anesthesia", "C": "Epidural anesthesia", "D": "Local infiltration"},
+      "answer": "A",
+      "explanation": "Page 234: Patients with retained placenta may bleed profusely and need hemodynamic stability. As all inhalational agents in current use are uterine relaxants, the anesthesia of choice is GA with inhalational agents. The choice of inhalational agent is guided by hemodynamic parameters; if the patient is in shock then inhalational agent preferred will be desflurane.",
+      "topic": "Anesthesia for Manual Removal of Placenta"
+    },
+    {
+      "id": 33,
+      "question": "For non-obstetric surgeries during pregnancy, elective surgery should be deferred until the postpartum period (6 weeks postdelivery), while urgent surgeries should be performed during:",
+      "options": {"A": "The second trimester", "B": "The first trimester", "C": "The third trimester", "D": "Any trimester"},
+      "answer": "A",
+      "explanation": "Page 234: Elective surgery should be deferred until postpartum period (6 weeks postdelivery) while urgent surgeries should be performed during the second trimester. In first trimester there are increased chances of abortion and congenital abnormalities, and in third trimester increased chances of preterm labor.",
+      "topic": "Non-Obstetric Surgeries During Pregnancy"
+    },
+    {
+      "id": 34,
+      "question": "What is the anesthesia of choice for non-obstetric surgery during pregnancy?",
+      "options": {"A": "Regional anesthesia (the aim is to avoid general anesthesia)", "B": "General anesthesia", "C": "Local infiltration only", "D": "Total intravenous anesthesia"},
+      "answer": "A",
+      "explanation": "Page 234: The aim should be to avoid general anesthesia, therefore anesthesia of choice is regional anesthesia. Ensure that there does not occur hypotension after spinal as it can compromise fetal circulation.",
+      "topic": "Non-Obstetric Surgeries During Pregnancy"
+    },
+    {
+      "id": 35,
+      "question": "Pregnancy is a hypercoagulable state due to increase in which clotting factors?",
+      "options": {"A": "Factor I and factor VII", "B": "Factor VIII and IX", "C": "Factor V and X", "D": "Factor XII and XIII"},
+      "answer": "A",
+      "explanation": "Page 231: Pregnancy is a hypercoagulable state due to increase in factor I and factor VII. Increase in plasma volume causes dilutional thrombocytopenia and physiologic anemia of pregnancy. Pregnant patients are more vulnerable for thromboembolism.",
+      "topic": "Hematological System"
+    },
+    {
+      "id": 36,
+      "question": "In pregnancy, plasma cholinesterase level is decreased by 25%. What is the effect on succinylcholine?",
+      "options": {"A": "Theoretically prolongs the effect of succinylcholine, but clinically this effect is insignificant", "B": "Markedly prolongs succinylcholine effect", "C": "Shortens succinylcholine effect", "D": "Has no theoretical effect"},
+      "answer": "A",
+      "explanation": "Page 231: Plasma cholinesterase level is decreased by 25%, theoretically prolonging the effect of succinylcholine; however, clinically this effect is insignificant.",
+      "topic": "Hepatic System"
+    },
+    {
+      "id": 37,
+      "question": "During pregnancy, the arterial pO2 and pCO2 change due to hyperventilation. The pCO2:",
+      "options": {"A": "Decreases by 10 mm Hg (due to hyperventilation), with pH showing no change due to compensation", "B": "Increases by 10 mm Hg", "C": "Remains unchanged", "D": "Decreases by 20 mm Hg with acidosis"},
+      "answer": "A",
+      "explanation": "Page 230: Blood gases in pregnancy — pO2 increases by 10 mm Hg (due to hyperventilation), pCO2 decreases by 10 mm Hg (due to hyperventilation), and pH shows no change (due to compensation).",
+      "topic": "Physiological Changes in Pregnancy"
+    },
+    {
+      "id": 38,
+      "question": "An advantage of regional anesthesia over general anesthesia for cesarean is that the awake mother can:",
+      "options": {"A": "Interact with her newborn immediately after surgery", "B": "Walk immediately", "C": "Eat immediately", "D": "Avoid all monitoring"},
+      "answer": "A",
+      "explanation": "Page 232: Advantages of regional (spinal/epidural) over general anesthesia include avoiding pulmonary aspiration (4 times more in obstetrics) and failed intubation (8 times more), avoiding effect of anesthetic drugs on fetus, the awake mother can interact with her newborn immediately after surgery, and high inspired concentration of oxygen to mother can be delivered.",
+      "topic": "Anesthesia for Cesarean Section"
+    },
+    {
+      "id": 39,
+      "question": "In combined spinal epidural (CSE) for labor, the spinal component uses a very small dose of:",
+      "options": {"A": "0.5 mL (2.5 mg) of hyperbaric bupivacaine + 10 μg of fentanyl", "B": "2 mL of 0.5% bupivacaine", "C": "5 mL of lignocaine", "D": "10 mL of ropivacaine"},
+      "answer": "A",
+      "explanation": "Page 234: In combined spinal epidural for labor, some clinicians give spinal with a very small dose (2.5 mg, i.e. 0.5 mL) of hyperbaric bupivacaine + 10 μg of fentanyl before giving epidural. The advantage is immediate relief of pain due to rapid onset of spinal; motor block does not occur with such a small dose of bupivacaine.",
+      "topic": "Labor Analgesia / CSE"
+    },
+    {
+      "id": 40,
+      "question": "Which agent is given to patients who cannot receive epidural for labor analgesia, through a self-inhaler mask?",
+      "options": {"A": "Entonox (50% oxygen and 50% nitrous oxide)", "B": "100% nitrous oxide", "C": "Sevoflurane", "D": "Ketamine"},
+      "answer": "A",
+      "explanation": "Page 234: The patients who cannot receive epidural are given Entonox (combination of 50% oxygen and 50% nitrous oxide) through a self-inhaler mask.",
+      "topic": "Labor Analgesia / Entonox"
+    },
+    {
+      "id": 41,
+      "question": "During induction of GA for cesarean, intubation is done with which muscle relaxant while the assistant applies cricoid pressure?",
+      "options": {"A": "Suxamethonium", "B": "Vecuronium", "C": "Atracurium", "D": "Pancuronium"},
+      "answer": "A",
+      "explanation": "Page 232: Intubation is done with suxamethonium while the assistant applies the cricoid pressure. Anticipate difficult intubation due to airway edema.",
+      "topic": "General Anesthesia for Cesarean Section"
+    },
+    {
+      "id": 42,
+      "question": "In pregnancy, the FRC, ERV and RV decrease due to:",
+      "options": {"A": "Gravid uterus causing diaphragmatic elevation and basal atelectasis", "B": "Increased respiratory rate", "C": "Decreased blood volume", "D": "Progesterone effect on lungs"},
+      "answer": "A",
+      "explanation": "Page 230: Functional residual capacity (FRC), expiratory reserve volume (ERV) and residual volume (RV) decrease due to gravid uterus causing diaphragmatic elevation and basal atelectasis.",
+      "topic": "Physiological Changes in Pregnancy"
+    },
+    {
+      "id": 43,
+      "question": "In cesarean for patients with heart diseases, in which conditions should central neuraxial blocks be avoided?",
+      "options": {"A": "Severe fixed cardiac output lesions like mitral or aortic stenosis", "B": "Mild hypertension", "C": "Anemia", "D": "Diabetes"},
+      "answer": "A",
+      "explanation": "Page 232: In patients with severe fixed cardiac output lesion like mitral or aortic stenosis, central neuraxial blocks should be avoided. Pregnant patients are more vulnerable for cardiac failure than nonpregnant patient.",
+      "topic": "Cesarean in Patients with Heart Diseases"
+    },
+    {
+      "id": 44,
+      "question": "A large fraction of drug reaching the fetus is metabolized by the fetal liver. What percentage of umbilical vein blood flows through the liver?",
+      "options": {"A": "75%", "B": "50%", "C": "25%", "D": "90%"},
+      "answer": "A",
+      "explanation": "Page 231: A large fraction of drug reaching the fetus is metabolized by fetal liver (75% of umbilical vein blood flows through liver) therefore less drug reaches the vital structures like brain and heart.",
+      "topic": "Transfer of Drugs to Fetal Circulation"
+    },
+    {
+      "id": 45,
+      "question": "Why is ketamine generally avoided for induction in cesarean section despite preserving upper airway reflexes?",
+      "options": {"A": "Because of its hallucinogenic side effects and tendency to increase uterine tone at high doses", "B": "Because it causes hypotension", "C": "Because it depresses the fetus", "D": "Because it is teratogenic"},
+      "answer": "A",
+      "explanation": "Page 232: Ketamine appears a good choice as it preserves upper airway reflexes; however, it is generally avoided because of its hallucinogenic side effects and tendency to increase uterine tone at high doses.",
+      "topic": "General Anesthesia for Cesarean Section"
+    },
+    {
+      "id": 46,
+      "question": "When GA is necessary for non-obstetric surgery in pregnancy, which drugs should be avoided as far as possible due to teratogenicity concern?",
+      "options": {"A": "Nitrous oxide and benzodiazepines (though the concern does not appear real in humans)", "B": "Propofol and inhalational agents", "C": "Muscle relaxants", "D": "Local anesthetics"},
+      "answer": "A",
+      "explanation": "Page 234: The general principle is to use anesthetic drugs when absolutely necessary and in minimal possible doses. The concern of teratogenicity of nitrous oxide and benzodiazepines does not appear to be real in humans; however, they should be avoided as far as possible. Propofol can be used safely.",
+      "topic": "Non-Obstetric Surgeries During Pregnancy"
+    },
+    {
+      "id": 47,
+      "question": "In pregnancy, due to alkaline pH, which drugs can get accumulated in the fetus?",
+      "options": {"A": "Local anesthetics and opioids", "B": "Muscle relaxants", "C": "Inhalational agents", "D": "Glycopyrrolate"},
+      "answer": "A",
+      "explanation": "Page 231, 235: Due to alkaline pH (relative to fetal circulation), local anesthetics and opioids can get accumulated in fetus (ion trapping).",
+      "topic": "Transfer of Drugs to Fetal Circulation"
+    },
+    {
+      "id": 48,
+      "question": "In the management of accidental dural puncture during labor epidural, the preferred option is:",
+      "options": {"A": "To pass a catheter in subarachnoid space and maintain analgesia with 'continuous spinal' (at a low infusion rate of 1–3 mL/hr)", "B": "To remove the needle and stop the procedure", "C": "To give general anesthesia", "D": "To increase the epidural infusion rate"},
+      "answer": "A",
+      "explanation": "Page 233: In accidental dural puncture, the clinician is left with 2 options. First, to remove the needle and try epidural in other space. Second, to pass a catheter in subarachnoid space and maintain analgesia with 'continuous spinal' instead of 'continuous epidural' (infusion rate is low, i.e. 1–3 mL/hr instead of 8–10 mL/hr). The second option, i.e. continuous spinal, should be preferred.",
+      "topic": "Labor Analgesia / Complications"
+    },
+    {
+      "id": 49,
+      "question": "For maintenance of GA in cesarean, which inhalational agent had been traditionally most preferred because of its cardiac stability?",
+      "options": {"A": "Isoflurane (with sevoflurane and desflurane equally good alternatives)", "B": "Halothane", "C": "Nitrous oxide", "D": "Ether"},
+      "answer": "A",
+      "explanation": "Page 232–233: Traditionally isoflurane had been most preferred because of its cardiac stability; however, sevoflurane and desflurane are equally good alternatives.",
+      "topic": "General Anesthesia for Cesarean Section"
+    },
+    {
+      "id": 50,
+      "question": "During laparoscopic surgery in pregnancy, what should the surgeon ensure?",
+      "options": {"A": "Use of minimum intra-abdominal pressure to prevent hypotension", "B": "Maximum intra-abdominal pressure", "C": "High concentration of nitrous oxide", "D": "Use of general anesthesia only without monitoring"},
+      "answer": "A",
+      "explanation": "Page 234: During laparoscopies, ensure that the surgeon uses minimum intra-abdominal pressure to prevent hypotension.",
+      "topic": "Non-Obstetric Surgeries During Pregnancy"
+    }
+  ]
+}

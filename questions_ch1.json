@@ -1,0 +1,409 @@
+{
+  "title": "Applied Anatomy, Physiology and Physics MCQ – Chapter 1",
+  "source": "Short Textbook of Anesthesia – Ajay Yadav",
+  "section": "Section 1: Fundamental Concepts (Chapter 1)",
+  "total_questions": 50,
+  "time_limit_minutes": 35,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The larynx extends from the root of the tongue to the trachea and lies opposite which vertebral levels?",
+      "options": {"A": "C1 to C3", "B": "C3 to C6", "C": "C5 to T1", "D": "C6 to T2"},
+      "answer": "B",
+      "explanation": "Page 3: The larynx is the organ of voice extending from the root of the tongue to the trachea and lies opposite C3 to C6.",
+      "topic": "Airway Anatomy"
+    },
+    {
+      "id": 2,
+      "question": "What is the distance between the teeth and the vocal cords?",
+      "options": {"A": "12–15 cm", "B": "10–15 cm", "C": "16–20 cm", "D": "5–8 cm"},
+      "answer": "A",
+      "explanation": "Page 3: The distance between teeth and vocal cords is 12–15 cm, and the distance between vocal cords and carina is 10–15 cm.",
+      "topic": "Airway Anatomy"
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is an UNPAIRED cartilage of the larynx?",
+      "options": {"A": "Arytenoid", "B": "Corniculate", "C": "Cuneiform", "D": "Cricoid"},
+      "answer": "D",
+      "explanation": "Page 3: The larynx consists of 3 paired cartilages (arytenoid, corniculate, cuneiform) and 3 unpaired cartilages (thyroid, cricoid and epiglottis).",
+      "topic": "Airway Anatomy"
+    },
+    {
+      "id": 4,
+      "question": "Which is the narrowest part of the larynx in adults?",
+      "options": {"A": "The glottis", "B": "The subglottis", "C": "The cricoid ring", "D": "The epiglottis"},
+      "answer": "A",
+      "explanation": "Page 3: The glottis is the narrowest part in adults, while the subglottis (at the level of cricoid) is the narrowest part in children up to the age of 6 years.",
+      "topic": "Airway Anatomy"
+    },
+    {
+      "id": 5,
+      "question": "All muscles of the larynx are supplied by the recurrent laryngeal nerve EXCEPT which muscle?",
+      "options": {"A": "Posterior cricoarytenoid", "B": "Lateral cricoarytenoid", "C": "Cricothyroid", "D": "Thyroarytenoid"},
+      "answer": "C",
+      "explanation": "Page 3: All muscles of the larynx are supplied by the recurrent laryngeal nerve except cricothyroid, which is supplied by the external branch of the superior laryngeal nerve.",
+      "topic": "Larynx Nerve Supply"
+    },
+    {
+      "id": 6,
+      "question": "Sensory supply above the vocal cords is provided by which nerve?",
+      "options": {"A": "Recurrent laryngeal nerve", "B": "Internal branch of superior laryngeal nerve", "C": "External branch of superior laryngeal nerve", "D": "Glossopharyngeal nerve"},
+      "answer": "B",
+      "explanation": "Page 3: Sensory supply up to the vocal cords is by the internal branch of the superior laryngeal nerve, and below the vocal cords by the recurrent laryngeal nerve.",
+      "topic": "Larynx Nerve Supply"
+    },
+    {
+      "id": 7,
+      "question": "In Semon's law, in bilateral partial paralysis of the recurrent laryngeal nerve, which muscles are affected first?",
+      "options": {"A": "The adductors", "B": "The cricothyroid", "C": "The abductors (posterior cricoarytenoids)", "D": "The tensors"},
+      "answer": "C",
+      "explanation": "Page 4: In bilateral partial paralysis of recurrent laryngeal nerve, the abductors (posterior cricoarytenoids) are affected first (Semon's Law), causing the cords to be held in adduction producing respiratory stridor.",
+      "topic": "Laryngeal Nerve Paralysis"
+    },
+    {
+      "id": 8,
+      "question": "During general anesthesia with muscle relaxants, the vocal cords are held in which position?",
+      "options": {"A": "Fully adducted position", "B": "Fully abducted position", "C": "Cadaveric (mid) position", "D": "Paramedian position"},
+      "answer": "C",
+      "explanation": "Page 4: In complete paralysis of both recurrent and superior laryngeal nerves, the cords are held in mid-position (cadaveric position). The cords are also in cadaveric position during anesthesia with muscle relaxants.",
+      "topic": "Laryngeal Nerve Paralysis"
+    },
+    {
+      "id": 9,
+      "question": "What is the length of the trachea?",
+      "options": {"A": "5–8 cm", "B": "10–12 cm", "C": "15–18 cm", "D": "20–22 cm"},
+      "answer": "B",
+      "explanation": "Page 4: The length of the trachea is 10–12 cm. It starts from the cricoid ring (C6) and ends at the carina (T5).",
+      "topic": "Trachea"
+    },
+    {
+      "id": 10,
+      "question": "The trachea consists of how many incomplete rings?",
+      "options": {"A": "10–12", "B": "12–14", "C": "16–20", "D": "22–24"},
+      "answer": "C",
+      "explanation": "Page 4: The trachea consists of 16–20 incomplete rings. The diameter of the trachea is 1.2 cm.",
+      "topic": "Trachea"
+    },
+    {
+      "id": 11,
+      "question": "What is the distance of the carina from the upper incisors?",
+      "options": {"A": "28–30 cm", "B": "20–22 cm", "C": "15–18 cm", "D": "32–35 cm"},
+      "answer": "A",
+      "explanation": "Page 4: At the carina the trachea divides into right and left main bronchus. The distance of the carina from the upper incisors is 28–30 cm.",
+      "topic": "Bronchial Tree"
+    },
+    {
+      "id": 12,
+      "question": "Up to what age is the angle of both right and left bronchus the same (55°) in children?",
+      "options": {"A": "1 year", "B": "2 years", "C": "3 years", "D": "5 years"},
+      "answer": "C",
+      "explanation": "Page 4: In children the angle of both right and left bronchus is the same, i.e. 55° up to the age of 3 years. After this the right bronchus becomes shorter, wider and less acute.",
+      "topic": "Bronchial Tree"
+    },
+    {
+      "id": 13,
+      "question": "What is the total number of alveoli and their surface area?",
+      "options": {"A": "100 million, 40 m²", "B": "300 million, 70 m²", "C": "500 million, 100 m²", "D": "200 million, 50 m²"},
+      "answer": "B",
+      "explanation": "Page 4: The total number of alveoli is 300 million with a surface area of 70 m². The thickness of the alveolar capillary membrane is 0.3 mm.",
+      "topic": "Bronchial Tree"
+    },
+    {
+      "id": 14,
+      "question": "Which cells of the alveolar epithelium secrete surfactant?",
+      "options": {"A": "Type I cells", "B": "Type II cells", "C": "Clara cells", "D": "Goblet cells"},
+      "answer": "B",
+      "explanation": "Page 4: The alveolar epithelium has type I and type II cells. Type II cells secrete surfactant.",
+      "topic": "Bronchial Tree"
+    },
+    {
+      "id": 15,
+      "question": "According to Table 1.1, what is the length and angle of the right main bronchus?",
+      "options": {"A": "Length 5 cm, angle 45°", "B": "Length 2.5 cm, angle 25°", "C": "Length 2.5 cm, angle 45°", "D": "Length 5 cm, angle 25°"},
+      "answer": "B",
+      "explanation": "Page 5, Table 1.1: The right bronchus is shorter (length 2.5 cm), wider, and the angle with vertical is 25°. The left bronchus is longer (5 cm), narrower, with an angle of 45°.",
+      "topic": "Bronchial Tree"
+    },
+    {
+      "id": 16,
+      "question": "In the supine position, the most commonly involved segment in foreign body aspiration is:",
+      "options": {"A": "Posterior basal segment of right lower lobe", "B": "Posterior segment of upper lobe", "C": "Apical segment of right lower lobe", "D": "Lateral basal segment of left lower lobe"},
+      "answer": "C",
+      "explanation": "Page 4: Due to the shorter, wider and less acute angle of the right bronchus, foreign body aspiration is more common on the right side. In supine position the most commonly involved segment is the apical segment of right lower lobe.",
+      "topic": "Foreign Body Aspiration"
+    },
+    {
+      "id": 17,
+      "question": "Ciliary activity of the respiratory mucosa is inhibited by all inhalational agents EXCEPT:",
+      "options": {"A": "Halothane", "B": "Ether", "C": "Isoflurane", "D": "Sevoflurane"},
+      "answer": "B",
+      "explanation": "Page 5: The mucosa has ciliated epithelium up to terminal bronchioles. Ciliary activity is inhibited by all inhalational agents except ether.",
+      "topic": "Respiratory Mucosa"
+    },
+    {
+      "id": 18,
+      "question": "Sympathetic supply to the bronchial tree (T2 to T5) causes:",
+      "options": {"A": "Bronchoconstriction", "B": "Bronchodilatation", "C": "Increased secretions", "D": "No effect on airway caliber"},
+      "answer": "B",
+      "explanation": "Page 6: Nerve supply is parasympathetic by vagus (causes bronchoconstriction) and sympathetic by T2 to T5 (causes bronchodilatation).",
+      "topic": "Bronchial Nerve Supply"
+    },
+    {
+      "id": 19,
+      "question": "The pneumotaxic center, which has an inhibitory effect on the apneustic center, is located in the:",
+      "options": {"A": "Upper pons", "B": "Lower pons", "C": "Medulla", "D": "Midbrain"},
+      "answer": "A",
+      "explanation": "Page 6: The pneumotaxic center is in the upper pons and the apneustic center is in the lower pons. The pneumotaxic center normally has an inhibitory effect on the apneustic center.",
+      "topic": "Regulation of Respiration"
+    },
+    {
+      "id": 20,
+      "question": "Central respiratory centers are most sensitive to changes in:",
+      "options": {"A": "Arterial pO2", "B": "CSF pH (influenced by pCO2)", "C": "Blood temperature", "D": "Plasma bicarbonate"},
+      "answer": "B",
+      "explanation": "Page 6: Central respiratory centers are most sensitive to changes in CSF pH, which is in turn influenced by pCO2. Increase in pCO2 stimulates respiration while decrease in pCO2 inhibits respiration.",
+      "topic": "Regulation of Respiration"
+    },
+    {
+      "id": 21,
+      "question": "Peripheral chemoreceptors present in the carotid body and aortic arch are very sensitive to:",
+      "options": {"A": "Hypercarbia", "B": "Acidosis", "C": "Hypoxia", "D": "Hyperthermia"},
+      "answer": "C",
+      "explanation": "Page 6: Peripheral chemoreceptors are present in the carotid body and aortic arch. Carotid body receptors are very sensitive to hypoxia.",
+      "topic": "Regulation of Respiration"
+    },
+    {
+      "id": 22,
+      "question": "Which is the most important muscle of inspiration, moving 1.5 cm in quiet respiration and 6–10 cm in deep breathing?",
+      "options": {"A": "External intercostals", "B": "Scalene muscles", "C": "Diaphragm", "D": "Sternomastoids"},
+      "answer": "C",
+      "explanation": "Page 6: The diaphragm is the most important muscle of inspiration (moves 1.5 cm in quiet respiration and 6–10 cm in deep breathing).",
+      "topic": "Muscles of Respiration"
+    },
+    {
+      "id": 23,
+      "question": "During anesthesia with inhalational agents, expiration becomes active and is mediated by which muscles?",
+      "options": {"A": "Abdominal muscles", "B": "External intercostals", "C": "Diaphragm", "D": "Scalene muscles"},
+      "answer": "A",
+      "explanation": "Page 6: Expiration is normally passive. During anesthesia with inhalational agents, expiration is active, mediated by abdominal muscles.",
+      "topic": "Muscles of Respiration"
+    },
+    {
+      "id": 24,
+      "question": "Maximum airway resistance to airflow occurs in which part of the airway?",
+      "options": {"A": "Terminal bronchi", "B": "Trachea and then main bronchus", "C": "Alveolar ducts", "D": "Segmental bronchi"},
+      "answer": "B",
+      "explanation": "Page 6: Maximum airway resistance to airflow occurs in trachea and then main bronchus, and minimum in terminal bronchi. Turbulent flow (seen in trachea and main bronchi) resistance is proportional to the square of flow rates.",
+      "topic": "Airway Resistance"
+    },
+    {
+      "id": 25,
+      "question": "What is the normal average ventilation/perfusion (V/Q) ratio?",
+      "options": {"A": "0.3", "B": "2.1", "C": "0.8", "D": "1.5"},
+      "answer": "C",
+      "explanation": "Page 6: Both ventilation and perfusion are more at bases compared to apex, but perfusion at base is comparatively higher, decreasing V/Q ratio towards the base (from 2.1 at apex to 0.3 at base, average 0.8).",
+      "topic": "Ventilation/Perfusion"
+    },
+    {
+      "id": 26,
+      "question": "The normal alveolar to arterial (A-a) oxygen difference is:",
+      "options": {"A": "3–5 mm Hg", "B": "10–15 mm Hg", "C": "0.3–0.5 mm Hg", "D": "20–25 mm Hg"},
+      "answer": "A",
+      "explanation": "Page 6: The V/Q mismatch creates alveolar to arterial [(A-a) pO2 difference] which is normally 3–5 mm Hg. This A-a difference is increased in lung pathologies affecting alveoli.",
+      "topic": "Ventilation/Perfusion"
+    },
+    {
+      "id": 27,
+      "question": "What is the normal anatomical dead space (as a fraction of tidal volume)?",
+      "options": {"A": "10% of tidal volume", "B": "30% of tidal volume", "C": "50% of tidal volume", "D": "60% of tidal volume"},
+      "answer": "B",
+      "explanation": "Page 7: Anatomical dead space is constituted by air present in nose, trachea and bronchial tree (up to terminal bronchioles). Normally it is 30% of tidal volume or 2 mL/kg or 150 mL.",
+      "topic": "Dead Space"
+    },
+    {
+      "id": 28,
+      "question": "Anatomical dead space is DECREASED by which of the following?",
+      "options": {"A": "Neck extension", "B": "Atropine", "C": "Intubation and tracheostomy", "D": "Anesthesia mask and circuits"},
+      "answer": "C",
+      "explanation": "Page 7: Anatomical dead space is decreased by intubation (nasal cavity bypassed if tube diameter is less than airway diameter), tracheostomy (upper airways and nasal cavity bypassed), hyperventilation, neck flexion and bronchoconstrictors. It is increased by old age, neck extension, jaw protrusion, bronchodilators, atropine, and anesthesia mask/circuits.",
+      "topic": "Dead Space"
+    },
+    {
+      "id": 29,
+      "question": "What is the volume of alveolar dead space in the standing position?",
+      "options": {"A": "Zero", "B": "60–80 mL", "C": "150 mL", "D": "2 mL/kg"},
+      "answer": "B",
+      "explanation": "Page 7: Alveolar dead space is constituted by alveoli which are only ventilated but not perfused. It is 60–80 mL in standing position and zero in lying position (perfusion is equal in all parts of lung when lying).",
+      "topic": "Dead Space"
+    },
+    {
+      "id": 30,
+      "question": "Endotracheal tubes and tracheostomy affect anatomical dead space by:",
+      "options": {"A": "Increasing it by adding circuit volume", "B": "Decreasing it by bypassing the upper airways", "C": "Having no effect on it", "D": "Doubling it"},
+      "answer": "B",
+      "explanation": "Page 7: Endotracheal tubes and tracheostomy decrease the anatomical dead space by bypassing the upper airways. However, all anesthesia circuits, masks and humidifiers increase the anatomical dead space.",
+      "topic": "Anesthesia and Dead Space"
+    },
+    {
+      "id": 31,
+      "question": "What is the normal oxygen uptake?",
+      "options": {"A": "1000 mL/min", "B": "250 mL/min", "C": "500 mL/min", "D": "100 mL/min"},
+      "answer": "B",
+      "explanation": "Page 7: Normal oxygen uptake is 250 mL/min. Oxygen is mainly carried in blood attached to hemoglobin (1 g of Hb carries 1.34 mL of oxygen).",
+      "topic": "Oxygen in Blood"
+    },
+    {
+      "id": 32,
+      "question": "What volume of oxygen does 1 gram of hemoglobin carry?",
+      "options": {"A": "0.003 mL", "B": "1.34 mL", "C": "20 mL", "D": "0.34 mL"},
+      "answer": "B",
+      "explanation": "Page 7: 1 g of Hb carries 1.34 mL of oxygen. A very small amount, 0.003 mL/dL/mm Hg, is carried as dissolved fraction. Oxygen content of arterial blood is 20 mL/dL and that of venous blood is 15 mL/dL.",
+      "topic": "Oxygen in Blood"
+    },
+    {
+      "id": 33,
+      "question": "At a pO2 of 60 mm Hg, the oxygen saturation of hemoglobin is approximately:",
+      "options": {"A": "97%", "B": "90%", "C": "75%", "D": "50%"},
+      "answer": "B",
+      "explanation": "Page 7: Normally Hb is 97% saturated at normal pO2 of 95–98 mm Hg. At 60 mm Hg saturation is still 90%. After this point there is a sudden drop in oxygen saturation (cyanosis appears when pO2 falls below 50–60 mm Hg).",
+      "topic": "Oxygen Dissociation Curve"
+    },
+    {
+      "id": 34,
+      "question": "What is the P50 (partial pressure at which oxygen saturation is 50%) and is it affected by anesthetics?",
+      "options": {"A": "26 mm Hg; not affected by anesthetics", "B": "40 mm Hg; affected by anesthetics", "C": "60 mm Hg; not affected by anesthetics", "D": "50 mm Hg; affected by anesthetics"},
+      "answer": "A",
+      "explanation": "Page 8: P50 is the partial pressure at which oxygen saturation is 50%. The partial pressure of oxygen for 50% saturation is 26 mm Hg. P50 is not affected by anesthetics.",
+      "topic": "Oxygen Dissociation Curve"
+    },
+    {
+      "id": 35,
+      "question": "According to the Bohr effect, alkalosis shifts the oxygen dissociation curve:",
+      "options": {"A": "To the right", "B": "To the left", "C": "Upward", "D": "Downward"},
+      "answer": "B",
+      "explanation": "Page 8: Bohr effect — alkalosis shifts the O2 dissociation curve to the left and acidosis to the right.",
+      "topic": "Oxygen Dissociation Curve"
+    },
+    {
+      "id": 36,
+      "question": "Which of the following shifts the oxygen dissociation curve to the RIGHT?",
+      "options": {"A": "Carbon monoxide poisoning", "B": "Hypothermia", "C": "Inhalational anesthetics", "D": "Decreased 2,3 DPG"},
+      "answer": "C",
+      "explanation": "Page 8: Shift to the right is seen with acidosis, high pCO2, increased 2,3 DPG, hyperthermia and inhalational anesthetics. Shift to the left is seen with alkalosis, low pCO2, decreased 2,3 DPG, carbon monoxide poisoning, abnormal hemoglobins, hypophosphatemia and hypothermia.",
+      "topic": "Oxygen Dissociation Curve"
+    },
+    {
+      "id": 37,
+      "question": "What is the oxygen flux (amount of oxygen leaving the left ventricle per minute)?",
+      "options": {"A": "250 mL/min", "B": "1000 mL/min", "C": "500 mL/min", "D": "5000 mL/min"},
+      "answer": "B",
+      "explanation": "Page 8: Oxygen flux is the amount of oxygen leaving the left ventricle per minute. It is 1,000 mL/min.",
+      "topic": "Oxygen in Blood"
+    },
+    {
+      "id": 38,
+      "question": "In what form is the major portion of carbon dioxide transported in blood?",
+      "options": {"A": "As bicarbonate (90%)", "B": "Dissolved (5%)", "C": "As carbamino compounds", "D": "Attached to hemoglobin as carboxyhemoglobin"},
+      "answer": "A",
+      "explanation": "Page 8: Carbon dioxide is transported in blood as bicarbonate (90%), dissolved (5%), and as carbamino compounds. Deoxygenated blood has more CO2 content at a given pCO2 — this is called the Haldane effect.",
+      "topic": "Carbon Dioxide"
+    },
+    {
+      "id": 39,
+      "question": "Tracheal tug, a downward movement of the trachea during deep inspiration, is seen in:",
+      "options": {"A": "Flail chest", "B": "Deep anesthesia with inhalational agents and partially curarized patients", "C": "Hiccups", "D": "Bronchospasm"},
+      "answer": "B",
+      "explanation": "Page 8: Tracheal tug is a downward movement of trachea during deep inspiration. It is seen in deep anesthesia (by inhalational agents) and in partially curarized patients.",
+      "topic": "Abnormalities of Chest Movements"
+    },
+    {
+      "id": 40,
+      "question": "Hypoxic pulmonary vasoconstriction (HPV) is maximally blunted by which inhalational agent?",
+      "options": {"A": "Ether", "B": "Nitrous oxide", "C": "Halothane", "D": "Sevoflurane"},
+      "answer": "C",
+      "explanation": "Page 9: HPV is a protective mechanism — whenever there is hypoxia, vasoconstriction occurs shunting blood to well-perfused areas. All inhalational agents blunt this hypoxic pulmonary vasoconstriction (maximum with halothane).",
+      "topic": "Hypoxic Pulmonary Vasoconstriction"
+    },
+    {
+      "id": 41,
+      "question": "What is the normal tidal volume?",
+      "options": {"A": "400–500 mL (10 mL/kg)", "B": "1200–1500 mL", "C": "2400–2600 mL", "D": "100–150 mL"},
+      "answer": "A",
+      "explanation": "Page 9: Tidal volume is the volume of gas inspired or expired in each breath during normal quiet respiration. It is 400–500 mL (10 mL/kg).",
+      "topic": "Lung Volumes"
+    },
+    {
+      "id": 42,
+      "question": "Functional residual capacity (FRC) is the sum of which two volumes?",
+      "options": {"A": "Inspiratory reserve volume + tidal volume", "B": "Tidal volume + expiratory reserve volume", "C": "Expiratory reserve volume + residual volume", "D": "Inspiratory reserve volume + residual volume"},
+      "answer": "C",
+      "explanation": "Page 9: Functional residual capacity (FRC) is the volume of gas in lungs after end expiration. It is ERV + RV and equals 2400–2600 mL. During general anesthesia FRC decreases by 15–20%.",
+      "topic": "Lung Volumes"
+    },
+    {
+      "id": 43,
+      "question": "During general anesthesia, the functional residual capacity (FRC) decreases by approximately:",
+      "options": {"A": "5%", "B": "15–20%", "C": "30–40%", "D": "50%"},
+      "answer": "B",
+      "explanation": "Page 9: During general anesthesia FRC decreases by 15–20%. FRC is the volume of gas in lungs after end expiration (ERV + RV).",
+      "topic": "Lung Volumes"
+    },
+    {
+      "id": 44,
+      "question": "Which lung volumes/capacities CANNOT be measured by spirometry?",
+      "options": {"A": "Tidal volume and vital capacity", "B": "Inspiratory and expiratory reserve volume", "C": "Residual volume, functional residual capacity and total lung capacity", "D": "Inspiratory capacity"},
+      "answer": "C",
+      "explanation": "Page 10: Spirometry cannot measure residual volume; therefore any lung volume which requires measurement of residual volume — i.e. functional residual capacity and total lung capacity — cannot be measured by spirometry. Body plethysmography, helium dilution and nitrogen washout are used for these.",
+      "topic": "Pulmonary Function Tests"
+    },
+    {
+      "id": 45,
+      "question": "A normal breath-holding time on the simple bedside test is:",
+      "options": {"A": "> 25 seconds", "B": "15–25 seconds (borderline)", "C": "< 15 seconds", "D": "5–10 seconds"},
+      "answer": "A",
+      "explanation": "Page 9–10: Breath-holding time is a very simple and useful bedside test. Normal is > 25 seconds. Patients with breath-holding time of 15–25 seconds are considered borderline cases and breath holding time < 15 seconds indicates severe pulmonary dysfunction.",
+      "topic": "Simple Bedside Test"
+    },
+    {
+      "id": 46,
+      "question": "Closing capacity (the volume at which the airway closes) is normally:",
+      "options": {"A": "1 litre more than functional residual capacity", "B": "1 litre less than functional residual capacity", "C": "Equal to functional residual capacity", "D": "Equal to total lung capacity"},
+      "answer": "B",
+      "explanation": "Page 10: Closing capacity is the volume at which airway closes, which is normally 1 litre less than functional residual capacity. If FRC falls below closing capacity there will be significant hypoventilation and V/Q abnormalities.",
+      "topic": "Pulmonary Function Tests"
+    },
+    {
+      "id": 47,
+      "question": "What is the normal total lung compliance (lung and chest wall acting in opposite directions)?",
+      "options": {"A": "0.2 L/cm H2O", "B": "0.1 L/cm H2O", "C": "0.4 L/cm H2O", "D": "2.5 L/cm H2O"},
+      "answer": "B",
+      "explanation": "Page 10: Lung compliance is 0.2 L/cm H2O, chest wall compliance is 0.2 L/cm H2O, and total compliance is 0.1 L/cm H2O (lung and chest wall compliance act in opposite direction).",
+      "topic": "Lung Compliance"
+    },
+    {
+      "id": 48,
+      "question": "According to Boyle's law, at a constant temperature the volume of a gas is:",
+      "options": {"A": "Directly proportional to pressure", "B": "Inversely proportional to pressure", "C": "Directly proportional to temperature", "D": "Inversely proportional to temperature"},
+      "answer": "B",
+      "explanation": "Page 11: Boyle's law states that at a constant temperature, the volume of a gas is inversely proportional to the pressure. Charle's law states that at constant pressure, volume of gas is directly proportional to temperature.",
+      "topic": "Physics Related to Anesthesia"
+    },
+    {
+      "id": 49,
+      "question": "Laminar flow is more dependent on which property, according to the Hagen-Poiseuille law?",
+      "options": {"A": "Density", "B": "Temperature", "C": "Viscosity", "D": "Molecular weight"},
+      "answer": "C",
+      "explanation": "Page 11: Laminar flow is produced when gas passes through a straight tube and is smooth. Laminar flow is more dependent on viscosity. At laminar flow, Hagen-Poiseuille law applies (flow rate directly proportional to pressure gradient and fourth power of radius, inversely proportional to viscosity and length). Turbulent flow is more dependent on density.",
+      "topic": "Physics Related to Anesthesia"
+    },
+    {
+      "id": 50,
+      "question": "The Poynting effect explains which phenomenon used in the Entonox cylinder?",
+      "options": {"A": "Mixing of liquid nitrous oxide at high pressure with oxygen leads to formation of gaseous nitrous oxide", "B": "Oxygen liquefies when mixed with nitrous oxide", "C": "Nitrous oxide separates from oxygen at high pressure", "D": "Both gases remain in liquid state in the cylinder"},
+      "answer": "A",
+      "explanation": "Page 11: The Poynting effect — mixing of liquid nitrous oxide at low pressure with oxygen at high pressure (in Entonox) leads to formation of gas of nitrous oxide. Therefore oxygen and nitrous oxide are both present in gaseous state in the Entonox cylinder.",
+      "topic": "Physics Related to Anesthesia"
+    }
+  ]
+}

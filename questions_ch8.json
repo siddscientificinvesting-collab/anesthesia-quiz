@@ -1,0 +1,209 @@
+{
+  "title": "History of Anesthesia MCQ – Chapter 8",
+  "source": "Short Textbook of Anesthesia – Ajay Yadav",
+  "section": "Section 4: Introduction to Anesthesia (Chapter 8)",
+  "total_questions": 25,
+  "time_limit_minutes": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Who used the term 'anesthesia' in 1st AD to describe the narcotic effects of the plant Mandragora?",
+      "options": {"A": "Dioscorides", "B": "Oliver Wendell Holmes", "C": "John Lundy", "D": "Ralph Waters"},
+      "answer": "A",
+      "explanation": "Page 83: History of anesthesia dates back to 1st AD when Dioscorides used the term anesthesia to describe the narcotic effects of the plant Mandragora.",
+      "topic": "Introduction"
+    },
+    {
+      "id": 2,
+      "question": "The word 'anesthesia', which means no senses, was coined by:",
+      "options": {"A": "Dioscorides", "B": "Oliver Wendell Holmes", "C": "Humphry Davy", "D": "Horace Wells"},
+      "answer": "B",
+      "explanation": "Page 83: The word anesthesia, which means no senses, was coined by Oliver Wendell Holmes.",
+      "topic": "Introduction"
+    },
+    {
+      "id": 3,
+      "question": "The term 'balanced anesthesia' was coined by:",
+      "options": {"A": "Priestley and Davy", "B": "Morton and Snow", "C": "John Lundy and Ralph Waters", "D": "Carl Koller and August Bier"},
+      "answer": "C",
+      "explanation": "Page 83: The term 'balanced anesthesia' was coined by John Lundy and Ralph Waters.",
+      "topic": "Introduction"
+    },
+    {
+      "id": 4,
+      "question": "Which was the first anesthetic gas, and who synthesized it in 1774?",
+      "options": {"A": "Ether, synthesized by Valerius Cordus", "B": "Nitrous oxide, synthesized by Priestley", "C": "Chloroform, synthesized by John Snow", "D": "Cyclopropane, synthesized by Humphry Davy"},
+      "answer": "B",
+      "explanation": "Page 83: The first anesthetic gas, i.e. nitrous oxide, was synthesized by Priestley in 1774 (Priestley also synthesized oxygen, which he called Dephlogisticated air).",
+      "topic": "Nitrous Oxide"
+    },
+    {
+      "id": 5,
+      "question": "Who first used nitrous oxide on himself for a toothache and called it 'laughing gas'?",
+      "options": {"A": "Joseph Priestley", "B": "Horace Wells", "C": "Humphry Davy", "D": "WTG Morton"},
+      "answer": "C",
+      "explanation": "Page 83: The first clinical use of nitrous oxide was done by Humphry Davy, who used it on himself for toothache and called nitrous oxide as 'laughing gas'.",
+      "topic": "Nitrous Oxide"
+    },
+    {
+      "id": 6,
+      "question": "The first public clinical demonstration of nitrous oxide (1845) was given by Horace Wells for what procedure?",
+      "options": {"A": "Tooth extraction", "B": "Removal of jaw tumor", "C": "Childbirth", "D": "Limb amputation"},
+      "answer": "A",
+      "explanation": "Page 83: The first public clinical demonstration of nitrous oxide was given by Horace Wells for tooth extraction (1845), but unfortunately the patient cried in pain.",
+      "topic": "Nitrous Oxide"
+    },
+    {
+      "id": 7,
+      "question": "Horace Wells became addicted to which agent and later committed suicide by cutting his femoral artery?",
+      "options": {"A": "Nitrous oxide", "B": "Ether", "C": "Cocaine", "D": "Chloroform"},
+      "answer": "D",
+      "explanation": "Page 83: Horace Wells became so frustrated that he became a chloroform addict and committed suicide by cutting his femoral artery.",
+      "topic": "Nitrous Oxide"
+    },
+    {
+      "id": 8,
+      "question": "Ether was prepared by Valerius Cordus in 1540 and was known by what name?",
+      "options": {"A": "Laughing gas", "B": "Sweet oil of vitriol", "C": "Dephlogisticated air", "D": "Spirit of salt"},
+      "answer": "B",
+      "explanation": "Page 83: Ether was prepared by Valerius Cordus in 1540 when it was known as 'sweet oil of vitriol'.",
+      "topic": "Ether"
+    },
+    {
+      "id": 9,
+      "question": "Who gave the first public demonstration of ether anesthesia on 16th October 1846?",
+      "options": {"A": "WTG Morton", "B": "John Snow", "C": "Horace Wells", "D": "Carl Koller"},
+      "answer": "A",
+      "explanation": "Page 83: The first public demonstration of ether was given by WTG Morton on 16th October 1846, and that is why 16th October is celebrated as World Anesthesia Day.",
+      "topic": "Ether"
+    },
+    {
+      "id": 10,
+      "question": "Which date is celebrated as World Anesthesia Day?",
+      "options": {"A": "14th February", "B": "1st AD", "C": "16th October", "D": "12th March"},
+      "answer": "C",
+      "explanation": "Page 83: The first public demonstration of ether was given by WTG Morton on 16th October 1846, and that is why 16th October is celebrated as World Anesthesia Day.",
+      "topic": "Ether"
+    },
+    {
+      "id": 11,
+      "question": "The first successful demonstration of ether anesthesia by Morton took place at which hospital (Fig. 8.1)?",
+      "options": {"A": "Johns Hopkins Hospital", "B": "Massachusetts General Hospital", "C": "St. Thomas Hospital", "D": "Hindu Rao Hospital"},
+      "answer": "B",
+      "explanation": "Page 83, Fig. 8.1: The first successful demonstration of ether anesthesia was by Morton in Massachusetts General Hospital.",
+      "topic": "Ether"
+    },
+    {
+      "id": 12,
+      "question": "Who popularized chloroform and used it on Queen Victoria for the birth of her 8th child?",
+      "options": {"A": "WTG Morton", "B": "Humphry Davy", "C": "John Snow", "D": "Valerius Cordus"},
+      "answer": "C",
+      "explanation": "Page 84: It was John Snow who popularized chloroform, using it successfully in 4,000 patients. He used chloroform on Queen Victoria for the birth of her 8th child.",
+      "topic": "Chloroform"
+    },
+    {
+      "id": 13,
+      "question": "In how many patients did John Snow use chloroform successfully?",
+      "options": {"A": "4,000 patients", "B": "1,000 patients", "C": "10,000 patients", "D": "100 patients"},
+      "answer": "A",
+      "explanation": "Page 84: It was John Snow who popularized chloroform, using it successfully in 4,000 patients.",
+      "topic": "Chloroform"
+    },
+    {
+      "id": 14,
+      "question": "The first intravenous anesthetic used was thiopentone. Who used it and in which year?",
+      "options": {"A": "Carl Koller, 1884", "B": "John Lundy, 1934", "C": "Harold Griffith, 1942", "D": "August Bier, 1898"},
+      "answer": "B",
+      "explanation": "Page 84: The first intravenous anesthetic used was thiopentone by John Lundy in 1934.",
+      "topic": "Intravenous Anesthetics"
+    },
+    {
+      "id": 15,
+      "question": "The first local anesthetic used was cocaine. Who used it and for what purpose in 1884?",
+      "options": {"A": "Carl Koller, for anesthetizing the cornea", "B": "J Leonard Corning, for spinal anesthesia", "C": "August Bier, for epidural anesthesia", "D": "John Lundy, for intravenous anesthesia"},
+      "answer": "A",
+      "explanation": "Page 84: The first local anesthetic used was cocaine by Carl Koller for anesthetizing the cornea (1884).",
+      "topic": "Local Anesthesia"
+    },
+    {
+      "id": 16,
+      "question": "Who first gave spinal anesthesia in dogs?",
+      "options": {"A": "August Bier", "B": "Carl Koller", "C": "J Leonard Corning", "D": "Cathelin and Sicard"},
+      "answer": "C",
+      "explanation": "Page 84: The first spinal anesthesia in dogs was given by J Leonard Corning, while the first spinal anesthesia in human beings was given by August Bier in 1898.",
+      "topic": "Local Anesthesia"
+    },
+    {
+      "id": 17,
+      "question": "The first spinal anesthesia in human beings was given by August Bier in which year?",
+      "options": {"A": "1846", "B": "1884", "C": "1898", "D": "1901"},
+      "answer": "C",
+      "explanation": "Page 84: The first spinal anesthesia in human beings was given by August Beir (Bier) in 1898.",
+      "topic": "Local Anesthesia"
+    },
+    {
+      "id": 18,
+      "question": "The first epidural anesthesia (1901) was given by:",
+      "options": {"A": "August Bier", "B": "Cathelin and Sicard", "C": "J Leonard Corning", "D": "Carl Koller"},
+      "answer": "B",
+      "explanation": "Page 84: The first epidural anesthesia was given by Cathelin and Sicard (1901).",
+      "topic": "Local Anesthesia"
+    },
+    {
+      "id": 19,
+      "question": "Who was the first to use 'curare' for muscle relaxation in 1942?",
+      "options": {"A": "Harold Griffith", "B": "Bovet", "C": "John Lundy", "D": "Ivan Magill"},
+      "answer": "A",
+      "explanation": "Page 84: Harold Griffith was the first to use 'curare' for muscle relaxation (1942).",
+      "topic": "Muscle Relaxants"
+    },
+    {
+      "id": 20,
+      "question": "Bovet received the Nobel Prize (1949) for using which muscle relaxant in practice?",
+      "options": {"A": "Curare", "B": "Pancuronium", "C": "Suxamethonium (Succinylcholine)", "D": "Atracurium"},
+      "answer": "C",
+      "explanation": "Page 84: Bovet got the Nobel Prize (1949) for using Suxamethonium (Succinylcholine) in practice.",
+      "topic": "Muscle Relaxants"
+    },
+    {
+      "id": 21,
+      "question": "Who received the Nobel Prize in 1949 in connection with muscle relaxants?",
+      "options": {"A": "Harold Griffith", "B": "Bovet", "C": "John Lundy", "D": "Edmund Gaskin Boyle"},
+      "answer": "B",
+      "explanation": "Page 84: Bovet got the Nobel Prize (1949) for using Suxamethonium (Succinylcholine) in practice.",
+      "topic": "Muscle Relaxants"
+    },
+    {
+      "id": 22,
+      "question": "The first Boyle's machine was invented in 1917 by:",
+      "options": {"A": "Ivan Magill", "B": "Edmund Gaskin Boyle", "C": "Robert Boyle", "D": "John Lundy"},
+      "answer": "B",
+      "explanation": "Page 84: The first Boyle's machine was invented by Edmund Gaskin Boyle in 1917.",
+      "topic": "Instruments"
+    },
+    {
+      "id": 23,
+      "question": "The first endotracheal intubation was done by:",
+      "options": {"A": "Edmund Gaskin Boyle", "B": "WTG Morton", "C": "Ivan Magill", "D": "Carl Koller"},
+      "answer": "C",
+      "explanation": "Page 84: The first endotracheal intubation was done by Ivan Magill.",
+      "topic": "Instruments"
+    },
+    {
+      "id": 24,
+      "question": "Apart from synthesizing nitrous oxide, Priestley is also credited with synthesizing which other gas, which he called 'Dephlogisticated air'?",
+      "options": {"A": "Carbon dioxide", "B": "Oxygen", "C": "Nitrogen", "D": "Helium"},
+      "answer": "B",
+      "explanation": "Page 83: Priestley also synthesized oxygen, which he called Dephlogisticated air.",
+      "topic": "Nitrous Oxide"
+    },
+    {
+      "id": 25,
+      "question": "Ether anesthesia in Morton's first demonstration was used for removal of what?",
+      "options": {"A": "Jaw tumor", "B": "A tooth", "C": "An appendix", "D": "A limb"},
+      "answer": "A",
+      "explanation": "Page 100: First public demonstration of ether was given by WTG Morton on 16th October 1846 for the removal of jaw tumor.",
+      "topic": "Ether"
+    }
+  ]
+}

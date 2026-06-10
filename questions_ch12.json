@@ -1,0 +1,409 @@
+{
+  "title": "Intravenous Anesthetics MCQ – Chapter 12",
+  "source": "Short Textbook of Anesthesia – Ajay Yadav",
+  "section": "Section 5: General Anesthesia (Chapter 12)",
+  "total_questions": 50,
+  "time_limit_minutes": 35,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which intravenous anesthetic is the most commonly used agent for induction in present day anesthesia?",
+      "options": {"A": "Thiopentone", "B": "Ketamine", "C": "Propofol", "D": "Etomidate"},
+      "answer": "C",
+      "explanation": "Page 106: Induction — the most commonly used intravenous anesthetic for induction is propofol. Indications for induction with thiopentone are very limited; ketamine is used only in specific situations.",
+      "topic": "Classification and Uses"
+    },
+    {
+      "id": 2,
+      "question": "Thiopentone was the first intravenous anesthetic used in clinical practice. By whom and in which year?",
+      "options": {"A": "Water and Lundy, 1934", "B": "Stevens, 1962", "C": "Domino and Corssen, 1965", "D": "Carl Koller, 1884"},
+      "answer": "A",
+      "explanation": "Page 106: Thiopentone was the first intravenous anesthetic used in clinical practice by Water and Lundy in 1934. It is an ultra short-acting barbiturate. Chemically it is sodium ethyl thiobarbiturate.",
+      "topic": "Thiopentone"
+    },
+    {
+      "id": 3,
+      "question": "Why should thiopentone NOT be prepared with Ringer lactate?",
+      "options": {"A": "It will get precipitated due to acidic pH of Ringer lactate", "B": "It becomes inactivated", "C": "It causes hemolysis", "D": "It increases its potency dangerously"},
+      "answer": "A",
+      "explanation": "Page 106: Thiopentone should not be prepared with Ringer lactate, otherwise it will get precipitated due to the acidic pH of Ringer lactate solution. The pH of sodium thiopentone (2.5%) solution is 10.4 (highly alkaline).",
+      "topic": "Thiopentone"
+    },
+    {
+      "id": 4,
+      "question": "Although the elimination half-life of thiopentone is 10.4 hours, consciousness is regained after 15–20 minutes because of:",
+      "options": {"A": "Rapid metabolism", "B": "Redistribution", "C": "Rapid renal excretion", "D": "Protein binding"},
+      "answer": "B",
+      "explanation": "Page 106–107: The elimination half-life of thiopentone is 10.4 hours, but consciousness is regained after 15–20 minutes because of redistribution, which means the drug is redistributed from brain to tissues with less vascularity like muscle or fat.",
+      "topic": "Thiopentone"
+    },
+    {
+      "id": 5,
+      "question": "Thiopentone is utilized for cerebral protection in which type of ischemia?",
+      "options": {"A": "Global ischemia seen in cardiac arrest", "B": "Focal ischemia", "C": "Both global and focal equally", "D": "It offers no cerebral protection"},
+      "answer": "B",
+      "explanation": "Page 107: Thiopentone decreases cerebral oxygen consumption (CMRO2), cerebral metabolic rate (CMR) and intracranial tension; therefore, it can be utilized for cerebral protection in case of focal ischemia. It does not offer any protection in global ischemia seen in cardiac arrest.",
+      "topic": "Thiopentone"
+    },
+    {
+      "id": 6,
+      "question": "At subanesthetic doses, thiopentone acts as a/an:",
+      "options": {"A": "Potent analgesic", "B": "Antanalgesic", "C": "Muscle relaxant", "D": "Bronchodilator"},
+      "answer": "B",
+      "explanation": "Page 107: Antanalgesic action — at subanesthetic doses, thiopentone acts as antanalgesic. Because of the phenyl group, thiopentone is also a very potent anticonvulsant.",
+      "topic": "Thiopentone"
+    },
+    {
+      "id": 7,
+      "question": "Repeated higher doses of thiopentone can cause prolonged apnea, which is therefore termed:",
+      "options": {"A": "Transient apnea", "B": "Double apnea", "C": "Central apnea", "D": "Obstructive apnea"},
+      "answer": "B",
+      "explanation": "Page 107: Transient apnea is common after thiopentone. At higher dosage, thiopentone depresses respiration after brief recovery from transient apnea, therefore also termed as double apnea.",
+      "topic": "Thiopentone"
+    },
+    {
+      "id": 8,
+      "question": "The high alkalinity of thiopentone is responsible for which local complication after intra-arterial injection?",
+      "options": {"A": "Tissue necrosis only", "B": "Vasospasm and thrombus formation leading to gangrene of the limb", "C": "Hyperpigmentation", "D": "Allergic urticaria"},
+      "answer": "B",
+      "explanation": "Page 108: Because of its high alkalinity, in acidic pH of blood, thiopentone gets precipitated forming crystals, which can cause endothelial damage precipitating vasospasm and thrombus formation blocking microcirculation. Both these processes can lead to ischemia and gangrene of the limb.",
+      "topic": "Thiopentone"
+    },
+    {
+      "id": 9,
+      "question": "Thiopentone is absolutely contraindicated in which condition?",
+      "options": {"A": "Acute intermittent and variegate porphyria", "B": "Porphyria cutanea tarda", "C": "Asthma", "D": "Renal disease"},
+      "answer": "A",
+      "explanation": "Page 108: Thiopentone induces the enzyme aminolevulinic acid synthetase, which stimulates the formation of porphyrin in susceptible individuals. Therefore, it is absolutely contraindicated in acute intermittent and variegate porphyria (but can be used safely in porphyria cutanea tarda).",
+      "topic": "Thiopentone"
+    },
+    {
+      "id": 10,
+      "question": "What is the dose of thiopentone?",
+      "options": {"A": "2 mg/kg", "B": "5 mg/kg", "C": "0.1 mg/kg", "D": "10 mg/kg"},
+      "answer": "B",
+      "explanation": "Page 107: The dose of thiopentone is 5 mg/kg body weight. Males require more than females, obese more than thin, and young more than old.",
+      "topic": "Thiopentone"
+    },
+    {
+      "id": 11,
+      "question": "Methohexitone differs from thiopentone in that it is epileptogenic, making it the agent of choice for:",
+      "options": {"A": "Electroconvulsive therapy (ECT)", "B": "Status epilepticus", "C": "Cerebral protection", "D": "Day care surgery"},
+      "answer": "A",
+      "explanation": "Page 108: The most striking difference between methohexitone and thiopentone is that methohexitone is epileptogenic while thiopentone is anticonvulsant, making it the agent of choice for electroconvulsive therapy (ECT). Histamine release is less compared to thiopentone, therefore it is the preferred barbiturate for asthma patients.",
+      "topic": "Methohexitone"
+    },
+    {
+      "id": 12,
+      "question": "What is the chemical name of propofol?",
+      "options": {"A": "Sodium ethyl thiobarbiturate", "B": "2,6 di-isopropylphenol", "C": "Phencyclidine derivative", "D": "Imidazole derivative"},
+      "answer": "B",
+      "explanation": "Page 109: Propofol consists of a phenol ring with isopropyl group attached, its chemical name is 2,6 di-isopropylphenol. It is available as 1% and 2% milky white solution prepared in soyabean oil.",
+      "topic": "Propofol"
+    },
+    {
+      "id": 13,
+      "question": "Why is it mandatory to discard the propofol vial within 6 hours of opening?",
+      "options": {"A": "Because it loses potency", "B": "Because it contains egg lecithin and glycerol, which are a good media for bacterial growth, with high chances of contamination", "C": "Because it precipitates", "D": "Because it becomes alkaline"},
+      "answer": "B",
+      "explanation": "Page 109: Propofol contains egg lecithin and glycerol. As egg is a good media for bacterial growth, the chances of contamination of opened vial are very high. Although the recent formulations contain antimicrobial agents, they do not guarantee immunity against contamination; therefore, it is mandatory to discard the propofol vial within 6 hours.",
+      "topic": "Propofol"
+    },
+    {
+      "id": 14,
+      "question": "Propofol decreases central serotonin release and therefore acts as a potent:",
+      "options": {"A": "Analgesic", "B": "Muscle relaxant", "C": "Antiemetic (even more effective than ondansetron)", "D": "Anticonvulsant only"},
+      "answer": "C",
+      "explanation": "Page 109: By decreasing the central serotonin release, propofol acts as a potent antiemetic agent (even more effective than ondansetron for postoperative nausea and vomiting).",
+      "topic": "Propofol"
+    },
+    {
+      "id": 15,
+      "question": "Propofol is the intravenous agent of choice for which type of surgery, owing to its early smooth recovery and inactive metabolites?",
+      "options": {"A": "Cardiac surgery", "B": "Aneurysm surgery", "C": "Day care surgery", "D": "Neurosurgery"},
+      "answer": "C",
+      "explanation": "Page 109: Because of its early and smooth recovery and inactive metabolites and antiemetic effects, propofol is the IV agent of choice for day care surgery. Along with opioids (remifentanil), propofol is the agent of choice for total intravenous anesthesia (TIVA).",
+      "topic": "Propofol"
+    },
+    {
+      "id": 16,
+      "question": "Propofol is the agent of choice for induction in patients susceptible to:",
+      "options": {"A": "Malignant hyperthermia", "B": "Porphyria", "C": "Asthma", "D": "Egg allergy"},
+      "answer": "A",
+      "explanation": "Page 109: Propofol is the agent of choice for induction in susceptible individuals for malignant hyperthermia. Propofol infusion can also be used to produce sedation in ICU.",
+      "topic": "Propofol"
+    },
+    {
+      "id": 17,
+      "question": "Propofol infusion syndrome occurs because of the failure of free fatty acid metabolism. It is associated with severe:",
+      "options": {"A": "Respiratory alkalosis", "B": "Metabolic acidosis (lactic acidosis), cardiac failure and cardiomyopathy", "C": "Hyperthermia", "D": "Hypokalemia"},
+      "answer": "B",
+      "explanation": "Page 110: Propofol infusion syndrome is rare but a lethal complication, usually seen if propofol infusion is continued for more than 48 hours, and more common in children. It occurs because of the failure of free fatty acid metabolism and is associated with severe metabolic acidosis (lactic acidosis), acute cardiac failure, cardiomyopathy, skeletal myopathy, hyperkalemia, lipemia and hepatomegaly.",
+      "topic": "Propofol"
+    },
+    {
+      "id": 18,
+      "question": "Regarding egg allergy and propofol, which statement is correct?",
+      "options": {"A": "Egg allergy is an absolute contraindication", "B": "History of egg allergy is not a contraindication (as egg allergy is to egg white/albumin, not lecithin); but avoid in patients with history of anaphylaxis to egg", "C": "Propofol cannot be used in any allergic patient", "D": "Soy allergy is an absolute contraindication"},
+      "answer": "B",
+      "explanation": "Page 110: Patients with egg allergy — since egg allergy is almost always from egg white (albumin) and not from lecithin (which is prepared from yoke), history of egg allergy is not a contraindication for propofol. However, it is advisable to not use propofol in patients with history of anaphylaxis to egg. Patients with soy allergy can also safely receive propofol.",
+      "topic": "Propofol"
+    },
+    {
+      "id": 19,
+      "question": "Which intravenous agent is the most cardiovascular stable among all IV agents?",
+      "options": {"A": "Thiopentone", "B": "Propofol", "C": "Ketamine", "D": "Etomidate"},
+      "answer": "D",
+      "explanation": "Page 110: Etomidate is most cardiovascular stable among all IV agents. It has minimal respiratory depression, no histamine release, and decreases ICT by almost 50% in patients with elevated ICT.",
+      "topic": "Etomidate"
+    },
+    {
+      "id": 20,
+      "question": "The major side effect of etomidate (especially on long-term infusion) is:",
+      "options": {"A": "Adrenocortical suppression", "B": "Bronchospasm", "C": "Hypotension", "D": "Hyperthermia"},
+      "answer": "A",
+      "explanation": "Page 110: The major side effect of etomidate is adrenocortical suppression on long-term infusion. Single use only causes temporary adrenocortical suppression, which recovers with vitamin C supplementation. Nausea and vomiting incidence (40%) is highest among all intravenous anesthetics.",
+      "topic": "Etomidate"
+    },
+    {
+      "id": 21,
+      "question": "Etomidate is the intravenous anesthetic of choice for which patients?",
+      "options": {"A": "Aneurysm surgery and patients with cardiac disease", "B": "Asthma patients", "C": "Day care surgery", "D": "Patients with porphyria"},
+      "answer": "A",
+      "explanation": "Page 110: Etomidate is the intravenous anesthetic of choice for aneurysm surgery and patients with cardiac disease. It is only porphyrinogenic in rats, not in humans, and therefore can be safely used in porphyria in human beings.",
+      "topic": "Etomidate"
+    },
+    {
+      "id": 22,
+      "question": "Benzodiazepines mediate their action through which receptor?",
+      "options": {"A": "NMDA receptor", "B": "GABA-A receptor (increasing chloride conductance)", "C": "Opioid mu receptor", "D": "Alpha 2 adrenergic receptor"},
+      "answer": "B",
+      "explanation": "Page 111: Benzodiazepines mediate their action through the GABA receptor (GABA-A subtype) increasing the membrane conductance to chloride ion, causing hyperpolarization of membrane (GABA facilitatory).",
+      "topic": "Benzodiazepines"
+    },
+    {
+      "id": 23,
+      "question": "Which benzodiazepine is the only one used in the intraoperative period, being 3 times more potent than diazepam?",
+      "options": {"A": "Diazepam", "B": "Lorazepam", "C": "Midazolam", "D": "Nitrazepam"},
+      "answer": "C",
+      "explanation": "Page 111: Midazolam is 3 times more potent than diazepam. In current day practice, midazolam is the only BZ used in the intraoperative period. Diazepam and lorazepam are hardly used intraoperatively because they are oil based (injection is painful), sleep is not smooth, and elimination half-lives are prolonged.",
+      "topic": "Benzodiazepines"
+    },
+    {
+      "id": 24,
+      "question": "According to Table 12.1, what is the elimination half-life of midazolam?",
+      "options": {"A": "2–3 hours", "B": "15 hours", "C": "30–60 hours", "D": "10 hours"},
+      "answer": "A",
+      "explanation": "Page 111, Table 12.1: Elimination half-life — diazepam 30–60 hours, midazolam 2–3 hours, lorazepam 15 hours. Midazolam is water-based (painless injection), while diazepam and lorazepam are oil-based (painful injection).",
+      "topic": "Benzodiazepines"
+    },
+    {
+      "id": 25,
+      "question": "Flumazenil is a competitive antagonist at benzodiazepine receptors. Which effect is minimally reversed by it?",
+      "options": {"A": "Hypnosis", "B": "Respiratory depression", "C": "Sedation", "D": "Amnesia"},
+      "answer": "D",
+      "explanation": "Page 111–112: Flumazenil antagonizes hypnosis, respiratory depression and sedation, but amnesia is minimally reversed (particularly at low doses of flumazenil). The disadvantage of flumazenil is its short half-life (1–2 hours), therefore there are chances of re-sedation with long-acting agents like diazepam and lorazepam.",
+      "topic": "Benzodiazepines"
+    },
+    {
+      "id": 26,
+      "question": "Ketamine produces which type of anesthesia?",
+      "options": {"A": "Balanced anesthesia", "B": "Dissociative anesthesia", "C": "Neuroleptanesthesia", "D": "Spinal anesthesia"},
+      "answer": "B",
+      "explanation": "Page 112: Ketamine produces dissociative anesthesia, a state which dissociates the individual from surroundings and himself, i.e. the individual is in a cataleptic state. It is a phencyclidine derivative, synthesized by Stevens in 1962 and first used in humans by Domino and Corssen in 1965.",
+      "topic": "Ketamine"
+    },
+    {
+      "id": 27,
+      "question": "The main mechanism by which ketamine exerts its effect is by:",
+      "options": {"A": "Increasing GABA activity", "B": "Inhibiting N-methyl-D-aspartate (NMDA) receptors", "C": "Blocking sodium channels", "D": "Stimulating alpha 2 receptors"},
+      "answer": "B",
+      "explanation": "Page 112: The main mechanism by which ketamine exerts its effect is by inhibiting N-methyl-D-aspartate (NMDA) receptors. Interaction through opioid (μ) receptors has also been postulated. Its primary site of action is the thalamo-neocortical projection.",
+      "topic": "Ketamine"
+    },
+    {
+      "id": 28,
+      "question": "What is the most common side effect of ketamine, occurring in 30–40% of patients?",
+      "options": {"A": "Bradycardia", "B": "Hallucinations (mainly auditory)", "C": "Hypotension", "D": "Respiratory depression"},
+      "answer": "B",
+      "explanation": "Page 112: Ketamine produces both auditory and visual hallucinations (mainly auditory). The incidence is 30–40%. Hallucination is the most common side effect of ketamine. Hallucinations and emergence reactions can be decreased by giving benzodiazepines along with ketamine.",
+      "topic": "Ketamine"
+    },
+    {
+      "id": 29,
+      "question": "Ketamine stimulates the sympathetic system causing tachycardia and hypertension, making it the intravenous anesthetic of choice for:",
+      "options": {"A": "Hypertensive patients", "B": "Shock", "C": "Ischemic heart disease", "D": "Pheochromocytoma"},
+      "answer": "B",
+      "explanation": "Page 112: Ketamine stimulates the sympathetic system causing tachycardia and hypertension, therefore it is the intravenous anesthetic of choice for shock. However, in debilitated patients in whom catecholamines have been depleted, ketamine can cause direct myocardial depression.",
+      "topic": "Ketamine"
+    },
+    {
+      "id": 30,
+      "question": "Ketamine is a potent bronchodilator and can be used in the treatment of:",
+      "options": {"A": "Refractory status asthmaticus unresponsive to conventional therapy", "B": "Pulmonary edema", "C": "Pneumothorax", "D": "COPD exacerbation only"},
+      "answer": "A",
+      "explanation": "Page 113: Ketamine is such a potent bronchodilator that it can be used in the treatment of refractory status asthmaticus unresponsive to conventional therapy. Pharyngeal and laryngeal reflexes are preserved (but silent aspiration can still occur).",
+      "topic": "Ketamine"
+    },
+    {
+      "id": 31,
+      "question": "Why is the use of atropine or glycopyrrolate necessary with ketamine?",
+      "options": {"A": "To prevent hypotension", "B": "Because tracheobronchial and salivary secretions are increased, producing laryngospasm", "C": "To reduce hallucinations", "D": "To increase intraocular pressure"},
+      "answer": "B",
+      "explanation": "Page 113: Tracheobronchial and salivary secretions are increased with ketamine, producing laryngospasm. Therefore, the use of atropine/glycopyrrolate is necessary with ketamine.",
+      "topic": "Ketamine"
+    },
+    {
+      "id": 32,
+      "question": "What is the intravenous and intramuscular dose of ketamine?",
+      "options": {"A": "IV 2 mg/kg, IM 5–10 mg/kg", "B": "IV 5 mg/kg, IM 2 mg/kg", "C": "IV 0.2 mg/kg, IM 1 mg/kg", "D": "IV 10 mg/kg, IM 20 mg/kg"},
+      "answer": "A",
+      "explanation": "Page 113: Ketamine can be given IV, IM, oral, nasal, per rectal and intrathecally. The dose is: Intravenous 2 mg/kg, Intramuscular 5–10 mg/kg.",
+      "topic": "Ketamine"
+    },
+    {
+      "id": 33,
+      "question": "Ketamine is contraindicated in head injury because it:",
+      "options": {"A": "Increases intracranial tension (though it can be used in mechanically-ventilated patients)", "B": "Causes severe hypotension", "C": "Causes bradycardia", "D": "Depresses respiration"},
+      "answer": "A",
+      "explanation": "Page 113: Ketamine is contraindicated in head injury as it increases intracranial tension (it can be used in mechanically-ventilated patients). It is also contraindicated in ocular surgeries and glaucoma (increases IOP), ischemic heart disease (increases myocardial oxygen demand), vascular aneurysm (hypertension), and psychiatric diseases.",
+      "topic": "Ketamine"
+    },
+    {
+      "id": 34,
+      "question": "Which are the most important receptors for the action of opioids?",
+      "options": {"A": "Kappa (κ) receptors", "B": "Delta (δ) receptors", "C": "Mu (μ) receptors", "D": "Nociceptin receptors"},
+      "answer": "C",
+      "explanation": "Page 114: μ (mu) receptors are the most important receptors for the action of opioids. They are further divided into μ1 and μ2. μ1 mediates analgesia (mainly supraspinal), sedation, bradycardia, miosis, urinary retention, and muscle rigidity; μ2 mediates respiratory depression, constipation, and physical dependence.",
+      "topic": "Opioids"
+    },
+    {
+      "id": 35,
+      "question": "The most important characteristic of agonist-antagonist opioids is:",
+      "options": {"A": "Ceiling effect on respiratory depression", "B": "Highest analgesic potency", "C": "Complete reversal of all opioid effects", "D": "Absence of any analgesia"},
+      "answer": "A",
+      "explanation": "Page 115: As agonist-antagonists exhibit agonistic action only up to a certain dose, the analgesia and respiratory depression achieve a plateau after this dose. This effect is called the ceiling effect, which is the most important characteristic of agonist-antagonists.",
+      "topic": "Opioids"
+    },
+    {
+      "id": 36,
+      "question": "What is the most common cause of death in morphine poisoning?",
+      "options": {"A": "Cardiac arrest", "B": "Respiratory depression", "C": "Convulsions", "D": "Hypotension"},
+      "answer": "B",
+      "explanation": "Page 115: Respiratory depression is the most common cause of death in morphine poisoning. Children and old patients are more prone for respiratory depression. Opioids inhibit the ventilatory response to hypoxia and hypercarbia.",
+      "topic": "Opioids"
+    },
+    {
+      "id": 37,
+      "question": "Muscle rigidity (wooden chest or stiff chest syndrome) caused by opioids is most commonly seen with which opioid?",
+      "options": {"A": "Morphine", "B": "Pethidine", "C": "Alfentanil", "D": "Codeine"},
+      "answer": "C",
+      "explanation": "Page 116: Opioids can cause muscle rigidity which sometimes becomes so severe in thoracic muscles that it causes hypoxia. This is called wooden chest syndrome or stiff chest syndrome. Muscle rigidity is most commonly seen with alfentanil. Treatment includes naloxone, benzodiazepines, muscle relaxants, and elective ventilation.",
+      "topic": "Opioids"
+    },
+    {
+      "id": 38,
+      "question": "Tolerance is seen to all actions of opioids EXCEPT:",
+      "options": {"A": "Constipation and miosis", "B": "Analgesia", "C": "Respiratory depression", "D": "Sedation"},
+      "answer": "A",
+      "explanation": "Page 116: Tolerance has been seen to all actions of opioids except constipation and miosis. Tolerance is mainly pharmacodynamic. The chronic use of opioids not only produces tolerance to pain but can produce hyperalgesia.",
+      "topic": "Opioids"
+    },
+    {
+      "id": 39,
+      "question": "Pethidine (meperidine) is a chemical congener of atropine and therefore has which additional side effects?",
+      "options": {"A": "Blurred vision, dry mouth and tachycardia", "B": "Bradycardia and miosis", "C": "Hypertension and hyperthermia", "D": "Diarrhea and salivation"},
+      "answer": "A",
+      "explanation": "Page 116: Pethidine is an atropine congener, therefore it has additional side effects like atropine, i.e. blurred vision, dry mouth and tachycardia. It is one tenth as potent as morphine.",
+      "topic": "Opioids"
+    },
+    {
+      "id": 40,
+      "question": "Pethidine is the drug of choice for which condition, as it abolishes shivering?",
+      "options": {"A": "Postoperative shivering", "B": "Postoperative nausea", "C": "Pulmonary edema", "D": "Biliary colic"},
+      "answer": "A",
+      "explanation": "Page 116: Pethidine abolishes shivering, therefore it is the drug of choice for shivering. It is also a directly acting myocardial depressant and has local analgesic properties.",
+      "topic": "Opioids"
+    },
+    {
+      "id": 41,
+      "question": "Pethidine is absolutely contraindicated in patients on which drugs?",
+      "options": {"A": "Monoamine oxidase inhibitors (MAO)", "B": "Beta-blockers", "C": "Calcium channel blockers", "D": "Diuretics"},
+      "answer": "A",
+      "explanation": "Page 116: Pethidine is absolutely contraindicated in patients on monoamine oxidase inhibitors (MAO) therapy. A patient on MAO inhibitors undergoes abnormal metabolism of pethidine to produce Nor-Pethidine, which can cause restlessness, hypertension, convulsion, coma or even death.",
+      "topic": "Opioids"
+    },
+    {
+      "id": 42,
+      "question": "Which opioid is the most common used opioid in anesthesia and is the most cardiac stable opioid?",
+      "options": {"A": "Morphine", "B": "Fentanyl", "C": "Pethidine", "D": "Remifentanil"},
+      "answer": "B",
+      "explanation": "Page 117: Fentanyl is the most common used opioid in anesthesia. It is 100 times more potent than morphine. Due to high lipid solubility it has rapid onset (2 to 5 min) and rapid recovery (1–2 hours). It is the most cardiac stable opioid.",
+      "topic": "Opioids"
+    },
+    {
+      "id": 43,
+      "question": "Which is the most potent human opioid (500 times more potent than morphine) available in clinical practice?",
+      "options": {"A": "Alfentanil", "B": "Sufentanil", "C": "Remifentanil", "D": "Fentanyl"},
+      "answer": "B",
+      "explanation": "Page 117: Sufentanil is the most potent human opioid (500 times of morphine) available in clinical practice. As sufentanil maximally inhibits airway reflexes, it is the agent of choice for inhibiting stress response to laryngoscopy and intubation.",
+      "topic": "Opioids"
+    },
+    {
+      "id": 44,
+      "question": "Remifentanil is the opioid of choice for day care surgery because of its ultrashort action. It is metabolized rapidly by:",
+      "options": {"A": "Liver enzymes", "B": "Esterases in red cells and tissues", "C": "Renal excretion", "D": "Lungs"},
+      "answer": "B",
+      "explanation": "Page 117: Remifentanil is an ultrashort acting opioid metabolized rapidly by esterases in red cells and tissues. Onset is fastest (1.1 minutes) and recovery is also most rapid among opioids (5–10 minutes), making remifentanil the opioid of choice for day care surgery.",
+      "topic": "Opioids"
+    },
+    {
+      "id": 45,
+      "question": "Remifentanil contains glycine, which makes it UNSUITABLE for:",
+      "options": {"A": "Day care surgery", "B": "Postoperative analgesia and painless labor", "C": "Cardiac surgery", "D": "Intubation"},
+      "answer": "B",
+      "explanation": "Page 117: Remifentanil contains glycine which can cause motor weakness, making it unsuitable for postoperative analgesia and painless labor. It also causes significant hypotension.",
+      "topic": "Opioids"
+    },
+    {
+      "id": 46,
+      "question": "Which opioid has the highest addiction potential?",
+      "options": {"A": "Codeine", "B": "Heroin", "C": "Methadone", "D": "Tramadol"},
+      "answer": "B",
+      "explanation": "Page 117: Among other opioid agonists, codeine is used for suppressing cough, heroin has got the highest addiction potential, and methadone is mainly used in prevention of opioid withdrawal symptoms.",
+      "topic": "Opioids"
+    },
+    {
+      "id": 47,
+      "question": "Naloxone is a pure opioid antagonist with a short duration of action (30–60 min), thereby increasing the chances of:",
+      "options": {"A": "Renarcotization with long acting agents like morphine", "B": "Respiratory arrest", "C": "Hypotension", "D": "Seizures"},
+      "answer": "A",
+      "explanation": "Page 118: Naloxone is a pure opioid antagonist acting on all opioid receptors with maximum propensity for mu receptors. The duration of action is 30–60 min, thereby increasing the chances of renarcotization with long acting agents like morphine. Naloxone can be given intra-tracheally.",
+      "topic": "Opioid Antagonists"
+    },
+    {
+      "id": 48,
+      "question": "Peripheral opioid antagonists like methylnaltrexone and alvimopan are quaternary ammonium compounds not crossing the blood brain barrier. They are useful for:",
+      "options": {"A": "Reversing respiratory depression", "B": "Reversing peripheral side effects (particularly constipation) without reversing analgesia", "C": "Treating opioid addiction", "D": "Reversing sedation"},
+      "answer": "B",
+      "explanation": "Page 118: Peripheral antagonists — methylnaltrexone and alvimopan are quaternary ammonium compounds not crossing the blood brain barrier, therefore they hold a very promising role in reversing the peripheral side effects (particularly constipation) without reversing the analgesia.",
+      "topic": "Opioid Antagonists"
+    },
+    {
+      "id": 49,
+      "question": "Dexmedetomidine is a new alpha 2 agonist. When used as an adjuvant, the MAC of inhalational agents is decreased and narcotic requirement is reduced by approximately:",
+      "options": {"A": "10%", "B": "50%", "C": "25%", "D": "90%"},
+      "answer": "B",
+      "explanation": "Page 118–119: Dexmedetomidine is a new α2 agonist which is more selective with lesser side effects compared to clonidine. As an adjuvant, the MAC of inhalational agents is decreased and narcotic requirement has been found to be reduced by 50% in patients who receive dexmedetomidine infusion.",
+      "topic": "Alpha 2 Adrenergic Agonists"
+    },
+    {
+      "id": 50,
+      "question": "What is the most common side effect of dexmedetomidine, seen in almost one-third of patients?",
+      "options": {"A": "Hypertension", "B": "Hypotension", "C": "Bradycardia", "D": "Respiratory depression"},
+      "answer": "B",
+      "explanation": "Page 119: Side effects of dexmedetomidine include initial hypertension; hypotension is the most common side effect, seen in almost one-third of the patients. The effect of dexmedetomidine can be reversed with atipamezole.",
+      "topic": "Alpha 2 Adrenergic Agonists"
+    }
+  ]
+}
