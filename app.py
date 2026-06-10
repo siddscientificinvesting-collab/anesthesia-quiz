@@ -182,6 +182,12 @@ QUIZ_CATALOG = {
         "short": "Geriatric (Ch 30)",
         "icon": "👴",
     },
+    "ch29": {
+        "file": "questions_ch29.json",
+        "label": "Chapter 29 – Pediatric Anesthesia",
+        "short": "Pediatric (Ch 29)",
+        "icon": "👶",
+    },
 }
 
 # ─── Load Questions ──────────────────────────────────────────────────────────

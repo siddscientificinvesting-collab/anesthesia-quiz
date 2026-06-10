@@ -1,0 +1,789 @@
+{
+  "title": "Pediatric Anesthesia MCQ – Chapter 29",
+  "source": "Short Textbook of Anesthesia – Ajay Yadav",
+  "section": "Section 8: Subspecialty Anesthetic Management – Pediatric Anesthesia (Chapter 29)",
+  "total_questions": 60,
+  "time_limit_minutes": 40,
+  "questions": [
+    {
+      "id": 1,
+      "question": "At which cervical vertebral level is the larynx positioned in infants, compared to C6 in adults?",
+      "options": {
+        "A": "C4",
+        "B": "C3",
+        "C": "C5",
+        "D": "C7"
+      },
+      "answer": "A",
+      "explanation": "Page 236: In children (particularly infants), the larynx is more anterior and high, positioned at C4 compared to C6 in adults. This anatomical difference is important for intubation technique.",
+      "topic": "Airway Anatomy"
+    },
+    {
+      "id": 2,
+      "question": "What is the narrowest part of the airway in children up to 6 years of age?",
+      "options": {
+        "A": "Vocal cords",
+        "B": "Subglottis (at the level of cricoid)",
+        "C": "Glottis",
+        "D": "Trachea"
+      },
+      "answer": "B",
+      "explanation": "Page 236–237: Subglottis (at the level of cricoid) is the narrowest part of the larynx in children up to 6 years of age. In adults the narrowest part is the vocal cords. This is why uncuffed tubes traditionally had a natural seal in children.",
+      "topic": "Airway Anatomy"
+    },
+    {
+      "id": 3,
+      "question": "Which laryngoscope blade is preferred for intubation in neonates and infants due to their anatomical airway configuration?",
+      "options": {
+        "A": "Curved Macintosh blade",
+        "B": "Small Macintosh blade",
+        "C": "Straight (Magill) blade",
+        "D": "Video laryngoscope blade"
+      },
+      "answer": "C",
+      "explanation": "Page 237: Due to anatomical configuration of the airway and large epiglottis, intubation is preferred with a straight blade (Magill) laryngoscope in neonates and infants. A large tongue can also obscure the view during laryngoscopy.",
+      "topic": "Airway Anatomy"
+    },
+    {
+      "id": 4,
+      "question": "What is the normal respiratory rate in a neonate?",
+      "options": {
+        "A": "14–16/minute",
+        "B": "20–25/minute",
+        "C": "25–30/minute",
+        "D": "35/minute"
+      },
+      "answer": "D",
+      "explanation": "Page 236, Table 29.1: The normal respiratory rate in a neonate is 35/minute compared to 14–16/minute in adults. This higher respiratory rate (not tidal volume) is the key determinant of the neonate’s high alveolar ventilation.",
+      "topic": "Respiratory Physiology"
+    },
+    {
+      "id": 5,
+      "question": "Which respiratory parameter is the SAME (on a per kg basis) in both neonates and adults?",
+      "options": {
+        "A": "Tidal volume (6–8 mL/kg)",
+        "B": "Respiratory rate",
+        "C": "Alveolar ventilation",
+        "D": "Oxygen consumption"
+      },
+      "answer": "A",
+      "explanation": "Page 236, Table 29.1: Tidal volume is 6–8 mL/kg in both neonates and adults — it is identical. The determinant of the neonate’s high alveolar ventilation (120–140 vs 60–70 mL/kg/min) is the high respiratory rate, not tidal volume.",
+      "topic": "Respiratory Physiology"
+    },
+    {
+      "id": 6,
+      "question": "What is the oxygen consumption rate in neonates (mL/kg/minute)?",
+      "options": {
+        "A": "3 mL/kg/minute (same as adults)",
+        "B": "6 mL/kg/minute (twice that of adults)",
+        "C": "9 mL/kg/minute",
+        "D": "12 mL/kg/minute"
+      },
+      "answer": "B",
+      "explanation": "Page 236, Table 29.1: Oxygen consumption in neonates is 6 mL/kg/minute compared to 3 mL/kg/minute in adults — twice that of adults. Calorie requirement in neonates is 100 kcal/kg vs 30 kcal/kg in adults (three times).",
+      "topic": "Respiratory Physiology"
+    },
+    {
+      "id": 7,
+      "question": "The pCO2 in neonates (30–36 mm Hg) is lower than in adults (35–45 mm Hg). What is the primary reason?",
+      "options": {
+        "A": "Reduced CO2 production by tissues",
+        "B": "Better CO2 buffering capacity",
+        "C": "High respiratory rate",
+        "D": "Increased alveolar dead space"
+      },
+      "answer": "C",
+      "explanation": "Page 236, Table 29.1: The comment column in Table 29.1 states that the lower pCO2 in neonates is “Due to high respiratory rate.” This results in more CO2 being blown off per minute.",
+      "topic": "Respiratory Physiology"
+    },
+    {
+      "id": 8,
+      "question": "Due to high alveolar ventilation in children, induction with inhalational agents is:",
+      "options": {
+        "A": "Slower than adults",
+        "B": "Same speed as adults",
+        "C": "Unpredictable",
+        "D": "Faster than adults"
+      },
+      "answer": "D",
+      "explanation": "Page 237: Because of high alveolar ventilation, induction with inhalational agents is faster in children compared to adults. This is an important anesthetic implication of the respiratory physiology of children.",
+      "topic": "Respiratory – Anesthetic Implications"
+    },
+    {
+      "id": 9,
+      "question": "When using cuffed endotracheal tubes in children, what leak pressure criterion must be maintained to prevent mucosal injury while avoiding barotrauma?",
+      "options": {
+        "A": "A leak must be maintained at pressure > 15–20 cm H₂O",
+        "B": "No leak should be allowed at any pressure",
+        "C": "Leak at pressure > 5–10 cm H₂O",
+        "D": "Leak at pressure > 25–30 cm H₂O"
+      },
+      "answer": "A",
+      "explanation": "Page 237: A leak must be maintained around the cuff (inflated or not inflated) at a pressure of more than 15–20 cm H₂O. This prevents tracheal mucosal injury but also prevents excessive leak that can cause hypoventilation and aspiration risk.",
+      "topic": "Airway Management"
+    },
+    {
+      "id": 10,
+      "question": "What is the normal blood pressure in a neonate?",
+      "options": {
+        "A": "80/50 mm Hg",
+        "B": "60/40 mm Hg",
+        "C": "100/60 mm Hg",
+        "D": "70/45 mm Hg"
+      },
+      "answer": "B",
+      "explanation": "Page 237: Blood pressure in a neonate is 60/40 mm Hg — 50% of adult value. Therefore, cardiac output is mainly determined by heart rate, which is 120–140/minute at birth.",
+      "topic": "Cardiovascular System"
+    },
+    {
+      "id": 11,
+      "question": "What is the MOST COMMON adverse cardiac event during the perioperative period in pediatric patients?",
+      "options": {
+        "A": "Ventricular tachycardia",
+        "B": "Supraventricular tachycardia",
+        "C": "Bradycardia",
+        "D": "Cardiac arrest"
+      },
+      "answer": "C",
+      "explanation": "Page 237: Bradycardia is the most common adverse cardiac event during the perioperative period in pediatric patients. The key point states “Bradycardia is not acceptable at any cost.” Cardiac arrests are also more common in pediatric age groups.",
+      "topic": "Cardiovascular System"
+    },
+    {
+      "id": 12,
+      "question": "In neonates, cardiac output is primarily determined by which factor (due to relatively fixed stroke volume)?",
+      "options": {
+        "A": "Preload",
+        "B": "Afterload",
+        "C": "Contractility",
+        "D": "Heart rate"
+      },
+      "answer": "D",
+      "explanation": "Page 237: Cardiac output in neonates is mainly determined by heart rate, which is 120–140/minute at birth. Since stroke volume is relatively fixed, bradycardia directly reduces cardiac output, which is why it is not acceptable at any cost.",
+      "topic": "Cardiovascular System"
+    },
+    {
+      "id": 13,
+      "question": "In children, extracellular fluid (ECF) constitutes what percentage of body weight (compared to 20% in adults)?",
+      "options": {
+        "A": "40%",
+        "B": "30%",
+        "C": "50%",
+        "D": "25%"
+      },
+      "answer": "A",
+      "explanation": "Page 237: Extracellular fluid (ECF) constitutes 40% of body weight in children, compared to 20% in adults. This high volume of distribution dilutes initial intravenous drugs, making initial dose requirements higher on a per kg basis.",
+      "topic": "Body Water"
+    },
+    {
+      "id": 14,
+      "question": "Due to the high volume of distribution in children, the initial intravenous drug dose requirement on a per kg basis compared to adults is:",
+      "options": {
+        "A": "Lower than adults",
+        "B": "Higher than adults",
+        "C": "Same as adults",
+        "D": "Twice the adult dose regardless of weight"
+      },
+      "answer": "B",
+      "explanation": "Page 237: The high volume of distribution dilutes the initial intravenous drug; therefore the initial dose requirement (on per kg weight basis) is higher than adults. However, excessive fluid leads to fluid overload as the heart is less compliant.",
+      "topic": "Body Water"
+    },
+    {
+      "id": 15,
+      "question": "Why are children comparatively more prone to hypoglycemia than adults?",
+      "options": {
+        "A": "Due to increased glucose excretion by kidneys",
+        "B": "Due to high insulin secretion",
+        "C": "Due to inadequate glycogen stores and high metabolic rate",
+        "D": "Due to decreased hepatic gluconeogenesis alone"
+      },
+      "answer": "C",
+      "explanation": "Page 237: Due to inadequate glycogen stores and high metabolic rate, children are comparatively more prone to hypoglycemia. Despite this, Ringer lactate is still sufficient for most children as they are not so prone to hypoglycemia that dextrose is always required.",
+      "topic": "Metabolic"
+    },
+    {
+      "id": 16,
+      "question": "What is the recommended operating theater temperature for pediatric patients to prevent hypothermia (compared to 21°C for adults)?",
+      "options": {
+        "A": "32°C",
+        "B": "30°C",
+        "C": "25°C",
+        "D": "28°C"
+      },
+      "answer": "D",
+      "explanation": "Page 237: To prevent hypothermia, the operation theater temperature should be maintained at 28°C for pediatric patients (usually maintained at 21°C for adults). Children are very prone to hypothermia due to decreased ability to produce and conserve heat and increased heat loss due to large body surface area.",
+      "topic": "Thermoregulation"
+    },
+    {
+      "id": 17,
+      "question": "What is the ONLY mechanism for heat production available to neonates (who cannot shiver)?",
+      "options": {
+        "A": "Metabolism of brown fat",
+        "B": "Shivering thermogenesis",
+        "C": "Vasoconstriction",
+        "D": "Increased skeletal muscle activity"
+      },
+      "answer": "A",
+      "explanation": "Page 237: The only mechanism for heat production in neonates is metabolism of brown fat, which is present in the posterior neck, interscapular and vertebral areas, and around the kidneys and adrenal glands. Neonates cannot shiver.",
+      "topic": "Thermoregulation"
+    },
+    {
+      "id": 18,
+      "question": "What is the normal hemoglobin level at birth?",
+      "options": {
+        "A": "14 g%",
+        "B": "19 g%",
+        "C": "12 g%",
+        "D": "16 g%"
+      },
+      "answer": "B",
+      "explanation": "Page 237: Hemoglobin at birth is 19 g%, which falls to 10 g% at 2–3 months (physiologic anemia of infancy), and thereafter steadily increases to adult value by 12–13 years.",
+      "topic": "Hematology"
+    },
+    {
+      "id": 19,
+      "question": "What is the term for the fall in hemoglobin to 10 g% that occurs physiologically at 2–3 months of age?",
+      "options": {
+        "A": "Hemolytic anemia of the newborn",
+        "B": "Iron deficiency anemia",
+        "C": "Physiologic anemia of infancy",
+        "D": "Aplastic anemia"
+      },
+      "answer": "C",
+      "explanation": "Page 237: The fall in hemoglobin from 19 g% at birth to 10 g% at 2–3 months is called the physiologic anemia of infancy. It is a normal physiological process, after which Hgb steadily increases to adult value by 12–13 years.",
+      "topic": "Hematology"
+    },
+    {
+      "id": 20,
+      "question": "The higher content of fetal hemoglobin in neonates shifts the oxygen dissociation curve in which direction?",
+      "options": {
+        "A": "To the right (decreased oxygen affinity)",
+        "B": "Upward (greater oxygen-carrying capacity)",
+        "C": "No significant shift",
+        "D": "To the left (increased oxygen affinity)"
+      },
+      "answer": "D",
+      "explanation": "Page 237: Neonates have a higher content of fetal hemoglobin, which shifts the oxygen dissociation curve to the left. This means higher oxygen affinity but decreased oxygen release to peripheral tissues.",
+      "topic": "Hematology"
+    },
+    {
+      "id": 21,
+      "question": "Why is prolonged coagulation expected in neonates?",
+      "options": {
+        "A": "Due to vitamin K deficiency",
+        "B": "Due to immature platelet function",
+        "C": "Due to low fibrinogen levels",
+        "D": "Due to low factor VIII levels"
+      },
+      "answer": "A",
+      "explanation": "Page 237: Prolonged coagulation is expected in neonates due to vitamin K deficiency. This has important clinical implications for surgical procedures and bleeding risk in the neonatal period.",
+      "topic": "Hematology"
+    },
+    {
+      "id": 22,
+      "question": "What is the correct order of MAC requirement from highest to lowest in pediatric populations?",
+      "options": {
+        "A": "Neonates > infants > adults",
+        "B": "Infants > neonates > adults",
+        "C": "Adults > infants > neonates",
+        "D": "Neonates > adults > infants"
+      },
+      "answer": "B",
+      "explanation": "Page 238: MAC requirement in decreasing order is Infants > neonates > adults. Maximum MAC peaks in infancy at 6 months. Neonates have less MAC compared to infants due to the immature CNS.",
+      "topic": "CNS and MAC"
+    },
+    {
+      "id": 23,
+      "question": "At what age does MAC (Minimum Alveolar Concentration) peak in human beings?",
+      "options": {
+        "A": "At birth",
+        "B": "3 months",
+        "C": "6 months",
+        "D": "1 year"
+      },
+      "answer": "C",
+      "explanation": "Page 238: Maximum MAC in human beings occurs in infancy, peaking at the age of 6 months. Thereafter it decreases steadily throughout life, except for a slight increase at puberty.",
+      "topic": "CNS and MAC"
+    },
+    {
+      "id": 24,
+      "question": "In neonates, decreased albumin levels have what clinical implication for drug pharmacokinetics?",
+      "options": {
+        "A": "Decreased total drug concentration in plasma",
+        "B": "Decreased drug clearance only",
+        "C": "Increased protein-bound drug fraction",
+        "D": "Increases the unbound (free) fraction of drugs"
+      },
+      "answer": "D",
+      "explanation": "Page 238: Decreased albumin increases the unbound fraction of drugs. More free drug is available in the plasma, which can lead to toxicity at lower doses than expected.",
+      "topic": "Hepatic and Renal"
+    },
+    {
+      "id": 25,
+      "question": "Until what age is functional maturation of the neuromuscular junction not complete, making newborns very sensitive to nondepolarizing muscle relaxants?",
+      "options": {
+        "A": "2 months",
+        "B": "6 months",
+        "C": "1 year",
+        "D": "3 months"
+      },
+      "answer": "A",
+      "explanation": "Page 238: Functional maturation of the neuromuscular junction is not complete until 2 months of age; therefore, newborns are very sensitive to nondepolarizing muscle relaxants and must be dosed with extreme caution.",
+      "topic": "Neuromuscular Junction"
+    },
+    {
+      "id": 26,
+      "question": "For a child aged 6 months to 3 years, what is the recommended fasting time for milk and solid food before anesthesia?",
+      "options": {
+        "A": "4 hours",
+        "B": "6 hours",
+        "C": "8 hours",
+        "D": "2 hours"
+      },
+      "answer": "B",
+      "explanation": "Page 238: Fasting recommendations — 6 months to 3 years: milk and solid food 6 hours, clear liquid (water) 2 hours. For < 6 months: breast milk 4 hours, clear liquid 2 hours. For > 3 years: 8 hours for milk/solid, 2 hours for clear liquid.",
+      "topic": "Fasting Recommendations"
+    },
+    {
+      "id": 27,
+      "question": "What is the clear liquid (water) fasting time required before anesthesia for ALL pediatric age groups?",
+      "options": {
+        "A": "4 hours",
+        "B": "6 hours",
+        "C": "2 hours",
+        "D": "1 hour"
+      },
+      "answer": "C",
+      "explanation": "Page 238: The clear liquid (water) fasting time is uniformly 2 hours for all pediatric age groups (< 6 months, 6 months–3 years, and > 3 years). This is consistent across all age groups.",
+      "topic": "Fasting Recommendations"
+    },
+    {
+      "id": 28,
+      "question": "What is the simpler and more accurate intraoperative fluid replacement formula recommended for children (instead of the 4-2-1 formula)?",
+      "options": {
+        "A": "10–20 mL/kg",
+        "B": "40–60 mL/kg",
+        "C": "The 4-2-1 formula remains the best",
+        "D": "20–40 mL/kg"
+      },
+      "answer": "D",
+      "explanation": "Page 238: A simpler and probably more accurate method is to give 20–40 mL/kg of fluid during the intraoperative period. Thereafter in the postoperative period the fluid is given by the 2-1-0.5 formula.",
+      "topic": "Fluid Management"
+    },
+    {
+      "id": 29,
+      "question": "What is the postoperative fluid maintenance formula used for children?",
+      "options": {
+        "A": "2-1-0.5 (0–10 kg @ 2 mL/kg, 10–20 kg @ 1 mL/kg, >20 kg @ 0.5 mL/kg)",
+        "B": "4-2-1 formula only",
+        "C": "1 mL/kg/hr flat rate",
+        "D": "3-1.5-0.75 formula"
+      },
+      "answer": "A",
+      "explanation": "Page 238: In the postoperative period the fluid is given by the formula of 2-1-0.5: 0–10 kg @ 2 mL/kg, 10–20 @ 1 mL/kg, and >20 kg @ 0.5 mL/kg. If the fluid has to be continued after 12 hours, 5% dextrose with 0.45% normal saline by 4-2-1 formula is used.",
+      "topic": "Fluid Management"
+    },
+    {
+      "id": 30,
+      "question": "What is the intraoperative fluid of choice for the majority of pediatric surgical patients?",
+      "options": {
+        "A": "Normal saline",
+        "B": "Ringer lactate",
+        "C": "5% Dextrose",
+        "D": "5% Dextrose in 0.45% normal saline"
+      },
+      "answer": "B",
+      "explanation": "Page 238: As children are not so prone to hypoglycemia, Ringer lactate may be the only fluid required for the majority of children. If there is concern of hypoglycemia, 5% dextrose in 0.45% normal saline is added as a piggyback (not as a replacement fluid).",
+      "topic": "Fluid Management"
+    },
+    {
+      "id": 31,
+      "question": "What is the most commonly used method of induction in pediatric patients (though the method of choice is always IV)?",
+      "options": {
+        "A": "Intravenous induction",
+        "B": "Intramuscular induction",
+        "C": "Inhalational induction",
+        "D": "Rectal induction"
+      },
+      "answer": "C",
+      "explanation": "Page 238: Inhalational induction is the most commonly used technique as children will not allow putting IV lines. However, the method of choice for induction is always IV. An important precaution is to put an IV line once the child falls asleep before proceeding to a deeper plane.",
+      "topic": "Anesthetic Induction"
+    },
+    {
+      "id": 32,
+      "question": "Sevoflurane is considered the inhalational agent of choice for induction in children. At what concentration is it used?",
+      "options": {
+        "A": "2–4%",
+        "B": "4–5%",
+        "C": "5–6%",
+        "D": "7–8%"
+      },
+      "answer": "D",
+      "explanation": "Page 238: Due to smooth and rapid induction, sevoflurane (7–8%) is considered the inhalational agent of choice for induction in children. Halothane is still commonly used in India due to lower cost.",
+      "topic": "Anesthetic Induction"
+    },
+    {
+      "id": 33,
+      "question": "Which inhalational agents must NOT be used for induction in children due to irritating properties and risk of severe laryngospasm?",
+      "options": {
+        "A": "Isoflurane and desflurane",
+        "B": "Sevoflurane and halothane",
+        "C": "Halothane and nitrous oxide",
+        "D": "Desflurane and nitrous oxide"
+      },
+      "answer": "A",
+      "explanation": "Page 238–239: Isoflurane and desflurane have irritating induction and can produce severe laryngospasm, therefore they must not be used for induction. Conversely, sevoflurane and halothane are excellent for induction but not suitable for maintenance.",
+      "topic": "Anesthetic Induction"
+    },
+    {
+      "id": 34,
+      "question": "At what intramuscular dose can ketamine be given to a pediatric patient in the preoperative room with parents?",
+      "options": {
+        "A": "2 mg/kg",
+        "B": "5 mg/kg",
+        "C": "10 mg/kg",
+        "D": "1 mg/kg"
+      },
+      "answer": "B",
+      "explanation": "Page 239: Ketamine 5 mg/kg can be given IM when the child is in the preoperative room with parents. This is useful when IV access is not available and inhalational induction is not feasible or contraindicated.",
+      "topic": "Anesthetic Induction"
+    },
+    {
+      "id": 35,
+      "question": "Which breathing circuit is preferred for children less than 6 years of age (or less than 20 kg)?",
+      "options": {
+        "A": "Bains circuit",
+        "B": "Mapleson A circuit",
+        "C": "Jackson-Rees circuit",
+        "D": "Mapleson D circuit"
+      },
+      "answer": "C",
+      "explanation": "Page 239: Jackson-Rees circuit is used for children less than 6 years (or < 20 kg) and Bains circuit for children more than 6 years (or > 20 kg). However, the preference should be the pediatric circle system (pediatric closed circuit).",
+      "topic": "Airway Circuit"
+    },
+    {
+      "id": 36,
+      "question": "Which anesthetic agents are NOT suitable for maintenance in children due to significant emergence agitation (20% and 15% incidence respectively)?",
+      "options": {
+        "A": "Isoflurane and desflurane",
+        "B": "Desflurane and propofol",
+        "C": "Isoflurane and propofol",
+        "D": "Sevoflurane and halothane"
+      },
+      "answer": "D",
+      "explanation": "Page 239: Sevoflurane (20% emergence agitation) and halothane (15%) are not suitable for maintenance. Anesthesia is best maintained with desflurane or isoflurane. To summarize: sevoflurane/halothane are excellent for induction; desflurane/isoflurane are excellent for maintenance.",
+      "topic": "Anesthetic Maintenance"
+    },
+    {
+      "id": 37,
+      "question": "Which muscle relaxants are the agents of choice in pediatric patients due to their independence from hepatic and renal metabolism?",
+      "options": {
+        "A": "Atracurium and cisatracurium",
+        "B": "Vecuronium and rocuronium",
+        "C": "Succinylcholine and mivacurium",
+        "D": "Pancuronium and d-tubocurarine"
+      },
+      "answer": "A",
+      "explanation": "Page 239: Atracurium and cisatracurium are the relaxants of choice in pediatric patients as they are not dependent on hepatic and renal functions. This is important given the underdeveloped hepatic and renal systems in children.",
+      "topic": "Muscle Relaxants"
+    },
+    {
+      "id": 38,
+      "question": "Why should succinylcholine be avoided in children (outside of rapid sequence induction and laryngospasm treatment)?",
+      "options": {
+        "A": "It causes prolonged neuromuscular blockade in children",
+        "B": "Due to extrajunctional receptors and possibility of undiagnosed muscular dystrophy",
+        "C": "It causes severe hypertension in pediatric patients",
+        "D": "It exclusively causes malignant hyperthermia in children"
+      },
+      "answer": "B",
+      "explanation": "Page 239: Succinylcholine should be avoided in children due to the presence of extrajunctional receptors and the possibility of undiagnosed muscular dystrophy. Its use should be reserved for rapid sequence induction and treating laryngospasm.",
+      "topic": "Muscle Relaxants"
+    },
+    {
+      "id": 39,
+      "question": "What drug MUST be given before administering succinylcholine in pediatric patients?",
+      "options": {
+        "A": "Neostigmine",
+        "B": "Glycopyrrolate",
+        "C": "Atropine",
+        "D": "Adrenaline"
+      },
+      "answer": "C",
+      "explanation": "Page 239: Pediatric age group is very vulnerable to bradycardia after succinylcholine, therefore atropine must be given before injecting suxamethonium. This is an important safety precaution unique to the pediatric population.",
+      "topic": "Muscle Relaxants"
+    },
+    {
+      "id": 40,
+      "question": "How does pain perception in pediatric patients compare to adults, according to current evidence?",
+      "options": {
+        "A": "Much less than adults — pediatric patients feel less pain",
+        "B": "Absent in neonates due to immature nervous system",
+        "C": "Difficult to assess, so it is assumed to be less",
+        "D": "Same as adults, and even more during infancy due to underdeveloped inhibitory control"
+      },
+      "answer": "D",
+      "explanation": "Page 239: It has been well proven that pain perception in pediatric patients is same as adults; rather, due to underdevelopment of inhibitory control pathways it is more during infancy. Pain management considerations are therefore equally important for children.",
+      "topic": "Postoperative Pain Management"
+    },
+    {
+      "id": 41,
+      "question": "Which local anesthetic is preferred for regional nerve blocks in pediatric patients for postoperative pain management?",
+      "options": {
+        "A": "Ropivacaine (due to less toxicity than bupivacaine)",
+        "B": "Bupivacaine",
+        "C": "Lidocaine",
+        "D": "Levobupivacaine"
+      },
+      "answer": "A",
+      "explanation": "Page 239: Regional nerve block is always a preferred option. Ropivacaine is preferred over bupivacaine due to less toxicity. If regional anesthesia is not possible, short-acting opioids (fentanyl, remifentanil) are preferred over long-acting (morphine).",
+      "topic": "Postoperative Pain Management"
+    },
+    {
+      "id": 42,
+      "question": "What are the most commonly used regional blocks in pediatric patients (listed in order of frequency)?",
+      "options": {
+        "A": "Spinal, epidural, caudal",
+        "B": "Caudal, ilioinguinal, penile",
+        "C": "Epidural, spinal, brachial plexus",
+        "D": "Brachial plexus, femoral, sciatic"
+      },
+      "answer": "B",
+      "explanation": "Page 239–240: Most commonly used blocks in pediatric patients are caudal, followed by ilioinguinal and penile blocks. Regional anesthesia in children is always given after GA to decrease anesthetic requirement and achieve postoperative analgesia.",
+      "topic": "Regional Anesthesia"
+    },
+    {
+      "id": 43,
+      "question": "Why does the onset of regional block occur faster in pediatric patients compared to adults?",
+      "options": {
+        "A": "Due to higher cardiac output increasing drug delivery to nerves",
+        "B": "Due to smaller nerve diameter only",
+        "C": "Due to immature myelin sheath allowing the drug to cross the sheath easily",
+        "D": "Due to higher concentrations of local anesthetic used"
+      },
+      "answer": "C",
+      "explanation": "Page 239–240: Onset of block is faster in pediatric patients due to immature myelin sheath letting the drug to cross the sheath easily. This also explains why lower doses of local anesthetic are required.",
+      "topic": "Regional Anesthesia"
+    },
+    {
+      "id": 44,
+      "question": "Compared to adults, the duration of regional block in children is:",
+      "options": {
+        "A": "Longer due to slower drug metabolism",
+        "B": "Same duration as adults",
+        "C": "Variable and unpredictable",
+        "D": "Shorter (less duration)"
+      },
+      "answer": "D",
+      "explanation": "Page 240: Duration of block is less in children compared to adults. This is one of the key differences from adult regional anesthesia. Children also have increased vulnerability to local anesthetic toxicity.",
+      "topic": "Regional Anesthesia"
+    },
+    {
+      "id": 45,
+      "question": "Why are children more vulnerable to local anesthetic toxicity than adults?",
+      "options": {
+        "A": "Increased systemic absorption (increased cardiac output) and decreased metabolism (underdeveloped hepatic functions)",
+        "B": "Higher sensitivity of sodium channels in children",
+        "C": "Lower protein binding of local anesthetics",
+        "D": "Higher body surface area to volume ratio alone"
+      },
+      "answer": "A",
+      "explanation": "Page 240: Children are more vulnerable to toxicity due to increased systemic absorption (because of increased cardiac output) and decreased metabolism (due to underdeveloped hepatic functions).",
+      "topic": "Regional Anesthesia"
+    },
+    {
+      "id": 46,
+      "question": "Diaphragmatic hernia results from incomplete closure of the diaphragm. Which of the following is NOT a consequence of diaphragmatic hernia?",
+      "options": {
+        "A": "Pulmonary hypoplasia",
+        "B": "Pulmonary hyperplasia",
+        "C": "Pulmonary hypertension",
+        "D": "Hypoplasia of left ventricle"
+      },
+      "answer": "B",
+      "explanation": "Page 240: Diaphragmatic hernia leads to herniation of abdominal contents in thorax resulting in pulmonary HYPOPLASIA (not hyperplasia), pulmonary hypertension, and hypoplasia of the left ventricle. The prognosis is very poor.",
+      "topic": "Diaphragmatic Hernia"
+    },
+    {
+      "id": 47,
+      "question": "What is the FIRST step in the anesthetic management of a neonate with diaphragmatic hernia?",
+      "options": {
+        "A": "Rapid sequence induction",
+        "B": "Inhalational induction with sevoflurane",
+        "C": "Awake intubation after preoxygenation",
+        "D": "Spinal anesthesia"
+      },
+      "answer": "C",
+      "explanation": "Page 240: After preoxygenation, awake intubation is done in diaphragmatic hernia. Bag and mask ventilation is contraindicated as it will increase distension of bowels, leading to more compression of the lung.",
+      "topic": "Diaphragmatic Hernia"
+    },
+    {
+      "id": 48,
+      "question": "What is the maximum recommended airway pressure for positive pressure ventilation in diaphragmatic hernia to avoid pneumothorax in the hypoplastic lung?",
+      "options": {
+        "A": "30 cm H₂O",
+        "B": "25 cm H₂O",
+        "C": "15 cm H₂O",
+        "D": "< 20 cm H₂O"
+      },
+      "answer": "D",
+      "explanation": "Page 240: Positive pressure ventilation should be done with airway pressure < 20 cm H₂O, otherwise pneumothorax can occur in the hypoplastic lung. If PPV fails, high frequency oscillatory ventilation is used.",
+      "topic": "Diaphragmatic Hernia"
+    },
+    {
+      "id": 49,
+      "question": "Why is nitrous oxide absolutely contraindicated in diaphragmatic hernia surgery?",
+      "options": {
+        "A": "It can diffuse into gut loops, causing their distension and further compression of the lung",
+        "B": "It causes severe bradycardia in neonates",
+        "C": "It causes severe pulmonary hypertension",
+        "D": "It causes cardiac depression in neonates"
+      },
+      "answer": "A",
+      "explanation": "Page 240: Nitrous oxide is contraindicated in diaphragmatic hernia as it can diffuse into gut loops, causing their distension and further compression of the already hypoplastic lung. Anesthesia is maintained on oxygen and low-dose volatile anesthetics or opioids like fentanyl.",
+      "topic": "Diaphragmatic Hernia"
+    },
+    {
+      "id": 50,
+      "question": "What is the MOST COMMON type of tracheoesophageal fistula?",
+      "options": {
+        "A": "H-type fistula with patent esophagus throughout",
+        "B": "Upper end of esophagus is blind with fistula between lower esophagus and trachea",
+        "C": "Both ends of esophagus are blind with no fistula",
+        "D": "Lower end of esophagus is blind with upper esophagus patent"
+      },
+      "answer": "B",
+      "explanation": "Page 240: Tracheoesophageal fistula is of 5 types. The most common type has the upper end of the esophagus blind (blind pouch) with a fistula between the lower esophagus and the trachea.",
+      "topic": "Tracheoesophageal Fistula"
+    },
+    {
+      "id": 51,
+      "question": "What is the optimal position of the endotracheal tube in surgery for tracheoesophageal fistula?",
+      "options": {
+        "A": "Above the fistula and above the carina",
+        "B": "At the level of the fistula",
+        "C": "Below the fistula but above the carina",
+        "D": "At the level of the carina"
+      },
+      "answer": "C",
+      "explanation": "Page 240: The position of the tube is most important in TEF; it should be below the fistula but above the carina. Positioning the tube below the fistula prevents air from going into the stomach through the fistula, while staying above the carina allows bilateral lung ventilation.",
+      "topic": "Tracheoesophageal Fistula"
+    },
+    {
+      "id": 52,
+      "question": "Why is bag and mask ventilation contraindicated in tracheoesophageal fistula?",
+      "options": {
+        "A": "It causes pulmonary hypertension",
+        "B": "Risk of pneumothorax",
+        "C": "It increases intracranial pressure dangerously",
+        "D": "Air can reach stomach through fistula causing gastric distension and aspiration"
+      },
+      "answer": "D",
+      "explanation": "Page 240: Ventilation with bag and mask is contraindicated in TEF as air can reach the stomach through the fistula, causing gastric distension and aspiration. These patients are also very vulnerable to hypoxia as there is significant V/Q mismatch in the lateral position.",
+      "topic": "Tracheoesophageal Fistula"
+    },
+    {
+      "id": 53,
+      "question": "What metabolic abnormality is typically seen in pyloric stenosis due to repeated vomiting?",
+      "options": {
+        "A": "Hypokalemic, hypochloremic alkalosis",
+        "B": "Hyperkalemic, hyperchloremic acidosis",
+        "C": "Hyponatremic acidosis",
+        "D": "Hypernatremic alkalosis"
+      },
+      "answer": "A",
+      "explanation": "Page 240: Due to repeated vomiting, patients with pyloric stenosis are dehydrated with hypokalemic, hypochloremic alkalosis. Therefore, metabolic, fluid and electrolyte correction must be done before taking the patient for surgery.",
+      "topic": "Pyloric Stenosis"
+    },
+    {
+      "id": 54,
+      "question": "What is the MOST IMPORTANT prerequisite before taking a patient with pyloric stenosis for surgical repair?",
+      "options": {
+        "A": "Administer prophylactic vitamin K",
+        "B": "Complete metabolic, fluid, and electrolyte correction",
+        "C": "Start inotropic support",
+        "D": "Administer broad-spectrum antibiotics"
+      },
+      "answer": "B",
+      "explanation": "Page 240: Metabolic, fluid and electrolyte correction must be done before taking the patient with pyloric stenosis for surgery. Either awake intubation or rapid sequence intubation (crash intubation with Sellick’s maneuver) is performed. Bag and mask ventilation is contraindicated.",
+      "topic": "Pyloric Stenosis"
+    },
+    {
+      "id": 55,
+      "question": "Until what postconceptional age should elective surgeries be avoided in premature babies?",
+      "options": {
+        "A": "40 weeks",
+        "B": "44 weeks",
+        "C": "50 weeks",
+        "D": "60 weeks"
+      },
+      "answer": "C",
+      "explanation": "Page 240: Avoid elective surgeries till 50 weeks of postconception in premature babies. If the baby had developed hyaline membrane disease, defer elective surgery for 6 months. Premature babies are very vulnerable to postoperative apnea.",
+      "topic": "Anesthetic Considerations for Prematures"
+    },
+    {
+      "id": 56,
+      "question": "What is the most significant postoperative complication that premature babies are uniquely vulnerable to?",
+      "options": {
+        "A": "Postoperative wound infection",
+        "B": "Postoperative jaundice",
+        "C": "Postoperative cardiac failure",
+        "D": "Postoperative apnea"
+      },
+      "answer": "D",
+      "explanation": "Page 240: Premature babies are very vulnerable to postoperative apnea. This is a key reason why elective surgeries are avoided until 50 weeks of postconception age and why these patients require close monitoring after anesthesia.",
+      "topic": "Anesthetic Considerations for Prematures"
+    },
+    {
+      "id": 57,
+      "question": "Which combination of features leads to difficult airway management in children with Down syndrome?",
+      "options": {
+        "A": "Short neck, large tongue, irregular dentition, atlanto-occipital instability, small size trachea and subglottic stenosis",
+        "B": "Macroglossia and retrognathia only",
+        "C": "Enlarged tonsils and adenoids only",
+        "D": "Micrognathia and limited mouth opening only"
+      },
+      "answer": "A",
+      "explanation": "Page 240: Children with Down syndrome have a difficult airway due to short neck, large tongue, irregular dentition, atlanto-occipital instability (avoid unnecessary flexion and extension of neck), small size trachea, and subglottic stenosis.",
+      "topic": "Down Syndrome"
+    },
+    {
+      "id": 58,
+      "question": "Which congenital heart defects are MOST commonly associated with Down syndrome?",
+      "options": {
+        "A": "Tetralogy of Fallot and pulmonary stenosis",
+        "B": "Endocardial cushion defects and VSD",
+        "C": "Atrial septal defect and patent ductus arteriosus",
+        "D": "Coarctation of aorta and transposition of great vessels"
+      },
+      "answer": "B",
+      "explanation": "Page 240: Down syndrome patients have associated congenital heart diseases, mainly endocardial cushion defects and VSD. Other associated anomalies include tracheoesophageal fistula, mental retardation, and seizures, which can increase morbidity and mortality.",
+      "topic": "Down Syndrome"
+    },
+    {
+      "id": 59,
+      "question": "Why may Down syndrome patients exhibit hypersensitivity to muscle relaxants?",
+      "options": {
+        "A": "Due to increased acetylcholine receptors at the NMJ",
+        "B": "Due to altered protein binding of muscle relaxants",
+        "C": "Due to hypotonia",
+        "D": "Due to immature neuromuscular junction"
+      },
+      "answer": "C",
+      "explanation": "Page 240: Down syndrome patients may exhibit hypersensitivity to muscle relaxants due to hypotonia. This is an important consideration during anesthetic management, and lower doses should be anticipated.",
+      "topic": "Down Syndrome"
+    },
+    {
+      "id": 60,
+      "question": "Why are neonates at higher risk of anesthetic agent overdoses compared to older children and adults?",
+      "options": {
+        "A": "Due to higher MAC requirements needing larger doses",
+        "B": "Due to immature hepatic metabolism only",
+        "C": "Due to increased renal excretion of drugs",
+        "D": "Due to immature brain and poorly developed blood-brain barrier"
+      },
+      "answer": "D",
+      "explanation": "Page 238: Neonates have an immature brain and a poorly developed blood-brain barrier, putting them at higher risk of overdoses. Combined with reduced albumin (increased free drug fraction) and underdeveloped hepatic/renal functions, careful dose titration is essential.",
+      "topic": "CNS and Blood-Brain Barrier"
+    }
+  ]
+}
