@@ -278,6 +278,12 @@ QUIZ_CATALOG = {
         "short": "new Pain Management (Ch 39)",
         "icon": "🩹",
     },
+    "ch1_to_5": {
+        "file": "questions_ch1_to_5.json",
+        "label": "Chapters 1–5 – Anatomy, Equipment & Airway (Combined)",
+        "short": "Combined (Ch 1–5)",
+        "icon": "📚",
+    },
 }
 
 # ─── Load Questions ──────────────────────────────────────────────────────────

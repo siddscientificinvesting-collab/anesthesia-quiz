@@ -1,0 +1,1309 @@
+{
+  "title": "Chapters 1–5 Combined MCQ",
+  "source": "Short Textbook of Anesthesia – Ajay Yadav",
+  "section": "Sections 1–3: Applied Anatomy, Equipment & Quintessential (Chapters 1–5)",
+  "total_questions": 100,
+  "time_limit_minutes": 60,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The larynx extends from the root of the tongue to the trachea and lies opposite which vertebral levels?",
+      "options": {
+        "A": "C5 to T1",
+        "B": "C3 to C6",
+        "C": "C6 to T2",
+        "D": "C1 to C3"
+      },
+      "answer": "B",
+      "explanation": "Page 26: The larynx is the organ of voice extending from the root of the tongue to the trachea and lies opposite C3 to C6.",
+      "topic": "Airway Anatomy"
+    },
+    {
+      "id": 2,
+      "question": "All muscles of the larynx are supplied by the recurrent laryngeal nerve EXCEPT which muscle?",
+      "options": {
+        "A": "Thyroarytenoid",
+        "B": "Cricothyroid",
+        "C": "Posterior cricoarytenoid",
+        "D": "Lateral cricoarytenoid"
+      },
+      "answer": "B",
+      "explanation": "Page 26: All muscles of the larynx are supplied by recurrent laryngeal nerve except cricothyroid, which is supplied by the external branch of the superior laryngeal nerve.",
+      "topic": "Larynx Nerve Supply"
+    },
+    {
+      "id": 3,
+      "question": "In Semon's law, in bilateral partial paralysis of the recurrent laryngeal nerve, which muscles are affected first?",
+      "options": {
+        "A": "The abductors (posterior cricoarytenoids)",
+        "B": "The tensors",
+        "C": "The cricothyroid",
+        "D": "The adductors"
+      },
+      "answer": "A",
+      "explanation": "Page 27: In bilateral partial paralysis of recurrent laryngeal nerve, the abductors (posterior cricoarytenoids) are affected first (Semon's Law), causing the cords to be held in adduction producing respiratory stridor.",
+      "topic": "Laryngeal Nerve Paralysis"
+    },
+    {
+      "id": 4,
+      "question": "What is the total number of alveoli and their surface area?",
+      "options": {
+        "A": "200 million, 50 m²",
+        "B": "300 million, 70 m²",
+        "C": "100 million, 40 m²",
+        "D": "500 million, 100 m²"
+      },
+      "answer": "B",
+      "explanation": "Page 27: Total number of alveoli is 300 million with surface area of 70 m². The thickness of alveolar capillary membrane is 0.3 mm.",
+      "topic": "Respiratory Anatomy"
+    },
+    {
+      "id": 5,
+      "question": "The pneumotaxic center, which has an inhibitory effect on the apneustic center, is located in the:",
+      "options": {
+        "A": "Lower pons",
+        "B": "Medulla",
+        "C": "Midbrain",
+        "D": "Upper pons"
+      },
+      "answer": "D",
+      "explanation": "Page 29: The pneumotaxic center is in the upper pons and the apneustic center is in the lower pons. The pneumotaxic center normally has an inhibitory effect on the apneustic center.",
+      "topic": "Regulation of Respiration"
+    },
+    {
+      "id": 6,
+      "question": "What is the normal average ventilation/perfusion (V/Q) ratio?",
+      "options": {
+        "A": "2.1",
+        "B": "1.5",
+        "C": "0.8",
+        "D": "0.3"
+      },
+      "answer": "C",
+      "explanation": "Page 29: Both ventilation and perfusion are more at bases compared to apex, but perfusion at base is comparatively higher, decreasing V/Q ratio towards the base (from 2.1 at apex to 0.3 at base, average 0.8).",
+      "topic": "Ventilation/Perfusion"
+    },
+    {
+      "id": 7,
+      "question": "What is the normal anatomical dead space as a fraction of tidal volume?",
+      "options": {
+        "A": "50% of tidal volume",
+        "B": "30% of tidal volume",
+        "C": "10% of tidal volume",
+        "D": "60% of tidal volume"
+      },
+      "answer": "B",
+      "explanation": "Page 30: Anatomical dead space is 30% of tidal volume or 2 mL/kg or 150 mL.",
+      "topic": "Dead Space"
+    },
+    {
+      "id": 8,
+      "question": "What is the P50 (partial pressure at which oxygen saturation is 50%) and is it affected by anesthetics?",
+      "options": {
+        "A": "40 mm Hg; affected by anesthetics",
+        "B": "50 mm Hg; affected",
+        "C": "26 mm Hg; not affected by anesthetics",
+        "D": "60 mm Hg; not affected"
+      },
+      "answer": "C",
+      "explanation": "Page 31: P50 is the partial pressure of oxygen for 50% saturation, which is 26 mm Hg. P50 is not affected by anesthetics.",
+      "topic": "Oxygen Dissociation Curve"
+    },
+    {
+      "id": 9,
+      "question": "Functional residual capacity (FRC) is the sum of which two volumes?",
+      "options": {
+        "A": "Inspiratory reserve volume + tidal volume",
+        "B": "Expiratory reserve volume + residual volume",
+        "C": "Tidal volume + expiratory reserve volume",
+        "D": "Inspiratory reserve volume + residual volume"
+      },
+      "answer": "B",
+      "explanation": "Page 32: FRC is the volume of gas in lungs after end expiration. It is ERV + RV and equals 2400–2600 mL.",
+      "topic": "Lung Volumes"
+    },
+    {
+      "id": 10,
+      "question": "According to Boyle's law, at a constant temperature the volume of a gas is:",
+      "options": {
+        "A": "Directly proportional to temperature",
+        "B": "Inversely proportional to temperature",
+        "C": "Directly proportional to pressure",
+        "D": "Inversely proportional to pressure"
+      },
+      "answer": "D",
+      "explanation": "Page 34: Boyle's law states that at a constant temperature, the volume of a gas is inversely proportional to the pressure.",
+      "topic": "Physics Related to Anesthesia"
+    },
+    {
+      "id": 11,
+      "question": "In children, which is the narrowest part of the larynx?",
+      "options": {
+        "A": "The subglottis (at the level of cricoid)",
+        "B": "The epiglottis",
+        "C": "The vocal cords",
+        "D": "The glottis"
+      },
+      "answer": "A",
+      "explanation": "Page 26: The glottis is the narrowest part in adults while subglottis (at the level of cricoid) is the narrowest part in children up to the age of 6 years.",
+      "topic": "Airway Anatomy"
+    },
+    {
+      "id": 12,
+      "question": "In complete paralysis of both recurrent and superior laryngeal nerves, the vocal cords are held in which position?",
+      "options": {
+        "A": "Fully abducted position",
+        "B": "Cadaveric (mid) position",
+        "C": "Paramedian position",
+        "D": "Fully adducted position"
+      },
+      "answer": "B",
+      "explanation": "Page 27: In complete paralysis of both recurrent and superior laryngeal nerves, the cords are held in mid-position (cadaveric position). Cords are also in cadaveric position during anesthesia with muscle relaxants.",
+      "topic": "Laryngeal Nerve Paralysis"
+    },
+    {
+      "id": 13,
+      "question": "The trachea starts from the cricoid ring (C6) and ends at the carina, which corresponds to which vertebral level?",
+      "options": {
+        "A": "T7",
+        "B": "T3",
+        "C": "T2",
+        "D": "T5"
+      },
+      "answer": "D",
+      "explanation": "Page 27: Trachea starts from cricoid ring (C6) and ends at carina (T5). Anteriorly carina corresponds to second costal cartilage at the junction of manubrium with sternal body (angle of Louis).",
+      "topic": "Trachea"
+    },
+    {
+      "id": 14,
+      "question": "The right main bronchus compared to the left is:",
+      "options": {
+        "A": "Same length, same width, angle 55°",
+        "B": "Longer (5 cm), wider, angle 25°",
+        "C": "Shorter (2.5 cm), wider, angle 25°",
+        "D": "Longer, narrower, angle 45°"
+      },
+      "answer": "C",
+      "explanation": "Page 28, Table 1.1: Right bronchus is shorter (2.5 cm), wider, angle with vertical 25°. Left bronchus is longer (5 cm), narrower, angle 45°.",
+      "topic": "Bronchial Tree"
+    },
+    {
+      "id": 15,
+      "question": "Ciliary activity of the respiratory mucosa is inhibited by all inhalational agents EXCEPT:",
+      "options": {
+        "A": "Halothane",
+        "B": "Isoflurane",
+        "C": "Ether",
+        "D": "Sevoflurane"
+      },
+      "answer": "C",
+      "explanation": "Page 28: Ciliary activity is inhibited by all inhalational agents except ether.",
+      "topic": "Respiratory Mucosa"
+    },
+    {
+      "id": 16,
+      "question": "Peripheral chemoreceptors present in the carotid body are very sensitive to:",
+      "options": {
+        "A": "Hyperthermia",
+        "B": "Hypercarbia",
+        "C": "Hypoxia",
+        "D": "Acidosis"
+      },
+      "answer": "C",
+      "explanation": "Page 29: Peripheral chemoreceptors are present in the carotid body and aortic arch. Carotid body receptors are very sensitive to hypoxia.",
+      "topic": "Regulation of Respiration"
+    },
+    {
+      "id": 17,
+      "question": "Maximum airway resistance to airflow occurs in which part of the airway?",
+      "options": {
+        "A": "Segmental bronchi",
+        "B": "Trachea and then main bronchus",
+        "C": "Alveolar ducts",
+        "D": "Terminal bronchi"
+      },
+      "answer": "B",
+      "explanation": "Page 29: Maximum airway resistance to airflow occurs in trachea and then main bronchus and minimum in terminal bronchi. Turbulent flow in trachea and main bronchi makes resistance proportional to square of flow rates.",
+      "topic": "Airway Resistance"
+    },
+    {
+      "id": 18,
+      "question": "The normal alveolar to arterial (A-a) oxygen difference is:",
+      "options": {
+        "A": "10–15 mm Hg",
+        "B": "0.3–0.5 mm Hg",
+        "C": "3–5 mm Hg",
+        "D": "20–25 mm Hg"
+      },
+      "answer": "C",
+      "explanation": "Page 29: V/Q mismatch creates alveolar to arterial oxygen difference [(A-a) pO2] which is normally 3–5 mm Hg.",
+      "topic": "Ventilation/Perfusion"
+    },
+    {
+      "id": 19,
+      "question": "What is the volume of alveolar dead space in the standing position?",
+      "options": {
+        "A": "2 mL/kg",
+        "B": "60–80 mL",
+        "C": "150 mL",
+        "D": "Zero"
+      },
+      "answer": "B",
+      "explanation": "Page 30: Alveolar dead space is 60–80 mL in standing position and zero in lying position (in lying position perfusion is equal in all parts of lung).",
+      "topic": "Dead Space"
+    },
+    {
+      "id": 20,
+      "question": "How much oxygen does 1 gram of hemoglobin carry?",
+      "options": {
+        "A": "0.003 mL",
+        "B": "1.34 mL",
+        "C": "20 mL",
+        "D": "0.34 mL"
+      },
+      "answer": "B",
+      "explanation": "Page 30: 1 g of Hb carries 1.34 mL of oxygen. Oxygen content of arterial blood is 20 mL/dL and that of venous blood is 15 mL/dL.",
+      "topic": "Oxygen in Blood"
+    },
+    {
+      "id": 21,
+      "question": "At a pO2 of 60 mm Hg, the oxygen saturation of hemoglobin is approximately:",
+      "options": {
+        "A": "97%",
+        "B": "75%",
+        "C": "50%",
+        "D": "90%"
+      },
+      "answer": "D",
+      "explanation": "Page 30: Normally Hb is 97% saturated at normal pO2 of 95–98 mm Hg. At 60 mm Hg saturation is still 90%. After this point there is a sudden drop.",
+      "topic": "Oxygen Dissociation Curve"
+    },
+    {
+      "id": 22,
+      "question": "Carbon dioxide in blood is mainly transported as:",
+      "options": {
+        "A": "Dissolved form (5%)",
+        "B": "Carboxyhemoglobin",
+        "C": "Bicarbonate (90%)",
+        "D": "Carbamino compounds"
+      },
+      "answer": "C",
+      "explanation": "Page 31: Carbon dioxide is transported in blood as bicarbonate (90%), dissolved (5%), and as carbamino compounds.",
+      "topic": "Carbon Dioxide"
+    },
+    {
+      "id": 23,
+      "question": "During general anesthesia, the functional residual capacity (FRC) decreases by approximately:",
+      "options": {
+        "A": "15–20%",
+        "B": "50%",
+        "C": "30–40%",
+        "D": "5%"
+      },
+      "answer": "A",
+      "explanation": "Page 32: During general anesthesia FRC decreases by 15–20%. FRC is the volume of gas in lungs after end expiration (ERV + RV).",
+      "topic": "Lung Volumes"
+    },
+    {
+      "id": 24,
+      "question": "Closing capacity is normally how much less than functional residual capacity?",
+      "options": {
+        "A": "1 litre",
+        "B": "3 litres",
+        "C": "0.5 litre",
+        "D": "2 litres"
+      },
+      "answer": "A",
+      "explanation": "Page 33: Closing capacity is the volume at which airway closes, which is normally 1 litre less than FRC. If FRC falls below closing capacity there will be significant hypoventilation and V/Q abnormalities.",
+      "topic": "Pulmonary Function Tests"
+    },
+    {
+      "id": 25,
+      "question": "Hypoxic pulmonary vasoconstriction (HPV) is maximally blunted by which inhalational agent?",
+      "options": {
+        "A": "Sevoflurane",
+        "B": "Ether",
+        "C": "Halothane",
+        "D": "Nitrous oxide"
+      },
+      "answer": "C",
+      "explanation": "Page 32: All inhalational agents blunt hypoxic pulmonary vasoconstriction (HPV). Maximum blunting is with halothane.",
+      "topic": "Hypoxic Pulmonary Vasoconstriction"
+    },
+    {
+      "id": 26,
+      "question": "Which valve prevents delivery of a hypoxic gas mixture by cutting off or proportionately reducing nitrous oxide flow when oxygen pressure falls?",
+      "options": {
+        "A": "Check valve",
+        "B": "Interlock valve",
+        "C": "APL valve",
+        "D": "Fail-safe valve"
+      },
+      "answer": "D",
+      "explanation": "Page 42: The fail-safe valve (oxygen supply failure protection device) proportionately decreases N₂O flow when oxygen pressure drops, preventing a hypoxic mixture.",
+      "topic": "Safety Features"
+    },
+    {
+      "id": 27,
+      "question": "What minimum FiO₂ does the oxygen-nitrous proportioning system guarantee?",
+      "options": {
+        "A": "33%",
+        "B": "25%",
+        "C": "21%",
+        "D": "15%"
+      },
+      "answer": "B",
+      "explanation": "Page 43: The O₂–N₂O interconnected pulley system ensures a minimum FiO₂ of 25%, making singular N₂O flow impossible.",
+      "topic": "Safety Features"
+    },
+    {
+      "id": 28,
+      "question": "In the Mapleson classification, which circuit is the circuit of choice for spontaneous ventilation?",
+      "options": {
+        "A": "Type F (Jackson-Rees)",
+        "B": "Type E (Ayre's T piece)",
+        "C": "Type D (Bain circuit)",
+        "D": "Type A (Magill circuit)"
+      },
+      "answer": "D",
+      "explanation": "Page 46: Magill (Type A) is the circuit of choice for spontaneous ventilation. Fresh gas flow = minute volume prevents rebreathing.",
+      "topic": "Mapleson Circuits"
+    },
+    {
+      "id": 29,
+      "question": "The Bain circuit is a coaxial modification of which Mapleson type?",
+      "options": {
+        "A": "Type D",
+        "B": "Type B",
+        "C": "Type A",
+        "D": "Type C"
+      },
+      "answer": "A",
+      "explanation": "Page 47: Bain incorporated an inner tube into Mapleson D; fresh gases travel through the inner tube minimizing mixing with exhaled gases.",
+      "topic": "Mapleson Circuits"
+    },
+    {
+      "id": 30,
+      "question": "Compound A, a nephrotoxic product, is produced by the reaction of which agent with sodalime and barylime?",
+      "options": {
+        "A": "Halothane",
+        "B": "Desflurane",
+        "C": "Isoflurane",
+        "D": "Sevoflurane"
+      },
+      "answer": "D",
+      "explanation": "Page 51: Sevoflurane reacts with sodalime and barylime to produce compound A (nephrotoxic). Risk is higher with barylime vs sodalime.",
+      "topic": "CO₂ Absorbents"
+    },
+    {
+      "id": 31,
+      "question": "Desiccated sodalime produces carbon monoxide most significantly with which agent?",
+      "options": {
+        "A": "Desflurane",
+        "B": "Sevoflurane",
+        "C": "Isoflurane",
+        "D": "Halothane"
+      },
+      "answer": "A",
+      "explanation": "Page 51: CO production with desiccated sodalime in decreasing order: Desflurane >> Isoflurane >> Halothane = Sevoflurane.",
+      "topic": "CO₂ Absorbents"
+    },
+    {
+      "id": 32,
+      "question": "The standard traditional composition of sodalime includes Ca(OH)₂ 94%, NaOH 5% and:",
+      "options": {
+        "A": "Ba(OH)₂ 20%",
+        "B": "MgOH 2%",
+        "C": "LiOH 5%",
+        "D": "KOH 1%"
+      },
+      "answer": "D",
+      "explanation": "Page 50: Sodalime composition: Ca(OH)₂ 94%, NaOH 5% (acts as catalyst), KOH 1%, color indicator, and silica (to prevent dust formation).",
+      "topic": "CO₂ Absorbents"
+    },
+    {
+      "id": 33,
+      "question": "The Jackson-Rees circuit (Mapleson F) is most commonly used for which patient population?",
+      "options": {
+        "A": "Adults > 70 kg",
+        "B": "Children < 6 years or < 20 kg",
+        "C": "Only for controlled ventilation in adults",
+        "D": "Elderly patients"
+      },
+      "answer": "B",
+      "explanation": "Page 49: Jackson-Rees (Mapleson F) is the most commonly used pediatric semiclosed circuit for children < 6 years or < 20 kg.",
+      "topic": "Mapleson Circuits"
+    },
+    {
+      "id": 34,
+      "question": "The first anesthesia machine was invented by Edmund Gaskin Boyle in which year?",
+      "options": {
+        "A": "1917",
+        "B": "1930",
+        "C": "1907",
+        "D": "1923"
+      },
+      "answer": "A",
+      "explanation": "Page 38: First anesthesia machine was invented by Edmund Gaskin Boyle in 1917 (that's why anesthesia machine used to be called as Boyle's machine).",
+      "topic": "Anesthesia Machine History"
+    },
+    {
+      "id": 35,
+      "question": "The color of the oxygen cylinder is:",
+      "options": {
+        "A": "Black body with white shoulders",
+        "B": "Grey body with black shoulders",
+        "C": "Blue body with white shoulders",
+        "D": "White body with black shoulders"
+      },
+      "answer": "A",
+      "explanation": "Page 38: The color of oxygen cylinder is black body with white shoulders (top) and pressure is 2,000 psi.",
+      "topic": "Gas Cylinders"
+    },
+    {
+      "id": 36,
+      "question": "Contents of a nitrous oxide cylinder are measured by:",
+      "options": {
+        "A": "Volume displacement",
+        "B": "Weight (not by pressure gauge)",
+        "C": "Flow rate measurement",
+        "D": "Pressure gauge reading"
+      },
+      "answer": "B",
+      "explanation": "Page 40: N₂O is filled in liquid form. A small amount of liquid still vaporizing can show full pressure, so contents are measured by weight, not by pressure gauge.",
+      "topic": "Gas Cylinders"
+    },
+    {
+      "id": 37,
+      "question": "Entonox is a mixture of 50% oxygen and 50% nitrous oxide stored at what pressure?",
+      "options": {
+        "A": "1000 psi",
+        "B": "760 psi",
+        "C": "2000 psi",
+        "D": "75 psi"
+      },
+      "answer": "C",
+      "explanation": "Page 40: Entonox is stored in blue color cylinders with white shoulders at a pressure of 2000 psi, mainly used to produce analgesia during labor.",
+      "topic": "Gas Cylinders"
+    },
+    {
+      "id": 38,
+      "question": "The pin index positions for oxygen on the yoke of the anesthesia machine are:",
+      "options": {
+        "A": "3, 5",
+        "B": "2, 5",
+        "C": "1, 5",
+        "D": "2, 6"
+      },
+      "answer": "B",
+      "explanation": "Page 41, Table 2.2: Pin index position for oxygen is 2, 5. Nitrous oxide is 3, 5. Air is 1, 5.",
+      "topic": "Pin Index System"
+    },
+    {
+      "id": 39,
+      "question": "The Diameter Index Safety System (DISS) is used to prevent:",
+      "options": {
+        "A": "Wrong fitting of central supply pipelines to the machine",
+        "B": "Wrong cylinder placement on the yoke",
+        "C": "Backflow in breathing circuits",
+        "D": "Overfilling of gas cylinders"
+      },
+      "answer": "A",
+      "explanation": "Page 42: Like pin index system which prevents wrong fitting of cylinders, DISS prevents wrong fitting of central supply pipes to the machine by using different diameters for each gas.",
+      "topic": "Safety Features"
+    },
+    {
+      "id": 40,
+      "question": "The oxygen flush (emergency oxygen flush) delivers oxygen at what rate and pressure?",
+      "options": {
+        "A": "50 L/min at 100 psi",
+        "B": "35 L/min at 45–60 psi",
+        "C": "20 L/min at 30 psi",
+        "D": "10 L/min at 15 psi"
+      },
+      "answer": "B",
+      "explanation": "Page 42: Oxygen flush bypasses the intermediate and low pressure system, delivering 35 liters of oxygen per minute at 45–60 psi.",
+      "topic": "High Pressure System"
+    },
+    {
+      "id": 41,
+      "question": "The 1st stage (primary) pressure regulator reduces cylinder pressure to:",
+      "options": {
+        "A": "100–150 psi",
+        "B": "45–60 psi",
+        "C": "15–35 psi",
+        "D": "5–8 psi"
+      },
+      "answer": "B",
+      "explanation": "Page 42: High pressure regulator (1st stage) reduces the pressure to 45–60 psi. The 2nd stage further reduces it to 15–35 psi.",
+      "topic": "Pressure System"
+    },
+    {
+      "id": 42,
+      "question": "The flowmeter tubes in a rotameter are also called:",
+      "options": {
+        "A": "Magill tubes",
+        "B": "Heidbrink tubes",
+        "C": "Connell tubes",
+        "D": "Thorpe's tubes"
+      },
+      "answer": "D",
+      "explanation": "Page 42: Glass variable-orifice flowmeter tubes are called Thorpe's tubes; they are tapered (narrow at base and wider at apex).",
+      "topic": "Flowmeters and Rotameters"
+    },
+    {
+      "id": 43,
+      "question": "As a safety measure, the oxygen flow control knob on a rotameter is differentiated by being:",
+      "options": {
+        "A": "Square shaped",
+        "B": "Same as other knobs but red colored",
+        "C": "More fluted, more prominent and larger in diameter",
+        "D": "Smaller and smooth"
+      },
+      "answer": "C",
+      "explanation": "Page 42: The oxygen knob is made physically different from other knobs (it is more fluted, more prominent and large in diameter). It is white colored.",
+      "topic": "Flowmeters and Rotameters"
+    },
+    {
+      "id": 44,
+      "question": "In a rotameter, the oxygen flowmeter tube should be positioned:",
+      "options": {
+        "A": "Downstream (last in sequence)",
+        "B": "Upstream (first in sequence)",
+        "C": "Position does not matter",
+        "D": "In the middle"
+      },
+      "answer": "A",
+      "explanation": "Page 43: Oxygen tube should be most downstream so that at the common manifold junction, leakage affects O₂ at only 2 positions, minimising hypoxic mixture risk.",
+      "topic": "Flowmeters and Rotameters"
+    },
+    {
+      "id": 45,
+      "question": "Vaporizers are made of copper because copper possesses:",
+      "options": {
+        "A": "High specific heat and high thermal conductivity",
+        "B": "Low cost and low density",
+        "C": "Resistance to corrosion only",
+        "D": "High elasticity"
+      },
+      "answer": "A",
+      "explanation": "Page 44: The vaporizer material should have high specific heat and high thermal conductivity. As Copper possesses these properties, vaporizers are made of copper.",
+      "topic": "Vaporizers"
+    },
+    {
+      "id": 46,
+      "question": "Which vaporizer is specifically designed for desflurane due to its very low boiling point (23.5°C)?",
+      "options": {
+        "A": "Tec 6",
+        "B": "Tec 5",
+        "C": "Goldman vaporizer",
+        "D": "Tec 7"
+      },
+      "answer": "A",
+      "explanation": "Page 44: Tec 6 is a heated and pressurized vaporizer specifically designed for desflurane due to its very low boiling point (23.5°C) and high vapor pressure (680 mm Hg).",
+      "topic": "Vaporizers"
+    },
+    {
+      "id": 47,
+      "question": "The color code for the dial knob on a halothane vaporizer is:",
+      "options": {
+        "A": "Blue",
+        "B": "Purple",
+        "C": "Yellow",
+        "D": "Red"
+      },
+      "answer": "D",
+      "explanation": "Page 45: Color codes for vaporizers: Red = halothane, Purple = isoflurane, Yellow = sevoflurane, Blue = desflurane.",
+      "topic": "Vaporizers"
+    },
+    {
+      "id": 48,
+      "question": "When two vaporizers are mounted on the same machine, the agent with the LOWER boiling point should be placed:",
+      "options": {
+        "A": "First (nearest to rotameter)",
+        "B": "It does not matter",
+        "C": "Second (downstream)",
+        "D": "After the check valve"
+      },
+      "answer": "A",
+      "explanation": "Page 45: Agent with lower boiling point placed first (nearest rotameter); otherwise condensed particles will be recovered from the second vaporizer.",
+      "topic": "Vaporizers"
+    },
+    {
+      "id": 49,
+      "question": "In the open system of anesthesia delivery, which mask was used for pouring inhalational agent directly over the patient?",
+      "options": {
+        "A": "Mary Carterall mask",
+        "B": "Venturi mask",
+        "C": "Hudson mask",
+        "D": "Schimmelbusch mask"
+      },
+      "answer": "D",
+      "explanation": "Page 45: In the open system, inhalational agent is directly poured over patient mouth and nostril using a Schimmelbusch mask. Open systems are now obsolete.",
+      "topic": "Breathing Circuits"
+    },
+    {
+      "id": 50,
+      "question": "The fresh gas flow for Bain circuit during spontaneous ventilation is:",
+      "options": {
+        "A": "1.6 × minute volume",
+        "B": "2.5 × minute volume",
+        "C": "3 × minute volume",
+        "D": "Equal to minute volume"
+      },
+      "answer": "B",
+      "explanation": "Page 47: Bain circuit can be used for spontaneous ventilation but fresh gas flow requirement is higher, i.e. 2.5 times of minute volume.",
+      "topic": "Mapleson Circuits"
+    },
+    {
+      "id": 51,
+      "question": "If Magill circuit is used for controlled ventilation, the required fresh gas flow is:",
+      "options": {
+        "A": "> 3 × minute volume (unpredictable)",
+        "B": "1.6 × minute volume",
+        "C": "2.5 × minute volume",
+        "D": "Equal to minute volume"
+      },
+      "answer": "A",
+      "explanation": "Page 46: For controlled ventilation, Magill requires very high flows (3 times of MV or > 20 L) and is still unpredictable, therefore should NOT be used for controlled ventilation.",
+      "topic": "Mapleson Circuits"
+    },
+    {
+      "id": 52,
+      "question": "In human beings, the closed circuit system was first introduced by:",
+      "options": {
+        "A": "Bain in 1972",
+        "B": "Jackson-Rees in 1950",
+        "C": "Waters in 1923",
+        "D": "Magill in 1920"
+      },
+      "answer": "C",
+      "explanation": "Page 49: In human beings, the closed circuit system was first introduced by Waters in 1923.",
+      "topic": "Circle System"
+    },
+    {
+      "id": 53,
+      "question": "The negative pressure (suction bulb) leak test of the anesthesia machine can detect leaks as small as:",
+      "options": {
+        "A": "100 mL",
+        "B": "200 mL",
+        "C": "50 mL",
+        "D": "30 mL"
+      },
+      "answer": "D",
+      "explanation": "Page 53: The negative pressure (suction bulb) test is the most sensitive, detecting leaks as small as 30 mL. It is called the universal leak test.",
+      "topic": "Machine Checking"
+    },
+    {
+      "id": 54,
+      "question": "The Laryngeal Mask Airway (LMA) is classified as which type of airway device?",
+      "options": {
+        "A": "Infraglottic airway device",
+        "B": "Subglottic airway device",
+        "C": "Nasopharyngeal airway device",
+        "D": "Supraglottic airway device"
+      },
+      "answer": "D",
+      "explanation": "Page 58: LMA is a supraglottic airway device; it sits above the glottis in the hypopharynx. Endotracheal tube is an infraglottic device.",
+      "topic": "Supraglottic Airway Devices"
+    },
+    {
+      "id": 55,
+      "question": "The ProSeal LMA differs from the classic LMA in that it:",
+      "options": {
+        "A": "Is made of PVC",
+        "B": "Is disposable only",
+        "C": "Can only be used in children",
+        "D": "Has a drain tube allowing passage of a gastric tube"
+      },
+      "answer": "D",
+      "explanation": "Page 59: ProSeal LMA has a larger and posterior cuff providing better seal and a drain tube which can be used to deflate the stomach.",
+      "topic": "Supraglottic Airway Devices"
+    },
+    {
+      "id": 56,
+      "question": "The appropriate length of a Guedel airway is the distance between:",
+      "options": {
+        "A": "Angle of mouth to earlobe",
+        "B": "Upper incisors to angle of mandible",
+        "C": "Tip of nose to tragus plus 1 cm",
+        "D": "Chin to thyroid notch"
+      },
+      "answer": "C",
+      "explanation": "Page 55: The appropriate length of a Guedel airway is the distance between tip of nose and tragus plus 1 cm.",
+      "topic": "Airway Equipment"
+    },
+    {
+      "id": 57,
+      "question": "Facemasks used in anesthesia are available in sizes from:",
+      "options": {
+        "A": "1 to 4",
+        "B": "0 (smallest) to 6 (largest)",
+        "C": "2 to 8",
+        "D": "1 to 5"
+      },
+      "answer": "B",
+      "explanation": "Page 55: Facemask is used to ventilate the patient without intubation. They are available in sizes from 0 (smallest) to 6 (largest).",
+      "topic": "Airway Equipment"
+    },
+    {
+      "id": 58,
+      "question": "AMBU stands for:",
+      "options": {
+        "A": "Automatic Mechanical Breathing Utility",
+        "B": "Artificial Manual Breathing Unit",
+        "C": "Assisted Mechanical Backup Unit",
+        "D": "Advanced Manual Breathing Unit"
+      },
+      "answer": "B",
+      "explanation": "Page 55: AMBU stands for Artificial Manual Breathing Unit. Capacity: 1200 mL for adults, 500 mL for children, 250 mL for newborns.",
+      "topic": "Airway Equipment"
+    },
+    {
+      "id": 59,
+      "question": "Which is the most commonly used laryngoscope?",
+      "options": {
+        "A": "Macintosh",
+        "B": "Bullard",
+        "C": "McCoy",
+        "D": "Miller"
+      },
+      "answer": "A",
+      "explanation": "Page 56: Macintosh is the most commonly used laryngoscope. It has a curved blade and is available in 4 sizes.",
+      "topic": "Laryngoscopes"
+    },
+    {
+      "id": 60,
+      "question": "For neonatal intubation, which laryngoscope blade is preferred and why?",
+      "options": {
+        "A": "Bullard blade – for fiberoptic view",
+        "B": "Macintosh curved blade – for better tongue control",
+        "C": "Magill straight blade – neonatal epiglottis is large, leafy and more anterior",
+        "D": "McCoy blade – for movable tip"
+      },
+      "answer": "C",
+      "explanation": "Page 56: Magill is a straight blade for neonates. Neonatal epiglottis is large, leafy and more anterior, so it needs to be lifted by a straight blade to visualize glottis.",
+      "topic": "Laryngoscopes"
+    },
+    {
+      "id": 61,
+      "question": "Video laryngoscopy as a rescue modality after failed direct laryngoscopy has reported intubation success rates of:",
+      "options": {
+        "A": "70–80%",
+        "B": "94–99%",
+        "C": "80–85%",
+        "D": "50–60%"
+      },
+      "answer": "B",
+      "explanation": "Page 57: Studies have reported intubation success rates of 94–99% for video laryngoscopy as a rescue modality after failed direct laryngoscopy.",
+      "topic": "Laryngoscopes"
+    },
+    {
+      "id": 62,
+      "question": "The most common complication of laryngoscopy involving dental injury primarily affects:",
+      "options": {
+        "A": "Premolars",
+        "B": "Canines",
+        "C": "Lower incisors",
+        "D": "Upper incisors"
+      },
+      "answer": "D",
+      "explanation": "Page 58: Dental injury is a complication of laryngoscopy. Most vulnerable are upper incisors.",
+      "topic": "Complications of Laryngoscopy"
+    },
+    {
+      "id": 63,
+      "question": "The classical LMA was discovered by:",
+      "options": {
+        "A": "Waters",
+        "B": "Archie Brain",
+        "C": "Magill",
+        "D": "Macintosh"
+      },
+      "answer": "B",
+      "explanation": "Page 58: Classical LMA was discovered by Archie Brain, therefore also called as Brain Mask.",
+      "topic": "Supraglottic Airway Devices"
+    },
+    {
+      "id": 64,
+      "question": "Which LMA is contraindicated in patients with a full stomach?",
+      "options": {
+        "A": "Only first generation LMA",
+        "B": "All types of LMA",
+        "C": "Only ProSeal LMA",
+        "D": "Only I-Gel"
+      },
+      "answer": "B",
+      "explanation": "Page 59: Contraindications for LMA include full stomach patients, hiatus hernia, pregnancy (where chances of aspiration are high), and oropharyngeal abscess or mass.",
+      "topic": "Supraglottic Airway Devices"
+    },
+    {
+      "id": 65,
+      "question": "The Intubating LMA (LMA Fastrach) can guide up to what size endotracheal tube?",
+      "options": {
+        "A": "9 no.",
+        "B": "6 no.",
+        "C": "8 no.",
+        "D": "7 no."
+      },
+      "answer": "C",
+      "explanation": "Page 59: Intubating LMA (also called as LMA Fastrach): Up to 8 no. endotracheal tube can be guided through it.",
+      "topic": "Supraglottic Airway Devices"
+    },
+    {
+      "id": 66,
+      "question": "The I-Gel supraglottic device differs from other LMAs because its cuff is:",
+      "options": {
+        "A": "Made of silicone only",
+        "B": "Prefilled with gel, avoiding air cuff complications",
+        "C": "Air-filled with high volume",
+        "D": "Not present; it is cuffless"
+      },
+      "answer": "B",
+      "explanation": "Page 59: I-Gel has a cuff prefilled with gel avoiding complications of air-filled cuff such as cuff leakage, damage and puncture. Like Proseal, I-gel also contains a drain tube.",
+      "topic": "Supraglottic Airway Devices"
+    },
+    {
+      "id": 67,
+      "question": "The chief advantage of PVC endotracheal tubes over red rubber tubes is that PVC tubes have:",
+      "options": {
+        "A": "Low pressure, high volume cuff causing less tracheal injury",
+        "B": "No cuff available",
+        "C": "Higher pressure, lower volume cuff",
+        "D": "Better resistance to autoclaving"
+      },
+      "answer": "A",
+      "explanation": "Page 61, Table 3.1: PVC tube cuff is low pressure and high volume producing less tracheal injury. Red rubber has high pressure low volume cuff with more chances of tracheal injury.",
+      "topic": "Endotracheal Tubes"
+    },
+    {
+      "id": 68,
+      "question": "For a 5-year-old child, the endotracheal tube size is calculated as:",
+      "options": {
+        "A": "Age/2 + 3",
+        "B": "Age/4 + 4.5",
+        "C": "Age/3 + 3.5",
+        "D": "Age/4 + 4"
+      },
+      "answer": "C",
+      "explanation": "Page 61: For children 1 year to 6 years, tube size = Age(years)/3 + 3.5. For a 5-year-old: 5/3 + 3.5 = 5.1 (means 5 number tube).",
+      "topic": "Endotracheal Tubes"
+    },
+    {
+      "id": 69,
+      "question": "The cuff pressure of an endotracheal tube should be kept less than what value to prevent tracheal ischemia?",
+      "options": {
+        "A": "15 cm H₂O",
+        "B": "50 cm H₂O",
+        "C": "20 cm H₂O",
+        "D": "30 cm H₂O"
+      },
+      "answer": "D",
+      "explanation": "Page 61: During cuff inflation, ensure cuff pressure to be less than 30 cm H₂O to prevent tracheal ischemia.",
+      "topic": "Endotracheal Tubes"
+    },
+    {
+      "id": 70,
+      "question": "Capnography (measuring end tidal CO₂) is considered the surest sign for confirming:",
+      "options": {
+        "A": "Adequacy of muscle relaxation",
+        "B": "Depth of anesthesia",
+        "C": "Correct position of endotracheal tube",
+        "D": "Blood pressure stability"
+      },
+      "answer": "C",
+      "explanation": "Page 63: Checking correct position of tube: Capnography (measuring end tidal CO₂) is the surest sign.",
+      "topic": "Endotracheal Tubes"
+    },
+    {
+      "id": 71,
+      "question": "The maximum permissible time for which an endotracheal tube can be kept in situ is:",
+      "options": {
+        "A": "14 days",
+        "B": "10 days",
+        "C": "21 days",
+        "D": "7 days"
+      },
+      "answer": "A",
+      "explanation": "Page 64: Maximum permissible time for which an endotracheal tube can be kept is 14 days. Delayed complications like tracheal stenosis usually occur after prolonged intubation.",
+      "topic": "Endotracheal Tubes"
+    },
+    {
+      "id": 72,
+      "question": "The most common postoperative complication of intubation is:",
+      "options": {
+        "A": "Sore throat (pharyngitis, laryngitis)",
+        "B": "Subglottic edema",
+        "C": "Vocal cord granuloma",
+        "D": "Tracheal stenosis"
+      },
+      "answer": "A",
+      "explanation": "Page 64: Sore throat (pharyngitis, laryngitis) is the most common postoperative complication. It usually subsides in 2–3 days without treatment.",
+      "topic": "Complications of Intubation"
+    },
+    {
+      "id": 73,
+      "question": "Contraindications for nasal intubation include all EXCEPT:",
+      "options": {
+        "A": "Oral surgery",
+        "B": "Nasal polyp",
+        "C": "Basal skull fractures",
+        "D": "Bleeding disorders"
+      },
+      "answer": "A",
+      "explanation": "Page 63: Contraindications for nasal intubation include basal skull fractures, CSF rhinorrhea, bleeding disorders, nasal polyp, abscess, foreign body, and adenoids. Oral surgery is actually an INDICATION for nasal intubation.",
+      "topic": "Nasal Intubation"
+    },
+    {
+      "id": 74,
+      "question": "Non-metallic anesthesia items such as endotracheal tubes and facemasks are best sterilized by:",
+      "options": {
+        "A": "Ethylene oxide (ETO) gas sterilization",
+        "B": "Autoclaving",
+        "C": "UV radiation",
+        "D": "Boiling"
+      },
+      "answer": "A",
+      "explanation": "Page 67: Non-metallic items such as endotracheal tubes, facemasks, airways are best sterilized by ethylene oxide (ETO) gas sterilization.",
+      "topic": "Sterilization"
+    },
+    {
+      "id": 75,
+      "question": "Heat and moisture exchanger (HME) filter is also called:",
+      "options": {
+        "A": "Heated humidifier",
+        "B": "Active humidifier",
+        "C": "Artificial nose or condenser humidifier",
+        "D": "Nebulizer"
+      },
+      "answer": "C",
+      "explanation": "Page 66: Passive humidifier is also called as artificial nose, condenser humidifier or heat and moisture exchanger (HME) filter.",
+      "topic": "Humidification Devices"
+    },
+    {
+      "id": 76,
+      "question": "ASA physical status classification I denotes:",
+      "options": {
+        "A": "Severe systemic disease",
+        "B": "Incapacitating disease",
+        "C": "Mild systemic disease",
+        "D": "Normal healthy patient"
+      },
+      "answer": "D",
+      "explanation": "Page 71: ASA I = Normal healthy patient. ASA II = Mild-to-moderate systemic disease. ASA III = Severe systemic disease. ASA IV = Incapacitating disease.",
+      "topic": "Risk Stratification"
+    },
+    {
+      "id": 77,
+      "question": "In Mallampati Class I, which structures are visible?",
+      "options": {
+        "A": "Soft palate only",
+        "B": "Faucial pillars, soft palate and uvula",
+        "C": "Soft palate and base of uvula",
+        "D": "Hard palate only"
+      },
+      "answer": "B",
+      "explanation": "Page 76: Mallampati Class I: Faucial pillars, soft palate and uvula seen. Class II: Base of uvula and soft palate. Class III: Only soft palate. Class IV: Only hard palate.",
+      "topic": "Airway Assessment"
+    },
+    {
+      "id": 78,
+      "question": "The recommended fasting period for clear fluids before elective surgery in adults is:",
+      "options": {
+        "A": "2 hours",
+        "B": "4 hours",
+        "C": "6 hours",
+        "D": "1 hour"
+      },
+      "answer": "A",
+      "explanation": "Page 73: Clear fluids (water and juices without pulp) can be given up to 2 hours before surgery. For solid food, 8 hours of fasting is must.",
+      "topic": "Preoperative Instructions"
+    },
+    {
+      "id": 79,
+      "question": "Which benzodiazepine is the drug of choice for premedication in current day practice?",
+      "options": {
+        "A": "Diazepam",
+        "B": "Midazolam",
+        "C": "Lorazepam",
+        "D": "Chlordiazepoxide"
+      },
+      "answer": "B",
+      "explanation": "Page 73: In current day surgical practice where majority of patients are getting admitted on the same day, the benzodiazepine of choice is Midazolam.",
+      "topic": "Premedication"
+    },
+    {
+      "id": 80,
+      "question": "Glycopyrrolate is preferred over atropine as an anticholinergic premedicant because it:",
+      "options": {
+        "A": "Causes more tachycardia",
+        "B": "Crosses the blood-brain barrier easily",
+        "C": "Does not cross the blood-brain barrier, so no central side effects",
+        "D": "Has longer duration of action on the heart"
+      },
+      "answer": "C",
+      "explanation": "Page 74: Glycopyrrolate is preferred because it does not cross the blood-brain barrier therefore is devoid of central side effects.",
+      "topic": "Premedication"
+    },
+    {
+      "id": 81,
+      "question": "ASA classification VI refers to:",
+      "options": {
+        "A": "Patient with severe systemic disease",
+        "B": "Moribund patient",
+        "C": "Emergency surgery patient",
+        "D": "Brain dead patients for organ donation"
+      },
+      "answer": "D",
+      "explanation": "Page 71: ASA VI = Brain dead patients (for organ donation).",
+      "topic": "Risk Stratification"
+    },
+    {
+      "id": 82,
+      "question": "The major limitation of the original ASA classification was that it did NOT include:",
+      "options": {
+        "A": "Medical history",
+        "B": "Age, obesity, and risk associated with surgical procedure",
+        "C": "Physical examination findings",
+        "D": "Drug allergy status"
+      },
+      "answer": "B",
+      "explanation": "Page 71: The major limitation of ASA classification was that it did not include age, obesity (two major enemies of anesthetist) and risk associated with surgical procedure.",
+      "topic": "Risk Stratification"
+    },
+    {
+      "id": 83,
+      "question": "Standard dose estrogen-containing oral contraceptive pills should be stopped how long before surgery?",
+      "options": {
+        "A": "1 week",
+        "B": "48 hours",
+        "C": "2 weeks",
+        "D": "4 weeks"
+      },
+      "answer": "D",
+      "explanation": "Page 71: Estrogen increases chances of postoperative DVT and thromboembolism, therefore standard dose estrogen pills should be stopped 4 weeks before. Low dose or progesterone-only pills need not be stopped.",
+      "topic": "Preoperative Instructions"
+    },
+    {
+      "id": 84,
+      "question": "Warfarin should be stopped how many days prior to elective surgery, and what INR value must be achieved?",
+      "options": {
+        "A": "7 days; INR < 1.0",
+        "B": "1 day; INR < 2.5",
+        "C": "2 days; INR < 2.0",
+        "D": "4 days; INR < 1.5"
+      },
+      "answer": "D",
+      "explanation": "Page 71: Warfarin should be stopped 4 days prior to surgery. INR must be < 1.5 to consider the patient for surgery.",
+      "topic": "Preoperative Instructions"
+    },
+    {
+      "id": 85,
+      "question": "Regarding aspirin in the perioperative period, the current recommendation is to:",
+      "options": {
+        "A": "Replace with clopidogrel",
+        "B": "Continue aspirin as stopping carries risk of ischemia",
+        "C": "Stop 7 days before surgery",
+        "D": "Stop 14 days before surgery"
+      },
+      "answer": "B",
+      "explanation": "Page 72: Although aspirin increases risk of bleeding, stopping aspirin carries risk of ischemia, therefore it is recommended to continue aspirin.",
+      "topic": "Preoperative Instructions"
+    },
+    {
+      "id": 86,
+      "question": "Smoking should ideally be stopped how many weeks before surgery for restoration of ciliary activity?",
+      "options": {
+        "A": "3–4 weeks",
+        "B": "12 weeks",
+        "C": "1–2 weeks",
+        "D": "6–8 weeks"
+      },
+      "answer": "D",
+      "explanation": "Page 72: Normal restoration of effects (particularly recovery of ciliary activity) takes 6–8 weeks, therefore smoking should ideally be stopped 8 weeks before surgery.",
+      "topic": "Preoperative Instructions"
+    },
+    {
+      "id": 87,
+      "question": "Antibiotic prophylaxis must be given within what time frame before skin incision?",
+      "options": {
+        "A": "60 minutes",
+        "B": "30 minutes",
+        "C": "2 hours",
+        "D": "4 hours"
+      },
+      "answer": "A",
+      "explanation": "Page 74: The timing of antibiotic should be adjusted so that peak blood levels are achieved at the time of skin incision. Antibiotic prophylaxis must be given within 60 minutes before skin incision.",
+      "topic": "Premedication"
+    },
+    {
+      "id": 88,
+      "question": "The recommended fasting period for breast milk in neonates and infants is:",
+      "options": {
+        "A": "4 hours",
+        "B": "8 hours",
+        "C": "6 hours",
+        "D": "2 hours"
+      },
+      "answer": "A",
+      "explanation": "Page 73: For neonates and infants, the recommended fasting period for breast milk is 4 hours while for formula milk and solids a fasting of 6 hours is required.",
+      "topic": "Preoperative Instructions"
+    },
+    {
+      "id": 89,
+      "question": "Which of the following is a congenital cause of difficult intubation associated with hypoplastic mandible?",
+      "options": {
+        "A": "Ludwig's angina",
+        "B": "Acromegaly",
+        "C": "Rheumatoid arthritis",
+        "D": "Pierre Robin syndrome"
+      },
+      "answer": "D",
+      "explanation": "Page 75: Pierre-Robin syndrome causes difficult intubation due to hypoplastic mandible, macroglossia and high-arched palate.",
+      "topic": "Causes of Difficult Intubation"
+    },
+    {
+      "id": 90,
+      "question": "The normal thyromental distance (with fully extended neck) is:",
+      "options": {
+        "A": "2 cm",
+        "B": "< 4 cm",
+        "C": "10 cm",
+        "D": "6.5 cm or more (> 3 finger breadths)"
+      },
+      "answer": "D",
+      "explanation": "Page 76: Thyromental distance: Normal = 6.5 cm or more (> 3 finger breadths). 6.0–6.5 cm = difficult laryngoscopy. < 6.0 cm = laryngoscopy may be impossible.",
+      "topic": "Assessment of Difficult Intubation"
+    },
+    {
+      "id": 91,
+      "question": "Cormack-Lehane Grade I laryngoscopic view indicates:",
+      "options": {
+        "A": "No recognizable structures",
+        "B": "Only epiglottis visible",
+        "C": "Only posterior glottis visible",
+        "D": "Glottis fully visible"
+      },
+      "answer": "D",
+      "explanation": "Page 76: Cormack-Lehane grading: Grade I = Glottis fully visible. Grade II = Only posterior glottis visible. Grade III = Only epiglottis visible. Grade IV = No recognizable structures.",
+      "topic": "Assessment of Difficult Intubation"
+    },
+    {
+      "id": 92,
+      "question": "Which technique is considered the gold standard for managing an anticipated difficult airway?",
+      "options": {
+        "A": "Awake fiberoptic intubation",
+        "B": "Surgical tracheostomy",
+        "C": "Retrograde intubation",
+        "D": "Blind nasal intubation"
+      },
+      "answer": "A",
+      "explanation": "Page 77: If difficult airway is anticipated then intubate in awake state preferably with fiberoptic bronchoscope. Fiberoptic intubation is considered the gold standard technique.",
+      "topic": "Management of Difficult Airway"
+    },
+    {
+      "id": 93,
+      "question": "In a 'cannot intubate, cannot ventilate' emergency, the immediate surgical airway procedure is:",
+      "options": {
+        "A": "Fiberoptic intubation",
+        "B": "Jet ventilation through nasal cannula",
+        "C": "Tracheostomy",
+        "D": "Cricothyroidotomy"
+      },
+      "answer": "D",
+      "explanation": "Page 78: In CICV emergency, stepwise management ends with cricothyroidotomy, which should be replaced by definitive tracheostomy as soon as possible.",
+      "topic": "Management of Difficult Airway"
+    },
+    {
+      "id": 94,
+      "question": "In Mallampati Class II, the structures visible on opening the mouth and protruding the tongue are:",
+      "options": {
+        "A": "Faucial pillars, soft palate and uvula",
+        "B": "Only soft palate",
+        "C": "Only hard palate",
+        "D": "Base of uvula and soft palate"
+      },
+      "answer": "D",
+      "explanation": "Page 76: Mallampati Class II: Base of uvula and soft palate is seen. In Class II, oral intubation can be done comfortably.",
+      "topic": "Assessment of Difficult Intubation"
+    },
+    {
+      "id": 95,
+      "question": "The normal mentohyoid distance is:",
+      "options": {
+        "A": "> 5 cm (2 finger breadths)",
+        "B": "> 10 cm",
+        "C": "> 6.5 cm (3 finger breadths)",
+        "D": "> 3 cm (1 finger breadth)"
+      },
+      "answer": "A",
+      "explanation": "Page 76: Mentohyoid distance normal > 5 cm (2 finger breadth).",
+      "topic": "Assessment of Difficult Intubation"
+    },
+    {
+      "id": 96,
+      "question": "Cormack-Lehane Grade III indicates visualization of:",
+      "options": {
+        "A": "Only the epiglottis",
+        "B": "Full glottis",
+        "C": "Posterior part of glottis",
+        "D": "No structures at all"
+      },
+      "answer": "A",
+      "explanation": "Page 77: Grade III = Only epiglottis visible. Grade IV = No recognizable structures.",
+      "topic": "Assessment of Difficult Intubation"
+    },
+    {
+      "id": 97,
+      "question": "In the difficult airway algorithm, when Plan A (reattempt intubation) fails in a 'cannot intubate but can ventilate' situation, Plan B involves:",
+      "options": {
+        "A": "Revert to facemask only",
+        "B": "Wake the patient up",
+        "C": "Surgery under LMA or intubation via ILMA",
+        "D": "Immediate cricothyroidotomy"
+      },
+      "answer": "C",
+      "explanation": "Page 78: Plan B includes surgery under LMA if possible, or intubation with intubating LMA (ILMA). Plan C reverts to facemask. Plan D is for CICV emergencies.",
+      "topic": "Management of Difficult Airway"
+    },
+    {
+      "id": 98,
+      "question": "For cervical spine injury, intubation should be done with neck in which position?",
+      "options": {
+        "A": "Full flexion",
+        "B": "Lateral rotation",
+        "C": "Neutral position with neck stabilization",
+        "D": "Full extension"
+      },
+      "answer": "C",
+      "explanation": "Page 79: Oral intubation with 'neck stabilization' with neck in 'neutral position' should be tried first and is usually successful.",
+      "topic": "Cervical Spine Injury"
+    },
+    {
+      "id": 99,
+      "question": "Klippel-Feil syndrome causes difficult intubation due to:",
+      "options": {
+        "A": "Laryngeal edema",
+        "B": "Macroglossia",
+        "C": "Cervical vertebrae fusion restricting neck movements",
+        "D": "Temporomandibular joint ankylosis"
+      },
+      "answer": "C",
+      "explanation": "Page 75: Restricted neck movements can be caused by Klippel-Feil syndrome (cervical vertebrae fusion), rheumatoid arthritis, spondylitis, and disc disease.",
+      "topic": "Causes of Difficult Intubation"
+    },
+    {
+      "id": 100,
+      "question": "In every patient, which three parameters of airway assessment must be evaluated?",
+      "options": {
+        "A": "CT scan, MRI and blood tests",
+        "B": "ECG, blood pressure and pulse oximetry",
+        "C": "Mallampati grading, thyromental distance and neck movements",
+        "D": "Chest X-ray, spirometry, ABG"
+      },
+      "answer": "C",
+      "explanation": "Page 76: Mallampati grading, thyromental distance and neck movements are assessed in every case for airway assessment.",
+      "topic": "Assessment of Difficult Intubation"
+    }
+  ]
+}
