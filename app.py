@@ -993,6 +993,7 @@ def _resolve_questions_for_attempt(quiz_id: str):
 
 def get_all_results():
     """Fetch ALL results from Supabase (no limit), fallback to local."""
+    errors = []
     try:
         sb = get_supabase()
         if sb is not None:
@@ -1003,13 +1004,19 @@ def get_all_results():
                 .execute()
             )
             if resp.data:
-                return resp.data
-    except Exception:
-        pass
+                return resp.data, None
+            else:
+                errors.append("Supabase connected but table returned 0 rows.")
+        else:
+            errors.append("Supabase client is None (secrets missing or supabase package unavailable).")
+    except Exception as e:
+        errors.append(f"Supabase error: {e}")
     # Fallback to local results
     results = _load_local_results()
     results.sort(key=lambda r: r.get("attempted_at", ""), reverse=True)
-    return results
+    if results:
+        return results, None
+    return [], "; ".join(errors) if errors else "No data in local file either."
 
 
 def page_all_results():
@@ -1017,7 +1024,9 @@ def page_all_results():
     st.markdown("Complete history of all quiz attempts from day one.")
     st.divider()
 
-    data = get_all_results()
+    data, error = get_all_results()
+    if error:
+        st.warning(f"⚠️ Debug info: {error}")
     if not data:
         st.info("No results found yet.")
     else:
