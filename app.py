@@ -56,28 +56,28 @@ QUIZ_CATALOG = {
         "short": "CPR/CPCR (Ch 41)",
         "icon": "🫀",
     },
-    "cns": {
-        "file": "questions_cns.json",
-        "label": "Anesthesia for Central Nervous System Diseases",
-        "short": "CNS Diseases",
+    "ch20": {
+        "file": "questions_ch20.json",
+        "label": "Chapter 20 – Anesthesia for CNS Diseases",
+        "short": "CNS Diseases (Ch 20)",
         "icon": "🧠",
     },
-    "hepatic": {
-        "file": "questions_hepatic.json",
-        "label": "Anesthesia for Hepatic Disease",
-        "short": "Hepatic Disease",
+    "ch21": {
+        "file": "questions_ch21.json",
+        "label": "Chapter 21 – Anesthesia for Hepatic Diseases",
+        "short": "Hepatic Diseases (Ch 21)",
         "icon": "🫁",
     },
-    "cns_v2": {
-        "file": "questions_cns_v2.json",
-        "label": "Anesthesia for CNS Diseases – Version 2",
-        "short": "CNS Diseases V2",
+    "ch20_v2": {
+        "file": "questions_ch20_v2.json",
+        "label": "Chapter 20 – CNS Diseases – Version 2",
+        "short": "CNS Diseases V2 (Ch 20)",
         "icon": "🧠",
     },
-    "hepatic_v2": {
-        "file": "questions_hepatic_v2.json",
-        "label": "Anesthesia for Hepatic Disease – Version 2",
-        "short": "Hepatic Disease V2",
+    "ch21_v2": {
+        "file": "questions_ch21_v2.json",
+        "label": "Chapter 21 – Hepatic Diseases – Version 2",
+        "short": "Hepatic Diseases V2 (Ch 21)",
         "icon": "🫁",
     },
     "ch22": {
@@ -283,6 +283,12 @@ QUIZ_CATALOG = {
         "label": "Chapters 1–5 – Anatomy, Equipment & Airway (Combined)",
         "short": "Combined (Ch 1–5)",
         "icon": "📚",
+    },
+    "cleaning_sterilization": {
+        "file": "questions_cleaning_sterilization.json",
+        "label": "Chapter 34 – Cleaning and Sterilization (Dorsch & Dorsch)",
+        "short": "Cleaning & Sterilization",
+        "icon": "🧹",
     },
 }
 
