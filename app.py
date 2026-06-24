@@ -515,6 +515,10 @@ def page_home():
             st.query_params.clear()
             st.session_state.page = "home"
             st.rerun()
+    # Extra row for All Results
+    if st.button("📋 All Results (Admin)", use_container_width=False):
+        st.session_state.page = "all_results"
+        st.rerun()
 
     st.divider()
     st.markdown(f"""
@@ -536,6 +540,17 @@ def page_catalog():
 
 Select a chapter to start your test:
     """)
+
+    col_a, col_b = st.columns([1, 1])
+    with col_a:
+        if st.button("📋 View All Results", use_container_width=True):
+            st.session_state.page = "all_results"
+            st.rerun()
+    with col_b:
+        if st.button("🏆 Leaderboard", use_container_width=True):
+            st.session_state.page = "leaderboard"
+            st.rerun()
+
     st.divider()
 
     for key, info in QUIZ_CATALOG.items():
@@ -976,6 +991,92 @@ def _resolve_questions_for_attempt(quiz_id: str):
     return []
 
 
+def get_all_results():
+    """Fetch ALL results from Supabase (no limit), fallback to local."""
+    try:
+        sb = get_supabase()
+        if sb is not None:
+            resp = (
+                sb.table("quiz_results")
+                .select("name, score, max_score, percentage, time_taken_s, attempted_at, quiz_id")
+                .order("attempted_at", desc=True)
+                .execute()
+            )
+            if resp.data:
+                return resp.data
+    except Exception:
+        pass
+    # Fallback to local results
+    results = _load_local_results()
+    results.sort(key=lambda r: r.get("attempted_at", ""), reverse=True)
+    return results
+
+
+def page_all_results():
+    st.title("📋 All Results")
+    st.markdown("Complete history of all quiz attempts from day one.")
+    st.divider()
+
+    data = get_all_results()
+    if not data:
+        st.info("No results found yet.")
+    else:
+        # Summary stats
+        total_attempts = len(data)
+        unique_users = len(set(r.get("name", "") for r in data))
+        avg_pct = sum(r.get("percentage", 0) for r in data) / total_attempts
+
+        c1, c2, c3 = st.columns(3)
+        c1.metric("Total Attempts", total_attempts)
+        c2.metric("Unique Users", unique_users)
+        c3.metric("Avg Score", f"{avg_pct:.1f}%")
+        st.divider()
+
+        # Filter by name
+        all_names = sorted(set(r.get("name", "Unknown") for r in data))
+        selected_name = st.selectbox("Filter by student:", ["All"] + all_names)
+
+        # Filter by quiz
+        all_quizzes = sorted(set(r.get("quiz_id", "Unknown") for r in data))
+        selected_quiz = st.selectbox("Filter by quiz:", ["All"] + all_quizzes)
+
+        filtered = data
+        if selected_name != "All":
+            filtered = [r for r in filtered if r.get("name") == selected_name]
+        if selected_quiz != "All":
+            filtered = [r for r in filtered if r.get("quiz_id") == selected_quiz]
+
+        st.markdown(f"**Showing {len(filtered)} of {total_attempts} records**")
+        st.divider()
+
+        # Table view
+        for i, row in enumerate(filtered):
+            pct = row.get("percentage", 0)
+            if pct >= 75:
+                grade = "🟢 PASS"
+            elif pct >= 50:
+                grade = "🟡 BORDERLINE"
+            else:
+                grade = "🔴 FAIL"
+
+            attempted = row.get("attempted_at", "")[:16].replace("T", " ") if row.get("attempted_at") else "N/A"
+            quiz_name = row.get("quiz_id", "Unknown")
+            time_str = fmt_time(row.get("time_taken_s", 0))
+
+            st.markdown(
+                f"**{i+1}.** {grade} &nbsp; **{row.get('name', 'Unknown')}** — "
+                f"**{row.get('score', 0)}/{row.get('max_score', 50)}** ({pct}%) — "
+                f"⏱ {time_str} — 📅 {attempted}  \n"
+                f"<small style='color:#89b4fa;'>📝 {quiz_name}</small>",
+                unsafe_allow_html=True,
+            )
+            st.divider()
+
+    if st.button("◀ Back to Home"):
+        st.session_state.page = "home"
+        st.rerun()
+
+
 # ─── Router ───────────────────────────────────────────────────────────────────
 page = st.session_state.page
 if page == "home":
@@ -988,3 +1089,5 @@ elif page == "review":
     page_review()
 elif page == "leaderboard":
     page_leaderboard()
+elif page == "all_results":
+    page_all_results()
