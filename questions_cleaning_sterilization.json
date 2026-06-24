@@ -1,0 +1,609 @@
+{
+  "title": "Cleaning and Sterilization MCQ – Chapter 34",
+  "source": "Understanding Anesthesia Equipment (Dorsch & Dorsch) – Section V: Equipment Care",
+  "section": "Chapter 34: Cleaning and Sterilization",
+  "total_questions": 50,
+  "time_limit_minutes": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is an antimicrobial?",
+      "options": {
+        "A": "A chemical that only kills viruses",
+        "B": "A chemical or material capable of destroying or inhibiting the growth of microorganisms",
+        "C": "A substance that promotes microbial growth",
+        "D": "A device used for sterilization"
+      },
+      "answer": "B",
+      "explanation": "An antimicrobial is a chemical or material capable of destroying or inhibiting the growth of microorganisms."
+    },
+    {
+      "id": 2,
+      "question": "What distinguishes an antiseptic from a disinfectant?",
+      "options": {
+        "A": "Antiseptics are used on inanimate objects",
+        "B": "Antiseptics can be safely applied to living tissue and are regulated as drugs",
+        "C": "Disinfectants are used on living tissue",
+        "D": "There is no difference"
+      },
+      "answer": "B",
+      "explanation": "An antiseptic is a chemical germicide that has antimicrobial activity and that can be safely applied to living tissue. Antiseptics are regulated as drugs."
+    },
+    {
+      "id": 3,
+      "question": "What does asepsis refer to?",
+      "options": {
+        "A": "A process of killing bacteria",
+        "B": "A scheme or process that prevents contact with microorganisms",
+        "C": "A method of cleaning instruments",
+        "D": "The use of antibiotics"
+      },
+      "answer": "B",
+      "explanation": "Asepsis is a scheme or process that prevents contact with microorganisms."
+    },
+    {
+      "id": 4,
+      "question": "What is the difference between a bactericide and a bacteriostat?",
+      "options": {
+        "A": "Both kill bacteria permanently",
+        "B": "A bactericide kills bacteria while a bacteriostat only prevents bacterial growth without necessarily killing them",
+        "C": "A bacteriostat kills bacteria while a bactericide prevents growth",
+        "D": "There is no difference"
+      },
+      "answer": "B",
+      "explanation": "A bactericide is a chemical agent or compound that kills bacteria. A bacteriostat is an agent that will prevent bacterial growth but does not necessarily kill the bacteria. Bacteriostatic action is reversible."
+    },
+    {
+      "id": 5,
+      "question": "What is bioburden (bioload, microbial load)?",
+      "options": {
+        "A": "The weight of sterilization equipment",
+        "B": "The number and types of viable organisms contaminating an object",
+        "C": "The amount of disinfectant needed",
+        "D": "The pressure inside an autoclave"
+      },
+      "answer": "B",
+      "explanation": "Bioburden (Bioload, Microbial Load) is the number and types of viable organisms contaminating an object. The level of bioburden is related to the anatomic site where the device was used."
+    },
+    {
+      "id": 6,
+      "question": "What is a biological indicator used for?",
+      "options": {
+        "A": "Measuring temperature only",
+        "B": "Monitoring the sterilization process using a standardized, viable population of microorganisms",
+        "C": "Cleaning instruments",
+        "D": "Disinfecting surfaces"
+      },
+      "answer": "B",
+      "explanation": "A biological indicator is a sterilization-process monitoring device consisting of a standardized, viable population of microorganisms (usually bacterial spores) that are known to be resistant to the mode of sterilization being monitored."
+    },
+    {
+      "id": 7,
+      "question": "What is the ceiling value in occupational health?",
+      "options": {
+        "A": "Maximum temperature in a sterilizer",
+        "B": "Concentration of an airborne contaminant above which a person should not be exposed even momentarily",
+        "C": "The height of the operating room",
+        "D": "The maximum number of patients per day"
+      },
+      "answer": "B",
+      "explanation": "Ceiling Value is the concentration of an airborne contaminant above which a person should not be exposed even momentarily."
+    },
+    {
+      "id": 8,
+      "question": "What is a chemical indicator in sterilization?",
+      "options": {
+        "A": "A device that measures pH",
+        "B": "A sterilization-process monitoring device designed to respond with a characteristic and visible chemical or physical change to one or more parameters of a sterilization process",
+        "C": "A liquid used for cleaning",
+        "D": "A type of disinfectant"
+      },
+      "answer": "B",
+      "explanation": "A chemical indicator is a sterilization-process monitoring device designed to respond with a characteristic and visible chemical or physical change to one or more parameters of a sterilization process."
+    },
+    {
+      "id": 9,
+      "question": "What is a chemical integrator?",
+      "options": {
+        "A": "A device that mixes chemicals",
+        "B": "A chemical indicator that reacts to a variety of sterilization parameters",
+        "C": "A type of autoclave",
+        "D": "A cleaning solution"
+      },
+      "answer": "B",
+      "explanation": "A chemical integrator is a chemical indicator that reacts to a variety of sterilization parameters."
+    },
+    {
+      "id": 10,
+      "question": "What is a chemosterilizer (chemical sterilant)?",
+      "options": {
+        "A": "A device that uses heat for sterilization",
+        "B": "A chemical used for the purpose of destroying all forms of microbiological life, including bacterial spores",
+        "C": "A type of antiseptic",
+        "D": "A low-level disinfectant"
+      },
+      "answer": "B",
+      "explanation": "A chemosterilizer (chemical sterilant) is a chemical used for the purpose of destroying all forms of microbiological life, including bacterial spores. The same chemical used for shorter exposure periods and/or at a lower concentration may be used for disinfection."
+    },
+    {
+      "id": 11,
+      "question": "What is the definition of cleaning?",
+      "options": {
+        "A": "Killing all microorganisms",
+        "B": "Removal of foreign material from an item",
+        "C": "Applying antiseptic to tissue",
+        "D": "Autoclaving instruments"
+      },
+      "answer": "B",
+      "explanation": "Cleaning is the removal of foreign material from an item."
+    },
+    {
+      "id": 12,
+      "question": "What does contamination mean?",
+      "options": {
+        "A": "The process of sterilization",
+        "B": "State of actually or potentially having been in contact with microorganisms",
+        "C": "Removal of all bacteria",
+        "D": "Application of disinfectant"
+      },
+      "answer": "B",
+      "explanation": "Contamination is the state of actually or potentially having been in contact with microorganisms."
+    },
+    {
+      "id": 13,
+      "question": "What is a critical item?",
+      "options": {
+        "A": "An item that only touches intact skin",
+        "B": "An item that penetrates the skin or is in contact with normally sterile areas of the body",
+        "C": "An item used for cleaning only",
+        "D": "A disposable item"
+      },
+      "answer": "B",
+      "explanation": "A critical item is an item that penetrates the skin or is in contact with normally sterile membranes or areas of the body."
+    },
+    {
+      "id": 14,
+      "question": "What is decontamination?",
+      "options": {
+        "A": "A process that renders contaminated inanimate items safe for handling by personnel who are not wearing protective attire",
+        "B": "The same as sterilization",
+        "C": "Applying antibiotics to a wound",
+        "D": "Removing visible blood only"
+      },
+      "answer": "A",
+      "explanation": "Decontamination is a process that renders contaminated inanimate items safe for handling by personnel who are not wearing protective attire (i.e., reasonably free of the probability of transmitting infection). Decontamination can range from simple cleaning to sterilization."
+    },
+    {
+      "id": 15,
+      "question": "What is a disinfectant?",
+      "options": {
+        "A": "A chemical applied to living tissue",
+        "B": "A chemical germicide formulated to be used on inanimate objects",
+        "C": "A biological indicator",
+        "D": "A type of antibiotic"
+      },
+      "answer": "B",
+      "explanation": "A disinfectant is a chemical germicide formulated to be used on inanimate objects."
+    },
+    {
+      "id": 16,
+      "question": "What does high-level disinfection kill?",
+      "options": {
+        "A": "Only vegetative bacteria",
+        "B": "All organisms with the exception of bacterial spores and certain species such as Creutzfeldt-Jakob prion",
+        "C": "Only viruses",
+        "D": "Nothing significant"
+      },
+      "answer": "B",
+      "explanation": "High-level disinfection is a procedure that kills all organisms with the exception of bacterial spores and certain species, such as the Creutzfeldt-Jakob prion. Most high-level disinfectants can produce sterilization with sufficient contact time."
+    },
+    {
+      "id": 17,
+      "question": "What does intermediate-level disinfection kill?",
+      "options": {
+        "A": "All organisms including spores",
+        "B": "Vegetative bacteria, including Mycobacterium tuberculosis, most fungi, and viruses but not bacterial spores",
+        "C": "Only fungi",
+        "D": "Only viruses"
+      },
+      "answer": "B",
+      "explanation": "Intermediate-level disinfection is a procedure that kills vegetative bacteria, including Mycobacterium tuberculosis, most fungi, and viruses but not bacterial spores."
+    },
+    {
+      "id": 18,
+      "question": "What does low-level disinfection kill?",
+      "options": {
+        "A": "All microorganisms including spores",
+        "B": "Most vegetative bacteria (but not M. tuberculosis), some fungi, and viruses but no spores",
+        "C": "Only bacterial spores",
+        "D": "Only prions"
+      },
+      "answer": "B",
+      "explanation": "Low-level disinfection is a procedure that kills most vegetative bacteria (but not M. tuberculosis), some fungi, and viruses but no spores."
+    },
+    {
+      "id": 19,
+      "question": "What is a disposable item?",
+      "options": {
+        "A": "An item that can be reused multiple times",
+        "B": "An item intended for use on one patient during a single procedure",
+        "C": "An item that requires sterilization",
+        "D": "An item made of metal"
+      },
+      "answer": "B",
+      "explanation": "Disposable items are intended for use on one patient during a single procedure."
+    },
+    {
+      "id": 20,
+      "question": "What is a fungicide?",
+      "options": {
+        "A": "An agent that promotes fungal growth",
+        "B": "An agent or process that kills fungi",
+        "C": "A type of bacteria",
+        "D": "A cleaning solution"
+      },
+      "answer": "B",
+      "explanation": "A fungicide is an agent or process that kills fungi."
+    },
+    {
+      "id": 21,
+      "question": "What does a mechanical monitor measure during sterilization?",
+      "options": {
+        "A": "Only temperature",
+        "B": "Time, temperature, humidity, or pressure during a sterilization cycle",
+        "C": "Only pressure",
+        "D": "Microbial count"
+      },
+      "answer": "B",
+      "explanation": "A mechanical monitor (physical monitor, physical indicator) is a sterilizer component that gauges and records time, temperature, humidity, or pressure during a sterilization cycle."
+    },
+    {
+      "id": 22,
+      "question": "What is a noncritical item?",
+      "options": {
+        "A": "An item that penetrates the skin",
+        "B": "An item that does not ordinarily touch the patient or only touches intact skin but not mucous membranes",
+        "C": "An item that contacts sterile body areas",
+        "D": "An item that must be sterilized"
+      },
+      "answer": "B",
+      "explanation": "A noncritical item is an item that does not ordinarily touch the patient or only touches intact skin but not mucous membranes."
+    },
+    {
+      "id": 23,
+      "question": "What is a nosocomial infection?",
+      "options": {
+        "A": "An infection acquired at home",
+        "B": "An infection acquired in a health care facility",
+        "C": "A viral infection only",
+        "D": "An infection that cannot be treated"
+      },
+      "answer": "B",
+      "explanation": "Nosocomial pertains to a health care facility. A nosocomial infection is one acquired in a health care facility."
+    },
+    {
+      "id": 24,
+      "question": "What is the Permissible Exposure Limit (PEL)?",
+      "options": {
+        "A": "The maximum time a patient can be in surgery",
+        "B": "The time-weighted average maximum concentration of an air contaminant to which a worker can be exposed according to OSHA standards",
+        "C": "The maximum temperature in a sterilizer",
+        "D": "The minimum concentration of disinfectant"
+      },
+      "answer": "B",
+      "explanation": "Permissible Exposure Limit (PEL) is the time-weighted average maximum concentration of an air contaminant to which a worker can be exposed according to Occupational Safety and Health Administration (OSHA) standards."
+    },
+    {
+      "id": 25,
+      "question": "What are prions?",
+      "options": {
+        "A": "A type of bacteria",
+        "B": "Proteinaceous infectious agents with no associated nucleic acids",
+        "C": "A type of virus",
+        "D": "A type of fungus"
+      },
+      "answer": "B",
+      "explanation": "Prions are proteinaceous infectious agents with no associated nucleic acids."
+    },
+    {
+      "id": 26,
+      "question": "What does processing mean in the context of medical devices?",
+      "options": {
+        "A": "Manufacturing a new device",
+        "B": "All of the steps performed to make a contaminated device ready for patient use",
+        "C": "Disposing of used equipment",
+        "D": "Ordering new supplies"
+      },
+      "answer": "B",
+      "explanation": "Processing refers to all of the steps performed to make a contaminated device ready for patient use."
+    },
+    {
+      "id": 27,
+      "question": "What is pseudoinfection?",
+      "options": {
+        "A": "A severe bacterial infection",
+        "B": "A positive culture without clinical infection",
+        "C": "A viral infection",
+        "D": "A nosocomial infection"
+      },
+      "answer": "B",
+      "explanation": "Pseudoinfection is a positive culture without clinical infection."
+    },
+    {
+      "id": 28,
+      "question": "What are pyrogens?",
+      "options": {
+        "A": "Chemicals that kill bacteria",
+        "B": "Substances that can produce fever",
+        "C": "Sterilization indicators",
+        "D": "Cleaning agents"
+      },
+      "answer": "B",
+      "explanation": "Pyrogens are substances that can produce fever."
+    },
+    {
+      "id": 29,
+      "question": "What is reprocessing?",
+      "options": {
+        "A": "Throwing away used equipment",
+        "B": "Decontamination and repackaging of a device that has been used for its intended purpose and is labeled for single use",
+        "C": "Manufacturing new devices",
+        "D": "Sterilizing new instruments"
+      },
+      "answer": "B",
+      "explanation": "Reprocessing is decontamination and repackaging of a device that has been used for its intended purpose and is labeled for single use."
+    },
+    {
+      "id": 30,
+      "question": "What is resterilization?",
+      "options": {
+        "A": "First-time sterilization of a new device",
+        "B": "Sterilization of an 'unopened' (i.e., inner wrap still intact) sterile device or an unused wrapped sterile device that is past the expiration date",
+        "C": "Cleaning an instrument",
+        "D": "Disinfecting a surface"
+      },
+      "answer": "B",
+      "explanation": "Resterilization is sterilization of an 'unopened' (i.e., inner wrap still intact, and therefore, the device is presumably 'unused') sterile device or an unused wrapped sterile device that is past the expiration date."
+    },
+    {
+      "id": 31,
+      "question": "What is a reusable item?",
+      "options": {
+        "A": "An item used once and discarded",
+        "B": "An item intended for repeated use either on the same or different patients, with appropriate reprocessing between uses",
+        "C": "An item that cannot be sterilized",
+        "D": "A single-use item"
+      },
+      "answer": "B",
+      "explanation": "A reusable item is intended for repeated use either on the same or different patients, with appropriate reprocessing between uses."
+    },
+    {
+      "id": 32,
+      "question": "What is sanitization?",
+      "options": {
+        "A": "Complete elimination of all microorganisms",
+        "B": "Process of reducing the number of microbial contaminants to a relatively safe level",
+        "C": "The same as sterilization",
+        "D": "Applying antibiotics"
+      },
+      "answer": "B",
+      "explanation": "Sanitization is the process of reducing the number of microbial contaminants to a relatively safe level. In general, sanitation is used for noncritical surfaces or for applications in which stronger microbial agents may cause device materials to deteriorate."
+    },
+    {
+      "id": 33,
+      "question": "What is a semicritical item?",
+      "options": {
+        "A": "An item that penetrates the skin",
+        "B": "A device intended to come in contact with mucous membranes or intact skin but will not normally come into contact with sterile tissues",
+        "C": "An item that only touches intact skin",
+        "D": "A disposable item"
+      },
+      "answer": "B",
+      "explanation": "A semicritical item is a device that is intended to come in contact with mucous membranes or intact skin but will not normally come into contact with sterile tissues."
+    },
+    {
+      "id": 34,
+      "question": "What is the Short-term Exposure Limit (STEL)?",
+      "options": {
+        "A": "Maximum sterilization time",
+        "B": "A 15-minute time-weighted average exposure that should not be exceeded at any time during a work day",
+        "C": "The minimum contact time for disinfection",
+        "D": "The duration of a sterilization cycle"
+      },
+      "answer": "B",
+      "explanation": "Short-term Exposure Limit (STEL) is a 15-minute time-weighted average exposure that should not be exceeded at any time during a work day."
+    },
+    {
+      "id": 35,
+      "question": "What is a spore?",
+      "options": {
+        "A": "An active growing bacterium",
+        "B": "The normal resting stage in the life cycle of certain bacteria",
+        "C": "A type of virus",
+        "D": "A chemical indicator"
+      },
+      "answer": "B",
+      "explanation": "A spore is the normal resting stage in the life cycle of certain bacteria."
+    },
+    {
+      "id": 36,
+      "question": "What is a sporicide?",
+      "options": {
+        "A": "An agent that promotes spore formation",
+        "B": "An agent that kills spores",
+        "C": "A type of bacteriostat",
+        "D": "A cleaning solution"
+      },
+      "answer": "B",
+      "explanation": "A sporicide is an agent that kills spores."
+    },
+    {
+      "id": 37,
+      "question": "What are Standard Precautions?",
+      "options": {
+        "A": "Guidelines for surgical procedures only",
+        "B": "Policies promulgated by the CDC in 1996 that include universal precautions, airborne precautions, droplet precautions, and contact precautions applying to all patients",
+        "C": "Precautions only for immunocompromised patients",
+        "D": "Guidelines for waste disposal only"
+      },
+      "answer": "B",
+      "explanation": "Standard Precautions are policies promulgated by the Centers for Disease Control and Prevention (CDC) in 1996 that include universal precautions, airborne precautions, droplet precautions, and contact precautions. Standard precautions apply to all patients, regardless of their diagnosis or known or presumed infection status."
+    },
+    {
+      "id": 38,
+      "question": "What is a sterilant/disinfectant?",
+      "options": {
+        "A": "A device used for autoclaving",
+        "B": "A term applied by the EPA to a germicide that is capable of sterilization or high-level disinfection",
+        "C": "A low-level cleaning agent",
+        "D": "An antiseptic for skin"
+      },
+      "answer": "B",
+      "explanation": "Sterilant/Disinfectant is a term applied by the Environmental Protection Agency (EPA) to a germicide that is capable of sterilization or high-level disinfection."
+    },
+    {
+      "id": 39,
+      "question": "What is the Sterility Assurance Level (SAL)?",
+      "options": {
+        "A": "The temperature needed for sterilization",
+        "B": "The probability that microorganisms will survive after a terminal sterilization process",
+        "C": "The number of sterilization cycles needed",
+        "D": "The time required for sterilization"
+      },
+      "answer": "B",
+      "explanation": "Sterility Assurance Level (SAL) is the probability that microorganisms will survive after a terminal sterilization process. Before a manufacturer can label a product as sterile, it must have a sterility assurance level of 10^-6."
+    },
+    {
+      "id": 40,
+      "question": "What SAL must a product have to be labeled as sterile?",
+      "options": {
+        "A": "10^-3",
+        "B": "10^-6 (no greater than 1 in 1,000,000)",
+        "C": "10^-2",
+        "D": "10^-1"
+      },
+      "answer": "B",
+      "explanation": "Before a manufacturer can label a product as sterile, it must have a sterility assurance level of 10^-6, which means that the possibility that microorganisms have survived on the item exists but is no greater than 1 × 10^-6 or 1 in 1,000,000."
+    },
+    {
+      "id": 41,
+      "question": "What is terminal sterilization?",
+      "options": {
+        "A": "Sterilization before packaging",
+        "B": "Sterilization process that is carried out after an item has been placed in its final packaging",
+        "C": "The last step of cleaning",
+        "D": "Disinfection after use"
+      },
+      "answer": "B",
+      "explanation": "Terminal sterilization is a sterilization process that is carried out after an item has been placed in its final packaging."
+    },
+    {
+      "id": 42,
+      "question": "What is the Threshold Limit Value Ceiling?",
+      "options": {
+        "A": "Maximum sterilization temperature",
+        "B": "Concentration of an air contaminant to which nearly all workers may be repeatedly exposed day after day without adverse effect",
+        "C": "The height limit for storage shelves",
+        "D": "Maximum humidity in a sterilizer"
+      },
+      "answer": "B",
+      "explanation": "Threshold Limit Value Ceiling is the concentration of an air contaminant to which it is believed that nearly all workers may be repeatedly exposed day after day without adverse effect."
+    },
+    {
+      "id": 43,
+      "question": "What is Time-Weighted Average (TWA)?",
+      "options": {
+        "A": "The average time for a sterilization cycle",
+        "B": "Integration of all the concentrations of a chemical to which a worker has been exposed during a sampling period, reported as an average",
+        "C": "The average cleaning time",
+        "D": "The average patient contact time"
+      },
+      "answer": "B",
+      "explanation": "Time-Weighted Average (TWA) is the integration of all the concentrations of a chemical to which a worker has been exposed during a sampling period, reported as an average."
+    },
+    {
+      "id": 44,
+      "question": "What is a tuberculocide?",
+      "options": {
+        "A": "A drug that treats tuberculosis",
+        "B": "An agent or process that kills tubercle bacilli",
+        "C": "A vaccine for tuberculosis",
+        "D": "A diagnostic test for TB"
+      },
+      "answer": "B",
+      "explanation": "A tuberculocide is an agent or process that kills tubercle bacilli."
+    },
+    {
+      "id": 45,
+      "question": "What agency registers and regulates chemical germicides?",
+      "options": {
+        "A": "CDC",
+        "B": "EPA (Environmental Protection Agency)",
+        "C": "OSHA",
+        "D": "JCAHO"
+      },
+      "answer": "B",
+      "explanation": "The EPA registers and regulates chemical germicides. It requires manufacturers to test formulations of chemical germicides for microbicidal potency (efficacy), stability, and toxicity. It also approves sterilization devices."
+    },
+    {
+      "id": 46,
+      "question": "What role does the FDA play regarding reusable medical devices?",
+      "options": {
+        "A": "It only registers germicides",
+        "B": "It regulates medical devices and requires manufacturers of reusable devices to provide adequate instructions for cleaning and disinfecting or sterilizing",
+        "C": "It only handles food safety",
+        "D": "It tests sterilization equipment"
+      },
+      "answer": "B",
+      "explanation": "The FDA regulates medical devices and considers liquid chemical germicides used to reprocess medical instruments as accessories to medical devices. The FDA requires that the manufacturer of a device marketed as reusable provide the user with adequate instructions for cleaning and disinfecting or sterilizing the item."
+    },
+    {
+      "id": 47,
+      "question": "Which organization does NOT approve, regulate, or test germicides or sterilizers but recommends broad strategies to prevent transmission of infections?",
+      "options": {
+        "A": "EPA",
+        "B": "FDA",
+        "C": "CDC (Centers for Disease Control and Prevention)",
+        "D": "OSHA"
+      },
+      "answer": "C",
+      "explanation": "The CDC does not approve, regulate, or test germicides or sterilizers. Rather, it recommends broad strategies to prevent transmission of infections in the health care environment."
+    },
+    {
+      "id": 48,
+      "question": "What is the first and most important step in decontamination?",
+      "options": {
+        "A": "Sterilization",
+        "B": "Thorough cleaning",
+        "C": "High-level disinfection",
+        "D": "Applying chemical germicides"
+      },
+      "answer": "B",
+      "explanation": "The first and most important step in decontamination is thorough cleaning. In some cases, cleaning may be sufficient to render an item suitable for reuse."
+    },
+    {
+      "id": 49,
+      "question": "Why should stainless steel or other metal devices NOT be soaked in saline or sodium hypochlorite solutions?",
+      "options": {
+        "A": "They will become contaminated",
+        "B": "The chloride ions in these substances will cause the metal to corrode",
+        "C": "It is too expensive",
+        "D": "It takes too long"
+      },
+      "answer": "B",
+      "explanation": "Stainless steel or other metal devices should not be soaked in saline or sodium hypochlorite solutions, because the chloride ions in these two substances will cause the metal to corrode."
+    },
+    {
+      "id": 50,
+      "question": "What should be used to move contaminated devices to the decontamination area?",
+      "options": {
+        "A": "Open trays",
+        "B": "A closed container",
+        "C": "Paper bags",
+        "D": "Bare hands"
+      },
+      "answer": "B",
+      "explanation": "A closed container should be used to move contaminated devices to the decontamination area."
+    }
+  ]
+}
