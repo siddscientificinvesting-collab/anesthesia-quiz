@@ -290,6 +290,12 @@ QUIZ_CATALOG = {
         "short": "Cleaning & Sterilization",
         "icon": "🧹",
     },
+    "tables_ch40": {
+        "file": "Tables/questions_tables_ch40.json",
+        "label": "Chapter 40 – Acid-Base Balance (Tables & Flowcharts)",
+        "short": "Acid-Base Tables (Ch 40)",
+        "icon": "⚗️",
+    },
 }
 
 # ─── Load Questions ──────────────────────────────────────────────────────────

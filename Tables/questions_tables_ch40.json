@@ -1,0 +1,334 @@
+{
+  "title": "Acid-Base Balance MCQ – Chapter 40",
+  "source": "Short Textbook of Anesthesia – Ajay Yadav",
+  "section": "Section 9: Cardiorespiratory Care (Chapter 40)",
+  "total_questions": 25,
+  "time_limit_minutes": 15,
+  "questions": [
+    {
+      "id": 1,
+      "question": "In acute (noncompensated) respiratory acidosis, what happens to pH and pCO2?",
+      "options": {
+        "A": "pH normal, pCO2 normal",
+        "B": "pH markedly increased, pCO2 markedly decreased",
+        "C": "pH markedly decreased, pCO2 markedly decreased",
+        "D": "pH markedly decreased, pCO2 markedly increased"
+      },
+      "answer": "D",
+      "explanation": "Page 294, Table 40.2: In acute respiratory acidosis (noncompensated), pH shows marked decrease (↓↓) and pCO2 shows marked increase (↑↑↑).",
+      "topic": "Acid-Base Table"
+    },
+    {
+      "id": 2,
+      "question": "In chronic (compensated) respiratory acidosis, what is the expected HCO3 level?",
+      "options": {
+        "A": "Markedly increased",
+        "B": "Moderately increased",
+        "C": "Markedly decreased",
+        "D": "Normal"
+      },
+      "answer": "B",
+      "explanation": "Page 294, Table 40.2: In chronic compensated respiratory acidosis, HCO3 shows moderate increase (↑↑) as renal compensation occurs.",
+      "topic": "Acid-Base Table"
+    },
+    {
+      "id": 3,
+      "question": "What is the pH finding in acute (noncompensated) respiratory alkalosis?",
+      "options": {
+        "A": "Normal",
+        "B": "Moderately increased",
+        "C": "Mildly increased",
+        "D": "Markedly decreased"
+      },
+      "answer": "B",
+      "explanation": "Page 294, Table 40.2: In acute respiratory alkalosis (noncompensated), pH shows moderate increase (↑↑).",
+      "topic": "Acid-Base Table"
+    },
+    {
+      "id": 4,
+      "question": "In chronic compensated respiratory alkalosis, what is the pH?",
+      "options": {
+        "A": "Mildly increased or normal",
+        "B": "Markedly decreased",
+        "C": "Markedly increased",
+        "D": "Moderately decreased"
+      },
+      "answer": "A",
+      "explanation": "Page 294, Table 40.2: In chronic compensated respiratory alkalosis, pH is mildly increased (↑) or normal.",
+      "topic": "Acid-Base Table"
+    },
+    {
+      "id": 5,
+      "question": "In acute metabolic acidosis (noncompensated), what is the pCO2 finding?",
+      "options": {
+        "A": "Normal",
+        "B": "Mildly decreased",
+        "C": "Markedly decreased",
+        "D": "Markedly increased"
+      },
+      "answer": "B",
+      "explanation": "Page 294, Table 40.2: In acute metabolic acidosis (noncompensated), pCO2 shows mild decrease (↓) as early respiratory compensation begins.",
+      "topic": "Acid-Base Table"
+    },
+    {
+      "id": 6,
+      "question": "Metabolic acidosis is defined as a decrease in pH below:",
+      "options": {
+        "A": "7.40",
+        "B": "7.25",
+        "C": "7.35",
+        "D": "7.45"
+      },
+      "answer": "C",
+      "explanation": "Page 294: Metabolic acidosis is defined as decrease in pH <7.35.",
+      "topic": "Metabolic Acidosis"
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is NOT a cause of metabolic acidosis?",
+      "options": {
+        "A": "Diuretics",
+        "B": "Circulatory failure (shock)",
+        "C": "Renal failure",
+        "D": "Cyanide poisoning"
+      },
+      "answer": "A",
+      "explanation": "Page 294: Causes of metabolic acidosis include renal failure, circulatory failure (shock) leading to accumulation of lactic acid, hepatic failure, diarrhea with loss of bicarbonate, and cyanide poisoning. Diuretics are a cause of metabolic alkalosis, not acidosis.",
+      "topic": "Metabolic Acidosis"
+    },
+    {
+      "id": 8,
+      "question": "The normal anion gap is:",
+      "options": {
+        "A": "8-16 mM/L (average 12 mM/L)",
+        "B": "4-8 mM/L",
+        "C": "2-6 mM/L",
+        "D": "20-30 mM/L"
+      },
+      "answer": "A",
+      "explanation": "Page 294: Normal anion gap = 8-16 mM/L (average 12 mM/L).",
+      "topic": "Anion Gap"
+    },
+    {
+      "id": 9,
+      "question": "The formula for anion gap is:",
+      "options": {
+        "A": "Sodium – (Potassium + Chloride)",
+        "B": "Potassium – (Sodium + Chloride)",
+        "C": "Sodium – (Chloride + Bicarbonate concentration)",
+        "D": "Chloride – (Sodium + Bicarbonate)"
+      },
+      "answer": "C",
+      "explanation": "Page 294: Anion gap = Sodium concentration – (Chloride + Bicarbonate concentration).",
+      "topic": "Anion Gap"
+    },
+    {
+      "id": 10,
+      "question": "Anion gap is mainly constituted by:",
+      "options": {
+        "A": "Globulin",
+        "B": "Fibrinogen",
+        "C": "Hemoglobin",
+        "D": "Plasma albumin"
+      },
+      "answer": "D",
+      "explanation": "Page 294: Anion gap is mainly constituted by plasma albumin. It is also called unmeasured anion concentration, normally constituted by sulfates, phosphates, organic acids and plasma proteins.",
+      "topic": "Anion Gap"
+    },
+    {
+      "id": 11,
+      "question": "According to Flow chart 40.1, if pH is decreased (<7.35) and pCO2 is increased with increased HCO3, the diagnosis is:",
+      "options": {
+        "A": "Metabolic alkalosis",
+        "B": "Respiratory acidosis",
+        "C": "Respiratory alkalosis",
+        "D": "Metabolic acidosis"
+      },
+      "answer": "B",
+      "explanation": "Page 294, Flow chart 40.1: pH decreased + increased pCO2 + increased HCO3 = Respiratory acidosis.",
+      "topic": "Diagnostic Approach"
+    },
+    {
+      "id": 12,
+      "question": "According to Flow chart 40.1, if pH is decreased (<7.35), pCO2 is normal, and HCO3 is decreased, the diagnosis is:",
+      "options": {
+        "A": "Metabolic alkalosis",
+        "B": "Metabolic acidosis",
+        "C": "Respiratory alkalosis",
+        "D": "Respiratory acidosis"
+      },
+      "answer": "B",
+      "explanation": "Page 294, Flow chart 40.1: pH decreased + normal pCO2 + decreased HCO3 = Metabolic acidosis.",
+      "topic": "Diagnostic Approach"
+    },
+    {
+      "id": 13,
+      "question": "According to Flow chart 40.1, if pH >7.45, pCO2 is decreased and HCO3 is decreased, the diagnosis is:",
+      "options": {
+        "A": "Respiratory acidosis",
+        "B": "Metabolic acidosis",
+        "C": "Metabolic alkalosis",
+        "D": "Respiratory alkalosis"
+      },
+      "answer": "D",
+      "explanation": "Page 294, Flow chart 40.1: pH increased (>7.45) + decreased pCO2 + decreased HCO3 = Respiratory alkalosis.",
+      "topic": "Diagnostic Approach"
+    },
+    {
+      "id": 14,
+      "question": "According to Flow chart 40.1, if pH is normal (7.35-7.45), pCO2 is increased, and HCO3 is increased, the diagnosis is:",
+      "options": {
+        "A": "Respiratory acidosis + Metabolic alkalosis",
+        "B": "Pure respiratory alkalosis",
+        "C": "Metabolic acidosis",
+        "D": "No acid-base abnormality"
+      },
+      "answer": "A",
+      "explanation": "Page 294, Flow chart 40.1: Normal pH + increased pCO2 + increased HCO3 = Respiratory acidosis + Metabolic alkalosis (mixed disorder with full compensation).",
+      "topic": "Diagnostic Approach"
+    },
+    {
+      "id": 15,
+      "question": "Which of the following is a cause of respiratory alkalosis?",
+      "options": {
+        "A": "COPD",
+        "B": "Opioid overdose",
+        "C": "Myasthenia gravis",
+        "D": "Salicylate poisoning"
+      },
+      "answer": "D",
+      "explanation": "Page 294: Causes of respiratory alkalosis include Iatrogenic, Pregnancy, Salicylate poisoning, Hypoxia, and CNS trauma.",
+      "topic": "Respiratory Alkalosis"
+    },
+    {
+      "id": 16,
+      "question": "Treatment of respiratory alkalosis includes:",
+      "options": {
+        "A": "Infusion of ammonium chloride",
+        "B": "IV bicarbonate infusion",
+        "C": "Adjustment of ventilator setting (decrease frequency) and increasing rebreathing",
+        "D": "Increasing ventilator frequency"
+      },
+      "answer": "C",
+      "explanation": "Page 294: Treatment of respiratory alkalosis: Adjustment of ventilator setting (decrease the frequency) and increasing the rebreathing (i.e. exhaled gases containing CO2).",
+      "topic": "Respiratory Alkalosis"
+    },
+    {
+      "id": 17,
+      "question": "In COPD patients, respiratory acidosis may coexist with metabolic acidosis due to:",
+      "options": {
+        "A": "Decreased cardiac output (cor pulmonale) and renal flow",
+        "B": "Excessive diuretic use",
+        "C": "Hyperventilation",
+        "D": "Excessive bicarbonate administration"
+      },
+      "answer": "A",
+      "explanation": "Page 294: Respiratory acidosis in COPD patients may be associated with metabolic acidosis due to decreased cardiac output (cor pulmonale) and renal flow.",
+      "topic": "Mixed Disorders"
+    },
+    {
+      "id": 18,
+      "question": "Treatment of metabolic alkalosis includes IV infusion of:",
+      "options": {
+        "A": "Normal saline only",
+        "B": "Potassium permanganate",
+        "C": "Sodium bicarbonate",
+        "D": "Ammonium chloride or 0.1N hydrochloric acid"
+      },
+      "answer": "D",
+      "explanation": "Page 294: Treatment of metabolic alkalosis: Treat the underlying cause, IV infusion of ammonium chloride or 0.1N hydrochloric acid (not more than 0.2 mEq/kg/hr).",
+      "topic": "Metabolic Alkalosis"
+    },
+    {
+      "id": 19,
+      "question": "The maximum rate of 0.1N HCl infusion for treating metabolic alkalosis should not exceed:",
+      "options": {
+        "A": "0.05 mEq/kg/hr",
+        "B": "0.2 mEq/kg/hr",
+        "C": "1.0 mEq/kg/hr",
+        "D": "0.5 mEq/kg/hr"
+      },
+      "answer": "B",
+      "explanation": "Page 294: IV infusion of 0.1N hydrochloric acid should not be more than 0.2 mEq/kg/hr.",
+      "topic": "Metabolic Alkalosis"
+    },
+    {
+      "id": 20,
+      "question": "Which of the following is a cause of metabolic alkalosis?",
+      "options": {
+        "A": "Renal failure",
+        "B": "Cyanide poisoning",
+        "C": "Hepatic failure",
+        "D": "Diuretics"
+      },
+      "answer": "D",
+      "explanation": "Page 294: Causes of metabolic alkalosis include Diuretics, Hypovolemia, Diarrhea with loss of chloride, and Iatrogenic.",
+      "topic": "Metabolic Alkalosis"
+    },
+    {
+      "id": 21,
+      "question": "In acute metabolic alkalosis (noncompensated), pCO2 shows:",
+      "options": {
+        "A": "Marked decrease",
+        "B": "Moderate increase",
+        "C": "Marked increase",
+        "D": "No change"
+      },
+      "answer": "B",
+      "explanation": "Page 294, Table 40.2: In acute metabolic alkalosis (noncompensated), pCO2 shows moderate increase (↑↑) as respiratory compensation (hypoventilation) occurs.",
+      "topic": "Acid-Base Table"
+    },
+    {
+      "id": 22,
+      "question": "According to Flow chart 40.1, if pH is decreased (<7.35), pCO2 is increased, and HCO3 is decreased or normal, the diagnosis is:",
+      "options": {
+        "A": "Pure respiratory acidosis",
+        "B": "Metabolic alkalosis",
+        "C": "Pure metabolic acidosis",
+        "D": "Respiratory acidosis + Metabolic acidosis"
+      },
+      "answer": "D",
+      "explanation": "Page 294, Flow chart 40.1: pH decreased + increased pCO2 + decreased/normal HCO3 = Respiratory acidosis + Metabolic acidosis (mixed disorder).",
+      "topic": "Diagnostic Approach"
+    },
+    {
+      "id": 23,
+      "question": "Circulatory failure (shock) leading to accumulation of which acid causes metabolic acidosis?",
+      "options": {
+        "A": "Lactic acid",
+        "B": "Uric acid",
+        "C": "Acetic acid",
+        "D": "Citric acid"
+      },
+      "answer": "A",
+      "explanation": "Page 294: Causes of metabolic acidosis include circulatory failure (shock) leading to accumulation of lactic acid.",
+      "topic": "Metabolic Acidosis"
+    },
+    {
+      "id": 24,
+      "question": "According to Flow chart 40.1, if pH is normal (7.35-7.45), pCO2 is decreased, and HCO3 is decreased, the likely diagnoses include:",
+      "options": {
+        "A": "Chronic metabolic acidosis (renal disease) and chronic respiratory alkalosis (pulmonary disease)",
+        "B": "Acute respiratory alkalosis",
+        "C": "No acid-base abnormality",
+        "D": "Respiratory acidosis + Metabolic alkalosis"
+      },
+      "answer": "A",
+      "explanation": "Page 294, Flow chart 40.1: Normal pH + decreased pCO2 + decreased HCO3 = Chronic metabolic acidosis (due to renal disease) and chronic respiratory alkalosis due to pulmonary disease.",
+      "topic": "Diagnostic Approach"
+    },
+    {
+      "id": 25,
+      "question": "In acute metabolic acidosis (noncompensated), HCO3 shows:",
+      "options": {
+        "A": "Marked decrease",
+        "B": "Mild decrease",
+        "C": "Moderate decrease",
+        "D": "No change"
+      },
+      "answer": "A",
+      "explanation": "Page 294, Table 40.2: In acute metabolic acidosis (noncompensated), HCO3 shows marked decrease (↓↓↓).",
+      "topic": "Acid-Base Table"
+    }
+  ]
+}
