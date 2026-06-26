@@ -1,0 +1,1959 @@
+{
+  "title": "Section 9: Cardiorespiratory Care – Combined MCQ (Ch 40 & 41 + Mixed)",
+  "source": "Short Textbook of Anesthesia – Ajay Yadav",
+  "section": "Section 9: Cardiorespiratory Care (Chapters 40–41) + Mixed Review",
+  "total_questions": 150,
+  "time_limit_minutes": 90,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The first intensive care unit (ICU) was started in which year?",
+      "options": {
+        "A": "1963",
+        "B": "1943",
+        "C": "1953",
+        "D": "1973"
+      },
+      "answer": "C",
+      "explanation": "Page 278: First intensive care unit (ICU) was started in 1953.",
+      "topic": "Intensive Care Unit"
+    },
+    {
+      "id": 2,
+      "question": "Total number of beds in ICU should be what percentage of hospital beds?",
+      "options": {
+        "A": "20%",
+        "B": "15%",
+        "C": "5%",
+        "D": "10%"
+      },
+      "answer": "D",
+      "explanation": "Page 278: Total number of beds in ICU should be 10% of hospital beds.",
+      "topic": "Intensive Care Unit"
+    },
+    {
+      "id": 3,
+      "question": "Each ICU bed should have a floor area of:",
+      "options": {
+        "A": "20 m²",
+        "B": "25 m²",
+        "C": "10 m²",
+        "D": "15 m²"
+      },
+      "answer": "A",
+      "explanation": "Page 278: Each bed should have 20 m² floor area.",
+      "topic": "Intensive Care Unit"
+    },
+    {
+      "id": 4,
+      "question": "Acute respiratory failure is considered present if pO2 is less than:",
+      "options": {
+        "A": "50 mm Hg",
+        "B": "40 mm Hg",
+        "C": "60 mm Hg",
+        "D": "70 mm Hg"
+      },
+      "answer": "C",
+      "explanation": "Page 278: Acute respiratory failure is considered present if pO2 < 60 mm Hg, pCO2 > 50 mm Hg and pH < 7.30.",
+      "topic": "Acute Respiratory Failure"
+    },
+    {
+      "id": 5,
+      "question": "Type I respiratory failure is characterized by:",
+      "options": {
+        "A": "Both pO2 and pCO2 are normal",
+        "B": "Low pO2 with normal or low pCO2",
+        "C": "Increased pCO2 with normal pO2",
+        "D": "Low pCO2 with high pO2"
+      },
+      "answer": "B",
+      "explanation": "Page 278: Type I (Oxygenation Failure) is characterized by low pO2 (<60 mm Hg) with CO2 usually normal or even low due to compensatory hyperventilation.",
+      "topic": "Acute Respiratory Failure"
+    },
+    {
+      "id": 6,
+      "question": "Type II respiratory failure is characterized by pCO2 greater than:",
+      "options": {
+        "A": "35 mm Hg",
+        "B": "45 mm Hg",
+        "C": "50 mm Hg",
+        "D": "40 mm Hg"
+      },
+      "answer": "C",
+      "explanation": "Page 278: Type II (Hypercapnic Ventilatory Failure) is characterized by increase in pCO2 > 50 mm Hg.",
+      "topic": "Acute Respiratory Failure"
+    },
+    {
+      "id": 7,
+      "question": "Ideally, inspired oxygen concentration (FiO2) should not exceed more than:",
+      "options": {
+        "A": "50%",
+        "B": "60%",
+        "C": "30%",
+        "D": "40%"
+      },
+      "answer": "A",
+      "explanation": "Page 278: Ideally, FiO2 should not exceed more than 50%, otherwise oxygen toxicity can occur.",
+      "topic": "Supplemental Oxygen"
+    },
+    {
+      "id": 8,
+      "question": "Oxygen therapy is NOT helpful in which type of hypoxia?",
+      "options": {
+        "A": "Hypoxic hypoxia",
+        "B": "Histotoxic hypoxia",
+        "C": "Stagnant hypoxia",
+        "D": "Anemic hypoxia"
+      },
+      "answer": "B",
+      "explanation": "Page 278: Oxygen therapy is helpful in all types of hypoxia except histotoxic hypoxia.",
+      "topic": "Supplemental Oxygen"
+    },
+    {
+      "id": 9,
+      "question": "The usual initial tidal volume setting on a ventilator is:",
+      "options": {
+        "A": "6–8 mL/kg",
+        "B": "12–15 mL/kg",
+        "C": "10–12 mL/kg",
+        "D": "4–5 mL/kg"
+      },
+      "answer": "A",
+      "explanation": "Page 279: Initial ventilator settings - Tidal volume: 6–8 mL/kg.",
+      "topic": "Mechanical Ventilation"
+    },
+    {
+      "id": 10,
+      "question": "The normal inspiratory to expiratory (I:E) ratio set on a ventilator is:",
+      "options": {
+        "A": "1:1",
+        "B": "2:1",
+        "C": "1:2",
+        "D": "1:3"
+      },
+      "answer": "C",
+      "explanation": "Page 279: Initial ventilator setting - I:E ratio = 1:2.",
+      "topic": "Mechanical Ventilation"
+    },
+    {
+      "id": 11,
+      "question": "The chief advantage of volume controlled ventilation is:",
+      "options": {
+        "A": "Decreased chances of hypoventilation",
+        "B": "Reduces work of breathing",
+        "C": "Maintains preset airway pressure",
+        "D": "Decreased barotrauma"
+      },
+      "answer": "A",
+      "explanation": "Page 279: The chief advantage of volume preset breath is assurance of delivery of preset tidal volume and hence decreased chances of hypoventilation.",
+      "topic": "Mechanical Ventilation"
+    },
+    {
+      "id": 12,
+      "question": "The chief disadvantage of pressure controlled ventilation is:",
+      "options": {
+        "A": "Decreased cardiac output",
+        "B": "Increased hypoventilation",
+        "C": "Increased barotrauma",
+        "D": "Cannot be used in ARDS"
+      },
+      "answer": "B",
+      "explanation": "Page 279: Since tidal volume varies to maintain preset pressure, the chief disadvantage of pressure controlled ventilation is increased possibility of hypoventilation.",
+      "topic": "Mechanical Ventilation"
+    },
+    {
+      "id": 13,
+      "question": "In controlled-mode ventilation (CMV), the major disadvantage is:",
+      "options": {
+        "A": "Positive intrathoracic pressure decreasing venous return and cardiac output",
+        "B": "Increased work of breathing",
+        "C": "Barotrauma",
+        "D": "Hypocapnia"
+      },
+      "answer": "A",
+      "explanation": "Page 280: In CMV, intrathoracic pressure always remains positive decreasing the venous return and cardiac output.",
+      "topic": "Modes of Ventilation"
+    },
+    {
+      "id": 14,
+      "question": "The most commonly used dual mode ventilation in India is:",
+      "options": {
+        "A": "PSV",
+        "B": "PRVC (Pressure-regulated volume control)",
+        "C": "SIMV",
+        "D": "BIPAP"
+      },
+      "answer": "B",
+      "explanation": "Page 281: The most commonly used dual mode in India is pressure-regulated volume control (PRVC).",
+      "topic": "Modes of Ventilation"
+    },
+    {
+      "id": 15,
+      "question": "In high-frequency jet ventilation, the frequency is:",
+      "options": {
+        "A": "10–60 cycles/min",
+        "B": "600–3000 cycles/min",
+        "C": "60–120 cycles/min",
+        "D": "100–300 cycles/min"
+      },
+      "answer": "D",
+      "explanation": "Page 281: High-frequency jet ventilation has frequency of 100–300 cycles/min with gases at high pressure of 60 psi. This is the most commonly used mode for high frequency ventilation.",
+      "topic": "Modes of Ventilation"
+    },
+    {
+      "id": 16,
+      "question": "The ideal PEEP is considered as the PEEP which maintains oxygen saturation >90% without decreasing cardiac output. Usually it is:",
+      "options": {
+        "A": "5–12 cm H₂O",
+        "B": "2–4 cm H₂O",
+        "C": "15–20 cm H₂O",
+        "D": "20–25 cm H₂O"
+      },
+      "answer": "A",
+      "explanation": "Page 282: Ideal PEEP is usually 5–12 cm H₂O.",
+      "topic": "PEEP and CPAP"
+    },
+    {
+      "id": 17,
+      "question": "BIPAP typical settings include inspiratory pressure (IPAP) of:",
+      "options": {
+        "A": "30–40 cm H₂O",
+        "B": "25–35 cm H₂O",
+        "C": "2–5 cm H₂O",
+        "D": "8–20 cm H₂O"
+      },
+      "answer": "D",
+      "explanation": "Page 282: BIPAP typical settings are 8–20 cm H₂O positive pressure during inspiration and 5 cm H₂O during expiration.",
+      "topic": "PEEP and CPAP"
+    },
+    {
+      "id": 18,
+      "question": "NIPPV is most frequently applied in acute setting for:",
+      "options": {
+        "A": "Pulmonary embolism",
+        "B": "Acute exacerbation of COPD",
+        "C": "Cardiac tamponade",
+        "D": "Pneumothorax"
+      },
+      "answer": "B",
+      "explanation": "Page 282: In acute setting, NIPPV is most frequently applied for acute exacerbation of COPD.",
+      "topic": "NIPPV"
+    },
+    {
+      "id": 19,
+      "question": "The Rapid Shallow Breathing Index (RSBI) for weaning should be:",
+      "options": {
+        "A": "<100",
+        "B": "<75",
+        "C": "<50",
+        "D": "<150"
+      },
+      "answer": "A",
+      "explanation": "Page 283: RSBI = Respiratory rate/Tidal volume (in liters). RSBI should be <100 for successful weaning.",
+      "topic": "Weaning from Ventilator"
+    },
+    {
+      "id": 20,
+      "question": "The most common source of nosocomial infections in ICU is:",
+      "options": {
+        "A": "Urinary tract infections",
+        "B": "Bloodstream infections",
+        "C": "Wound infections",
+        "D": "Pulmonary infections"
+      },
+      "answer": "A",
+      "explanation": "Page 284: Most common source of nosocomial infections in ICU are urinary tract infections accounting for 35–40% of total ICU infections.",
+      "topic": "Complications of Mechanical Ventilation"
+    },
+    {
+      "id": 21,
+      "question": "Ventilator-associated pneumonia (VAP) is defined as pneumonia developing in patients on ventilators for more than:",
+      "options": {
+        "A": "72 hours",
+        "B": "48 hours",
+        "C": "24 hours",
+        "D": "12 hours"
+      },
+      "answer": "B",
+      "explanation": "Page 284: VAP is defined as pneumonia developing in patients on ventilators for >48 hours with no evidence of preintubation pneumonia.",
+      "topic": "Complications of Mechanical Ventilation"
+    },
+    {
+      "id": 22,
+      "question": "The simplest and most cost-effective method to decrease VAP is:",
+      "options": {
+        "A": "Prophylactic antibiotics",
+        "B": "Frequent suctioning",
+        "C": "Early tracheostomy",
+        "D": "Positioning head of bed at 30 degrees"
+      },
+      "answer": "D",
+      "explanation": "Page 284: Positioning of the head of bed at 30 degrees proves to be simplest and most cost effective method to decrease VAP.",
+      "topic": "Complications of Mechanical Ventilation"
+    },
+    {
+      "id": 23,
+      "question": "Shock is classified into how many major types?",
+      "options": {
+        "A": "5",
+        "B": "4",
+        "C": "2",
+        "D": "3"
+      },
+      "answer": "B",
+      "explanation": "Page 285: Shock is classified into four major types: Hypovolemic, Cardiogenic, Distributive, and Obstructive.",
+      "topic": "Shock"
+    },
+    {
+      "id": 24,
+      "question": "In distributive shock, the hallmark finding is:",
+      "options": {
+        "A": "Increased SVR",
+        "B": "Increased CVP",
+        "C": "Decreased SVR",
+        "D": "Decreased cardiac output"
+      },
+      "answer": "C",
+      "explanation": "Page 285: In distributive shock, poor vascular tone (decreased SVR) is the hallmark.",
+      "topic": "Shock"
+    },
+    {
+      "id": 25,
+      "question": "In hemorrhagic shock, the target for hypotensive resuscitation is MAP of:",
+      "options": {
+        "A": "40–50 mm Hg",
+        "B": "60–65 mm Hg",
+        "C": "70–80 mm Hg",
+        "D": "50–55 mm Hg"
+      },
+      "answer": "B",
+      "explanation": "Page 286: Current guidelines for hemorrhagic shock favor hypotensive resuscitation maintaining MAP between 60–65 mm Hg.",
+      "topic": "Management of Shock"
+    },
+    {
+      "id": 26,
+      "question": "The vasopressor of choice for septicemic shock is:",
+      "options": {
+        "A": "Ephedrine",
+        "B": "Norepinephrine",
+        "C": "Vasopressin",
+        "D": "Phenylephrine"
+      },
+      "answer": "B",
+      "explanation": "Page 287: Noradrenaline (Norepinephrine) is the vasopressor of choice for septicemic shock.",
+      "topic": "Management of Shock"
+    },
+    {
+      "id": 27,
+      "question": "Phenylephrine is considered as first-line drug in which type of shock?",
+      "options": {
+        "A": "Cardiogenic shock",
+        "B": "Neurogenic shock",
+        "C": "Septic shock",
+        "D": "Hypovolemic shock"
+      },
+      "answer": "B",
+      "explanation": "Page 287: Phenylephrine is considered as first-line drug in neurogenic shock.",
+      "topic": "Management of Shock"
+    },
+    {
+      "id": 28,
+      "question": "Stroke volume variation is considered as most reliable to assess:",
+      "options": {
+        "A": "Pulmonary function",
+        "B": "Fluid status",
+        "C": "Tissue oxygenation",
+        "D": "Cardiac contractility"
+      },
+      "answer": "B",
+      "explanation": "Page 286: Stroke volume variation is considered as most reliable to assess fluid status and titrate fluid therapy.",
+      "topic": "Management of Shock"
+    },
+    {
+      "id": 29,
+      "question": "The vein of choice for parenteral nutrition is:",
+      "options": {
+        "A": "Subclavian",
+        "B": "Basilic",
+        "C": "Internal jugular",
+        "D": "Femoral"
+      },
+      "answer": "A",
+      "explanation": "Page 288: Due to large diameter (and hence less chances of thrombophlebitis), subclavian is the vein of choice for parenteral nutrition.",
+      "topic": "Nutritional Support"
+    },
+    {
+      "id": 30,
+      "question": "Calorie requirement for a normal 70 kg man is approximately:",
+      "options": {
+        "A": "2500 kcal/day",
+        "B": "3000 kcal/day",
+        "C": "1200 kcal/day",
+        "D": "1800 kcal/day"
+      },
+      "answer": "D",
+      "explanation": "Page 288: Calorie requirement for normal 70 kg man is 1,800 kcal/day.",
+      "topic": "Nutritional Support"
+    },
+    {
+      "id": 31,
+      "question": "Suctioning duration in ventilated patients should not exceed:",
+      "options": {
+        "A": "20 seconds",
+        "B": "15 seconds",
+        "C": "10 seconds",
+        "D": "30 seconds"
+      },
+      "answer": "A",
+      "explanation": "Page 288: Patient on ventilator remains apneic during suctioning therefore suctioning duration should not exceed more than 20 seconds.",
+      "topic": "Pulmonary Care"
+    },
+    {
+      "id": 32,
+      "question": "The leading cause of death in ICU is:",
+      "options": {
+        "A": "Sepsis",
+        "B": "Pulmonary embolism",
+        "C": "Cardiac arrest",
+        "D": "Hemorrhage"
+      },
+      "answer": "A",
+      "explanation": "Page 290: Sepsis is the leading cause of death in ICU.",
+      "topic": "Sepsis"
+    },
+    {
+      "id": 33,
+      "question": "In septicemic shock, the colloid that should be avoided is:",
+      "options": {
+        "A": "Gelatin",
+        "B": "Dextran",
+        "C": "Hydroxyethyl starch (HES)",
+        "D": "Albumin"
+      },
+      "answer": "C",
+      "explanation": "Page 290: Colloids especially hydroxyethyl starch (HES) should be avoided in sepsis because it may increase kidney injury.",
+      "topic": "Sepsis"
+    },
+    {
+      "id": 34,
+      "question": "Pulmonary edema develops when pulmonary artery occlusion pressure rises to more than:",
+      "options": {
+        "A": "20 mm Hg",
+        "B": "30 mm Hg",
+        "C": "25 mm Hg",
+        "D": "15 mm Hg"
+      },
+      "answer": "C",
+      "explanation": "Page 290: Pulmonary edema develops when pulmonary artery occlusion pressure rises to more than 25 mm Hg.",
+      "topic": "Pulmonary Edema"
+    },
+    {
+      "id": 35,
+      "question": "According to the Berlin definition, severe ARDS is defined as PaO2/FiO2:",
+      "options": {
+        "A": "≤50 mm Hg",
+        "B": "≤200 mm Hg",
+        "C": "≤300 mm Hg",
+        "D": "≤100 mm Hg"
+      },
+      "answer": "D",
+      "explanation": "Page 291: Berlin definition - Severe ARDS: PaO2/FiO2 ≤100 mm Hg with PEEP ≥5 cm H₂O.",
+      "topic": "ARDS"
+    },
+    {
+      "id": 36,
+      "question": "The most common cause of ARDS is:",
+      "options": {
+        "A": "Pneumonitis",
+        "B": "Trauma",
+        "C": "Sepsis",
+        "D": "Pancreatitis"
+      },
+      "answer": "C",
+      "explanation": "Page 291: Sepsis is the most common cause of ARDS.",
+      "topic": "ARDS"
+    },
+    {
+      "id": 37,
+      "question": "The overall mortality in ARDS is:",
+      "options": {
+        "A": "10–20%",
+        "B": "50–60%",
+        "C": "30–40%",
+        "D": "70–80%"
+      },
+      "answer": "C",
+      "explanation": "Page 291: The overall mortality in ARDS is 30–40% and is due to multiorgan failure.",
+      "topic": "ARDS"
+    },
+    {
+      "id": 38,
+      "question": "Low tidal volume ventilation (6 mL/kg) in ARDS has been found to decrease overall mortality by:",
+      "options": {
+        "A": "9%",
+        "B": "15%",
+        "C": "20%",
+        "D": "5%"
+      },
+      "answer": "A",
+      "explanation": "Page 291: Low tidal volumes of 6 mL/kg have found to decrease the overall mortality significantly (9%).",
+      "topic": "ARDS"
+    },
+    {
+      "id": 39,
+      "question": "COPD patients survive on hypoxic drive, therefore oxygen supplementation should be kept at:",
+      "options": {
+        "A": "1–2 L/min",
+        "B": "3–4 L/min",
+        "C": "8–10 L/min",
+        "D": "5–6 L/min"
+      },
+      "answer": "A",
+      "explanation": "Page 292: COPD patients survive on hypoxic drive therefore it is necessary to keep low flows (1–2 L/min).",
+      "topic": "COPD"
+    },
+    {
+      "id": 40,
+      "question": "The affinity of carbon monoxide (CO) to bind hemoglobin compared to oxygen is:",
+      "options": {
+        "A": "240 times",
+        "B": "100 times",
+        "C": "20 times",
+        "D": "500 times"
+      },
+      "answer": "A",
+      "explanation": "Page 292: The affinity of carbon monoxide to bind to hemoglobin is 240 times than oxygen.",
+      "topic": "Carbon Monoxide Poisoning"
+    },
+    {
+      "id": 41,
+      "question": "The half-life of CO at atmospheric air is approximately:",
+      "options": {
+        "A": "60 minutes",
+        "B": "300 minutes",
+        "C": "214 minutes",
+        "D": "120 minutes"
+      },
+      "answer": "C",
+      "explanation": "Page 292: Half-life of CO at atmospheric air is 214 minutes, reduced to 1 hour with 100% oxygen and 20 minutes with hyperbaric oxygen.",
+      "topic": "Carbon Monoxide Poisoning"
+    },
+    {
+      "id": 42,
+      "question": "Normal arterial blood pH range is:",
+      "options": {
+        "A": "7.30–7.40",
+        "B": "7.35–7.45",
+        "C": "7.40–7.50",
+        "D": "7.25–7.35"
+      },
+      "answer": "B",
+      "explanation": "Page 293: Normal blood gas interpretation - pH: 7.35–7.45.",
+      "topic": "Acid-Base Management"
+    },
+    {
+      "id": 43,
+      "question": "Normal pCO2 range is:",
+      "options": {
+        "A": "45–55 mm Hg",
+        "B": "25–35 mm Hg",
+        "C": "40–50 mm Hg",
+        "D": "35–45 mm Hg"
+      },
+      "answer": "D",
+      "explanation": "Page 293: Normal blood gas - pCO2: 35–45 mm Hg.",
+      "topic": "Acid-Base Management"
+    },
+    {
+      "id": 44,
+      "question": "The Henderson-Hasselbalch equation maintains pH by maintaining the ratio of bicarbonate to CO2 at:",
+      "options": {
+        "A": "10:1",
+        "B": "20:1",
+        "C": "15:1",
+        "D": "25:1"
+      },
+      "answer": "B",
+      "explanation": "Page 293: Normal pH is maintained by the normal 20:1 ratio of bicarbonate to carbon dioxide.",
+      "topic": "Acid-Base Management"
+    },
+    {
+      "id": 45,
+      "question": "Treatment of metabolic alkalosis includes IV infusion of ammonium chloride or 0.1N HCl at a rate not more than:",
+      "options": {
+        "A": "1.0 mEq/kg/hr",
+        "B": "0.5 mEq/kg/hr",
+        "C": "0.2 mEq/kg/hr",
+        "D": "0.1 mEq/kg/hr"
+      },
+      "answer": "C",
+      "explanation": "Page 295: IV infusion of ammonium chloride or 0.1N HCl not more than 0.2 mEq/kg/hr.",
+      "topic": "Metabolic Alkalosis"
+    },
+    {
+      "id": 46,
+      "question": "Normal anion gap is:",
+      "options": {
+        "A": "20–30 mM/L",
+        "B": "8–16 mM/L",
+        "C": "4–8 mM/L",
+        "D": "16–24 mM/L"
+      },
+      "answer": "B",
+      "explanation": "Page 294: Normal anion gap = 8–16 mM/L (average 12 mM/L).",
+      "topic": "Acid-Base Management"
+    },
+    {
+      "id": 47,
+      "question": "Anion gap formula is:",
+      "options": {
+        "A": "Cl – (Na + HCO3)",
+        "B": "Na – (K + Cl)",
+        "C": "Na – (Cl + HCO3)",
+        "D": "(Na + K) – (Cl + HCO3)"
+      },
+      "answer": "C",
+      "explanation": "Page 294: Anion gap = Sodium concentration – (Chloride + Bicarbonate concentration).",
+      "topic": "Acid-Base Management"
+    },
+    {
+      "id": 48,
+      "question": "Respiratory alkalosis can be caused by all EXCEPT:",
+      "options": {
+        "A": "Salicylate poisoning",
+        "B": "CNS trauma",
+        "C": "Pregnancy",
+        "D": "COPD"
+      },
+      "answer": "D",
+      "explanation": "Page 293: Causes of respiratory alkalosis include iatrogenic, pregnancy, salicylate poisoning, hypoxia, and CNS trauma. COPD causes respiratory acidosis.",
+      "topic": "Acid-Base Management"
+    },
+    {
+      "id": 49,
+      "question": "The most preferred crystalloid for shock resuscitation is:",
+      "options": {
+        "A": "Ringer lactate",
+        "B": "Normal saline",
+        "C": "Dextrose 5%",
+        "D": "Dextrose normal saline"
+      },
+      "answer": "A",
+      "explanation": "Page 287: Ringer is the most preferred crystalloid as it is more physiological.",
+      "topic": "Management of Shock"
+    },
+    {
+      "id": 50,
+      "question": "Urine output is considered as best clinical guide of:",
+      "options": {
+        "A": "Renal function",
+        "B": "Cardiac contractility",
+        "C": "Fluid balance",
+        "D": "Tissue perfusion"
+      },
+      "answer": "D",
+      "explanation": "Page 286: Urine output is considered as best clinical guide of tissue perfusion.",
+      "topic": "Management of Shock"
+    },
+    {
+      "id": 51,
+      "question": "CPR nowadays is called as:",
+      "options": {
+        "A": "Cardiovascular resuscitation",
+        "B": "Cardiac and pulmonary support",
+        "C": "Critical pulmonary resuscitation",
+        "D": "Cardiopulmonary and cerebral resuscitation (CPCR)"
+      },
+      "answer": "D",
+      "explanation": "Page 298: CPR nowadays is called as cardiopulmonary and cerebral resuscitation (CPCR).",
+      "topic": "Introduction to CPR"
+    },
+    {
+      "id": 52,
+      "question": "Unwitnessed cardiac arrest in adults should be considered due to:",
+      "options": {
+        "A": "Ventricular fibrillation",
+        "B": "Asystole",
+        "C": "Bradycardia",
+        "D": "Pulseless electrical activity"
+      },
+      "answer": "A",
+      "explanation": "Page 298: Unwitnessed cardiac arrest in adults should be considered due to ventricular fibrillation until proved otherwise.",
+      "topic": "Introduction to CPR"
+    },
+    {
+      "id": 53,
+      "question": "Unwitnessed cardiac arrest in children should be considered due to:",
+      "options": {
+        "A": "Ventricular fibrillation",
+        "B": "Ventricular tachycardia",
+        "C": "PEA",
+        "D": "Asystole"
+      },
+      "answer": "D",
+      "explanation": "Page 298: In children, unwitnessed cardiac arrest should be considered due to asystole until proved otherwise.",
+      "topic": "Introduction to CPR"
+    },
+    {
+      "id": 54,
+      "question": "Every minute delay in starting CPR decreases prognosis by:",
+      "options": {
+        "A": "15–20%",
+        "B": "1–3%",
+        "C": "7–10%",
+        "D": "3–5%"
+      },
+      "answer": "C",
+      "explanation": "Page 298: Every minute delay decreases prognosis by 7–10%.",
+      "topic": "Introduction to CPR"
+    },
+    {
+      "id": 55,
+      "question": "The standard sequence of CPR was changed from A-B-C to C-A-B in which year's guidelines?",
+      "options": {
+        "A": "2005",
+        "B": "2010",
+        "C": "2020",
+        "D": "2015"
+      },
+      "answer": "B",
+      "explanation": "Page 298: The standard sequence was changed to C → A → B in 2010 CPR guidelines.",
+      "topic": "BLS"
+    },
+    {
+      "id": 56,
+      "question": "In BLS, defibrillation is done using:",
+      "options": {
+        "A": "Manual defibrillator",
+        "B": "Synchronized cardioversion",
+        "C": "Precordial thump",
+        "D": "Automatic external defibrillator (AED)"
+      },
+      "answer": "D",
+      "explanation": "Page 298: In BLS, defibrillation is done by automatic external defibrillator (AED) which can be used by lay rescuers.",
+      "topic": "BLS"
+    },
+    {
+      "id": 57,
+      "question": "According to newer studies, the more important cause of airway obstruction in unconscious patients is:",
+      "options": {
+        "A": "Epiglottis",
+        "B": "Laryngospasm",
+        "C": "Tongue fall",
+        "D": "Foreign body"
+      },
+      "answer": "A",
+      "explanation": "Page 299: As per newer studies, epiglottis rather than tongue fall has been found to be the more important cause of airway obstruction.",
+      "topic": "Airway Management in CPR"
+    },
+    {
+      "id": 58,
+      "question": "In patients with suspected cervical spine fracture, airway should be managed by:",
+      "options": {
+        "A": "Jaw thrust",
+        "B": "Neck extension",
+        "C": "Head tilt only",
+        "D": "Chin lift only"
+      },
+      "answer": "A",
+      "explanation": "Page 299: In cervical spine fracture, head tilt and chin lift should be avoided and airway should be managed only by jaw thrust.",
+      "topic": "Airway Management in CPR"
+    },
+    {
+      "id": 59,
+      "question": "Heimlich maneuver is used for:",
+      "options": {
+        "A": "Infants",
+        "B": "Pregnant patients only",
+        "C": "Neonates",
+        "D": "Adults and older children"
+      },
+      "answer": "D",
+      "explanation": "Page 299: Heimlich maneuver - manual thrust compressing the abdomen 6–10 times. This method is used for adults and older children.",
+      "topic": "Airway Management in CPR"
+    },
+    {
+      "id": 60,
+      "question": "During cardiac massage, sternum should be depressed by:",
+      "options": {
+        "A": "1 inch (2.5 cm)",
+        "B": "3 inches (7.5 cm)",
+        "C": "1.5 inches (4 cm)",
+        "D": "2 inches (5 cm) but not more than 2.4 inches (6 cm)"
+      },
+      "answer": "D",
+      "explanation": "Page 300: The force should depress sternum by 2 inches (5 cm) but not more than 2.4 inches (6 cm).",
+      "topic": "Circulation/Cardiac Massage"
+    },
+    {
+      "id": 61,
+      "question": "The rate of compression during cardiac massage should be:",
+      "options": {
+        "A": "60–80/min",
+        "B": "80–100/min",
+        "C": "100–120/min",
+        "D": "120–140/min"
+      },
+      "answer": "C",
+      "explanation": "Page 301: Rate of compression should be 100–120 compressions/minute but not more than 120.",
+      "topic": "Circulation/Cardiac Massage"
+    },
+    {
+      "id": 62,
+      "question": "No intervention should stop cardiac massage for more than:",
+      "options": {
+        "A": "20 seconds",
+        "B": "5 seconds",
+        "C": "15 seconds",
+        "D": "10 seconds"
+      },
+      "answer": "D",
+      "explanation": "Page 301: No intervention (intubation, pulse check) should stop cardiac massage for >10 seconds.",
+      "topic": "Circulation/Cardiac Massage"
+    },
+    {
+      "id": 63,
+      "question": "Effective cardiac output generated by successful cardiac massage is only:",
+      "options": {
+        "A": "30% of normal",
+        "B": "50% of normal",
+        "C": "20% of normal",
+        "D": "10% of normal"
+      },
+      "answer": "A",
+      "explanation": "Page 301: Effective cardiac output generated by successful massage is only 30% of normal.",
+      "topic": "Circulation/Cardiac Massage"
+    },
+    {
+      "id": 64,
+      "question": "Without advanced airway, the compression to ventilation ratio is:",
+      "options": {
+        "A": "15:1",
+        "B": "30:2",
+        "C": "5:1",
+        "D": "15:2"
+      },
+      "answer": "B",
+      "explanation": "Page 301: Without advanced airway, the ratio should be 30:2 irrespective of number of resuscitators.",
+      "topic": "C:V Ratio"
+    },
+    {
+      "id": 65,
+      "question": "With advanced airway in place, breathing rate during CPR is:",
+      "options": {
+        "A": "6 breaths/min",
+        "B": "12 breaths/min",
+        "C": "8 breaths/min",
+        "D": "10 breaths/min"
+      },
+      "answer": "D",
+      "explanation": "Page 301: With advanced airway, breathing at a rate of 10 breaths/minute (1 breath every 6 seconds) without synchronization.",
+      "topic": "C:V Ratio"
+    },
+    {
+      "id": 66,
+      "question": "Capnography during CPR: Successful cardiac massage should produce ETCO2 of at least:",
+      "options": {
+        "A": "20 mm Hg",
+        "B": "30 mm Hg",
+        "C": "5 mm Hg",
+        "D": "10 mm Hg"
+      },
+      "answer": "A",
+      "explanation": "Page 301: Successful cardiac massage should produce ETCO2 of at least 20 mm Hg.",
+      "topic": "Monitoring of CPR"
+    },
+    {
+      "id": 67,
+      "question": "ETCO2 becoming normal (40 mm Hg) is the earliest indicator of:",
+      "options": {
+        "A": "Pulmonary embolism",
+        "B": "Return of normal circulation",
+        "C": "Brain death",
+        "D": "Ventilator failure"
+      },
+      "answer": "B",
+      "explanation": "Page 301: ETCO2 becoming normal (40 mm Hg) is the earliest indicator of return of normal circulation.",
+      "topic": "Monitoring of CPR"
+    },
+    {
+      "id": 68,
+      "question": "Shockable rhythms in cardiac arrest include all EXCEPT:",
+      "options": {
+        "A": "Asystole",
+        "B": "Ventricular fibrillation",
+        "C": "Pulseless ventricular tachycardia",
+        "D": "Torsade de pointes"
+      },
+      "answer": "A",
+      "explanation": "Page 301: Shockable rhythms include VF, pulseless VT, and polymorphic VT (torsade de pointes). Asystole is nonshockable.",
+      "topic": "Arrhythmia Management"
+    },
+    {
+      "id": 69,
+      "question": "With monophasic defibrillators, all shocks should be of:",
+      "options": {
+        "A": "150 J",
+        "B": "300 J",
+        "C": "360 J",
+        "D": "200 J"
+      },
+      "answer": "C",
+      "explanation": "Page 302: With monophasic defibrillators all shocks should be of 360 Joules.",
+      "topic": "Defibrillation"
+    },
+    {
+      "id": 70,
+      "question": "Defibrillation paddle size for adults is:",
+      "options": {
+        "A": "8 cm",
+        "B": "4.5 cm",
+        "C": "13 cm",
+        "D": "15 cm"
+      },
+      "answer": "C",
+      "explanation": "Page 302: Paddle size for adults: 13 cm, children: 8 cm, infants: 4.5 cm.",
+      "topic": "Defibrillation"
+    },
+    {
+      "id": 71,
+      "question": "The most common cause of Pulseless Electrical Activity (PEA) is:",
+      "options": {
+        "A": "Cardiac tamponade",
+        "B": "Hypothermia",
+        "C": "Hypovolemia",
+        "D": "Tension pneumothorax"
+      },
+      "answer": "C",
+      "explanation": "Page 304: Hypovolemia (shock) is the most common cause of PEA.",
+      "topic": "Nonshockable Rhythms"
+    },
+    {
+      "id": 72,
+      "question": "The causes of PEA are divided into:",
+      "options": {
+        "A": "3H and 3T",
+        "B": "6H and 6T",
+        "C": "4H and 4T",
+        "D": "5H and 5T"
+      },
+      "answer": "D",
+      "explanation": "Page 304: The causes of PEA have been divided into 5H and 5T.",
+      "topic": "Nonshockable Rhythms"
+    },
+    {
+      "id": 73,
+      "question": "Targeted temperature management (TTM) after cardiac arrest means maintaining core body temperature at:",
+      "options": {
+        "A": "28–30°C for 12 hours",
+        "B": "32–36°C for 24 hours",
+        "C": "36–37°C for 48 hours",
+        "D": "30–32°C for 24 hours"
+      },
+      "answer": "B",
+      "explanation": "Page 305: TTM means maintaining core body temperature for 32–36°C for 24 hours.",
+      "topic": "Postcardiac Arrest Care"
+    },
+    {
+      "id": 74,
+      "question": "Post cardiac arrest, moderate blood sugar should be maintained at:",
+      "options": {
+        "A": "180–220 mg/dL",
+        "B": "144–180 mg/dL",
+        "C": "80–120 mg/dL",
+        "D": "100–140 mg/dL"
+      },
+      "answer": "B",
+      "explanation": "Page 305: Moderate blood sugar (144–180 mg/dL or 8–10 mmol) should be maintained in post-resuscitation period.",
+      "topic": "Postcardiac Arrest Care"
+    },
+    {
+      "id": 75,
+      "question": "Emergency PCI should preferably be done within how many minutes for STEMI?",
+      "options": {
+        "A": "60 minutes",
+        "B": "30 minutes",
+        "C": "90 minutes",
+        "D": "120 minutes"
+      },
+      "answer": "C",
+      "explanation": "Page 305: Emergency (preferably within 90 minutes) coronary angiography/angioplasty is recommended for STEMI.",
+      "topic": "Postcardiac Arrest Care"
+    },
+    {
+      "id": 76,
+      "question": "In pediatric CPR, for a single rescuer, how many cycles of CPR are given before activating EMS?",
+      "options": {
+        "A": "10 cycles",
+        "B": "5 cycles",
+        "C": "3 cycles",
+        "D": "2 cycles"
+      },
+      "answer": "B",
+      "explanation": "Page 306: For single rescuer in pediatric CPR, give 5 cycles of CPR (30:2) before going to activate EMS.",
+      "topic": "Pediatric CPR"
+    },
+    {
+      "id": 77,
+      "question": "Compression to ventilation ratio in pediatric CPR with 2 rescuers (without advanced airway) is:",
+      "options": {
+        "A": "15:1",
+        "B": "5:1",
+        "C": "15:2",
+        "D": "30:2"
+      },
+      "answer": "C",
+      "explanation": "Page 306: For 2 rescuers the ratio is 15:2 (while for 1 rescuer it is 30:2).",
+      "topic": "Pediatric CPR"
+    },
+    {
+      "id": 78,
+      "question": "Energy selection for first shock in pediatric manual defibrillation is:",
+      "options": {
+        "A": "2 J/kg",
+        "B": "1 J/kg",
+        "C": "10 J/kg",
+        "D": "4 J/kg"
+      },
+      "answer": "A",
+      "explanation": "Page 306: Energy selection for shock (manual) is 2 J/kg for first shock and 4 J/kg subsequently.",
+      "topic": "Pediatric CPR"
+    },
+    {
+      "id": 79,
+      "question": "In newborn CPR, the compression to ventilation ratio is:",
+      "options": {
+        "A": "30:2",
+        "B": "3:1",
+        "C": "15:2",
+        "D": "5:1"
+      },
+      "answer": "B",
+      "explanation": "Page 306: Newborn CPR compression ventilation ratio is 3:1 (90 compressions with 30 breaths) and synchronized.",
+      "topic": "Newborn CPR"
+    },
+    {
+      "id": 80,
+      "question": "Indication to start chest compressions in newborn is HR less than:",
+      "options": {
+        "A": "100/min",
+        "B": "80/min",
+        "C": "40/min",
+        "D": "60/min"
+      },
+      "answer": "D",
+      "explanation": "Page 306: Indication of chest compression in newborn is HR < 60/min in spite of adequate ventilation with 100% oxygen for 30 seconds.",
+      "topic": "Newborn CPR"
+    },
+    {
+      "id": 81,
+      "question": "In CPR during pregnancy, aortocaval compression should be achieved by:",
+      "options": {
+        "A": "Right lateral tilt",
+        "B": "Uterine displacement",
+        "C": "Left lateral tilt",
+        "D": "Trendelenburg position"
+      },
+      "answer": "B",
+      "explanation": "Page 307: Lateral tilt has been eliminated from new CPR guidelines and aortocaval compression should be achieved by uterine displacement.",
+      "topic": "CPR in Pregnancy"
+    },
+    {
+      "id": 82,
+      "question": "Emergency LSCS during CPR should be considered if fetus is >25 weeks and can be performed within:",
+      "options": {
+        "A": "4 minutes",
+        "B": "2 minutes",
+        "C": "10 minutes",
+        "D": "6 minutes"
+      },
+      "answer": "A",
+      "explanation": "Page 307: Emergency LSCS should be considered if fetus >25 weeks and LSCS can be performed within 4 minutes of maternal arrest.",
+      "topic": "CPR in Pregnancy"
+    },
+    {
+      "id": 83,
+      "question": "The fluid of choice during CPR is:",
+      "options": {
+        "A": "Colloids",
+        "B": "Dextrose 5%",
+        "C": "Ringer lactate",
+        "D": "Normal saline"
+      },
+      "answer": "D",
+      "explanation": "Page 307: Glucose containing solutions and Ringer lactate should be avoided during CPR. Fluid of choice is normal saline.",
+      "topic": "Important Considerations in CPR"
+    },
+    {
+      "id": 84,
+      "question": "Drugs that can be delivered by endotracheal route include all EXCEPT:",
+      "options": {
+        "A": "Lignocaine",
+        "B": "Atropine",
+        "C": "Amiodarone",
+        "D": "Adrenaline"
+      },
+      "answer": "C",
+      "explanation": "Page 307: Drugs deliverable by ET route are Adrenaline, Atropine, Lignocaine, and Naloxone. Amiodarone is not on this list.",
+      "topic": "Important Considerations in CPR"
+    },
+    {
+      "id": 85,
+      "question": "The dose by endotracheal route is how many times of IV dose?",
+      "options": {
+        "A": "3 times",
+        "B": "2.5 times",
+        "C": "1.5 times",
+        "D": "2 times"
+      },
+      "answer": "B",
+      "explanation": "Page 307: The dose by endotracheal route is 2.5 times of intravenous dose.",
+      "topic": "Important Considerations in CPR"
+    },
+    {
+      "id": 86,
+      "question": "Intracardiac adrenaline in present day CPR is:",
+      "options": {
+        "A": "Contraindicated",
+        "B": "Used only in asystole",
+        "C": "Recommended for all arrests",
+        "D": "Used as last resort"
+      },
+      "answer": "A",
+      "explanation": "Page 308: Adrenaline by intracardiac route is contraindicated in present day CPR as injection in myocardium can cause significant myocardial injury.",
+      "topic": "Important Considerations in CPR"
+    },
+    {
+      "id": 87,
+      "question": "Routine use of sodium bicarbonate in CPR is NOT recommended because:",
+      "options": {
+        "A": "It is expensive",
+        "B": "It produces CO2 which can worsen neuronal injury",
+        "C": "It is not available IV",
+        "D": "It causes hyperkalemia"
+      },
+      "answer": "B",
+      "explanation": "Page 308: Sodium bicarbonate on metabolism produces CO2 which can change cerebral pH and worsen neuronal injury.",
+      "topic": "Important Considerations in CPR"
+    },
+    {
+      "id": 88,
+      "question": "Sodium bicarbonate in CPR should only be given if pH is less than:",
+      "options": {
+        "A": "7.20",
+        "B": "7.10",
+        "C": "7.15",
+        "D": "7.25"
+      },
+      "answer": "C",
+      "explanation": "Page 308: Sodium bicarbonate should be given only if there is proven acidosis (pH <7.15).",
+      "topic": "Important Considerations in CPR"
+    },
+    {
+      "id": 89,
+      "question": "The only recommended modality for global cerebral ischemia in CPR is:",
+      "options": {
+        "A": "Barbiturates",
+        "B": "Hyperbaric oxygen",
+        "C": "Targeted temperature management",
+        "D": "Calcium channel blockers"
+      },
+      "answer": "C",
+      "explanation": "Page 308: The only recommended modality for global cerebral ischemia seen in CPR is targeted temperature management.",
+      "topic": "Cerebral Protection"
+    },
+    {
+      "id": 90,
+      "question": "Patient can be declared dead only after resuscitation for how many minutes?",
+      "options": {
+        "A": "15 minutes",
+        "B": "30 minutes",
+        "C": "20 minutes",
+        "D": "10 minutes"
+      },
+      "answer": "C",
+      "explanation": "Page 308: Patient can be declared dead only after resuscitation of 20 minutes.",
+      "topic": "Cerebral Protection"
+    },
+    {
+      "id": 91,
+      "question": "Brain death declaration should be done by how many doctors?",
+      "options": {
+        "A": "Four",
+        "B": "Three",
+        "C": "One",
+        "D": "Two"
+      },
+      "answer": "D",
+      "explanation": "Page 308: Declaration should be done by two doctors; one among those should be the neurologist.",
+      "topic": "Brain Death"
+    },
+    {
+      "id": 92,
+      "question": "Amiodarone is considered drug of choice for:",
+      "options": {
+        "A": "Bradycardia",
+        "B": "Ventricular tachycardia",
+        "C": "Atrial flutter",
+        "D": "Asystole"
+      },
+      "answer": "B",
+      "explanation": "Page 309: Amiodarone is considered as drug of choice for ventricular tachycardia. First dose is 300 mg IV.",
+      "topic": "Drugs for CPR"
+    },
+    {
+      "id": 93,
+      "question": "As per 2015 guidelines, vasopressin in CPR is:",
+      "options": {
+        "A": "Removed from guidelines",
+        "B": "Given after first dose of adrenaline",
+        "C": "Given as first line",
+        "D": "Given after second dose of adrenaline"
+      },
+      "answer": "A",
+      "explanation": "Page 309, Table 41.2: Vasopressin has been removed from 2015 CPR guidelines.",
+      "topic": "Drugs for CPR"
+    },
+    {
+      "id": 94,
+      "question": "Prognostication after cardiac arrest should be done at least how many hours after ROSC?",
+      "options": {
+        "A": "72 hours",
+        "B": "24 hours",
+        "C": "96 hours",
+        "D": "48 hours"
+      },
+      "answer": "A",
+      "explanation": "Page 305: Prognostication is recommended 72 hours after return of spontaneous circulation.",
+      "topic": "Postcardiac Arrest Care"
+    },
+    {
+      "id": 95,
+      "question": "Intraosseous route for drug delivery in CPR is recommended for:",
+      "options": {
+        "A": "Only children < 6 years",
+        "B": "Only adults",
+        "C": "Only neonates",
+        "D": "All ages"
+      },
+      "answer": "D",
+      "explanation": "Page 307: As per current guidelines, intraosseous route is recommended for all ages.",
+      "topic": "Important Considerations in CPR"
+    },
+    {
+      "id": 96,
+      "question": "Subclavian vein is the most preferred central vein in emergency because:",
+      "options": {
+        "A": "No risk of pneumothorax",
+        "B": "It is the largest vein",
+        "C": "It is superficial",
+        "D": "Easy to access in emergency"
+      },
+      "answer": "D",
+      "explanation": "Page 307: Subclavian is the most preferred central vein in emergency situations.",
+      "topic": "Important Considerations in CPR"
+    },
+    {
+      "id": 97,
+      "question": "Survival is better if BLS is initiated within how many minutes of arrest?",
+      "options": {
+        "A": "6 minutes",
+        "B": "4 minutes",
+        "C": "8 minutes",
+        "D": "2 minutes"
+      },
+      "answer": "B",
+      "explanation": "Page 307: Survival is better if BLS is initiated within 4 minutes of arrest, ALS within 8 minutes.",
+      "topic": "Outcome of CPR"
+    },
+    {
+      "id": 98,
+      "question": "The most common cause of cardiac arrest (which has 50-60% success rate if detected in time) is:",
+      "options": {
+        "A": "Ventricular fibrillation",
+        "B": "PEA",
+        "C": "Bradycardia",
+        "D": "Asystole"
+      },
+      "answer": "A",
+      "explanation": "Page 307: Most common cause of cardiac arrest is ventricular fibrillation which if detected in time can have 50 to 60% success rate.",
+      "topic": "Outcome of CPR"
+    },
+    {
+      "id": 99,
+      "question": "Calcium during CPR is recommended ONLY for:",
+      "options": {
+        "A": "Asystole only",
+        "B": "Hypocalcemia, hyperkalemia, and calcium channel blocker overdose",
+        "C": "VF refractory to defibrillation",
+        "D": "All cardiac arrests"
+      },
+      "answer": "B",
+      "explanation": "Page 308: Calcium is only recommended if arrest is due to hypocalcemia, hyperkalemia, and overdose of calcium channel blockers.",
+      "topic": "Important Considerations in CPR"
+    },
+    {
+      "id": 100,
+      "question": "As per 2015 CPR guidelines, chest compression rate upper limit is:",
+      "options": {
+        "A": "110/min",
+        "B": "120/min",
+        "C": "No upper limit",
+        "D": "100/min"
+      },
+      "answer": "B",
+      "explanation": "Page 309, Table 41.2: 2015 guidelines state compression rate is 100–120 but not more than 120 (2010 had no upper limit).",
+      "topic": "2015 CPR Guidelines"
+    },
+    {
+      "id": 101,
+      "question": "Why is nitrous oxide contraindicated for tympanoplasties?",
+      "options": {
+        "A": "Increase in middle ear pressure can displace the graft",
+        "B": "It causes infection",
+        "C": "It causes nausea",
+        "D": "It causes bleeding"
+      },
+      "answer": "A",
+      "explanation": "Increase middle ear pressure by nitrous oxide can displace the graft making nitrous oxide to be contraindicated for Tympanoplasties.",
+      "topic": "Mixed Review – General"
+    },
+    {
+      "id": 102,
+      "question": "Aspiration of late pregnancy was described by Mendelson and is called:",
+      "options": {
+        "A": "Breuer Lockhart reflex",
+        "B": "Mendelson syndrome",
+        "C": "Fink effect",
+        "D": "Sellick's syndrome"
+      },
+      "answer": "B",
+      "explanation": "Page 137: Pregnancy (acid aspiration in late pregnancy) was described by Mendelson and is called as Mendelson syndrome. The gravid uterus compresses the stomach leading to distortion of gastro-esophageal angle making LES to become incompetent.",
+      "topic": "Mixed Review – Pulmonary Aspiration"
+    },
+    {
+      "id": 103,
+      "question": "According to the Meyer Overton rule, the anesthetic potency of an inhalational agent is directly proportional to its:",
+      "options": {
+        "A": "Lipid solubility (oil gas partition coefficient)",
+        "B": "Molecular weight",
+        "C": "Blood gas partition coefficient",
+        "D": "Vapor pressure"
+      },
+      "answer": "A",
+      "explanation": "Page 89: Anesthetic potency of an inhalational agent is directly proportional to its lipid solubility (oil gas partition coefficient). This is called the Meyer Overton rule, which led to the unitary theory of narcosis.",
+      "topic": "Mixed Review – Mechanism of Action"
+    },
+    {
+      "id": 104,
+      "question": "Which form of obesity is stated as a BARRIER to day-care procedures according to the textbook?",
+      "options": {
+        "A": "Obesity in ASA grade II patients",
+        "B": "Obesity in patients above 60 years",
+        "C": "Morbid obesity with obstructive sleep apnea",
+        "D": "Simple obesity with BMI 30–40 kg/m²"
+      },
+      "answer": "C",
+      "explanation": "Page 267: Obesity (not even the morbid obesity with obstructive sleep apnea) is a barrier to day-care procedures. This means simple obesity alone is NOT a barrier; only morbid obesity combined with obstructive sleep apnea is considered a barrier to day-care surgery.",
+      "topic": "Mixed Review – Selection of Surgery and Patients"
+    },
+    {
+      "id": 105,
+      "question": "After a cerebrovascular accident, elective surgery should be deferred for:",
+      "options": {
+        "A": "3 months",
+        "B": "6 months",
+        "C": "12 months",
+        "D": "9 months"
+      },
+      "answer": "D",
+      "explanation": "Correct Answer: C. 9 months — After cerebrovascular accident, elective surgery should be deferred for 9 months. The odds are stabilized at 3 times after 9 months.",
+      "topic": "Mixed Review – Stroke"
+    },
+    {
+      "id": 106,
+      "question": "Which anesthetic agent should be AVOIDED in Parkinson's disease due to its antidopaminergic effects?",
+      "options": {
+        "A": "Thiopentone",
+        "B": "Ketamine",
+        "C": "Propofol",
+        "D": "Droperidol"
+      },
+      "answer": "D",
+      "explanation": "Correct Answer: C. Droperidol — Droperidol and other butyrophenones have antidopaminergic activity and can worsen parkinsonian symptoms. Metoclopramide should also be avoided for the same reason.",
+      "topic": "Mixed Review – Parkinson's Disease"
+    },
+    {
+      "id": 107,
+      "question": "Why is premedication with benzodiazepines avoided in patients with pulmonary disease?",
+      "options": {
+        "A": "They increase tracheobronchial secretions",
+        "B": "These patients are more sensitive to respiratory depression",
+        "C": "They cause bronchospasm",
+        "D": "They cause histamine release"
+      },
+      "answer": "B",
+      "explanation": "The text states 'Premedication with benzodiazepines should be avoided as these patients are more sensitive to respiratory depression.'",
+      "topic": "Mixed Review – General Considerations"
+    },
+    {
+      "id": 108,
+      "question": "A stimulated nerve is blocked earlier than a nonstimulated nerve. This kind of block is called:",
+      "options": {
+        "A": "Refractory block",
+        "B": "Use-dependent block",
+        "C": "Differential block",
+        "D": "Phase II block"
+      },
+      "answer": "B",
+      "explanation": "Page 153: Since activated channels are blocked more easily, a stimulated nerve will be blocked earlier than a nonstimulated nerve. This kind of block by local anesthetics is called use-dependent block.",
+      "topic": "Mixed Review – Onset of Action"
+    },
+    {
+      "id": 109,
+      "question": "According to the home readiness criteria, for how long must a patient's vital signs be stable before discharge from day-care surgery?",
+      "options": {
+        "A": "30 minutes",
+        "B": "45 minutes",
+        "C": "120 minutes",
+        "D": "60 minutes"
+      },
+      "answer": "D",
+      "explanation": "Page 269: Criteria for home readiness include: (i) Vital signs are stable for more than 60 minutes. This ensures that the patient has had adequate time for hemodynamic stabilization after the procedure before being discharged.",
+      "topic": "Mixed Review – Discharge Criteria"
+    },
+    {
+      "id": 110,
+      "question": "In myasthenia gravis, the response to muscle relaxants is:",
+      "options": {
+        "A": "Resistance to both",
+        "B": "Increased sensitivity to both",
+        "C": "Resistance to depolarizers and increased sensitivity to nondepolarizers",
+        "D": "Increased sensitivity to depolarizers and resistance to nondepolarizers"
+      },
+      "answer": "C",
+      "explanation": "Page 131, Table 13.2: In myasthenia gravis there is resistance to depolarizers and increased sensitivity to nondepolarizers. This autoimmune disease destroys acetylcholine receptors, leaving fewer receptors for succinylcholine (increasing resistance) but less competition for nondepolarizers (increasing their sensitivity).",
+      "topic": "Mixed Review – Muscular Diseases"
+    },
+    {
+      "id": 111,
+      "question": "What is the classic triad of fat embolism syndrome?",
+      "options": {
+        "A": "Fever, tachycardia, hypotension",
+        "B": "Chest pain, cough, hemoptysis",
+        "C": "Dyspnea, confusion and petechial hemorrhages",
+        "D": "Headache, vomiting, seizures"
+      },
+      "answer": "C",
+      "explanation": "The triad of fat embolism syndrome is dyspnea, confusion and petechial hemorrhages.",
+      "topic": "Mixed Review – Fat Embolism"
+    },
+    {
+      "id": 112,
+      "question": "What is the MOST COMMON cause of RE-ADMISSION after day-care surgery according to the textbook?",
+      "options": {
+        "A": "Respiratory depression",
+        "B": "Surgical complications such as surgical site infection",
+        "C": "Uncontrolled pain",
+        "D": "Nausea and vomiting"
+      },
+      "answer": "B",
+      "explanation": "Page 269: Most often the re-admission is due to surgical complications, such as surgical site infection. This is highlighted in the Key Points section. Note the distinction: while uncontrolled pain and PONV are the most common causes of INABILITY TO DISCHARGE, surgical complications are the most common cause of RE-ADMISSION.",
+      "topic": "Mixed Review – Postoperative Instructions"
+    },
+    {
+      "id": 113,
+      "question": "What is the clinical significance of decreased pseudocholinesterase levels in geriatric patients?",
+      "options": {
+        "A": "Prolongs the effect of suxamethonium clinically",
+        "B": "Requires avoidance of all muscle relaxants",
+        "C": "Theoretically prolongs suxamethonium effect but clinically no prolongation is seen",
+        "D": "Has no effect on any drug"
+      },
+      "answer": "C",
+      "explanation": "Page 243: Decreased pseudocholinesterase levels due to decreased hepatic functions may theoretically prolong the effect of suxamethonium, however clinically no prolongation has been seen.",
+      "topic": "Mixed Review – Anesthetic Management - General Anesthesia"
+    },
+    {
+      "id": 114,
+      "question": "Which muscle is considered the most resistant to muscle relaxants?",
+      "options": {
+        "A": "Adductor pollicis",
+        "B": "Laryngeal muscles",
+        "C": "Orbicularis oculi",
+        "D": "Diaphragm"
+      },
+      "answer": "D",
+      "explanation": "Page 123: Laryngeal muscles and diaphragm may require more than double the doses required to block adductor pollicis. In fact, the diaphragm is considered as the most resistant muscle.",
+      "topic": "Mixed Review – Sequence of Muscle Blockade"
+    },
+    {
+      "id": 115,
+      "question": "Should chest tube drainage be used routinely for capnothorax?",
+      "options": {
+        "A": "No, reserved only for cases not responding to conservative measures or life-threatening ones",
+        "B": "Yes, always",
+        "C": "Only in pediatric patients",
+        "D": "Only with bilateral pneumothorax"
+      },
+      "answer": "A",
+      "explanation": "Page 249: Chest tube drainage should be reserved only for the cases not responding to conservative measures or the Pneumothorax is life-threatening.",
+      "topic": "Mixed Review – Complications - Pneumothorax"
+    },
+    {
+      "id": 116,
+      "question": "Patients with atlantoaxial subluxation cannot tolerate which neck movement?",
+      "options": {
+        "A": "Flexion",
+        "B": "All movements",
+        "C": "Extension",
+        "D": "Lateral rotation"
+      },
+      "answer": "A",
+      "explanation": "Patients of atlantoaxial subluxation cannot tolerate flexion as it can cause odontoid process to compress spinal cord.",
+      "topic": "Mixed Review – Rheumatoid Arthritis – Atlantoaxial Instability"
+    },
+    {
+      "id": 117,
+      "question": "Diffusion hypoxia (Fink effect) at the end of surgery is prevented by:",
+      "options": {
+        "A": "Continuing nitrous oxide for longer",
+        "B": "Hyperventilating the patient",
+        "C": "Giving 100% oxygen for 5–10 minutes after discontinuing nitrous oxide",
+        "D": "Giving a second gas"
+      },
+      "answer": "C",
+      "explanation": "Page 92: Towards the end of surgery when nitrous oxide delivery is stopped, the gradient reverses and nitrous oxide gushes into alveoli replacing oxygen, causing hypoxia (diffusion hypoxia). To avoid this, 100% oxygen should be given for 5–10 minutes after discontinuing nitrous oxide.",
+      "topic": "Mixed Review – Uptake and Distribution"
+    },
+    {
+      "id": 118,
+      "question": "According to Table 10.2, which agent has the LOWEST blood gas partition coefficient (0.14), giving the fastest induction?",
+      "options": {
+        "A": "Halothane",
+        "B": "Xenon",
+        "C": "Nitrous oxide",
+        "D": "Desflurane"
+      },
+      "answer": "B",
+      "explanation": "Page 91, Table 10.2: Xenon has the lowest blood gas partition coefficient (0.14), so the fastest induction is seen with xenon. Among the agents used now-a-day, induction is fastest with desflurane (0.42) and slowest with halothane (2.4).",
+      "topic": "Mixed Review – Uptake and Distribution"
+    },
+    {
+      "id": 119,
+      "question": "The onset of action of a nondepolarizer is inversely proportional to its:",
+      "options": {
+        "A": "Lipid solubility",
+        "B": "Molecular weight",
+        "C": "Potency",
+        "D": "Duration"
+      },
+      "answer": "C",
+      "explanation": "Page 127–128: Onset of a nondepolarizer is inversely proportional to potency. More the potency, lesser the dose required, means less molecules delivered at the neuromuscular junction to compete with acetylcholine, delaying the onset of action.",
+      "topic": "Mixed Review – Nondepolarizing Muscle Relaxants"
+    },
+    {
+      "id": 120,
+      "question": "Before surgery, CIED should be programmed to asynchronous mode. In this mode, the pacemaker delivers a fixed rate of approximately:",
+      "options": {
+        "A": "50–55 beats/minute",
+        "B": "80–85 beats/minute",
+        "C": "70–72 beats/minute",
+        "D": "60–65 beats/minute"
+      },
+      "answer": "C",
+      "explanation": "In asynchronous mode, pacemakers deliver a fixed rate of 70–72 beats/minute irrespective of the patient's own rate, avoiding the risk of CIED being affected by interference.",
+      "topic": "Mixed Review – Cardiac Implanted Electronic Devices"
+    },
+    {
+      "id": 121,
+      "question": "Ketamine in a patient taking theophylline can precipitate:",
+      "options": {
+        "A": "Malignant hyperthermia",
+        "B": "Seizures",
+        "C": "Cardiac arrhythmias",
+        "D": "Severe hypotension"
+      },
+      "answer": "B",
+      "explanation": "The text states 'Ketamine in patient taking theophylline can precipitate seizures.'",
+      "topic": "Mixed Review – Asthma"
+    },
+    {
+      "id": 122,
+      "question": "During laparoscopic surgery in pregnancy, what should the surgeon ensure?",
+      "options": {
+        "A": "High concentration of nitrous oxide",
+        "B": "Use of minimum intra-abdominal pressure to prevent hypotension",
+        "C": "Maximum intra-abdominal pressure",
+        "D": "Use of general anesthesia only without monitoring"
+      },
+      "answer": "B",
+      "explanation": "Page 234: During laparoscopies, ensure that the surgeon uses minimum intra-abdominal pressure to prevent hypotension.",
+      "topic": "Mixed Review – Non-Obstetric Surgeries During Pregnancy"
+    },
+    {
+      "id": 123,
+      "question": "Why does CO2 limit the use of central neuraxial blocks for laparoscopy?",
+      "options": {
+        "A": "Due to hypotension risk",
+        "B": "Due to nausea",
+        "C": "Due to diaphragmatic irritation by CO2 causing patient discomfort (shoulder pain)",
+        "D": "Due to increased intracranial tension"
+      },
+      "answer": "C",
+      "explanation": "Page 250: Patient discomfort (shoulder pain due to diaphragmatic irritation by CO2) limits the use of central neuraxial blocks (spinal/epidural) for laparoscopy.",
+      "topic": "Mixed Review – Anesthetic Management"
+    },
+    {
+      "id": 124,
+      "question": "Potency of an inhalational agent is best determined by which parameter?",
+      "options": {
+        "A": "Boiling point",
+        "B": "Blood gas partition coefficient",
+        "C": "Minimum alveolar concentration (MAC)",
+        "D": "Vapor pressure"
+      },
+      "answer": "C",
+      "explanation": "Page 90: The best estimate for determining the potency of an inhalational anesthetic is minimum alveolar concentration (MAC), defined as the minimum concentration of agent to produce immobility in 50% of subjects given noxious stimuli.",
+      "topic": "Mixed Review – Potency / MAC"
+    },
+    {
+      "id": 125,
+      "question": "How much does cardiac output increase per kg of fat to perfuse extra fat?",
+      "options": {
+        "A": "0.1 L/min",
+        "B": "0.5 L/min",
+        "C": "0.05 L/min",
+        "D": "0.2 L/min"
+      },
+      "answer": "A",
+      "explanation": "Increase in cardiac output by 0.1 L/min to perfuse each kg of fat leads to increased stroke volume and hence left ventricular hypertrophy.",
+      "topic": "Mixed Review – General"
+    },
+    {
+      "id": 126,
+      "question": "A patient with IHD and normal LV function is undergoing surgery. Which of the following should be AVOIDED during maintenance of anesthesia?",
+      "options": {
+        "A": "Sevoflurane",
+        "B": "Isoflurane",
+        "C": "Opioids",
+        "D": "Nitrous oxide"
+      },
+      "answer": "D",
+      "explanation": "Nitrous oxide should be avoided in IHD patients for two reasons: it may cause mild sympathetic stimulation and it is a pulmonary vasoconstrictor. Inhalational agents can be safely used if LV function is normal.",
+      "topic": "Mixed Review – Ischemic Heart Disease"
+    },
+    {
+      "id": 127,
+      "question": "Why must oxygen cylinders in MRI suites be made of aluminum?",
+      "options": {
+        "A": "Aluminum stores more oxygen",
+        "B": "Aluminum is cheaper",
+        "C": "Aluminum is lighter",
+        "D": "They must be MRI compatible (nonferrous) - ferrous materials are attracted by the magnetic field"
+      },
+      "answer": "D",
+      "explanation": "For MRI suites, everything including oxygen cylinders must be MRI compatible, i.e. nonferrous. The equipments used in MRI suites are made up of aluminum.",
+      "topic": "Mixed Review – Outside OT"
+    },
+    {
+      "id": 128,
+      "question": "How should a trauma patient always be considered regarding stomach contents?",
+      "options": {
+        "A": "As having an empty stomach",
+        "B": "As safe for LMA",
+        "C": "As partially fasted",
+        "D": "As having a full stomach until proved otherwise, managed like rapid sequence induction"
+      },
+      "answer": "D",
+      "explanation": "A trauma patient should always be considered full stomach until proved otherwise and should be managed like rapid sequence induction.",
+      "topic": "Mixed Review – Choice of Anesthesia"
+    },
+    {
+      "id": 129,
+      "question": "What should the endotracheal tube cuff be filled with in hyperbaric chamber?",
+      "options": {
+        "A": "Water or saline",
+        "B": "Helium",
+        "C": "Air",
+        "D": "Nitrous oxide"
+      },
+      "answer": "A",
+      "explanation": "Endotracheal tube cuff should be filled with water or saline.",
+      "topic": "Mixed Review – Hyperbaric Chamber"
+    },
+    {
+      "id": 130,
+      "question": "What conduction abnormality is common in ankylosing spondylitis?",
+      "options": {
+        "A": "Complete heart block",
+        "B": "Ventricular tachycardia",
+        "C": "Atrial fibrillation",
+        "D": "Bundle branch block"
+      },
+      "answer": "D",
+      "explanation": "Bundle branch block is common in ankylosing spondylitis.",
+      "topic": "Mixed Review – Ankylosing Spondylitis"
+    },
+    {
+      "id": 131,
+      "question": "What is the ideal duration for stopping smoking before surgery?",
+      "options": {
+        "A": "8 weeks",
+        "B": "12 weeks",
+        "C": "2 weeks",
+        "D": "4 weeks"
+      },
+      "answer": "A",
+      "explanation": "The text states 'Ideally smoking should be stopped 8 weeks before surgery however stopping smoking 12 hours before may be beneficial by reducing carboxyhemoglobin levels.'",
+      "topic": "Mixed Review – General Considerations"
+    },
+    {
+      "id": 132,
+      "question": "What is the danger of administering methylene blue to G6PD deficient patients?",
+      "options": {
+        "A": "It causes bradycardia",
+        "B": "It can be life threatening",
+        "C": "No danger",
+        "D": "It causes hypertension"
+      },
+      "answer": "B",
+      "explanation": "Administrating methylene blue to these patients can be life threatening.",
+      "topic": "Mixed Review – G6PD Deficiency"
+    },
+    {
+      "id": 133,
+      "question": "How can carbon dioxide from peritoneal cavity cause pneumothorax?",
+      "options": {
+        "A": "Through the esophagus",
+        "B": "Through embryonic remnants between pleural and peritoneal cavity",
+        "C": "Through the chest wall",
+        "D": "Through the diaphragm directly"
+      },
+      "answer": "B",
+      "explanation": "Page 249: Carbon dioxide from peritoneal cavity can diffuse into the pleural cavity through embryonic remnants present between pleural and peritoneal cavity which gets open by increased intra-abdominal pressure or through pleural tears during surgery.",
+      "topic": "Mixed Review – Complications - Pneumothorax"
+    },
+    {
+      "id": 134,
+      "question": "Chronic headache patients are prone to develop post-spinal headache, therefore:",
+      "options": {
+        "A": "Prophylactic blood patch should be given",
+        "B": "Use the smallest needle",
+        "C": "Spinal should be avoided",
+        "D": "Use hyperbaric solution"
+      },
+      "answer": "C",
+      "explanation": "Correct Answer: B. Spinal should be avoided — These patients are prone to develop post-spinal headache therefore, spinal should be avoided.",
+      "topic": "Mixed Review – Headache"
+    },
+    {
+      "id": 135,
+      "question": "The superior laryngeal nerve block anesthetizes the airway:",
+      "options": {
+        "A": "Below the vocal cords",
+        "B": "Only the nasal cavity",
+        "C": "Only the tongue",
+        "D": "From the epiglottis to the vocal cords (supraglottic area)"
+      },
+      "answer": "D",
+      "explanation": "The internal branch of the superior laryngeal nerve supplies sensation from the epiglottis to and including the vocal cords.",
+      "topic": "Mixed Review – Management"
+    },
+    {
+      "id": 136,
+      "question": "The first successful demonstration of ether anesthesia by Morton took place at which hospital (Fig. 8.1)?",
+      "options": {
+        "A": "Hindu Rao Hospital",
+        "B": "Johns Hopkins Hospital",
+        "C": "Massachusetts General Hospital",
+        "D": "St. Thomas Hospital"
+      },
+      "answer": "C",
+      "explanation": "Page 83, Fig. 8.1: The first successful demonstration of ether anesthesia was by Morton in Massachusetts General Hospital.",
+      "topic": "Mixed Review – Ether"
+    },
+    {
+      "id": 137,
+      "question": "Which cells of the alveolar epithelium secrete surfactant?",
+      "options": {
+        "A": "Type II cells",
+        "B": "Goblet cells",
+        "C": "Clara cells",
+        "D": "Type I cells"
+      },
+      "answer": "A",
+      "explanation": "Page 4: The alveolar epithelium has type I and type II cells. Type II cells secrete surfactant.",
+      "topic": "Mixed Review – Bronchial Tree"
+    },
+    {
+      "id": 138,
+      "question": "Which lumbar block is used to provide analgesia for hip and knee surgery?",
+      "options": {
+        "A": "Stellate ganglion block",
+        "B": "Superior hypogastric block",
+        "C": "Celiac plexus block",
+        "D": "Lumbar plexus block (psoas compartment block)"
+      },
+      "answer": "D",
+      "explanation": "Page 271: Lumbar plexus block (also known as psoas compartment block) is given to provide analgesia for hip and knee surgery. Femoral nerve block and fascia iliaca (modified femoral) block are utilized for hip fractures and hip surgeries.",
+      "topic": "Mixed Review – Method of Relief"
+    },
+    {
+      "id": 139,
+      "question": "Which type of laryngoscope blade is preferred for difficult intubation?",
+      "options": {
+        "A": "McCoy (levering tip) blade",
+        "B": "No blade can help",
+        "C": "Miller (straight) blade",
+        "D": "Standard Macintosh blade only"
+      },
+      "answer": "A",
+      "explanation": "The McCoy blade has a hinged tip that can be levered to lift the epiglottis, improving the view in difficult laryngoscopy.",
+      "topic": "Mixed Review – Management"
+    },
+    {
+      "id": 140,
+      "question": "Brachial plexus block is the second most commonly performed block. Which is the most commonly performed block?",
+      "options": {
+        "A": "Ankle block",
+        "B": "Intercostal nerve block",
+        "C": "Central neuraxial block",
+        "D": "Axillary block"
+      },
+      "answer": "C",
+      "explanation": "Page 160: Brachial plexus block is the second most commonly performed block (after central neuraxial block). It is used for surgery of upper limb and shoulder, and can be blocked by 4 approaches — interscalene, supraclavicular, infraclavicular and axillary.",
+      "topic": "Mixed Review – Brachial Plexus Block"
+    },
+    {
+      "id": 141,
+      "question": "Why do Venturi type devices deliver higher oxygen at high altitude?",
+      "options": {
+        "A": "Due to increased pressure",
+        "B": "Due to higher flow rates",
+        "C": "Due to increased humidity",
+        "D": "Because of decreased density and resistance"
+      },
+      "answer": "D",
+      "explanation": "Venturi type devices deliver higher oxygen (because of decreased density and resistance).",
+      "topic": "Mixed Review – High Altitude"
+    },
+    {
+      "id": 142,
+      "question": "What is HAART in the context of HIV management?",
+      "options": {
+        "A": "Highly Active Antimicrobial Therapy",
+        "B": "Hepatic Active Antiretroviral Treatment",
+        "C": "High Altitude Antiviral Regimen Therapy",
+        "D": "Highly Active Antiretroviral Therapy"
+      },
+      "answer": "D",
+      "explanation": "HAART stands for Highly Active Antiretroviral Therapy used in HIV management.",
+      "topic": "Mixed Review – HIV and AIDS"
+    },
+    {
+      "id": 143,
+      "question": "Universal precautions intraoperatively in hepatic patients must be taken if the patient is positive for:",
+      "options": {
+        "A": "CMV",
+        "B": "Hepatitis B or C",
+        "C": "EBV",
+        "D": "H. pylori"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: B. Hepatitis B or C — Universal precautions must be taken if the patient is positive for hepatitis B or C to protect the operating room staff.",
+      "topic": "Mixed Review – Intraoperative"
+    },
+    {
+      "id": 144,
+      "question": "Which agent has the property of being the longest acting, most potent, and most toxic local anesthetic?",
+      "options": {
+        "A": "Dibucaine (cinchocaine)",
+        "B": "Tetracaine",
+        "C": "Bupivacaine",
+        "D": "Ropivacaine"
+      },
+      "answer": "A",
+      "explanation": "Page 157, Table 15.2: Dibucaine (cinchocaine) is longest acting, most potent and most toxic local anesthetic.",
+      "topic": "Mixed Review – Individual Agents"
+    },
+    {
+      "id": 145,
+      "question": "Why is pancuronium contraindicated in HCM?",
+      "options": {
+        "A": "It has a prolonged duration of action",
+        "B": "It can cause sympathetic stimulation which worsens LVOT obstruction",
+        "C": "It causes bradycardia",
+        "D": "It causes histamine release"
+      },
+      "answer": "B",
+      "explanation": "Pancuronium is contraindicated in HCM because it can cause sympathetic stimulation, which increases myocardial contractility and worsens LVOT obstruction.",
+      "topic": "Mixed Review – Cardiomyopathies – HCM"
+    },
+    {
+      "id": 146,
+      "question": "Which adjuvant therapy for cancer pain is a directly acting calcium channel blocker?",
+      "options": {
+        "A": "Gabapentin",
+        "B": "Pregabalin",
+        "C": "Amitriptyline",
+        "D": "Ziconotide"
+      },
+      "answer": "D",
+      "explanation": "Page 273: Adjuvant therapies for cancer pain like antidepressants, pregabalin/gabapentin and ziconotide (directly acting calcium channel blocker) are used. For intractable pain, surgical intervention (cordotomy) should be considered.",
+      "topic": "Mixed Review – Cancer Pain"
+    },
+    {
+      "id": 147,
+      "question": "In Child-Pugh classification, ascites in Group A is:",
+      "options": {
+        "A": "Mild",
+        "B": "None",
+        "C": "Moderate",
+        "D": "Marked"
+      },
+      "answer": "B",
+      "explanation": "Correct Answer: C. None — Per Table 21.1: Group A: No ascites, Group B: Moderate, Group C: Marked.",
+      "topic": "Mixed Review – Preoperative Evaluation"
+    },
+    {
+      "id": 148,
+      "question": "Atypical pseudocholinesterase is a genetic disorder diagnosed by which test?",
+      "options": {
+        "A": "Train of four ratio",
+        "B": "Dibucaine number",
+        "C": "Fluoride number",
+        "D": "Tensilon test"
+      },
+      "answer": "B",
+      "explanation": "Page 126: Atypical (abnormal) pseudocholinesterase is a genetic disease in which the patient has abnormal enzyme not able to metabolize suxamethonium. Incidence is 1 in 3,000. This is diagnosed by the dibucaine number. Dibucaine inhibits 80% of normal enzyme and 20% of abnormal enzyme.",
+      "topic": "Mixed Review – Suxamethonium"
+    },
+    {
+      "id": 149,
+      "question": "Which of the following are associated conditions with hypothyroidism that should be ruled out preoperatively?",
+      "options": {
+        "A": "Pulmonary hypertension, renal failure",
+        "B": "Hypertension, tachycardia, hyperthermia",
+        "C": "Congestive cardiac failure, anemia, hypothermia, hyponatremia, hypoglycemia",
+        "D": "Hyperglycemia, hyperkalemia, polycythemia"
+      },
+      "answer": "C",
+      "explanation": "Associated conditions like CCF, anemia, hypothermia, hyponatremia, and hypoglycemia should be ruled out.",
+      "topic": "Mixed Review – Hypothyroidism – Preoperative Evaluation"
+    },
+    {
+      "id": 150,
+      "question": "Atracurium undergoes a unique method of degradation which is pH and temperature dependent. What is this called?",
+      "options": {
+        "A": "Renal elimination",
+        "B": "Pseudocholinesterase metabolism",
+        "C": "Ester hydrolysis",
+        "D": "Hoffman degradation"
+      },
+      "answer": "D",
+      "explanation": "Page 129: The majority of atracurium undergoes spontaneous degradation in plasma called Hoffman degradation. Hoffman degradation is a pH and temperature-dependent reaction; higher pH and temperature favor more degradation.",
+      "topic": "Mixed Review – Benzylisoquinoline Compounds"
+    }
+  ]
+}

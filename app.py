@@ -296,6 +296,12 @@ QUIZ_CATALOG = {
         "short": "Acid-Base Tables (Ch 40)",
         "icon": "⚗️",
     },
+    "section9_combined": {
+        "file": "questions_section9_combined.json",
+        "label": "Section 9 – Cardiorespiratory Care (Ch 40–41 + Mixed) [150 Qs]",
+        "short": "Cardiorespiratory + Mixed (150Q)",
+        "icon": "🫀",
+    },
 }
 
 # ─── Load Questions ──────────────────────────────────────────────────────────
