@@ -290,6 +290,12 @@ QUIZ_CATALOG = {
         "short": "Cleaning & Sterilization",
         "icon": "🧹",
     },
+    "methods_of_sterilization": {
+        "file": "questions_methods_of_sterilization.json",
+        "label": "Methods of Sterilization – ORT Textbook (Pages 363–368)",
+        "short": "Methods of Sterilization",
+        "icon": "🔬",
+    },
     "tables_ch40": {
         "file": "Tables/questions_tables_ch40.json",
         "label": "Chapter 40 – Acid-Base Balance (Tables & Flowcharts)",

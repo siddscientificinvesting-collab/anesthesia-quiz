@@ -1,0 +1,849 @@
+{
+  "title": "Methods of Sterilization MCQ – ORT Textbook",
+  "source": "Textbook for Operation Room Technicians – Methods of Sterilization (Pages 363–368)",
+  "section": "Methods of Sterilization",
+  "total_questions": 70,
+  "time_limit_minutes": 40,
+  "questions": [
+    {
+      "id": 1,
+      "question": "In a pre-vacuum sterilizer, how is air removed from the chamber?",
+      "options": {
+        "A": "By heating the chamber",
+        "B": "By a vacuum pump",
+        "C": "By chemical agents",
+        "D": "By manual extraction"
+      },
+      "answer": "B",
+      "explanation": "In a pre-vacuum sterilizer, air is first removed by a vacuum pump. This method is better."
+    },
+    {
+      "id": 2,
+      "question": "What material is the autoclaving machine made of?",
+      "options": {
+        "A": "Aluminium",
+        "B": "Copper",
+        "C": "Plastic",
+        "D": "Strong steel"
+      },
+      "answer": "D",
+      "explanation": "The autoclaving machine is made of strong steel. The shape is either horizontal or vertical."
+    },
+    {
+      "id": 3,
+      "question": "Horizontal designs of autoclaves are commonly used in which area?",
+      "options": {
+        "A": "CSSD",
+        "B": "Pharmacy",
+        "C": "Ward",
+        "D": "Laboratory"
+      },
+      "answer": "A",
+      "explanation": "Horizontal designs are commonly used in CSSD (Central Sterile Supply Department)."
+    },
+    {
+      "id": 4,
+      "question": "What is the function of the jacket on the outer surface of the autoclave chamber?",
+      "options": {
+        "A": "To protect from electric shock",
+        "B": "To provide insulation only",
+        "C": "To maintain the desired temperature by releasing steam",
+        "D": "To cool down the machine"
+      },
+      "answer": "C",
+      "explanation": "On the outer surface of the chamber is a jacket in which steam is released. This jacket maintains the desired temperature."
+    },
+    {
+      "id": 5,
+      "question": "Where should the solid load made of metal be kept during autoclave loading?",
+      "options": {
+        "A": "On the top rack",
+        "B": "In the middle rack",
+        "C": "On the bottom rack",
+        "D": "Outside the chamber"
+      },
+      "answer": "C",
+      "explanation": "The solid load made of metal should be kept on the bottom rack."
+    },
+    {
+      "id": 6,
+      "question": "Where should the instrument tray be kept during autoclave loading?",
+      "options": {
+        "A": "On the bottom rack",
+        "B": "On the top rack",
+        "C": "Outside the autoclave",
+        "D": "In the jacket area"
+      },
+      "answer": "B",
+      "explanation": "The instrument tray should be kept in the top rack."
+    },
+    {
+      "id": 7,
+      "question": "Why are solid articles like drum, bottles, and basin kept horizontal in the autoclave?",
+      "options": {
+        "A": "To save space",
+        "B": "To prevent breakage",
+        "C": "So that air is removed",
+        "D": "To reduce sterilization time"
+      },
+      "answer": "C",
+      "explanation": "Solid articles like drum, bottles, basin etc. are kept horizontal so that air is removed."
+    },
+    {
+      "id": 8,
+      "question": "What is the first step involved in autoclave sterilization?",
+      "options": {
+        "A": "Temperature is set",
+        "B": "Load is dried",
+        "C": "Steam is released",
+        "D": "Air is removed from the chamber"
+      },
+      "answer": "D",
+      "explanation": "First air is removed from the chamber after loading is done, then temperature is set."
+    },
+    {
+      "id": 9,
+      "question": "How many times is the vacuum process repeated in a pre-vacuum chamber to remove all air?",
+      "options": {
+        "A": "Once",
+        "B": "Twice",
+        "C": "Thrice",
+        "D": "Four times"
+      },
+      "answer": "C",
+      "explanation": "This process is repeated thrice to remove all the air out of the packs."
+    },
+    {
+      "id": 10,
+      "question": "What is the sterilization time at 121°C in an autoclave?",
+      "options": {
+        "A": "3 minutes",
+        "B": "10 minutes",
+        "C": "15 minutes",
+        "D": "20 minutes"
+      },
+      "answer": "C",
+      "explanation": "At 121°C, the sterilization time is 15 minutes."
+    },
+    {
+      "id": 11,
+      "question": "What is the sterilization time at 126°C in an autoclave?",
+      "options": {
+        "A": "15 minutes",
+        "B": "3 minutes",
+        "C": "10 minutes",
+        "D": "5 minutes"
+      },
+      "answer": "C",
+      "explanation": "At 126°C, the sterilization time is 10 minutes."
+    },
+    {
+      "id": 12,
+      "question": "What is the sterilization time at 134°C in an autoclave?",
+      "options": {
+        "A": "10 minutes",
+        "B": "15 minutes",
+        "C": "5 minutes",
+        "D": "3 minutes"
+      },
+      "answer": "D",
+      "explanation": "At 134°C, the sterilization time is 03 minutes."
+    },
+    {
+      "id": 13,
+      "question": "The time from start of sterilization till the desired temperature is achieved is called:",
+      "options": {
+        "A": "Holding time",
+        "B": "Drying time",
+        "C": "Lag period",
+        "D": "Cooling time"
+      },
+      "answer": "C",
+      "explanation": "Lag period is the time taken from starting of sterilization to the time till it is maintained — i.e., achievement of desired temperature."
+    },
+    {
+      "id": 14,
+      "question": "What is holding time in autoclave sterilization?",
+      "options": {
+        "A": "Time taken to remove air",
+        "B": "Time taken for drying",
+        "C": "The time from starting of set temperature to the time of sterilization",
+        "D": "Time taken for cooling"
+      },
+      "answer": "C",
+      "explanation": "Holding time is the time from starting of set temperature to the time of sterilization. This time is considered as sterilization time."
+    },
+    {
+      "id": 15,
+      "question": "What happens if steam condenses on the packs in the chamber after sterilization?",
+      "options": {
+        "A": "Packs become more sterile",
+        "B": "Water drops form on the packs",
+        "C": "The packs dry faster",
+        "D": "Nothing happens"
+      },
+      "answer": "B",
+      "explanation": "To remove the steam and drying of object after sterilization — otherwise the steam will condense on the packs in the form of water drops on the chamber."
+    },
+    {
+      "id": 16,
+      "question": "After sterilization, what type of air is pushed into the autoclave chamber?",
+      "options": {
+        "A": "Hot air",
+        "B": "Compressed air",
+        "C": "Cool air",
+        "D": "Humid air"
+      },
+      "answer": "C",
+      "explanation": "Now cool air is pushed in the chamber. This should be cleaned and filtered."
+    },
+    {
+      "id": 17,
+      "question": "The hard water should NOT be used for sterilization because:",
+      "options": {
+        "A": "It causes infection",
+        "B": "It takes longer time",
+        "C": "Flakes are deposited",
+        "D": "It damages the chamber"
+      },
+      "answer": "C",
+      "explanation": "The hard water should not be used for sterilization otherwise flakes are deposited. Now the pressure of air is reduced and brought to normal."
+    },
+    {
+      "id": 18,
+      "question": "When should the sterilizer NOT be opened after a cycle?",
+      "options": {
+        "A": "Until 1 hour has passed",
+        "B": "Until the steam has come out and it has become cold",
+        "C": "Until the next day",
+        "D": "Until the supervisor checks"
+      },
+      "answer": "B",
+      "explanation": "Do not open the sterilizer till steam has come out and it has become cold."
+    },
+    {
+      "id": 19,
+      "question": "Where should cooling objects NOT be placed after unloading from the sterilizer?",
+      "options": {
+        "A": "On a wire mesh",
+        "B": "On the basket",
+        "C": "On the cold metal surface",
+        "D": "On the top rack"
+      },
+      "answer": "C",
+      "explanation": "The cooling items should not be kept on the cold metal surface otherwise the water would condense inside the pack."
+    },
+    {
+      "id": 20,
+      "question": "Packs unloaded from the sterilizer should NOT be kept on:",
+      "options": {
+        "A": "The wire mesh",
+        "B": "The shelf",
+        "C": "The floor",
+        "D": "The basket"
+      },
+      "answer": "C",
+      "explanation": "Packs should not be kept on the floor."
+    },
+    {
+      "id": 21,
+      "question": "How far should sterile items be stored from the floor?",
+      "options": {
+        "A": "2-4 inches",
+        "B": "8-10 inches",
+        "C": "12-15 inches",
+        "D": "18-20 inches"
+      },
+      "answer": "B",
+      "explanation": "Sterile items should be stored at least 8-10 inches away from the floor."
+    },
+    {
+      "id": 22,
+      "question": "How far should sterile items be stored from the ceiling?",
+      "options": {
+        "A": "8 inches",
+        "B": "10 inches",
+        "C": "18 inches",
+        "D": "24 inches"
+      },
+      "answer": "C",
+      "explanation": "Sterile items should be stored at least 18 inches away from the ceiling."
+    },
+    {
+      "id": 23,
+      "question": "How far should sterile items be stored from the outside walls?",
+      "options": {
+        "A": "2 inches",
+        "B": "6 inches",
+        "C": "10 inches",
+        "D": "12 inches"
+      },
+      "answer": "A",
+      "explanation": "Sterile items should be stored at least 2 inches from the outside walls."
+    },
+    {
+      "id": 24,
+      "question": "Each autoclave or sterilizer should have which of the following monitors?",
+      "options": {
+        "A": "Only a timer",
+        "B": "Only a pressure gauge",
+        "C": "Thermometer for thermocouple type, pressure of boiler jacket and chamber, and recording facility",
+        "D": "Only a thermometer"
+      },
+      "answer": "C",
+      "explanation": "Each autoclave or sterilizer should have thermometer for thermocouple type, pressure of boiler jacket and chamber, thermometer for discharge lines and packs, and recording facility for above parameters on a graph paper."
+    },
+    {
+      "id": 25,
+      "question": "What essential information should be recorded for each sterilization cycle?",
+      "options": {
+        "A": "Only the date",
+        "B": "Only the temperature",
+        "C": "Number, date, time, and name of the person doing sterilization",
+        "D": "Only the name of the person"
+      },
+      "answer": "C",
+      "explanation": "There should be number, date, time, and name of the person doing sterilization."
+    },
+    {
+      "id": 26,
+      "question": "What is it essential to do before sterilization, otherwise the process will not be quite effective?",
+      "options": {
+        "A": "Add chemicals",
+        "B": "Remove air from the chamber",
+        "C": "Increase pressure",
+        "D": "Pre-heat instruments"
+      },
+      "answer": "B",
+      "explanation": "It is essential to remove air from the chamber before sterilization otherwise it will not be quite effective."
+    },
+    {
+      "id": 27,
+      "question": "How many freshly washed thin towels are used in the Bowie-Dick test?",
+      "options": {
+        "A": "4-6",
+        "B": "6-8",
+        "C": "8-10",
+        "D": "10-12"
+      },
+      "answer": "C",
+      "explanation": "For this test take 8-10 freshly washed thin towels with honey comb design, or some plain cotton sheets."
+    },
+    {
+      "id": 28,
+      "question": "What should be the size of towels used in the Bowie-Dick test?",
+      "options": {
+        "A": "0.5 m × 0.3 m",
+        "B": "1 m × 0.6 m",
+        "C": "1.5 m × 1 m",
+        "D": "2 m × 1 m"
+      },
+      "answer": "B",
+      "explanation": "The size of towel should be 1 m × 0.6 m. This should be folded in a square fashion."
+    },
+    {
+      "id": 29,
+      "question": "What should be the height of the pile of towels in the Bowie-Dick test?",
+      "options": {
+        "A": "0.10 meters",
+        "B": "0.20 meters",
+        "C": "0.28 meters",
+        "D": "0.40 meters"
+      },
+      "answer": "C",
+      "explanation": "A pile of such towels should be made which should be 0.28 meters in height."
+    },
+    {
+      "id": 30,
+      "question": "Where should the autoclaved tape be placed in the Bowie-Dick test pack?",
+      "options": {
+        "A": "On top of the pile",
+        "B": "On the outside wrapping",
+        "C": "In the centre of the pile",
+        "D": "At the bottom of the pile"
+      },
+      "answer": "C",
+      "explanation": "Autoclaved tape has been stuck horizontally, should be kept in the centre of the pile."
+    },
+    {
+      "id": 31,
+      "question": "The Bowie-Dick test pile should be wrapped in:",
+      "options": {
+        "A": "Single layer of plastic",
+        "B": "Aluminium foil",
+        "C": "Double layer of cloth or paper",
+        "D": "Triple layer of cotton"
+      },
+      "answer": "C",
+      "explanation": "Now this pile should be wrapped in double layer of cloth or paper."
+    },
+    {
+      "id": 32,
+      "question": "The Bowie-Dick test sterilization cycle should be done in:",
+      "options": {
+        "A": "A fully loaded autoclave",
+        "B": "An empty autoclave",
+        "C": "A half-loaded autoclave",
+        "D": "Any type of autoclave load"
+      },
+      "answer": "B",
+      "explanation": "One sterilization cycle should be done in empty autoclave."
+    },
+    {
+      "id": 33,
+      "question": "In the Bowie-Dick test, if the pack is smoky after opening, it means:",
+      "options": {
+        "A": "Sterilization was successful",
+        "B": "Temperature was too high",
+        "C": "The air has not been removed completely",
+        "D": "The test is invalid"
+      },
+      "answer": "C",
+      "explanation": "Now open the pack and see the colour, if it is smoky, it means the air has not been removed completely."
+    },
+    {
+      "id": 34,
+      "question": "In the vacuum leak test, after 10 minutes the pressure should not be more than:",
+      "options": {
+        "A": "5 mm",
+        "B": "10 mm",
+        "C": "15 mm",
+        "D": "20 mm"
+      },
+      "answer": "B",
+      "explanation": "Vacuum leak test – When vacuum process is completed, an increase in pressure by 20 mm after 5 minutes may occur but after 10 minutes it should not be more than 10 mm."
+    },
+    {
+      "id": 35,
+      "question": "In the chemical test for monitoring sterilization, what happens to the tape?",
+      "options": {
+        "A": "It turns red",
+        "B": "It turns white",
+        "C": "The colour of tape turns black",
+        "D": "It dissolves"
+      },
+      "answer": "C",
+      "explanation": "Chemical test – It is done by a tape, which should be put in each pack. The colour of tape turns black. The results are instantly known by the change in colour."
+    },
+    {
+      "id": 36,
+      "question": "How often should the biological test for monitoring sterilization be done?",
+      "options": {
+        "A": "Daily",
+        "B": "Once a week",
+        "C": "Once a month",
+        "D": "Once a year"
+      },
+      "answer": "B",
+      "explanation": "Biological test for Monitoring – This should be done once a week."
+    },
+    {
+      "id": 37,
+      "question": "In the biological test, which bacterium is used to check steam sterilization effectiveness?",
+      "options": {
+        "A": "E. coli",
+        "B": "Staphylococcus",
+        "C": "Bacteria stearothermophilus",
+        "D": "Pseudomonas"
+      },
+      "answer": "C",
+      "explanation": "Here, bacteria stearothermophilus is kept in the sterilizer. It is very difficult to kill these bacteria and if it is destroyed in the sterilizer, then there is no doubt about the effectiveness of the sterilization."
+    },
+    {
+      "id": 38,
+      "question": "How often should vacuum test be done for steam sterilization?",
+      "options": {
+        "A": "Daily",
+        "B": "Once a month",
+        "C": "Once a week",
+        "D": "Every cycle"
+      },
+      "answer": "C",
+      "explanation": "Do vacuum test once a week."
+    },
+    {
+      "id": 39,
+      "question": "For how long should the thermograph record be maintained?",
+      "options": {
+        "A": "6 months",
+        "B": "1 year",
+        "C": "2 years",
+        "D": "5 years"
+      },
+      "answer": "C",
+      "explanation": "Maintain thermograph record for two years."
+    },
+    {
+      "id": 40,
+      "question": "Which of the following is a harmful effect of autoclave sterilization on sharp instruments?",
+      "options": {
+        "A": "They become rusty",
+        "B": "They get blunted",
+        "C": "They melt",
+        "D": "They become contaminated"
+      },
+      "answer": "B",
+      "explanation": "The edges of sharp instruments get blunted. Metal instruments lose their surface and overall life of instruments gets shortened."
+    },
+    {
+      "id": 41,
+      "question": "What does TSSU stand for?",
+      "options": {
+        "A": "Total Sterilization Supply Unit",
+        "B": "Theatre Sterile Supply Unit",
+        "C": "Technical Sterile Service Unit",
+        "D": "Thermal Sterilization Support Unit"
+      },
+      "answer": "B",
+      "explanation": "TSSU stands for Theatre Sterile Supply Unit."
+    },
+    {
+      "id": 42,
+      "question": "What does flash sterilization mean?",
+      "options": {
+        "A": "Sterilization using flash light",
+        "B": "Quick sterilization",
+        "C": "Chemical sterilization",
+        "D": "Cold sterilization"
+      },
+      "answer": "B",
+      "explanation": "Flash Sterilization means quick sterilization. This unit is usually installed in OT so that instant sterilization can be done in case of need."
+    },
+    {
+      "id": 43,
+      "question": "What is the flash sterilization time for non-porous load at 132°C?",
+      "options": {
+        "A": "1 minute",
+        "B": "3 minutes",
+        "C": "10 minutes",
+        "D": "14 minutes"
+      },
+      "answer": "B",
+      "explanation": "Non-porous load requires 132°C for 3 minutes in flash sterilization."
+    },
+    {
+      "id": 44,
+      "question": "What is the flash sterilization time for porous load (clothes, towel, rubber, catheter) at 132°C?",
+      "options": {
+        "A": "3 minutes",
+        "B": "7 minutes",
+        "C": "14 minutes",
+        "D": "20 minutes"
+      },
+      "answer": "C",
+      "explanation": "Porous load e.g. Clothes, towel, rubber, catheter requires 132°C for 14 minutes."
+    },
+    {
+      "id": 45,
+      "question": "Which items are NOT sterilized by flash sterilization in TSSU?",
+      "options": {
+        "A": "Surgical instruments",
+        "B": "Implants",
+        "C": "Scissors",
+        "D": "Forceps"
+      },
+      "answer": "B",
+      "explanation": "Here only surgical instruments are autoclaved. Implants are not sterilized by this method."
+    },
+    {
+      "id": 46,
+      "question": "Flash sterilization is typically done when:",
+      "options": {
+        "A": "Routine morning sterilization",
+        "B": "An instrument has fallen on the ground during surgery",
+        "C": "Before starting a new case",
+        "D": "After every surgical procedure"
+      },
+      "answer": "B",
+      "explanation": "This sterilization is done only in case if an instrument has fallen on the ground and it is needed for the surgery again or any other instrument needed during surgery, which is not required normally."
+    },
+    {
+      "id": 47,
+      "question": "Instruments sterilized by flash sterilization should be:",
+      "options": {
+        "A": "Stored for later use",
+        "B": "Re-sterilized before use",
+        "C": "Used instantly",
+        "D": "Packed in cloth"
+      },
+      "answer": "C",
+      "explanation": "The instruments sterilized by this should be used instantly otherwise these become unsterile again."
+    },
+    {
+      "id": 48,
+      "question": "What should NOT be kept in the room where the sterilizer is installed?",
+      "options": {
+        "A": "Clean instruments",
+        "B": "Sterile packs",
+        "C": "Dirty linen",
+        "D": "Chemical tapes"
+      },
+      "answer": "C",
+      "explanation": "The dirty linen should not be kept in this room where sterilizer is installed."
+    },
+    {
+      "id": 49,
+      "question": "On what surface should instruments be kept in flash sterilization?",
+      "options": {
+        "A": "Cotton cloth",
+        "B": "Plastic tray",
+        "C": "Wire mesh or perforated tray",
+        "D": "Wooden board"
+      },
+      "answer": "C",
+      "explanation": "The instruments should be kept on the wire mesh or perforated tray."
+    },
+    {
+      "id": 50,
+      "question": "Dry heat sterilization does NOT contain:",
+      "options": {
+        "A": "Air",
+        "B": "Water",
+        "C": "Heat",
+        "D": "Pressure"
+      },
+      "answer": "B",
+      "explanation": "Sterilization with dry heat – This heat does not contain water."
+    },
+    {
+      "id": 51,
+      "question": "How are items packed for dry heat sterilization?",
+      "options": {
+        "A": "In cloth wrapping",
+        "B": "In plastic bags",
+        "C": "In metal containers or wrapped in aluminium foil",
+        "D": "In paper bags"
+      },
+      "answer": "C",
+      "explanation": "Packing for dry heat – Such items are kept in metal containers or wrapped in aluminium foil."
+    },
+    {
+      "id": 52,
+      "question": "Dry heat sterilization is sometimes still used in which settings?",
+      "options": {
+        "A": "Cardiac surgery",
+        "B": "Neurosurgery",
+        "C": "Dental settings",
+        "D": "Ophthalmology"
+      },
+      "answer": "C",
+      "explanation": "This method is not popular these days. This is sometimes used in dental settings."
+    },
+    {
+      "id": 53,
+      "question": "What is the major disadvantage of dry heat sterilization?",
+      "options": {
+        "A": "It is expensive",
+        "B": "It is a slow and uneven process",
+        "C": "It causes rust",
+        "D": "It uses chemicals"
+      },
+      "answer": "B",
+      "explanation": "Major disadvantage of dry heat sterilization is that it is slow & uneven process."
+    },
+    {
+      "id": 54,
+      "question": "In a hot air oven, hot air is circulated by:",
+      "options": {
+        "A": "A pump",
+        "B": "Convection only",
+        "C": "A fan",
+        "D": "A compressor"
+      },
+      "answer": "C",
+      "explanation": "Hot Air Oven – This equipment gives dry heat. Here hot air is circulated in the oven by a fan."
+    },
+    {
+      "id": 55,
+      "question": "What is the sterilization time in a hot air oven at 160°C?",
+      "options": {
+        "A": "20 minutes",
+        "B": "40 minutes",
+        "C": "60 minutes",
+        "D": "90 minutes"
+      },
+      "answer": "C",
+      "explanation": "At 160°C, the sterilization time is 60 minutes."
+    },
+    {
+      "id": 56,
+      "question": "What is the sterilization time in a hot air oven at 170°C?",
+      "options": {
+        "A": "20 minutes",
+        "B": "40 minutes",
+        "C": "60 minutes",
+        "D": "80 minutes"
+      },
+      "answer": "B",
+      "explanation": "At 170°C, the sterilization time is 40 minutes."
+    },
+    {
+      "id": 57,
+      "question": "What is the sterilization time in a hot air oven at 180°C?",
+      "options": {
+        "A": "10 minutes",
+        "B": "20 minutes",
+        "C": "30 minutes",
+        "D": "40 minutes"
+      },
+      "answer": "B",
+      "explanation": "At 180°C, the sterilization time is 20 minutes."
+    },
+    {
+      "id": 58,
+      "question": "Which of the following items can be sterilized in a hot air oven?",
+      "options": {
+        "A": "Rubber gloves",
+        "B": "Plastic catheters",
+        "C": "Cream, oil, Vaseline, powder, and sharp-edged instruments",
+        "D": "IV fluids"
+      },
+      "answer": "C",
+      "explanation": "Items sterilizable with hot air oven are cream, oil, Vaseline, instruments with multiple joints like scissors, syringes, powder, air cushions, sharp edged instruments. Ophthalmology instruments can also be sterilized."
+    },
+    {
+      "id": 59,
+      "question": "Liquid materials in a hot air oven are sterilized in:",
+      "options": {
+        "A": "Open trays",
+        "B": "Bottles",
+        "C": "Plastic containers",
+        "D": "Test tubes"
+      },
+      "answer": "B",
+      "explanation": "Liquid materials are sterilized in bottles."
+    },
+    {
+      "id": 60,
+      "question": "What is the storage life of items packed in single layer cotton cloth on an open shelf?",
+      "options": {
+        "A": "1 to 3 days",
+        "B": "3 to 14 days",
+        "C": "28 to 56 days",
+        "D": "56 to 77 days"
+      },
+      "answer": "B",
+      "explanation": "Single layer of cotton cloth on open shelf has a storage life of 3 to 14 days."
+    },
+    {
+      "id": 61,
+      "question": "What is the storage life of items packed in single layer cotton cloth on a closed shelf?",
+      "options": {
+        "A": "3 to 14 days",
+        "B": "14 to 21 days",
+        "C": "28 to 56 days",
+        "D": "56 to 77 days"
+      },
+      "answer": "B",
+      "explanation": "Single layer of cotton cloth on closed shelf has a storage life of 14 to 21 days."
+    },
+    {
+      "id": 62,
+      "question": "What is the storage life of items packed in double layer cotton cloth on a closed shelf?",
+      "options": {
+        "A": "14 to 21 days",
+        "B": "28 to 56 days",
+        "C": "56 to 77 days",
+        "D": "77 to 100 days"
+      },
+      "answer": "C",
+      "explanation": "Double layer of cotton cloth on closed shelf has a storage life of 56 to 77 days."
+    },
+    {
+      "id": 63,
+      "question": "Ionizing radiation sterilization can be with:",
+      "options": {
+        "A": "UV light only",
+        "B": "Electron beam, gamma radiation, and X-ray or sub-atomic particles",
+        "C": "Infrared light",
+        "D": "Microwave radiation"
+      },
+      "answer": "B",
+      "explanation": "Ionizing radiation can be with Electron beam, gamma radiation, and X-ray or sub-atomic particles."
+    },
+    {
+      "id": 64,
+      "question": "Why is ionizing radiation sterilization not suitable for use in hospitals?",
+      "options": {
+        "A": "It is slow",
+        "B": "It is ineffective",
+        "C": "The equipment is costly",
+        "D": "It requires chemicals"
+      },
+      "answer": "C",
+      "explanation": "Disposable items like syringes are sterilized by this method as this is not suitable for use in hospitals but it is used commercially as the equipment is costly."
+    },
+    {
+      "id": 65,
+      "question": "Which plastic material can be damaged by ionizing radiation?",
+      "options": {
+        "A": "Polythene",
+        "B": "Nylon",
+        "C": "PVC",
+        "D": "Terylene"
+      },
+      "answer": "C",
+      "explanation": "This process can damage some plastic materials like PVC. Advice from manufacturer should be taken before resterilizing any disposable item."
+    },
+    {
+      "id": 66,
+      "question": "An advantage of radiation sterilization is that items can be stored for:",
+      "options": {
+        "A": "One week",
+        "B": "One month",
+        "C": "One year",
+        "D": "An indefinite period till the seal is broken"
+      },
+      "answer": "D",
+      "explanation": "Items sterilized by this can be stored for indefinite period till the seal is broken or packet is torn."
+    },
+    {
+      "id": 67,
+      "question": "Radiation sterilization gives good penetration and:",
+      "options": {
+        "A": "Leaves residual chemicals",
+        "B": "No residual radioactivity is present",
+        "C": "Requires long drying time",
+        "D": "Needs high humidity"
+      },
+      "answer": "B",
+      "explanation": "This gives good penetration and no residual radioactivity is present."
+    },
+    {
+      "id": 68,
+      "question": "Which material is NOT suitable for ionizing radiation sterilization?",
+      "options": {
+        "A": "Metal",
+        "B": "Paper",
+        "C": "Rubber",
+        "D": "Cotton"
+      },
+      "answer": "C",
+      "explanation": "Equipment made of or containing metal, polythene, paper, wood, cotton, PVC, nylon, terylene etc. remain unaffected. Rubber is also not suitable."
+    },
+    {
+      "id": 69,
+      "question": "Filtration is the method of choice for sterilizing:",
+      "options": {
+        "A": "Surgical instruments",
+        "B": "Antibiotic solutions, toxic chemicals, radio isotopes, and vaccines",
+        "C": "Cotton and linen",
+        "D": "Metal instruments"
+      },
+      "answer": "B",
+      "explanation": "Filtration is the method of choice for sterilizing antibiotic solutions, toxic chemicals, radio isotopes, vaccines etc."
+    },
+    {
+      "id": 70,
+      "question": "Filters used in sterilization by filtration work by:",
+      "options": {
+        "A": "Chemical destruction of organisms",
+        "B": "Heat denaturation",
+        "C": "Physical trapping of particles larger than pore size",
+        "D": "UV radiation exposure"
+      },
+      "answer": "C",
+      "explanation": "Filters work by physical trapping of particles larger than pore size."
+    }
+  ]
+}
