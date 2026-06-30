@@ -1,0 +1,659 @@
+{
+  "title": "Chemical & New Methods of Sterilization MCQ – ORT Textbook",
+  "source": "Textbook for Operation Room Technicians – Ch 78 Chemical Methods & Ch 79 New Methods of Sterilization (Pages 369–374)",
+  "section": "Chemical & New Methods of Sterilization (Ch 78–79)",
+  "total_questions": 50,
+  "time_limit_minutes": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Ethylene Oxide (EO) gas is effective in killing which of the following?",
+      "options": {
+        "A": "All types of bacteria, viruses and spores",
+        "B": "Only fungi",
+        "C": "Only bacteria",
+        "D": "Only viruses and spores"
+      },
+      "answer": "A",
+      "explanation": "Page 369: Ethylene Oxide is a very poisonous gas which kills all types of bacteria, viruses and spores.",
+      "topic": "Ethylene Oxide (Ch 78)"
+    },
+    {
+      "id": 2,
+      "question": "In what form is Ethylene Oxide gas available in cylinders, tanks or cartridges?",
+      "options": {
+        "A": "In the form of liquid",
+        "B": "In powder form",
+        "C": "As a gel",
+        "D": "As a solid block"
+      },
+      "answer": "A",
+      "explanation": "Page 369: EO is available in cylinder, tank or cartridges in the form of liquid.",
+      "topic": "Ethylene Oxide (Ch 78)"
+    },
+    {
+      "id": 3,
+      "question": "Which are the two methods of sterilization with EO gas?",
+      "options": {
+        "A": "The gas chamber method and the micro dose method",
+        "B": "Radiation method and plasma method",
+        "C": "Boiling method and filtration method",
+        "D": "Steam method and dry method"
+      },
+      "answer": "A",
+      "explanation": "Page 369: Sterilization with EO gas can be done by two means – the gas chamber method and the micro dose method.",
+      "topic": "Ethylene Oxide (Ch 78)"
+    },
+    {
+      "id": 4,
+      "question": "When EO gas is used with gas diffusion or bag sterilization for safety, which gas is used as a diluent?",
+      "options": {
+        "A": "Oxygen",
+        "B": "Nitrogen",
+        "C": "CO2 (Carbon dioxide)",
+        "D": "Helium"
+      },
+      "answer": "C",
+      "explanation": "Page 369: It is used with gas diffusion or bag sterilization for safety where other gases are used as diluents such as CO2.",
+      "topic": "Ethylene Oxide (Ch 78)"
+    },
+    {
+      "id": 5,
+      "question": "How should the room housing the EO sterilizer be designed?",
+      "options": {
+        "A": "Any general store room",
+        "B": "A small room on positive pressure",
+        "C": "A separate and big room on negative pressure, vented outside the building",
+        "D": "A sealed room with no ventilation"
+      },
+      "answer": "C",
+      "explanation": "Page 369: The sterilizer should be installed in a separate and big room which is on negative pressure, with the relief valve vented outside the building.",
+      "topic": "Ethylene Oxide (Ch 78)"
+    },
+    {
+      "id": 6,
+      "question": "What type of items are generally sterilized with EO gas?",
+      "options": {
+        "A": "Only glassware",
+        "B": "Items which cannot stand high temperature",
+        "C": "Only metallic instruments",
+        "D": "Items that are heat resistant"
+      },
+      "answer": "B",
+      "explanation": "Page 369: Types of items sterilized with EO gas are those items which cannot stand high temperature.",
+      "topic": "Ethylene Oxide (Ch 78)"
+    },
+    {
+      "id": 7,
+      "question": "At what temperature is the item generally kept during EO sterilization?",
+      "options": {
+        "A": "71°C to 77°C",
+        "B": "121°C",
+        "C": "100°C",
+        "D": "55°C (range 37°C to 60°C)"
+      },
+      "answer": "D",
+      "explanation": "Page 369: Generally the item is kept at 55°C (range 37°C to 60°C) for 105 to 300 minutes.",
+      "topic": "Ethylene Oxide (Ch 78)"
+    },
+    {
+      "id": 8,
+      "question": "What humidity range is required for EO gas sterilization?",
+      "options": {
+        "A": "45% to 75%",
+        "B": "10% to 20%",
+        "C": "80% to 100%",
+        "D": "25% to 35%"
+      },
+      "answer": "A",
+      "explanation": "Page 369: The humidity should be 45% to 75% during EO sterilization.",
+      "topic": "Ethylene Oxide (Ch 78)"
+    },
+    {
+      "id": 9,
+      "question": "What quantity of EO gas should be used during the sterilization process?",
+      "options": {
+        "A": "100 mg to 200 mg/litre",
+        "B": "800 mg to 1200 mg/litre",
+        "C": "2000 mg to 3000 mg/litre",
+        "D": "5 mg to 10 mg/litre"
+      },
+      "answer": "B",
+      "explanation": "Page 369: Quantity of gas should be 800 mg to 1200 mg/litre during the sterilization process with EO gas.",
+      "topic": "Ethylene Oxide (Ch 78)"
+    },
+    {
+      "id": 10,
+      "question": "Why should the sterilizer door be opened immediately after EO sterilization is over?",
+      "options": {
+        "A": "To cool the items quickly",
+        "B": "To add more gas",
+        "C": "Because the gas becomes solid",
+        "D": "Because at that time the density is low"
+      },
+      "answer": "D",
+      "explanation": "Page 369: The door should be immediately opened as soon as sterilization is over because at that time the density is low.",
+      "topic": "Ethylene Oxide (Ch 78)"
+    },
+    {
+      "id": 11,
+      "question": "Which property makes EO gas hazardous to handle?",
+      "options": {
+        "A": "It is heavier than water",
+        "B": "It freezes easily",
+        "C": "It is non-reactive and inert",
+        "D": "It is inflammable and explosive"
+      },
+      "answer": "D",
+      "explanation": "Page 369: EO gas is inflammable and explosive, and is very soluble in packets, rubber and plastic.",
+      "topic": "Ethylene Oxide (Ch 78)"
+    },
+    {
+      "id": 12,
+      "question": "Which of the following items can be sterilized with EO gas?",
+      "options": {
+        "A": "Only paper items",
+        "B": "Only stainless steel basins",
+        "C": "Endoscope, cystoscope, laparoscope and cardiac catheter",
+        "D": "Only liquids and powders"
+      },
+      "answer": "C",
+      "explanation": "Page 369: EO gas sterilizes endoscope, cystoscope, laparoscope, cardiac catheter, parts of heart lung machine, pace maker, breast implant, nebulizer, parts of ventilator, blankets and mattress.",
+      "topic": "Ethylene Oxide (Ch 78)"
+    },
+    {
+      "id": 13,
+      "question": "What should be available for staff during the use of EO because it is a poisonous gas?",
+      "options": {
+        "A": "Drinking water",
+        "B": "Protective footwear only",
+        "C": "A fire extinguisher only",
+        "D": "Equipment for breathing"
+      },
+      "answer": "D",
+      "explanation": "Page 370: EO is a poisonous gas and equipment for breathing should be available during its use.",
+      "topic": "Ethylene Oxide (Ch 78)"
+    },
+    {
+      "id": 14,
+      "question": "Which complication can occur in staff if EO gas is not completely removed?",
+      "options": {
+        "A": "Skin rashes and oedema of the laryngo-tracheal part causing breathing difficulties",
+        "B": "Better eyesight",
+        "C": "Increased appetite",
+        "D": "Improved immunity"
+      },
+      "answer": "A",
+      "explanation": "Page 370: If gas is not completely removed, complications include skin rashes, oedema of the laryngo-tracheal part causing breathing difficulties.",
+      "topic": "Ethylene Oxide (Ch 78)"
+    },
+    {
+      "id": 15,
+      "question": "What can happen to blood cells due to excessive levels of EO gas?",
+      "options": {
+        "A": "They are unaffected",
+        "B": "They become larger",
+        "C": "They can be destroyed",
+        "D": "They multiply rapidly"
+      },
+      "answer": "C",
+      "explanation": "Page 370: Blood cells can be destroyed due to excessive levels of EO gas.",
+      "topic": "Ethylene Oxide (Ch 78)"
+    },
+    {
+      "id": 16,
+      "question": "Approximately how long does the complete EO sterilization process take, making it expensive?",
+      "options": {
+        "A": "At least 12 hours",
+        "B": "About 30 minutes",
+        "C": "About 3 hours",
+        "D": "About 1 hour"
+      },
+      "answer": "A",
+      "explanation": "Page 370: The sterilization process is prolonged and at least 12 hours are required for complete process, so a large stock of items is needed, making it expensive to maintain a big inventory.",
+      "topic": "Ethylene Oxide (Ch 78)"
+    },
+    {
+      "id": 17,
+      "question": "What type of packing paper is required for items to be sterilized with EO gas?",
+      "options": {
+        "A": "Pure aluminium foil",
+        "B": "Plain newspaper",
+        "C": "A packet with plastic on one side and paper on the other that allows passage of air and steam",
+        "D": "Waterproof rubber sheet"
+      },
+      "answer": "C",
+      "explanation": "Page 370: Special packing paper is required – the packet should have plastic on one side and paper on the other side which should allow the passage of air and steam.",
+      "topic": "Ethylene Oxide (Ch 78)"
+    },
+    {
+      "id": 18,
+      "question": "Which biological test organism is best for testing EO gas sterilization?",
+      "options": {
+        "A": "Bacillus atrophaeus",
+        "B": "Escherichia coli",
+        "C": "Bacillus subtilis",
+        "D": "Geobacillus stearothermophilus"
+      },
+      "answer": "C",
+      "explanation": "Page 370: A biological test should be done every week and Bacillus subtilis is best for testing EO gas.",
+      "topic": "Ethylene Oxide (Ch 78)"
+    },
+    {
+      "id": 19,
+      "question": "For how long should the record of EO sterilization be maintained?",
+      "options": {
+        "A": "Six months",
+        "B": "One year",
+        "C": "Five years",
+        "D": "Two years"
+      },
+      "answer": "D",
+      "explanation": "Page 370: Record of sterilization should be maintained for two years.",
+      "topic": "Ethylene Oxide (Ch 78)"
+    },
+    {
+      "id": 20,
+      "question": "How often should the biological test be done for EO gas monitoring?",
+      "options": {
+        "A": "Every week",
+        "B": "Once a year",
+        "C": "Every month",
+        "D": "Every day"
+      },
+      "answer": "A",
+      "explanation": "Page 370: Biological test should be done every week for EO gas monitoring; chemical tape is used daily.",
+      "topic": "Ethylene Oxide (Ch 78)"
+    },
+    {
+      "id": 21,
+      "question": "What kind of sterilizer is needed for formaldehyde sterilization?",
+      "options": {
+        "A": "A dry heat oven",
+        "B": "A special pre-vacuum sterilizer",
+        "C": "An open gas chamber",
+        "D": "A simple boiling water bath"
+      },
+      "answer": "B",
+      "explanation": "Page 370: Sterilizer for formaldehyde – a special pre-vacuum sterilizer is needed for this.",
+      "topic": "Formaldehyde (Ch 78)"
+    },
+    {
+      "id": 22,
+      "question": "At what temperature and time are items disinfected with formaldehyde?",
+      "options": {
+        "A": "71°C to 77°C for 33 minutes",
+        "B": "121°C for 15 minutes",
+        "C": "100°C for 60 minutes",
+        "D": "55°C for 300 minutes"
+      },
+      "answer": "A",
+      "explanation": "Page 370: With formaldehyde, items are kept at the temperature of 71°C to 77°C for 33 minutes to disinfect them.",
+      "topic": "Formaldehyde (Ch 78)"
+    },
+    {
+      "id": 23,
+      "question": "Why are items less damaged when sterilized with formaldehyde?",
+      "options": {
+        "A": "Because of the high pressure used",
+        "B": "Because of the low temperature",
+        "C": "Because no chemicals are used",
+        "D": "Because the process is very fast"
+      },
+      "answer": "B",
+      "explanation": "Page 370: With formaldehyde the things are less damaged due to the low temperature.",
+      "topic": "Formaldehyde (Ch 78)"
+    },
+    {
+      "id": 24,
+      "question": "Why is formaldehyde gas generally NOT used in hospitals?",
+      "options": {
+        "A": "Because it is ineffective",
+        "B": "Because it damages all items",
+        "C": "Because it is too expensive",
+        "D": "Because this gas is poisonous"
+      },
+      "answer": "D",
+      "explanation": "Page 371: Hospital use of formaldehyde – this gas being poisonous is not used in the hospitals.",
+      "topic": "Formaldehyde (Ch 78)"
+    },
+    {
+      "id": 25,
+      "question": "What is formalin liquid used for?",
+      "options": {
+        "A": "Storing the surgical specimen",
+        "B": "Lubricating instruments",
+        "C": "Cooling the sterilizer",
+        "D": "Cleaning the floor"
+      },
+      "answer": "A",
+      "explanation": "Page 371: Formalin liquid is used for storing the surgical specimen, while formalin tablets are used to sterilize endoscopes and microscopes.",
+      "topic": "Formaldehyde (Ch 78)"
+    },
+    {
+      "id": 26,
+      "question": "Which chemical is described as the commonly used chemical nowadays for sterilization?",
+      "options": {
+        "A": "Glutaraldehyde 2%",
+        "B": "Ethylene oxide",
+        "C": "Formaldehyde",
+        "D": "Ozone"
+      },
+      "answer": "A",
+      "explanation": "Page 371: Glutaraldehyde 2% is the commonly used chemical nowadays.",
+      "topic": "Glutaraldehyde (Ch 78)"
+    },
+    {
+      "id": 27,
+      "question": "For the first time, how long are instruments soaked in glutaraldehyde?",
+      "options": {
+        "A": "Overnight",
+        "B": "For 33 minutes",
+        "C": "For 3-4 hours",
+        "D": "For 10 minutes"
+      },
+      "answer": "A",
+      "explanation": "Page 371: First time the instruments are soaked overnight and subsequently for 3-4 hours before use in glutaraldehyde.",
+      "topic": "Glutaraldehyde (Ch 78)"
+    },
+    {
+      "id": 28,
+      "question": "Why should instruments be washed well with soap and water before dipping in the chemical?",
+      "options": {
+        "A": "To increase their weight",
+        "B": "To make them shiny",
+        "C": "So that stains are removed, which is essential for the chemical to act",
+        "D": "To cool them down"
+      },
+      "answer": "C",
+      "explanation": "Page 371: Before dipping in the chemical, instruments should be washed well with soap and water using a brush so that stains are removed. This is essential for the chemical to act.",
+      "topic": "Glutaraldehyde (Ch 78)"
+    },
+    {
+      "id": 29,
+      "question": "Glutaraldehyde should be known as which of the following?",
+      "options": {
+        "A": "A high class disinfectant rather than a sterilent",
+        "B": "An antibiotic",
+        "C": "A true sterilent",
+        "D": "A cleaning detergent only"
+      },
+      "answer": "A",
+      "explanation": "Page 371: It should be known as a high class disinfectant rather than a Sterilent.",
+      "topic": "Glutaraldehyde (Ch 78)"
+    },
+    {
+      "id": 30,
+      "question": "How does water on instruments affect the liquid chemical's sterilization capability?",
+      "options": {
+        "A": "It strengthens the chemical action",
+        "B": "It increases the concentration",
+        "C": "It dilutes the concentration, decreasing sterilization capabilities",
+        "D": "It has no effect"
+      },
+      "answer": "C",
+      "explanation": "Page 371: The water on instruments dilutes the concentration of the chemical, which decreases the sterilization capabilities.",
+      "topic": "Glutaraldehyde (Ch 78)"
+    },
+    {
+      "id": 31,
+      "question": "For how long is a prepared solution of glutaraldehyde chemical effective?",
+      "options": {
+        "A": "For 1 year",
+        "B": "For 1 to 2 days",
+        "C": "For 14 to 28 days",
+        "D": "For 6 months"
+      },
+      "answer": "C",
+      "explanation": "Page 371: A solution of chemical prepared once is effective for 14 to 28 days.",
+      "topic": "Glutaraldehyde (Ch 78)"
+    },
+    {
+      "id": 32,
+      "question": "What is the name of one popular preparation of glutaraldehyde, and at what concentration is it used?",
+      "options": {
+        "A": "Cidex, used as 0.55%",
+        "B": "Sterrad, used as 90%",
+        "C": "Formalin, used as 2%",
+        "D": "Nu Cidex, used as 35%"
+      },
+      "answer": "A",
+      "explanation": "Page 371: One popular preparation of glutaraldehyde is Cidex. This is used as 0.55%.",
+      "topic": "Glutaraldehyde (Ch 78)"
+    },
+    {
+      "id": 33,
+      "question": "Which chemical is described as being better than 2% Glutaraldehyde but more expensive?",
+      "options": {
+        "A": "Per-acetic acid",
+        "B": "Formaldehyde",
+        "C": "Ethylene oxide",
+        "D": "Ortho Phthalaldehyde"
+      },
+      "answer": "D",
+      "explanation": "Page 371: Ortho Phthalaldehyde – this chemical is better than 2% Glutaraldehyde, but it is expensive.",
+      "topic": "Ortho Phthalaldehyde (Ch 78)"
+    },
+    {
+      "id": 34,
+      "question": "What is a noted disadvantage of Ortho Phthalaldehyde on the skin?",
+      "options": {
+        "A": "It has no effect on skin",
+        "B": "The skin turns blue permanently",
+        "C": "The skin is stained gray",
+        "D": "The skin becomes very soft"
+      },
+      "answer": "C",
+      "explanation": "Page 371: With Ortho Phthalaldehyde, the skin is stained gray, and it can cause allergy.",
+      "topic": "Ortho Phthalaldehyde (Ch 78)"
+    },
+    {
+      "id": 35,
+      "question": "According to the text, how long does glutaraldehyde take to kill all organisms?",
+      "options": {
+        "A": "22 hours",
+        "B": "12 hours",
+        "C": "33 minutes",
+        "D": "5 minutes"
+      },
+      "answer": "A",
+      "explanation": "Page 371: Glutaraldehyde takes 22 hours to kill all organisms, and formaldehyde takes even longer time.",
+      "topic": "Ortho Phthalaldehyde (Ch 78)"
+    },
+    {
+      "id": 36,
+      "question": "What is one of the main reasons new methods of sterilization are constantly being developed?",
+      "options": {
+        "A": "To make the process slower",
+        "B": "To raise sterilization temperatures",
+        "C": "To sterilize endoscopes due to the increase in minimal invasive procedures",
+        "D": "To increase the use of CFCs"
+      },
+      "answer": "C",
+      "explanation": "Page 372: New methods are required to sterilize endoscopes as there is an increase in the number of minimal invasive procedures, and there is a need to eliminate CFCs.",
+      "topic": "New Methods – Introduction (Ch 79)"
+    },
+    {
+      "id": 37,
+      "question": "In plasma sterilization, plasma is produced when a chemical such as hydrogen peroxide is introduced into what?",
+      "options": {
+        "A": "A vacuum without energy",
+        "B": "Boiling water",
+        "C": "Cold storage",
+        "D": "A strong electric or magnetic field"
+      },
+      "answer": "D",
+      "explanation": "Page 372: Plasma can be produced when a chemical such as hydrogen peroxide is introduced into a strong electric or magnetic field and excited to a state capable of disrupting the cell membrane and nucleic acid of microorganisms.",
+      "topic": "Plasma Sterilization (Ch 79)"
+    },
+    {
+      "id": 38,
+      "question": "The sterilization cycle of hydrogen peroxide plasma is made of which two phases?",
+      "options": {
+        "A": "Vacuum phase and pressure phase",
+        "B": "Diffusion phase and plasma phase",
+        "C": "Heating phase and cooling phase",
+        "D": "Liquid phase and solid phase"
+      },
+      "answer": "B",
+      "explanation": "Page 372: The sterilization cycle of hydrogen peroxide plasma is made of 2 phases – the diffusion phase and the plasma phase.",
+      "topic": "Plasma Sterilization (Ch 79)"
+    },
+    {
+      "id": 39,
+      "question": "In the plasma phase, how much radio frequency power is applied to the chamber?",
+      "options": {
+        "A": "100 watts",
+        "B": "1000 watts",
+        "C": "400 watts",
+        "D": "250 watts"
+      },
+      "answer": "C",
+      "explanation": "Page 372: In the plasma phase, 400 watts of radio frequency is applied to the chamber, making the H2O2 a plasma made of hydro peroxyl radicals.",
+      "topic": "Plasma Sterilization (Ch 79)"
+    },
+    {
+      "id": 40,
+      "question": "Why is paper NOT used in packing for plasma sterilization?",
+      "options": {
+        "A": "Because it catches fire easily",
+        "B": "Because it absorbs excess hydrogen peroxide",
+        "C": "Because it is too expensive",
+        "D": "Because it is too thin"
+      },
+      "answer": "B",
+      "explanation": "Page 373: Paper is not used in plasma sterilization packing as it absorbs excess hydrogen peroxide; items are covered with double layers of polypropylene.",
+      "topic": "Plasma Sterilization (Ch 79)"
+    },
+    {
+      "id": 41,
+      "question": "Which company introduced STERRAD 100 & STERRAD 50 for plasma sterilization?",
+      "options": {
+        "A": "3M",
+        "B": "Philips",
+        "C": "Johnson and Johnson",
+        "D": "Siemens"
+      },
+      "answer": "C",
+      "explanation": "Page 373: Johnson and Johnson company has introduced STERRAD 100 & STERRAD 50 for plasma sterilization; the latter is smaller and consists of one shelf.",
+      "topic": "Plasma Sterilization (Ch 79)"
+    },
+    {
+      "id": 42,
+      "question": "Which biological test organism is used for plasma sterilization?",
+      "options": {
+        "A": "Escherichia coli",
+        "B": "Bacillus atrophaeus (bacillus atrophies)",
+        "C": "Bacillus subtilis",
+        "D": "Staphylococcus aureus"
+      },
+      "answer": "B",
+      "explanation": "Page 373: Biological test for plasma sterilization is done with bacillus atrophies (Bacillus atrophaeus).",
+      "topic": "Plasma Sterilization (Ch 79)"
+    },
+    {
+      "id": 43,
+      "question": "Why does plasma sterilization NOT require aeration?",
+      "options": {
+        "A": "Because the end products are oxygen and water",
+        "B": "Because it leaves toxic residue that evaporates",
+        "C": "Because it uses very high temperature",
+        "D": "Because the items stay sealed forever"
+      },
+      "answer": "A",
+      "explanation": "Page 373: There is no need for aeration as the end products of plasma sterilization are oxygen and water, which are not toxic.",
+      "topic": "Plasma Sterilization (Ch 79)"
+    },
+    {
+      "id": 44,
+      "question": "Per-acetic acid combines acetic acid, hydrogen peroxide and water in what form?",
+      "options": {
+        "A": "A non-corrosive form",
+        "B": "A solid powder form",
+        "C": "A highly corrosive form",
+        "D": "A frozen form"
+      },
+      "answer": "A",
+      "explanation": "Page 373: Per-acetic acid combines acetic acid, hydrogen peroxide and water in a non-corrosive form.",
+      "topic": "Per-acetic Acid (Ch 79)"
+    },
+    {
+      "id": 45,
+      "question": "For how long and at what temperature are items soaked in per-acetic acid?",
+      "options": {
+        "A": "5 minutes at 100°F",
+        "B": "60 minutes at 200°F",
+        "C": "12 minutes at 122°F–131°F",
+        "D": "30 minutes at 55°F"
+      },
+      "answer": "C",
+      "explanation": "Page 373: Soak the items for 12 minutes at a temperature of 122°F–131°F in per-acetic acid; it has a quick processing time of approximately 30 minutes.",
+      "topic": "Per-acetic Acid (Ch 79)"
+    },
+    {
+      "id": 46,
+      "question": "How many times can a per-acetic acid solution be used?",
+      "options": {
+        "A": "Only once",
+        "B": "Up to 28 days",
+        "C": "Up to 5 times",
+        "D": "Unlimited times"
+      },
+      "answer": "A",
+      "explanation": "Page 374: With per-acetic acid, the solution can be used only once; it is corrosive to certain items and an irritant.",
+      "topic": "Per-acetic Acid (Ch 79)"
+    },
+    {
+      "id": 47,
+      "question": "What is the cycle time and temperature for ozone sterilization?",
+      "options": {
+        "A": "12 hours at 121°C",
+        "B": "4-5 hours at a temperature of 85°F–94°F",
+        "C": "1 hour at 55°C",
+        "D": "28 minutes at room temperature"
+      },
+      "answer": "B",
+      "explanation": "Page 374: Ozone cycle time is 4-5 hours with a temperature of 85°F–94°F; 6-12% concentration is continuously pumped through the chamber.",
+      "topic": "Ozone (Ch 79)"
+    },
+    {
+      "id": 48,
+      "question": "Ozone is an efficient sterilent capable of destroying many pathogens including which of the following?",
+      "options": {
+        "A": "Only viruses",
+        "B": "Prions",
+        "C": "None of the pathogens",
+        "D": "Only fungi"
+      },
+      "answer": "B",
+      "explanation": "Page 374: Ozone is an efficient sterilent because of strong oxidizing properties capable of destroying many pathogens including prions. The health limit for ozone is 5 ppm.",
+      "topic": "Ozone (Ch 79)"
+    },
+    {
+      "id": 49,
+      "question": "Nitrogen dioxide (NO2) is also known by which other name?",
+      "options": {
+        "A": "Ammonia",
+        "B": "Nitric acid",
+        "C": "Dinitrogen tetroxide (N2O4)",
+        "D": "Nitrous oxide"
+      },
+      "answer": "C",
+      "explanation": "Page 374: Nitrogen dioxide (NO2) is also known as dinitrogen tetroxide (N2O4). It has a boiling point of 21°C at sea level and is used in the form of liquid.",
+      "topic": "Nitrogen Dioxide (Ch 79)"
+    },
+    {
+      "id": 50,
+      "question": "Which biological indicator is used for nitrogen dioxide (NO2) sterilization?",
+      "options": {
+        "A": "Bacillus atrophaeus",
+        "B": "Geobacillus stearothermophilus",
+        "C": "Bacillus subtilis",
+        "D": "Clostridium tetani"
+      },
+      "answer": "B",
+      "explanation": "Page 374: Geobacillus stearothermophilus is the biological indicator for nitrogen dioxide (NO2) sterilization. NO2 is less corrosive and requires no aeration.",
+      "topic": "Nitrogen Dioxide (Ch 79)"
+    }
+  ]
+}

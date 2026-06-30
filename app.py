@@ -296,6 +296,12 @@ QUIZ_CATALOG = {
         "short": "Methods of Sterilization",
         "icon": "🔬",
     },
+    "chemical_sterilization": {
+        "file": "questions_chemical_sterilization.json",
+        "label": "Chemical & New Methods of Sterilization – ORT Textbook (Ch 78–79, Pages 369–374)",
+        "short": "Chemical & New Sterilization (Ch 78–79)",
+        "icon": "🧪",
+    },
     "tables_ch40": {
         "file": "Tables/questions_tables_ch40.json",
         "label": "Chapter 40 – Acid-Base Balance (Tables & Flowcharts)",
