@@ -1,0 +1,1809 @@
+{
+  "title": "Key Points MCQ – Chapters 1 to 17 (Ajay Yadav)",
+  "source": "Short Textbook of Anesthesia – Ajay Yadav (6th Edition) – Key Points",
+  "section": "Chapters 1–17 Key Points",
+  "total_questions": 150,
+  "time_limit_minutes": 90,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the narrowest part of the airway in children up to the age of 6 years?",
+      "options": {
+        "A": "Subglottis",
+        "B": "Glottis",
+        "C": "Epiglottis",
+        "D": "Trachea"
+      },
+      "answer": "A",
+      "explanation": "Subglottis is the narrowest part in children up to the age of 6 years, however this does not act as deterrent to use cuffed tubes in children."
+    },
+    {
+      "id": 2,
+      "question": "During general anesthesia with muscle relaxants, the cords are held in which position?",
+      "options": {
+        "A": "Abducted position",
+        "B": "Adducted position",
+        "C": "Cadaveric position",
+        "D": "Midline position"
+      },
+      "answer": "C",
+      "explanation": "During general anesthesia with muscle relaxants the cords are held in cadaveric position."
+    },
+    {
+      "id": 3,
+      "question": "Chances of endobronchial intubation are more on which side due to shorter, wider and less acute angle?",
+      "options": {
+        "A": "Left side",
+        "B": "Either side equally",
+        "C": "Depends on patient position",
+        "D": "Right side"
+      },
+      "answer": "D",
+      "explanation": "Due to shorter, wider and less acute angle chances of endobronchial intubation are more on right side."
+    },
+    {
+      "id": 4,
+      "question": "Aspiration in supine position most commonly involves which segment?",
+      "options": {
+        "A": "Lingula of left lung",
+        "B": "Apical segment of right lower lobe",
+        "C": "Basal segment of left lower lobe",
+        "D": "Middle lobe"
+      },
+      "answer": "B",
+      "explanation": "Aspiration in supine position most commonly involves apical segment of right lower lobe."
+    },
+    {
+      "id": 5,
+      "question": "Where does maximum airway resistance to airflow occur?",
+      "options": {
+        "A": "Terminal bronchi",
+        "B": "Segmental bronchi",
+        "C": "Trachea and then main bronchus",
+        "D": "Alveolar ducts"
+      },
+      "answer": "C",
+      "explanation": "Maximum airway resistance to airflow occurs in trachea and then main bronchus and minimum in terminal bronchi."
+    },
+    {
+      "id": 6,
+      "question": "Endotracheal tubes and tracheostomy decrease anatomical dead space by:",
+      "options": {
+        "A": "Increasing tidal volume",
+        "B": "Bypassing the upper airways",
+        "C": "Decreasing respiratory rate",
+        "D": "Dilating the bronchi"
+      },
+      "answer": "B",
+      "explanation": "Endotracheal tubes and tracheostomy decrease the anatomical dead space by bypassing the upper airways."
+    },
+    {
+      "id": 7,
+      "question": "During general anesthesia, what happens to alveolar dead space?",
+      "options": {
+        "A": "Decreased",
+        "B": "Unchanged",
+        "C": "Increased",
+        "D": "Abolished"
+      },
+      "answer": "C",
+      "explanation": "During general anesthesia alveolar dead space is increased."
+    },
+    {
+      "id": 8,
+      "question": "All inhalational agents blunt which response, thereby increasing shunt fraction?",
+      "options": {
+        "A": "Baroreceptor reflex",
+        "B": "Chemoreceptor response",
+        "C": "Hering-Breuer reflex",
+        "D": "Hypoxic pulmonary vasoconstriction (HPV)"
+      },
+      "answer": "D",
+      "explanation": "All inhalational agents blunt hypoxic pulmonary vasoconstriction (HPV) response thereby increasing the shunt fraction."
+    },
+    {
+      "id": 9,
+      "question": "The color of oxygen cylinder is:",
+      "options": {
+        "A": "Blue body with white shoulders",
+        "B": "Black body with white shoulders (top)",
+        "C": "Green body with black shoulders",
+        "D": "White body with green shoulders"
+      },
+      "answer": "B",
+      "explanation": "The color of oxygen cylinder is black body with white shoulders (top) and pressure is 2,000 pounds per square inch (psi)."
+    },
+    {
+      "id": 10,
+      "question": "Nitrous oxide is stored in which color cylinders?",
+      "options": {
+        "A": "Black",
+        "B": "Green",
+        "C": "Blue",
+        "D": "Grey"
+      },
+      "answer": "C",
+      "explanation": "Nitrous oxide is stored in blue color cylinders at a pressure of 760 psi."
+    },
+    {
+      "id": 11,
+      "question": "Entonox is a mixture of:",
+      "options": {
+        "A": "70% oxygen and 30% nitrous oxide",
+        "B": "50% oxygen and 50% carbon dioxide",
+        "C": "30% oxygen and 70% nitrous oxide",
+        "D": "50% oxygen and 50% nitrous oxide"
+      },
+      "answer": "D",
+      "explanation": "Entonox is the mixture of 50% oxygen and 50% nitrous oxide."
+    },
+    {
+      "id": 12,
+      "question": "Which end of the bobbin determines the flow rate in rotameter?",
+      "options": {
+        "A": "Lower end",
+        "B": "Middle",
+        "C": "Upper end",
+        "D": "Either end"
+      },
+      "answer": "C",
+      "explanation": "Upper end of bobbin determines the flow rate in rotameter."
+    },
+    {
+      "id": 13,
+      "question": "Magill circuit is the circuit of choice for:",
+      "options": {
+        "A": "Controlled ventilation",
+        "B": "Spontaneous ventilation",
+        "C": "Pediatric anesthesia",
+        "D": "One-lung ventilation"
+      },
+      "answer": "B",
+      "explanation": "Magill circuit is the circuit of choice for spontaneous ventilation. Fresh gas flow should be kept equal to minute volume to prevent rebreathing."
+    },
+    {
+      "id": 14,
+      "question": "Bain circuit is the circuit of choice for controlled ventilation. The fresh gas flow for controlled ventilation is:",
+      "options": {
+        "A": "Equal to minute ventilation",
+        "B": "1.6 times of minute ventilation",
+        "C": "2 times of minute ventilation",
+        "D": "3 times of minute ventilation"
+      },
+      "answer": "B",
+      "explanation": "Bain circuit is the circuit of choice for controlled ventilation. Fresh gas flow for controlled ventilation is 1.6 times of minute ventilation."
+    },
+    {
+      "id": 15,
+      "question": "Jackson Rees (Mapleson F) is the most commonly used semiclosed circuit for:",
+      "options": {
+        "A": "Adults",
+        "B": "Geriatric patients",
+        "C": "Obese patients",
+        "D": "Children"
+      },
+      "answer": "D",
+      "explanation": "Jackson Rees (Mapleson F) is the most commonly used semiclosed circuit for children."
+    },
+    {
+      "id": 16,
+      "question": "Sevoflurane by reacting with sodalime and barylime can produce:",
+      "options": {
+        "A": "Carbon monoxide",
+        "B": "Compound A",
+        "C": "Phosgene",
+        "D": "Hydrogen fluoride only"
+      },
+      "answer": "B",
+      "explanation": "Sevoflurane by reacting with sodalime and barylime can produce compound A."
+    },
+    {
+      "id": 17,
+      "question": "Which CO2 absorbent neither produces compound A nor carbon monoxide?",
+      "options": {
+        "A": "Sodalime",
+        "B": "Barylime",
+        "C": "Amsorb",
+        "D": "Calcium hydroxide"
+      },
+      "answer": "C",
+      "explanation": "Amsorb neither produces compound A nor carbon monoxide with desiccated sodalime and Barylime."
+    },
+    {
+      "id": 18,
+      "question": "The most common airway used to prevent tongue fall is:",
+      "options": {
+        "A": "Nasopharyngeal airway",
+        "B": "LMA",
+        "C": "Guedel's airway",
+        "D": "I-Gel"
+      },
+      "answer": "C",
+      "explanation": "The most common airway used to prevent the tongue fall is Guedel's airway."
+    },
+    {
+      "id": 19,
+      "question": "Macintosh is the most commonly used:",
+      "options": {
+        "A": "Endotracheal tube",
+        "B": "Laryngoscope",
+        "C": "LMA",
+        "D": "Ventilator"
+      },
+      "answer": "B",
+      "explanation": "Macintosh is the most commonly used laryngoscope."
+    },
+    {
+      "id": 20,
+      "question": "Fiberoptic laryngoscope/bronchoscope-guided intubation is considered as:",
+      "options": {
+        "A": "Obsolete technique",
+        "B": "Last resort only",
+        "C": "Gold standard technique for difficult/failed intubation",
+        "D": "Routine first-line technique"
+      },
+      "answer": "C",
+      "explanation": "Fiberoptic laryngoscope/bronchoscope-guided intubation is considered as gold standard technique for the management of difficult/failed intubation."
+    },
+    {
+      "id": 21,
+      "question": "Among second generation LMA, which is most frequently used in India?",
+      "options": {
+        "A": "ProSeal LMA",
+        "B": "Supreme LMA",
+        "C": "I-Gel",
+        "D": "Classic LMA"
+      },
+      "answer": "C",
+      "explanation": "Among the second generation LMA, I-Gel is most frequently used in India."
+    },
+    {
+      "id": 22,
+      "question": "The chief advantage of PVC endotracheal tube is:",
+      "options": {
+        "A": "High pressure low volume cuff",
+        "B": "Reusability",
+        "C": "Low pressure and high volume cuff",
+        "D": "Resistance to kinking"
+      },
+      "answer": "C",
+      "explanation": "The chief advantage of PVC tube is that their cuff is low pressure and high volume."
+    },
+    {
+      "id": 23,
+      "question": "Capnography is the surest sign to confirm:",
+      "options": {
+        "A": "Depth of anesthesia",
+        "B": "Correct position of endotracheal tube",
+        "C": "Cardiac output",
+        "D": "Blood pressure"
+      },
+      "answer": "B",
+      "explanation": "Capnography is the surest sign to confirm the correct position of endotracheal tube."
+    },
+    {
+      "id": 24,
+      "question": "During laryngoscopy, the correct head position involves:",
+      "options": {
+        "A": "Flexion at atlanto-occipital joint and extension at cervical spine",
+        "B": "Neutral position throughout",
+        "C": "Extension at atlanto-occipital joint and flexion at cervical spine",
+        "D": "Full extension at both joints"
+      },
+      "answer": "C",
+      "explanation": "During laryngoscopy, there should be extension at atlanto-occipital joint and flexion at cervical spine."
+    },
+    {
+      "id": 25,
+      "question": "For solid food, how many hours of fasting is required preoperatively?",
+      "options": {
+        "A": "4 hours",
+        "B": "6 hours",
+        "C": "8 hours",
+        "D": "10 hours"
+      },
+      "answer": "C",
+      "explanation": "For solid food 8 hours of fasting is must while clear fluids can be given up to 2 hours."
+    },
+    {
+      "id": 26,
+      "question": "MAO-A inhibitors should be stopped how long before surgery?",
+      "options": {
+        "A": "1 week",
+        "B": "3 weeks",
+        "C": "48 hours",
+        "D": "10 days"
+      },
+      "answer": "B",
+      "explanation": "MAO-A inhibitors should be stopped 3 weeks before surgery."
+    },
+    {
+      "id": 27,
+      "question": "Oral anticoagulants (Warfarin) should be stopped how many days before surgery?",
+      "options": {
+        "A": "2 days",
+        "B": "3 days",
+        "C": "5 days",
+        "D": "4 days"
+      },
+      "answer": "D",
+      "explanation": "Oral anticoagulants (Warfarin) should be stopped 4 days prior to surgery."
+    },
+    {
+      "id": 28,
+      "question": "Clopidogrel should be stopped how many days prior to surgery?",
+      "options": {
+        "A": "3 days",
+        "B": "7 days",
+        "C": "5 days",
+        "D": "10 days"
+      },
+      "answer": "C",
+      "explanation": "Antiplatelets except aspirin (Clopidogrel) should be stopped 5 days prior to surgery."
+    },
+    {
+      "id": 29,
+      "question": "Smoking should ideally be stopped before surgery for:",
+      "options": {
+        "A": "2 weeks",
+        "B": "4 weeks",
+        "C": "6 weeks",
+        "D": "8 weeks"
+      },
+      "answer": "D",
+      "explanation": "Smoking should be stopped 8 weeks before surgery."
+    },
+    {
+      "id": 30,
+      "question": "Which medications require only the morning dose to be omitted on the day of surgery?",
+      "options": {
+        "A": "Beta blockers and statins",
+        "B": "ACE inhibitors and angiotensin II antagonists",
+        "C": "Aspirin and clopidogrel",
+        "D": "Antiepileptics and antidepressants"
+      },
+      "answer": "B",
+      "explanation": "ACE inhibitors and angiotensin II antagonist require only the morning dose to be omitted on the day of surgery."
+    },
+    {
+      "id": 31,
+      "question": "The three most important parameters for airway assessment are:",
+      "options": {
+        "A": "BMI, age, and gender",
+        "B": "Mallampati grading, thyromental distance and neck movements",
+        "C": "Mouth opening, teeth condition, and jaw size",
+        "D": "Neck circumference, height, and weight"
+      },
+      "answer": "B",
+      "explanation": "Mallampati grading, thyromental distance and neck movements are the three most important parameters to be assessed in every case."
+    },
+    {
+      "id": 32,
+      "question": "Every head injury should be considered to have which associated injury until proved otherwise?",
+      "options": {
+        "A": "Thoracic injury",
+        "B": "Abdominal injury",
+        "C": "Cervical injury",
+        "D": "Pelvic injury"
+      },
+      "answer": "C",
+      "explanation": "Every head injury should be considered to be having cervical injury until proved otherwise."
+    },
+    {
+      "id": 33,
+      "question": "The most preferred leads for ECG monitoring are:",
+      "options": {
+        "A": "Lead I and aVR",
+        "B": "Lead II and V5",
+        "C": "Lead III and V1",
+        "D": "Lead aVL and V6"
+      },
+      "answer": "B",
+      "explanation": "The most preferred leads for ECG monitoring are lead II and V5. Arrhythmia are best detected in lead II and ischemia's in lead V5."
+    },
+    {
+      "id": 34,
+      "question": "Maximum interval between two blood pressure recordings should not exceed:",
+      "options": {
+        "A": "3 minutes",
+        "B": "10 minutes",
+        "C": "5 minutes",
+        "D": "15 minutes"
+      },
+      "answer": "C",
+      "explanation": "The maximum interval between two blood pressure recordings should not exceed more than 5 minutes."
+    },
+    {
+      "id": 35,
+      "question": "Gold standard monitoring of blood pressure is:",
+      "options": {
+        "A": "Non-invasive oscillometric",
+        "B": "Auscultatory method",
+        "C": "Invasive blood pressure monitoring",
+        "D": "Doppler ultrasound"
+      },
+      "answer": "C",
+      "explanation": "Invasive blood pressure monitoring is considered as gold standard monitoring of blood pressure."
+    },
+    {
+      "id": 36,
+      "question": "The most commonly chosen artery for cannulation is:",
+      "options": {
+        "A": "Femoral artery",
+        "B": "Brachial artery",
+        "C": "Dorsalis pedis artery",
+        "D": "Radial artery"
+      },
+      "answer": "D",
+      "explanation": "As radial artery has collaterals (transpalmar arch) for the blood supply of hand, it is most commonly chosen artery for cannulation."
+    },
+    {
+      "id": 37,
+      "question": "PAOP is best utilized to differentiate between:",
+      "options": {
+        "A": "Left and right heart failure",
+        "B": "Cardiogenic and noncardiogenic pulmonary edema (ARDS)",
+        "C": "Systolic and diastolic dysfunction",
+        "D": "Hypovolemia and hypervolemia"
+      },
+      "answer": "B",
+      "explanation": "PAOP is best utilized to differentiate between cardiogenic and noncardiogenic pulmonary edema (ARDS)."
+    },
+    {
+      "id": 38,
+      "question": "The best guide to assess tissue perfusion (cardiac output) is:",
+      "options": {
+        "A": "Blood pressure",
+        "B": "Heart rate",
+        "C": "Oxygen saturation of mixed venous blood",
+        "D": "Urine output"
+      },
+      "answer": "C",
+      "explanation": "Oxygen saturation of mixed venous blood is best guide to assess tissue perfusion (cardiac output)."
+    },
+    {
+      "id": 39,
+      "question": "Which monitor provides the best window for measuring cardiac functions in the intraoperative period?",
+      "options": {
+        "A": "Pulmonary artery catheter",
+        "B": "Transthoracic echocardiography",
+        "C": "Central venous pressure",
+        "D": "Transesophageal echocardiography"
+      },
+      "answer": "D",
+      "explanation": "Transesophageal echocardiography provides the best window for measuring and assessing cardiac functions in intraoperative period."
+    },
+    {
+      "id": 40,
+      "question": "Each degree (°C) fall in temperature reduces the metabolic rate by:",
+      "options": {
+        "A": "1 to 2%",
+        "B": "3 to 4%",
+        "C": "6 to 7%",
+        "D": "10 to 12%"
+      },
+      "answer": "C",
+      "explanation": "Each degree (°C) fall in temperature reduces the metabolic rate by 6 to 7%."
+    },
+    {
+      "id": 41,
+      "question": "The most commonly used muscle for neuromuscular monitoring is:",
+      "options": {
+        "A": "Corrugator supercilii",
+        "B": "Adductor pollicis supplied by ulnar nerve",
+        "C": "Orbicularis oculi",
+        "D": "Masseter"
+      },
+      "answer": "B",
+      "explanation": "Most commonly used muscle for neuromuscular monitoring is adductor pollicis supplied by ulnar nerve."
+    },
+    {
+      "id": 42,
+      "question": "Train of four is the most commonly used modality for:",
+      "options": {
+        "A": "Depth of anesthesia monitoring",
+        "B": "Neuromuscular monitoring in clinical practice",
+        "C": "Pain assessment",
+        "D": "Cardiac monitoring"
+      },
+      "answer": "B",
+      "explanation": "Train of four is the most commonly used modality for neuromuscular monitoring in clinical practice."
+    },
+    {
+      "id": 43,
+      "question": "BIS (Bispectral Index) monitor is the first scientifically validated monitor to assess:",
+      "options": {
+        "A": "Cardiac output",
+        "B": "Neuromuscular blockade",
+        "C": "Depth of anesthesia",
+        "D": "Pain intensity"
+      },
+      "answer": "C",
+      "explanation": "Bispectral index (BIS) monitor is the first scientifically validated and commercially available monitor to assess the depth of anesthesia."
+    },
+    {
+      "id": 44,
+      "question": "The most accurate measurement of core body temperature is provided by:",
+      "options": {
+        "A": "Oral cavity",
+        "B": "Axilla",
+        "C": "Pulmonary artery",
+        "D": "Tympanic membrane"
+      },
+      "answer": "C",
+      "explanation": "Lower end of esophagus is considered as best site for core body temperature measurement. However, the most accurate measurement of core body temperature is provided by pulmonary artery."
+    },
+    {
+      "id": 45,
+      "question": "Crystalloids should be replaced in what ratio to intravascular volume loss?",
+      "options": {
+        "A": "1:1",
+        "B": "1.5:1",
+        "C": "2:1",
+        "D": "3:1"
+      },
+      "answer": "B",
+      "explanation": "Crystalloids should be replaced in a ratio of 1.5:1 to intravascular volume loss while colloids in a ratio of 1:1."
+    },
+    {
+      "id": 46,
+      "question": "The most preferred fluid for maintenance as well as replacement is:",
+      "options": {
+        "A": "Normal saline",
+        "B": "Dextrose 5%",
+        "C": "Ringer lactate",
+        "D": "Colloids"
+      },
+      "answer": "C",
+      "explanation": "Ringer lactate is the most preferred fluid for maintenance as well as replacement."
+    },
+    {
+      "id": 47,
+      "question": "The most acceptable trigger point for blood transfusion includes blood volume loss >20% and hemoglobin below:",
+      "options": {
+        "A": "10 gm%",
+        "B": "8 gm%",
+        "C": "6 gm%",
+        "D": "7 gm%"
+      },
+      "answer": "B",
+      "explanation": "The most acceptable trigger points for blood transfusion are blood volume loss >20% and hemoglobin < 8 gm%."
+    },
+    {
+      "id": 48,
+      "question": "One unit of blood/packed cells increases hemoglobin by:",
+      "options": {
+        "A": "0.5%",
+        "B": "1%",
+        "C": "0.8%",
+        "D": "1.5%"
+      },
+      "answer": "C",
+      "explanation": "One unit of blood/packed cells increases hemoglobin by 0.8%."
+    },
+    {
+      "id": 49,
+      "question": "Most common cause of mismatch transfusion is:",
+      "options": {
+        "A": "Rh incompatibility",
+        "B": "ABO incompatibility",
+        "C": "Minor antigen mismatch",
+        "D": "Cold agglutinins"
+      },
+      "answer": "B",
+      "explanation": "Most common cause of mismatch transfusion is ABO incompatibility."
+    },
+    {
+      "id": 50,
+      "question": "Platelets are the only blood products stored at:",
+      "options": {
+        "A": "4°C",
+        "B": "-20°C",
+        "C": "Room temperature",
+        "D": "-70°C"
+      },
+      "answer": "C",
+      "explanation": "Platelets are the only blood products which are stored at room temperature."
+    },
+    {
+      "id": 51,
+      "question": "The most common cause of death after massive transfusion is:",
+      "options": {
+        "A": "Hyperkalemia",
+        "B": "Hypothermia",
+        "C": "DIC",
+        "D": "Citrate toxicity"
+      },
+      "answer": "C",
+      "explanation": "DIC is the most common cause of death after massive transfusion while acute lung injury remains the leading cause of mortality after transfusion."
+    },
+    {
+      "id": 52,
+      "question": "Inhalational agents are mainly used in anesthesia for:",
+      "options": {
+        "A": "Induction",
+        "B": "Premedication",
+        "C": "Maintenance",
+        "D": "Postoperative analgesia"
+      },
+      "answer": "C",
+      "explanation": "Inhalational agents are mainly used in anesthesia for maintenance."
+    },
+    {
+      "id": 53,
+      "question": "The best estimate for determining the potency of inhalational agent is:",
+      "options": {
+        "A": "Blood gas partition coefficient",
+        "B": "Oil gas partition coefficient",
+        "C": "Minimum alveolar concentration (MAC)",
+        "D": "Vapor pressure"
+      },
+      "answer": "C",
+      "explanation": "Best estimate for determining the potency of inhalational agent is minimum alveolar concentration (MAC)."
+    },
+    {
+      "id": 54,
+      "question": "Among agents used nowadays, induction is fastest with:",
+      "options": {
+        "A": "Halothane",
+        "B": "Sevoflurane",
+        "C": "Isoflurane",
+        "D": "Desflurane"
+      },
+      "answer": "D",
+      "explanation": "Blood gas partition coefficient indicates induction and recovery. Among the agents used nowadays induction is fastest with desflurane and slowest with Halothane."
+    },
+    {
+      "id": 55,
+      "question": "Which inhalational agent can sensitize myocardium to adrenaline?",
+      "options": {
+        "A": "Sevoflurane",
+        "B": "Desflurane",
+        "C": "Halothane",
+        "D": "Isoflurane"
+      },
+      "answer": "C",
+      "explanation": "Halothane (and theoretically other agents too except Isoflurane) can sensitize myocardium to adrenaline, exogenous to heart."
+    },
+    {
+      "id": 56,
+      "question": "Direct hepatocellular damage is seen with halothane but NOT with:",
+      "options": {
+        "A": "Isoflurane",
+        "B": "Desflurane",
+        "C": "Sevoflurane",
+        "D": "Enflurane"
+      },
+      "answer": "C",
+      "explanation": "Direct hepatocellular damage is seen with halothane (and theoretically with Isoflurane and Desflurane) but not with sevoflurane."
+    },
+    {
+      "id": 57,
+      "question": "Inflammable agents used in the past were:",
+      "options": {
+        "A": "Halothane and Isoflurane",
+        "B": "Sevoflurane and Desflurane",
+        "C": "Ether and Cyclopropane",
+        "D": "Enflurane and Methoxyflurane"
+      },
+      "answer": "C",
+      "explanation": "Inflammable agents used in past were Ether and Cyclopropane."
+    },
+    {
+      "id": 58,
+      "question": "Isoflurane is the agent of choice for:",
+      "options": {
+        "A": "Pediatric patients",
+        "B": "Cardiac patients",
+        "C": "Hepatic patients",
+        "D": "Renal patients"
+      },
+      "answer": "B",
+      "explanation": "Isoflurane is the agent of choice for cardiac patients."
+    },
+    {
+      "id": 59,
+      "question": "Sevoflurane is the agent of choice for induction in:",
+      "options": {
+        "A": "Elderly",
+        "B": "Cardiac patients",
+        "C": "Children",
+        "D": "Obese patients"
+      },
+      "answer": "C",
+      "explanation": "Sevoflurane is the agent of choice for induction in children."
+    },
+    {
+      "id": 60,
+      "question": "Desflurane is agent of choice for all EXCEPT:",
+      "options": {
+        "A": "Prolonged surgeries",
+        "B": "Hepatic patients",
+        "C": "Day care surgery",
+        "D": "Obesity"
+      },
+      "answer": "B",
+      "explanation": "Desflurane is agent of choice for prolonged surgeries, old age, renal diseases, obesity, day care surgery and shock. Sevoflurane is the agent of choice for hepatic patients."
+    },
+    {
+      "id": 61,
+      "question": "Nitrous oxide is absolutely contraindicated in all EXCEPT:",
+      "options": {
+        "A": "Pneumothorax",
+        "B": "Pneumoperitoneum",
+        "C": "Asthma",
+        "D": "Pneumoencephalus"
+      },
+      "answer": "C",
+      "explanation": "Higher solubility of nitrous oxide than nitrogen makes it absolutely contraindicated in pneumothorax, pneumopericardium, pneumoperitoneum and pneumoencephalus."
+    },
+    {
+      "id": 62,
+      "question": "Minimum interval between two halothane exposures should be:",
+      "options": {
+        "A": "1 month",
+        "B": "2 months",
+        "C": "3 months",
+        "D": "6 months"
+      },
+      "answer": "C",
+      "explanation": "Immunologic mechanism of halothane hepatitis warrants to avoid frequent use of halothane; at least an interval of 3 months is mandatory between two exposures."
+    },
+    {
+      "id": 63,
+      "question": "Most commonly used IV anesthetic for induction in current practice is:",
+      "options": {
+        "A": "Thiopentone",
+        "B": "Ketamine",
+        "C": "Propofol",
+        "D": "Etomidate"
+      },
+      "answer": "C",
+      "explanation": "Most commonly used IV anesthetic for induction in current day practice is propofol."
+    },
+    {
+      "id": 64,
+      "question": "Consciousness after thiopentone is regained after 15-20 minutes due to:",
+      "options": {
+        "A": "Rapid metabolism",
+        "B": "Renal excretion",
+        "C": "Redistribution",
+        "D": "Protein binding"
+      },
+      "answer": "C",
+      "explanation": "Although elimination half-life of Thiopentone is 10.4 hours but consciousness is regained after 15–20 minutes due to redistribution."
+    },
+    {
+      "id": 65,
+      "question": "Thiopentone is absolutely contraindicated in:",
+      "options": {
+        "A": "Porphyria cutanea tarda",
+        "B": "Acute intermittent and variegate porphyria",
+        "C": "Erythropoietic protoporphyria",
+        "D": "All types of porphyria"
+      },
+      "answer": "B",
+      "explanation": "Thiopentone is absolutely contraindicated in acute intermittent and variegate porphyria but can be used safely in porphyria cutanea tarda."
+    },
+    {
+      "id": 66,
+      "question": "Propofol is the IV agent of choice for:",
+      "options": {
+        "A": "Cardiac surgery",
+        "B": "Neurosurgery",
+        "C": "Day care surgery",
+        "D": "Shock"
+      },
+      "answer": "C",
+      "explanation": "Propofol is the IV agent of choice for day care surgery."
+    },
+    {
+      "id": 67,
+      "question": "The most cardiovascular stable IV agent among all is:",
+      "options": {
+        "A": "Propofol",
+        "B": "Etomidate",
+        "C": "Ketamine",
+        "D": "Thiopentone"
+      },
+      "answer": "B",
+      "explanation": "Etomidate is the most cardiovascular stable among all IV agents."
+    },
+    {
+      "id": 68,
+      "question": "The major side effect of etomidate is:",
+      "options": {
+        "A": "Emergence reactions",
+        "B": "Histamine release",
+        "C": "Adrenocortical suppression",
+        "D": "Bronchospasm"
+      },
+      "answer": "C",
+      "explanation": "The major side effect of etomidate is adrenocortical suppression."
+    },
+    {
+      "id": 69,
+      "question": "Ketamine is the most potent analgesic among IV agents and the induction agent of choice for:",
+      "options": {
+        "A": "Asthma patients",
+        "B": "Cardiac patients with good LV function",
+        "C": "Shock, full stomach, low cardiac output states",
+        "D": "Day care surgery"
+      },
+      "answer": "C",
+      "explanation": "Ketamine is the induction agent of choice for shock, full stomach, low cardiac output states and right to left shunts."
+    },
+    {
+      "id": 70,
+      "question": "Emergence reactions (hallucinations) are the major limiting factor for:",
+      "options": {
+        "A": "Propofol",
+        "B": "Ketamine",
+        "C": "Etomidate",
+        "D": "Midazolam"
+      },
+      "answer": "B",
+      "explanation": "Emergence reactions, mainly hallucinations, are the major limiting factor for restricting the use of ketamine."
+    },
+    {
+      "id": 71,
+      "question": "All pressures (intraocular, intragastric, intracranial) are raised by:",
+      "options": {
+        "A": "Propofol",
+        "B": "Etomidate",
+        "C": "Thiopentone",
+        "D": "Ketamine"
+      },
+      "answer": "D",
+      "explanation": "All pressures like intraocular, intragastric, intracranial are raised by ketamine."
+    },
+    {
+      "id": 72,
+      "question": "The most important receptors for the action of opioids are:",
+      "options": {
+        "A": "Kappa receptors",
+        "B": "Delta receptors",
+        "C": "Mu receptors",
+        "D": "Sigma receptors"
+      },
+      "answer": "C",
+      "explanation": "The most important receptors for the action of opioids are mu receptors."
+    },
+    {
+      "id": 73,
+      "question": "Muscle rigidity (Wooden chest syndrome) is most commonly seen with:",
+      "options": {
+        "A": "Morphine",
+        "B": "Fentanyl",
+        "C": "Alfentanil",
+        "D": "Remifentanil"
+      },
+      "answer": "C",
+      "explanation": "Muscle rigidity (Wooden chest syndrome) is most commonly seen with alfentanil."
+    },
+    {
+      "id": 74,
+      "question": "Tolerance is seen to all actions of opioids EXCEPT:",
+      "options": {
+        "A": "Analgesia",
+        "B": "Respiratory depression",
+        "C": "Constipation and miosis",
+        "D": "Sedation"
+      },
+      "answer": "C",
+      "explanation": "Tolerance is seen to all actions of opioids except constipation and miosis."
+    },
+    {
+      "id": 75,
+      "question": "Sufentanil is the agent of choice for inhibiting stress response to:",
+      "options": {
+        "A": "Surgical incision",
+        "B": "Laryngoscopy and intubation",
+        "C": "Extubation",
+        "D": "Positioning"
+      },
+      "answer": "B",
+      "explanation": "Sufentanil is the agent of choice for inhibiting stress response to laryngoscopy and intubation."
+    },
+    {
+      "id": 76,
+      "question": "Remifentanil is the opioid of choice for:",
+      "options": {
+        "A": "Cancer pain",
+        "B": "Postoperative pain",
+        "C": "Day care surgery",
+        "D": "Chronic pain"
+      },
+      "answer": "C",
+      "explanation": "Remifentanil is the opioid of choice for day care surgery."
+    },
+    {
+      "id": 77,
+      "question": "Dexmedetomidine is a new:",
+      "options": {
+        "A": "α1 agonist",
+        "B": "β1 agonist",
+        "C": "α2 agonist",
+        "D": "β2 agonist"
+      },
+      "answer": "C",
+      "explanation": "Dexmedetomidine is a new α2 agonist which is frequently used in anesthetic practice."
+    },
+    {
+      "id": 78,
+      "question": "The ideal muscle relaxant for intubation due to early onset and short duration is:",
+      "options": {
+        "A": "Rocuronium",
+        "B": "Vecuronium",
+        "C": "Succinylcholine",
+        "D": "Atracurium"
+      },
+      "answer": "C",
+      "explanation": "Because of early onset and short duration Succinylcholine is the ideal muscle relaxant for intubation."
+    },
+    {
+      "id": 79,
+      "question": "The most prominent effect of suxamethonium is:",
+      "options": {
+        "A": "Bradycardia",
+        "B": "Hyperkalemia",
+        "C": "Hypotension",
+        "D": "Bronchospasm"
+      },
+      "answer": "B",
+      "explanation": "Hyperkalemia is the most prominent effect of suxamethonium."
+    },
+    {
+      "id": 80,
+      "question": "Succinylcholine is the most commonly implicated drug for:",
+      "options": {
+        "A": "Anaphylaxis",
+        "B": "Bronchospasm",
+        "C": "Malignant hyperthermia",
+        "D": "Hepatotoxicity"
+      },
+      "answer": "C",
+      "explanation": "Succinylcholine is the most commonly implicated drug for malignant hyperthermia."
+    },
+    {
+      "id": 81,
+      "question": "Fading after suxamethonium is pathognomonic of:",
+      "options": {
+        "A": "Phase I block",
+        "B": "Phase II block",
+        "C": "Dual block",
+        "D": "Normal response"
+      },
+      "answer": "B",
+      "explanation": "Fading after suxamethonium is pathognomonic of phase II block."
+    },
+    {
+      "id": 82,
+      "question": "The most cardiovascular stable muscle relaxant is:",
+      "options": {
+        "A": "Atracurium",
+        "B": "Pancuronium",
+        "C": "Vecuronium",
+        "D": "Rocuronium"
+      },
+      "answer": "C",
+      "explanation": "Vecuronium is most cardiovascular stable muscle relaxant."
+    },
+    {
+      "id": 83,
+      "question": "Rocuronium is the nondepolarizer of choice for:",
+      "options": {
+        "A": "Maintenance",
+        "B": "Day care surgery",
+        "C": "Intubation",
+        "D": "Hepatic failure"
+      },
+      "answer": "C",
+      "explanation": "Rocuronium is nondepolarizer of choice for intubation."
+    },
+    {
+      "id": 84,
+      "question": "Atracurium and cisatracurium are metabolized by Hoffman degradation making them the relaxant of choice for:",
+      "options": {
+        "A": "Day care surgery",
+        "B": "Cardiac surgery",
+        "C": "Hepatic and renal failure",
+        "D": "Neurosurgery"
+      },
+      "answer": "C",
+      "explanation": "Atracurium and cisatracurium are metabolized by Hoffman degradation making them relaxant of choice for hepatic and renal failure."
+    },
+    {
+      "id": 85,
+      "question": "Mivacurium is the muscle relaxant of choice for:",
+      "options": {
+        "A": "Cardiac surgery",
+        "B": "Neurosurgery",
+        "C": "Day care surgery",
+        "D": "Liver disease"
+      },
+      "answer": "C",
+      "explanation": "Mivacurium is the muscle relaxant of choice for day care surgery."
+    },
+    {
+      "id": 86,
+      "question": "Sugammadex can rapidly reverse the block by steroidal nondepolarizers but CANNOT reverse:",
+      "options": {
+        "A": "Rocuronium",
+        "B": "Vecuronium",
+        "C": "Benzylisoquinoline compounds",
+        "D": "Pancuronium"
+      },
+      "answer": "C",
+      "explanation": "Sugammadex rapidly and completely reverses the block by steroidal type of nondepolarizers but cannot reverse benzylisoquinoline compounds."
+    },
+    {
+      "id": 87,
+      "question": "Train of four ratio that guarantees recovery from neuromuscular block is:",
+      "options": {
+        "A": "> 0.7",
+        "B": "> 0.8",
+        "C": "> 0.9",
+        "D": "> 0.95"
+      },
+      "answer": "C",
+      "explanation": "Train of four ratio > 0.9 guarantees recovery."
+    },
+    {
+      "id": 88,
+      "question": "More than 80% of cardiac arrest occurs at the time of:",
+      "options": {
+        "A": "Maintenance",
+        "B": "Recovery",
+        "C": "Induction",
+        "D": "Premedication"
+      },
+      "answer": "C",
+      "explanation": "Maximum complications are reported in maintenance period however more than 80% of cardiac arrest occurs at the time of induction."
+    },
+    {
+      "id": 89,
+      "question": "The most common cause of anesthesia related death in perioperative period is:",
+      "options": {
+        "A": "Cardiac arrest",
+        "B": "Postoperative respiratory depression",
+        "C": "Anaphylaxis",
+        "D": "Malignant hyperthermia"
+      },
+      "answer": "B",
+      "explanation": "Postoperative respiratory depression has been cited as the most common cause of anesthesia related death in perioperative period."
+    },
+    {
+      "id": 90,
+      "question": "The single most important predisposing factor for aspiration is:",
+      "options": {
+        "A": "Obesity",
+        "B": "Full stomach",
+        "C": "Hiatal hernia",
+        "D": "Pregnancy"
+      },
+      "answer": "B",
+      "explanation": "Full stomach is the single most important predisposing factor for aspiration."
+    },
+    {
+      "id": 91,
+      "question": "The most common postoperative pulmonary complication is:",
+      "options": {
+        "A": "Pneumonia",
+        "B": "Atelectasis",
+        "C": "Pulmonary embolism",
+        "D": "Bronchospasm"
+      },
+      "answer": "B",
+      "explanation": "Atelectasis is the most common postoperative pulmonary complication and the most common cause of atelectasis is secretions."
+    },
+    {
+      "id": 92,
+      "question": "The most common cause of laryngospasm in anesthesia is:",
+      "options": {
+        "A": "Light anesthesia",
+        "B": "Extubation",
+        "C": "Secretions",
+        "D": "Blood in airway"
+      },
+      "answer": "C",
+      "explanation": "Secretions is the most common cause of laryngospasm in anesthesia."
+    },
+    {
+      "id": 93,
+      "question": "The most common arrhythmia seen in the perioperative period is:",
+      "options": {
+        "A": "Bradycardia",
+        "B": "Tachycardia",
+        "C": "Atrial fibrillation",
+        "D": "Ventricular ectopics"
+      },
+      "answer": "B",
+      "explanation": "Tachycardia is the most common arrhythmia seen in perioperative period."
+    },
+    {
+      "id": 94,
+      "question": "The most common cause of hypotension in the perioperative period is:",
+      "options": {
+        "A": "Anesthetic overdose",
+        "B": "Intravascular volume depletion",
+        "C": "Cardiac failure",
+        "D": "Vasodilation"
+      },
+      "answer": "B",
+      "explanation": "The most common cause of hypotension in perioperative period is intravascular volume depletion."
+    },
+    {
+      "id": 95,
+      "question": "The most common postoperative nerve injury associated with general anesthesia is:",
+      "options": {
+        "A": "Ulnar nerve",
+        "B": "Brachial plexus injury",
+        "C": "Common peroneal nerve",
+        "D": "Radial nerve"
+      },
+      "answer": "B",
+      "explanation": "Brachial plexus injuries are the most common postoperative nerve injury associated with general anesthesia followed by ulnar nerve."
+    },
+    {
+      "id": 96,
+      "question": "Pain is the most common complication in the:",
+      "options": {
+        "A": "Intraoperative period",
+        "B": "Preoperative period",
+        "C": "Postoperative period",
+        "D": "Induction period"
+      },
+      "answer": "C",
+      "explanation": "Pain is the most common complication is postoperative period."
+    },
+    {
+      "id": 97,
+      "question": "Muscle relaxants are the most common cause of anaphylaxis in anesthesia, followed by:",
+      "options": {
+        "A": "Antibiotics",
+        "B": "Latex allergy",
+        "C": "Propofol",
+        "D": "Opioids"
+      },
+      "answer": "B",
+      "explanation": "Muscle relaxants are the most common cause of anaphylaxis followed by latex allergy."
+    },
+    {
+      "id": 98,
+      "question": "Cautery is responsible for what percentage of fires seen in OT?",
+      "options": {
+        "A": "50%",
+        "B": "68%",
+        "C": "80%",
+        "D": "45%"
+      },
+      "answer": "B",
+      "explanation": "Cautery is responsible for 68% of fires seen in OT."
+    },
+    {
+      "id": 99,
+      "question": "Hyperkalemia induced ventricular fibrillation is the most common cause of death in:",
+      "options": {
+        "A": "Anaphylaxis",
+        "B": "Hemorrhagic shock",
+        "C": "Malignant hyperthermia",
+        "D": "Cardiac surgery"
+      },
+      "answer": "C",
+      "explanation": "Hyperkalemia induced ventricular fibrillation is the most common cause of death in malignant hyperthermia."
+    },
+    {
+      "id": 100,
+      "question": "Chloroprocaine is the shortest acting local anesthetic, and the longest acting is:",
+      "options": {
+        "A": "Bupivacaine",
+        "B": "Ropivacaine",
+        "C": "Dibucaine",
+        "D": "Tetracaine"
+      },
+      "answer": "C",
+      "explanation": "Chloroprocaine is the shortest acting and dibucaine is the longest acting local anesthetic."
+    },
+    {
+      "id": 101,
+      "question": "Maximum systemic absorption of local anesthetic has been seen after:",
+      "options": {
+        "A": "Epidural block",
+        "B": "Brachial plexus block",
+        "C": "Intercostal nerve block",
+        "D": "Femoral nerve block"
+      },
+      "answer": "C",
+      "explanation": "Maximum systemic absorption has been seen after intercostal nerve block."
+    },
+    {
+      "id": 102,
+      "question": "The first system involved in local anesthetic toxicity is:",
+      "options": {
+        "A": "Cardiovascular system",
+        "B": "Respiratory system",
+        "C": "Central nervous system",
+        "D": "Renal system"
+      },
+      "answer": "C",
+      "explanation": "Central nervous system is the first system involved in local anesthetic toxicity."
+    },
+    {
+      "id": 103,
+      "question": "All local anesthetics at clinically used doses are vasodilators EXCEPT:",
+      "options": {
+        "A": "Lignocaine, bupivacaine, ropivacaine",
+        "B": "Cocaine, levobupivacaine, ropivacaine",
+        "C": "Prilocaine, lignocaine, mepivacaine",
+        "D": "Procaine, tetracaine, benzocaine"
+      },
+      "answer": "B",
+      "explanation": "At clinically used doses all local anesthetics are vasodilators except cocaine, levobupivacaine and ropivacaine."
+    },
+    {
+      "id": 104,
+      "question": "Methemoglobinemia is usually seen with:",
+      "options": {
+        "A": "Lignocaine",
+        "B": "Bupivacaine",
+        "C": "Prilocaine",
+        "D": "Ropivacaine"
+      },
+      "answer": "C",
+      "explanation": "Methemoglobinemia is usually seen with prilocaine however benzocaine can also cause methemoglobinemia."
+    },
+    {
+      "id": 105,
+      "question": "Maximum safe dose of lignocaine without adrenaline is:",
+      "options": {
+        "A": "3 mg/kg",
+        "B": "4.5 mg/kg (max 300 mg)",
+        "C": "7 mg/kg",
+        "D": "5 mg/kg"
+      },
+      "answer": "B",
+      "explanation": "Maximum safe dose of lignocaine without adrenaline is 4.5 mg/kg (maximum 300 mg) while with adrenaline it is 7 mg/kg (maximum 500 mg)."
+    },
+    {
+      "id": 106,
+      "question": "Because of high cardiotoxicity, which drug is absolutely contraindicated for Bier's block?",
+      "options": {
+        "A": "Lignocaine",
+        "B": "Prilocaine",
+        "C": "Bupivacaine",
+        "D": "Ropivacaine"
+      },
+      "answer": "C",
+      "explanation": "Because of high cardiotoxicity bupivacaine is absolutely contraindicated for Bier's block."
+    },
+    {
+      "id": 107,
+      "question": "The drug of choice for treatment of bupivacaine-induced ventricular tachycardia is:",
+      "options": {
+        "A": "Lidocaine",
+        "B": "Amiodarone",
+        "C": "Magnesium",
+        "D": "Verapamil"
+      },
+      "answer": "B",
+      "explanation": "Amiodarone now a days is considered as drug of choice for the treatment of bupivacaine (and other local anesthetic) induced ventricular tachycardia."
+    },
+    {
+      "id": 108,
+      "question": "For spinal and epidural anesthesia, which preparations should be used?",
+      "options": {
+        "A": "Preparations with adrenaline",
+        "B": "Preparations with preservatives",
+        "C": "Preservative free preparations",
+        "D": "Hypertonic preparations only"
+      },
+      "answer": "C",
+      "explanation": "For spinal and epidural anesthesia preservative free preparations should be used."
+    },
+    {
+      "id": 109,
+      "question": "The use of ultrasound has revolutionized the practice of:",
+      "options": {
+        "A": "General anesthesia",
+        "B": "Spinal anesthesia",
+        "C": "Nerve blocks",
+        "D": "Epidural anesthesia"
+      },
+      "answer": "C",
+      "explanation": "The use of ultrasound has not only made the nerve blocks technically easy but also has improved the precision."
+    },
+    {
+      "id": 110,
+      "question": "Ulnar nerve is usually spared with which approach of brachial plexus block?",
+      "options": {
+        "A": "Supraclavicular",
+        "B": "Axillary",
+        "C": "Infraclavicular",
+        "D": "Interscalene"
+      },
+      "answer": "D",
+      "explanation": "Ulnar nerve is usually spared with interscalene approach while musculocutaneous is usually spared with axillary approach."
+    },
+    {
+      "id": 111,
+      "question": "The most bothersome complication of supraclavicular block is:",
+      "options": {
+        "A": "Hematoma",
+        "B": "Phrenic nerve block",
+        "C": "Pneumothorax",
+        "D": "Horner's syndrome"
+      },
+      "answer": "C",
+      "explanation": "The most bothersome complication of supraclavicular block is pneumothorax."
+    },
+    {
+      "id": 112,
+      "question": "Cervical plexus block is best utilized for:",
+      "options": {
+        "A": "Shoulder surgery",
+        "B": "Thyroidectomy",
+        "C": "Carotid endarterectomy",
+        "D": "Neck dissection"
+      },
+      "answer": "C",
+      "explanation": "Cervical plexus block is best utilized for carotid endarterectomy."
+    },
+    {
+      "id": 113,
+      "question": "The line joining the highest point on iliac crest corresponds to:",
+      "options": {
+        "A": "L2 and L3 interspace",
+        "B": "L3 and L4 interspace",
+        "C": "L4 and L5 interspace or L4 spine",
+        "D": "L5 and S1 interspace"
+      },
+      "answer": "C",
+      "explanation": "The line joining the highest point on iliac crest corresponds to L4 and L5 interspace or L4 spine."
+    },
+    {
+      "id": 114,
+      "question": "Spinal cord extends to lower border of which vertebra in adults?",
+      "options": {
+        "A": "L1",
+        "B": "L2",
+        "C": "L3",
+        "D": "T12"
+      },
+      "answer": "A",
+      "explanation": "Spinal cord extends from medulla oblongata to lower border of L1 in adults and L3 in infants."
+    },
+    {
+      "id": 115,
+      "question": "The sequence of blockade after central neuraxial block is:",
+      "options": {
+        "A": "Motor > sensory > autonomic",
+        "B": "Sensory > autonomic > motor",
+        "C": "Autonomic > sensory > motor",
+        "D": "Motor > autonomic > sensory"
+      },
+      "answer": "C",
+      "explanation": "The sequence of blockade after CNB is autonomic > sensory > motor."
+    },
+    {
+      "id": 116,
+      "question": "The most common complication of spinal anesthesia is:",
+      "options": {
+        "A": "Headache",
+        "B": "Urinary retention",
+        "C": "Hypotension",
+        "D": "Nausea"
+      },
+      "answer": "C",
+      "explanation": "Hypotension is the most common complication of spinal anesthesia."
+    },
+    {
+      "id": 117,
+      "question": "The most common cause of nausea and vomiting during spinal anesthesia is:",
+      "options": {
+        "A": "Vagal stimulation",
+        "B": "Drug side effect",
+        "C": "Hypotension",
+        "D": "High block"
+      },
+      "answer": "C",
+      "explanation": "The most common cause of nausea and vomiting is hypotension."
+    },
+    {
+      "id": 118,
+      "question": "The most commonly used drug for spinal anesthesia is:",
+      "options": {
+        "A": "Lignocaine",
+        "B": "Hyperbaric bupivacaine",
+        "C": "Ropivacaine",
+        "D": "Chloroprocaine"
+      },
+      "answer": "B",
+      "explanation": "Hyperbaric bupivacaine is the most commonly used drug for spinal."
+    },
+    {
+      "id": 119,
+      "question": "The most preferred vasopressor for treatment of spinal hypotension is:",
+      "options": {
+        "A": "Phenylephrine",
+        "B": "Noradrenaline",
+        "C": "Ephedrine",
+        "D": "Dopamine"
+      },
+      "answer": "C",
+      "explanation": "Ephedrine is the most preferred vasopressor for the treatment of spinal hypotension."
+    },
+    {
+      "id": 120,
+      "question": "The drug of choice for treatment of shivering is:",
+      "options": {
+        "A": "Morphine",
+        "B": "Tramadol",
+        "C": "Pethidine",
+        "D": "Fentanyl"
+      },
+      "answer": "C",
+      "explanation": "The drug of choice for treatment of shivering is pethidine."
+    },
+    {
+      "id": 121,
+      "question": "Postural relation (pain in sitting/standing, relieved by lying down) is diagnostic of:",
+      "options": {
+        "A": "Migraine",
+        "B": "Tension headache",
+        "C": "Post-spinal headache",
+        "D": "Meningitis"
+      },
+      "answer": "C",
+      "explanation": "Postural relation, i.e. pain in sitting and standing position and getting relieved in lying down is diagnostic of postspinal headache."
+    },
+    {
+      "id": 122,
+      "question": "The most commonly involved cranial nerve after spinal anesthesia is:",
+      "options": {
+        "A": "3rd",
+        "B": "4th",
+        "C": "6th",
+        "D": "7th"
+      },
+      "answer": "C",
+      "explanation": "6th is most commonly involved cranial nerve after spinal anesthesia."
+    },
+    {
+      "id": 123,
+      "question": "The most common organism responsible for meningitis after spinal is:",
+      "options": {
+        "A": "Staphylococcus aureus",
+        "B": "Streptococcus viridans",
+        "C": "E. coli",
+        "D": "Pseudomonas"
+      },
+      "answer": "B",
+      "explanation": "Streptococcus viridans has been cited as the most common organism responsible for meningitis after spinal while Staphylococcus epidermidis is the most common organism responsible for meningitis after epidural."
+    },
+    {
+      "id": 124,
+      "question": "Transient neurological symptoms and cauda equina syndrome led to almost elimination of which drug for spinal?",
+      "options": {
+        "A": "Bupivacaine",
+        "B": "Lignocaine",
+        "C": "Ropivacaine",
+        "D": "Prilocaine"
+      },
+      "answer": "B",
+      "explanation": "Transient neurological symptoms and cauda equina syndrome lead to almost elimination of lignocaine for spinal."
+    },
+    {
+      "id": 125,
+      "question": "The most commonly used needle for epidural is:",
+      "options": {
+        "A": "Quincke needle",
+        "B": "Sprotte needle",
+        "C": "Whitacre needle",
+        "D": "Tuohy needle"
+      },
+      "answer": "D",
+      "explanation": "The most commonly used needle for epidural is Tuohy needle and most commonly used method to locate epidural space is by loss of resistance technique."
+    },
+    {
+      "id": 126,
+      "question": "The most commonly used combination for postoperative analgesia and painless labor via epidural is:",
+      "options": {
+        "A": "Morphine + lignocaine",
+        "B": "Fentanyl + bupivacaine or ropivacaine",
+        "C": "Tramadol + bupivacaine",
+        "D": "Pethidine + prilocaine"
+      },
+      "answer": "B",
+      "explanation": "Fentanyl + bupivacaine or ropivacaine as continuous infusion is the most commonly used combination for postoperative analgesia and painless labor."
+    },
+    {
+      "id": 127,
+      "question": "It is considered safe to give CNB how many hours after last dose of LMWH?",
+      "options": {
+        "A": "6 hours",
+        "B": "8 hours",
+        "C": "12 hours",
+        "D": "24 hours"
+      },
+      "answer": "C",
+      "explanation": "It is considered safe to give central neuraxial block 12 hours after last dose of LMWH and LMWH can be given safely 6 hours after central neuraxial blocks."
+    },
+    {
+      "id": 128,
+      "question": "Patients with platelet count more than which value can safely receive CNB?",
+      "options": {
+        "A": "50,000/cubic mm",
+        "B": "80,000/cubic mm",
+        "C": "100,000/cubic mm",
+        "D": "150,000/cubic mm"
+      },
+      "answer": "B",
+      "explanation": "Patients with platelet count more than 80,000/cubic mm can be safely given central neuraxial blocks."
+    },
+    {
+      "id": 129,
+      "question": "CNB should be delayed for how many days after clopidogrel?",
+      "options": {
+        "A": "3 days",
+        "B": "5 days",
+        "C": "7 days",
+        "D": "10 days"
+      },
+      "answer": "C",
+      "explanation": "CNB should be delayed for 7 days after clopidogrel."
+    },
+    {
+      "id": 130,
+      "question": "Pin index system prevents wrong fitting of:",
+      "options": {
+        "A": "Central supply pipe lines",
+        "B": "Cylinders",
+        "C": "Flowmeters",
+        "D": "Vaporizers"
+      },
+      "answer": "B",
+      "explanation": "Pin index system is to prevent the wrong fitting of cylinders while diameter index safety system is to prevent the wrong fitting of central supply pipe lines."
+    },
+    {
+      "id": 131,
+      "question": "Aladin cassette vaporizer can be used to deliver:",
+      "options": {
+        "A": "Only sevoflurane",
+        "B": "Only desflurane",
+        "C": "All inhalational agents",
+        "D": "Only isoflurane"
+      },
+      "answer": "C",
+      "explanation": "Aladin cassette vaporizer is the latest vaporizer, which can be used to deliver all inhalational agents."
+    },
+    {
+      "id": 132,
+      "question": "The most commonly used video laryngoscope is:",
+      "options": {
+        "A": "GlideScope",
+        "B": "McGrath",
+        "C": "C-MAC",
+        "D": "King Vision"
+      },
+      "answer": "C",
+      "explanation": "Most commonly used video laryngoscopes is C-MAC."
+    },
+    {
+      "id": 133,
+      "question": "Definitive airway management devices include:",
+      "options": {
+        "A": "LMA and oropharyngeal airway",
+        "B": "Endotracheal tube and tracheostomy",
+        "C": "Nasopharyngeal airway and LMA",
+        "D": "Combitube and LMA"
+      },
+      "answer": "B",
+      "explanation": "Definitive airway management devices includes endotracheal tube and tracheostomy."
+    },
+    {
+      "id": 134,
+      "question": "Clear fluids can be given up to how many hours before surgery?",
+      "options": {
+        "A": "4 hours",
+        "B": "6 hours",
+        "C": "2 hours",
+        "D": "1 hour"
+      },
+      "answer": "C",
+      "explanation": "For solid food 8 hours of fasting is must while clear fluids can be given up to 2 hours."
+    },
+    {
+      "id": 135,
+      "question": "Herbal medications should be stopped how long before surgery?",
+      "options": {
+        "A": "3 days",
+        "B": "5 days",
+        "C": "7 days",
+        "D": "10 days"
+      },
+      "answer": "C",
+      "explanation": "All herbal medications should be stopped 7 days before surgery."
+    },
+    {
+      "id": 136,
+      "question": "Co-oximeters can differentiate between:",
+      "options": {
+        "A": "Arterial and venous blood",
+        "B": "Normal and abnormal hemoglobin",
+        "C": "Oxygenated and deoxygenated blood",
+        "D": "Adult and fetal hemoglobin"
+      },
+      "answer": "B",
+      "explanation": "Co-oximeters are the special type of oximeters which can differentiate between normal and abnormal hemoglobin."
+    },
+    {
+      "id": 137,
+      "question": "Temperature should be monitored in patients receiving GA lasting more than:",
+      "options": {
+        "A": "15 minutes",
+        "B": "30 minutes",
+        "C": "60 minutes",
+        "D": "90 minutes"
+      },
+      "answer": "B",
+      "explanation": "Temperature should be monitored in patients receiving general anesthesia >30 minutes and in all patients whose surgery lasts > 1 hour."
+    },
+    {
+      "id": 138,
+      "question": "Fading, post-tetanic facilitation and post-tetanic count are only exhibited by:",
+      "options": {
+        "A": "Depolarizing muscle relaxants",
+        "B": "Non-depolarizing muscle relaxants",
+        "C": "Both types",
+        "D": "Neither type"
+      },
+      "answer": "B",
+      "explanation": "Fading, post-tetanic facilitation and post-tetanic count are only exhibited by non-depolarizing muscle relaxants."
+    },
+    {
+      "id": 139,
+      "question": "Children are prone for fluid overload and should receive what fraction of calculated dose?",
+      "options": {
+        "A": "Half",
+        "B": "Two-thirds",
+        "C": "Three-fourths",
+        "D": "Full dose"
+      },
+      "answer": "B",
+      "explanation": "Children are prone for fluid overload therefore should receive 2/3rd of the calculated dose."
+    },
+    {
+      "id": 140,
+      "question": "The most widely used technique for autologous blood donation is:",
+      "options": {
+        "A": "Preoperative donation",
+        "B": "Cell salvage",
+        "C": "Normovolemic/isovolemic hemodilution",
+        "D": "Acute hypervolemic hemodilution"
+      },
+      "answer": "C",
+      "explanation": "Normovolemic/isovolemic hemodilution is the most widely used technique for autologous blood donation."
+    },
+    {
+      "id": 141,
+      "question": "Ondansetron/Granisetron remains the drugs of choice for:",
+      "options": {
+        "A": "Postoperative pain",
+        "B": "Postoperative nausea and vomiting",
+        "C": "Bronchospasm",
+        "D": "Shivering"
+      },
+      "answer": "B",
+      "explanation": "Ondansetron/Granisetron remains the drugs of choice for treatment as well as prophylaxis for postoperative nausea and vomiting."
+    },
+    {
+      "id": 142,
+      "question": "Propofol and non-depolarizing muscle relaxants can delay or prevent:",
+      "options": {
+        "A": "Anaphylaxis",
+        "B": "Laryngospasm",
+        "C": "Malignant hyperthermia",
+        "D": "Bronchospasm"
+      },
+      "answer": "C",
+      "explanation": "Propofol and non-depolarizing muscle relaxants can delay or prevent malignant hyperthermia."
+    },
+    {
+      "id": 143,
+      "question": "Allergic reactions are common with ester local anesthetics but rare with:",
+      "options": {
+        "A": "All local anesthetics",
+        "B": "Amides",
+        "C": "Cocaine",
+        "D": "Topical agents"
+      },
+      "answer": "B",
+      "explanation": "Allergic reactions are common with esters but rare with amides."
+    },
+    {
+      "id": 144,
+      "question": "Local anesthetics with adrenaline should NOT be used for ring block of fingers, toes, penis or pinna because:",
+      "options": {
+        "A": "They cause allergy",
+        "B": "They are ineffective at these sites",
+        "C": "These structures have end arteries and necrosis can occur",
+        "D": "They are too painful"
+      },
+      "answer": "C",
+      "explanation": "Local anesthetics with adrenaline can cause necrosis and gangrene if used for ring block of fingers, toes, penis or pinna because these structures have end arteries."
+    },
+    {
+      "id": 145,
+      "question": "Gallamine is the only nondepolarizer which is absolutely contraindicated in pregnancy because:",
+      "options": {
+        "A": "It causes uterine relaxation",
+        "B": "It can cross the placenta",
+        "C": "It causes fetal bradycardia",
+        "D": "It increases uterine tone"
+      },
+      "answer": "B",
+      "explanation": "Gallamine is the only nondepolarizer which can cross the placenta therefore absolutely contraindicated in pregnancy."
+    },
+    {
+      "id": 146,
+      "question": "Onset of a nondepolarizer is inversely proportional to:",
+      "options": {
+        "A": "Duration",
+        "B": "Dose",
+        "C": "Potency",
+        "D": "Metabolism"
+      },
+      "answer": "C",
+      "explanation": "Onset of a nondepolarizer is inversely proportional to potency."
+    },
+    {
+      "id": 147,
+      "question": "Rapid sequence induction technique must be employed for patients at high risk of:",
+      "options": {
+        "A": "Hypertension",
+        "B": "Aspiration",
+        "C": "Bronchospasm",
+        "D": "Arrhythmias"
+      },
+      "answer": "B",
+      "explanation": "Rapid sequence induction technique must be employed for giving GA to the patients who are at high risk of aspiration."
+    },
+    {
+      "id": 148,
+      "question": "Nitroglycerin as continuous infusion is the most commonly used agent to produce:",
+      "options": {
+        "A": "Controlled tachycardia",
+        "B": "Controlled hypotension",
+        "C": "Controlled hypertension",
+        "D": "Controlled bradycardia"
+      },
+      "answer": "B",
+      "explanation": "Nitroglycerin as continuous infusion is the most commonly used agent to produce controlled hypotension."
+    },
+    {
+      "id": 149,
+      "question": "Apnea after spinal anesthesia is usually due to:",
+      "options": {
+        "A": "High block reaching phrenic nerve",
+        "B": "Respiratory center depression",
+        "C": "Severe hypotension",
+        "D": "Drug allergy"
+      },
+      "answer": "C",
+      "explanation": "Apnea after spinal anesthesia is usually due to severe hypotension."
+    },
+    {
+      "id": 150,
+      "question": "The most common thermal perturbation seen during anesthesia is:",
+      "options": {
+        "A": "Hyperthermia",
+        "B": "Hypothermia",
+        "C": "Normothermia",
+        "D": "Malignant hyperthermia"
+      },
+      "answer": "B",
+      "explanation": "Hypothermia is the most common thermal perturbation seen during anesthesia."
+    }
+  ]
+}

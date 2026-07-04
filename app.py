@@ -314,6 +314,12 @@ QUIZ_CATALOG = {
         "short": "Cardiorespiratory + Mixed (150Q)",
         "icon": "🫀",
     },
+    "keypoints_ch1_to_17": {
+        "file": "questions_keypoints_ch1_to_17.json",
+        "label": "Key Points – Chapters 1 to 17 (Ajay Yadav) [150 Qs / 90 min]",
+        "short": "Key Points Ch 1–17 (150Q)",
+        "icon": "🔑",
+    },
 }
 
 # ─── Load Questions ──────────────────────────────────────────────────────────
