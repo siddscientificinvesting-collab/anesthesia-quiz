@@ -320,6 +320,12 @@ QUIZ_CATALOG = {
         "short": "Key Points Ch 1–17 (150Q)",
         "icon": "🔑",
     },
+    "keypoints_all_200": {
+        "file": "questions_keypoints_all_chapters_200.json",
+        "label": "Key Points – All Chapters Mixed (200 Qs / 90 min)",
+        "short": "Key Points All Ch (200Q)",
+        "icon": "🔑",
+    },
 }
 
 # ─── Load Questions ──────────────────────────────────────────────────────────
