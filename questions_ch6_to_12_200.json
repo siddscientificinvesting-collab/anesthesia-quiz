@@ -1,0 +1,2409 @@
+{
+  "title": "MCQ – Chapters 6 to 12 Mixed (200 Questions)",
+  "source": "Short Textbook of Anesthesia – Ajay Yadav (6th Edition) – Chapters 6–12",
+  "section": "Monitoring, Fluids, History, GA Intro, Inhalational Agents, Gases, IV Anesthetics",
+  "total_questions": 200,
+  "time_limit_minutes": 90,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which is the most commonly used IV anesthetic for induction in current day practice?",
+      "options": {
+        "A": "Thiopentone",
+        "B": "Ketamine",
+        "C": "Propofol",
+        "D": "Etomidate"
+      },
+      "answer": "C",
+      "chapter": 12
+    },
+    {
+      "id": 2,
+      "question": "Which inhalational agent has the lowest blood gas partition coefficient among agents in current use?",
+      "options": {
+        "A": "Sevoflurane",
+        "B": "Desflurane",
+        "C": "Isoflurane",
+        "D": "Halothane"
+      },
+      "answer": "B",
+      "chapter": 10
+    },
+    {
+      "id": 3,
+      "question": "Invasive blood pressure monitoring is considered as:",
+      "options": {
+        "A": "Optional monitoring method",
+        "B": "Second line method after NIBP",
+        "C": "Gold standard monitoring of blood pressure",
+        "D": "Only for pediatric patients"
+      },
+      "answer": "C",
+      "chapter": 6
+    },
+    {
+      "id": 4,
+      "question": "What is the ratio for crystalloid replacement to intravascular volume loss?",
+      "options": {
+        "A": "1:1",
+        "B": "1.5:1",
+        "C": "2:1",
+        "D": "3:1"
+      },
+      "answer": "B",
+      "chapter": 7
+    },
+    {
+      "id": 5,
+      "question": "The first public demonstration of ether anesthesia was given by:",
+      "options": {
+        "A": "Humphry Davy",
+        "B": "Horace Wells",
+        "C": "John Snow",
+        "D": "WTG Morton"
+      },
+      "answer": "D",
+      "chapter": 8
+    },
+    {
+      "id": 6,
+      "question": "What are the basic components (TRIAD) of general anesthesia?",
+      "options": {
+        "A": "Narcosis, Analgesia, Muscle relaxation",
+        "B": "Sedation, Amnesia, Analgesia",
+        "C": "Hypnosis, Relaxation, Amnesia",
+        "D": "Unconsciousness, Immobility, Analgesia"
+      },
+      "answer": "A",
+      "chapter": 9
+    },
+    {
+      "id": 7,
+      "question": "Which type of hypoxia does NOT respond to oxygen therapy?",
+      "options": {
+        "A": "Hypoxic hypoxia",
+        "B": "Anemic hypoxia",
+        "C": "Stagnant hypoxia",
+        "D": "Histotoxic hypoxia"
+      },
+      "answer": "D",
+      "chapter": 11
+    },
+    {
+      "id": 8,
+      "question": "The elimination half-life of Thiopentone is 10.4 hours but consciousness is regained after 15–20 minutes due to:",
+      "options": {
+        "A": "Rapid metabolism",
+        "B": "Renal excretion",
+        "C": "Redistribution",
+        "D": "Protein binding"
+      },
+      "answer": "C",
+      "chapter": 12
+    },
+    {
+      "id": 9,
+      "question": "Which is the most preferred fluid for both maintenance and replacement?",
+      "options": {
+        "A": "Normal saline",
+        "B": "Plasmalyte",
+        "C": "Ringer lactate",
+        "D": "5% Dextrose"
+      },
+      "answer": "C",
+      "chapter": 7
+    },
+    {
+      "id": 10,
+      "question": "The surest technique to confirm endotracheal intubation is:",
+      "options": {
+        "A": "Auscultation",
+        "B": "Chest X-ray",
+        "C": "Pulse oximetry",
+        "D": "Capnography"
+      },
+      "answer": "D",
+      "chapter": 6
+    },
+    {
+      "id": 11,
+      "question": "Which inhalational agent is the most potent among agents used nowadays?",
+      "options": {
+        "A": "Halothane",
+        "B": "Isoflurane",
+        "C": "Sevoflurane",
+        "D": "Desflurane"
+      },
+      "answer": "A",
+      "chapter": 10
+    },
+    {
+      "id": 12,
+      "question": "The term 'balanced anesthesia' was coined by:",
+      "options": {
+        "A": "Oliver Wendell Holmes",
+        "B": "John Lundy and Ralph Waters",
+        "C": "Edmund Gaskin Boyle",
+        "D": "Harold Griffith"
+      },
+      "answer": "B",
+      "chapter": 8
+    },
+    {
+      "id": 13,
+      "question": "Which IV agent is the most cardiovascular stable?",
+      "options": {
+        "A": "Propofol",
+        "B": "Thiopentone",
+        "C": "Ketamine",
+        "D": "Etomidate"
+      },
+      "answer": "D",
+      "chapter": 12
+    },
+    {
+      "id": 14,
+      "question": "BIS (Bispectral Index) score indicating adequate depth of anesthesia is:",
+      "options": {
+        "A": "25–40",
+        "B": "45–60",
+        "C": "60–80",
+        "D": "80–100"
+      },
+      "answer": "B",
+      "chapter": 6
+    },
+    {
+      "id": 15,
+      "question": "DIC is the most common cause of death after:",
+      "options": {
+        "A": "Single unit transfusion",
+        "B": "Platelet transfusion",
+        "C": "Massive blood transfusion",
+        "D": "Fresh frozen plasma"
+      },
+      "answer": "C",
+      "chapter": 7
+    },
+    {
+      "id": 16,
+      "question": "Sevoflurane reacting with sodalime can produce:",
+      "options": {
+        "A": "Carbon monoxide",
+        "B": "Phosgene",
+        "C": "Compound A",
+        "D": "Dichloroacetylene"
+      },
+      "answer": "C",
+      "chapter": 10
+    },
+    {
+      "id": 17,
+      "question": "First spinal anesthesia in human beings was given by:",
+      "options": {
+        "A": "Carl Koller",
+        "B": "August Beir",
+        "C": "J Leonard Corning",
+        "D": "Cathelin and Sicard"
+      },
+      "answer": "B",
+      "chapter": 8
+    },
+    {
+      "id": 18,
+      "question": "Cyanosis appears when reduced Hb level is more than:",
+      "options": {
+        "A": "3 g/dL",
+        "B": "5 g/dL",
+        "C": "7 g/dL",
+        "D": "10 g/dL"
+      },
+      "answer": "B",
+      "chapter": 11
+    },
+    {
+      "id": 19,
+      "question": "Which is the most potent analgesic among IV agents?",
+      "options": {
+        "A": "Propofol",
+        "B": "Etomidate",
+        "C": "Thiopentone",
+        "D": "Ketamine"
+      },
+      "answer": "D",
+      "chapter": 12
+    },
+    {
+      "id": 20,
+      "question": "The most commonly used muscle for neuromuscular monitoring is:",
+      "options": {
+        "A": "Orbicularis oculi",
+        "B": "Corrugator supercilii",
+        "C": "Adductor pollicis",
+        "D": "Flexor hallucis"
+      },
+      "answer": "C",
+      "chapter": 6
+    },
+    {
+      "id": 21,
+      "question": "One unit of blood/packed cells increases hemoglobin by:",
+      "options": {
+        "A": "0.5 g%",
+        "B": "0.8 g%",
+        "C": "1.0 g%",
+        "D": "1.5 g%"
+      },
+      "answer": "B",
+      "chapter": 7
+    },
+    {
+      "id": 22,
+      "question": "Which inhalational agent is the agent of choice for cardiac patients?",
+      "options": {
+        "A": "Halothane",
+        "B": "Sevoflurane",
+        "C": "Isoflurane",
+        "D": "Desflurane"
+      },
+      "answer": "C",
+      "chapter": 10
+    },
+    {
+      "id": 23,
+      "question": "The stage of surgical anesthesia (Guedel's stages) is:",
+      "options": {
+        "A": "Stage II Plane 2",
+        "B": "Stage III Plane 3",
+        "C": "Stage III Plane 1",
+        "D": "Stage IV Plane 1"
+      },
+      "answer": "B",
+      "chapter": 9
+    },
+    {
+      "id": 24,
+      "question": "Convulsions occurring after hyperbaric oxygen therapy is called:",
+      "options": {
+        "A": "Haldane effect",
+        "B": "Bohr effect",
+        "C": "Paul Bert effect",
+        "D": "Fink effect"
+      },
+      "answer": "C",
+      "chapter": 11
+    },
+    {
+      "id": 25,
+      "question": "The major side effect of etomidate is:",
+      "options": {
+        "A": "Hallucinations",
+        "B": "Adrenocortical suppression",
+        "C": "Raised ICP",
+        "D": "Histamine release"
+      },
+      "answer": "B",
+      "chapter": 12
+    },
+    {
+      "id": 26,
+      "question": "Train of four ratio guaranteeing recovery from neuromuscular block is:",
+      "options": {
+        "A": "> 0.5",
+        "B": "> 0.7",
+        "C": "> 0.9",
+        "D": "> 0.95"
+      },
+      "answer": "C",
+      "chapter": 6
+    },
+    {
+      "id": 27,
+      "question": "Which blood products are stored at room temperature?",
+      "options": {
+        "A": "Fresh frozen plasma",
+        "B": "Packed red cells",
+        "C": "Cryoprecipitate",
+        "D": "Platelets"
+      },
+      "answer": "D",
+      "chapter": 7
+    },
+    {
+      "id": 28,
+      "question": "MAC of nitrous oxide is:",
+      "options": {
+        "A": "50%",
+        "B": "70%",
+        "C": "104%",
+        "D": "140%"
+      },
+      "answer": "C",
+      "chapter": 10
+    },
+    {
+      "id": 29,
+      "question": "Who was the first to use 'curare' for muscle relaxation?",
+      "options": {
+        "A": "Harold Griffith",
+        "B": "Ivan Magill",
+        "C": "John Lundy",
+        "D": "Bovet"
+      },
+      "answer": "A",
+      "chapter": 8
+    },
+    {
+      "id": 30,
+      "question": "Thiopentone is absolutely contraindicated in:",
+      "options": {
+        "A": "Porphyria cutanea tarda",
+        "B": "Erythropoietic protoporphyria",
+        "C": "Acute intermittent porphyria",
+        "D": "Congenital erythropoietic porphyria"
+      },
+      "answer": "C",
+      "chapter": 12
+    },
+    {
+      "id": 31,
+      "question": "Hypothermia is the most common thermal perturbation seen during anesthesia. Each degree (°C) fall reduces metabolic rate by:",
+      "options": {
+        "A": "2 to 3%",
+        "B": "4 to 5%",
+        "C": "6 to 7%",
+        "D": "8 to 10%"
+      },
+      "answer": "C",
+      "chapter": 6
+    },
+    {
+      "id": 32,
+      "question": "The most common cause of mismatch transfusion is:",
+      "options": {
+        "A": "Rh incompatibility",
+        "B": "ABO incompatibility",
+        "C": "Kell system",
+        "D": "Duffy system"
+      },
+      "answer": "B",
+      "chapter": 7
+    },
+    {
+      "id": 33,
+      "question": "Which inhalational agent can produce vasopressin-resistant polyuric renal failure?",
+      "options": {
+        "A": "Halothane",
+        "B": "Sevoflurane",
+        "C": "Methoxyflurane",
+        "D": "Enflurane"
+      },
+      "answer": "C",
+      "chapter": 10
+    },
+    {
+      "id": 34,
+      "question": "Medical oxygen is prepared by:",
+      "options": {
+        "A": "Electrolysis of water",
+        "B": "Fractional distillation of air",
+        "C": "Chemical decomposition",
+        "D": "Catalytic cracking"
+      },
+      "answer": "B",
+      "chapter": 11
+    },
+    {
+      "id": 35,
+      "question": "Ketamine is the induction agent of choice for all EXCEPT:",
+      "options": {
+        "A": "Shock",
+        "B": "Full stomach",
+        "C": "Raised intracranial pressure",
+        "D": "Right to left shunts"
+      },
+      "answer": "C",
+      "chapter": 12
+    },
+    {
+      "id": 36,
+      "question": "Which leads are most preferred for ECG monitoring during anesthesia?",
+      "options": {
+        "A": "Lead I and aVL",
+        "B": "Lead II and V5",
+        "C": "Lead III and aVF",
+        "D": "Lead V1 and V6"
+      },
+      "answer": "B",
+      "chapter": 6
+    },
+    {
+      "id": 37,
+      "question": "The most widely used technique for autologous blood donation is:",
+      "options": {
+        "A": "Predonation",
+        "B": "Blood salvage",
+        "C": "Normovolemic hemodilution",
+        "D": "Cell saver"
+      },
+      "answer": "C",
+      "chapter": 7
+    },
+    {
+      "id": 38,
+      "question": "Diffusion hypoxia (Fink effect) occurs when:",
+      "options": {
+        "A": "Oxygen is stopped suddenly",
+        "B": "Nitrous oxide delivery is stopped suddenly",
+        "C": "Sevoflurane is discontinued",
+        "D": "Desflurane is discontinued"
+      },
+      "answer": "B",
+      "chapter": 10
+    },
+    {
+      "id": 39,
+      "question": "First local anesthetic used was cocaine by Carl Koller for anesthetizing:",
+      "options": {
+        "A": "Skin",
+        "B": "Cornea",
+        "C": "Nasal mucosa",
+        "D": "Oral mucosa"
+      },
+      "answer": "B",
+      "chapter": 8
+    },
+    {
+      "id": 40,
+      "question": "Preoxygenation replaces nitrogen in lungs (Denitrogenation) in how many minutes?",
+      "options": {
+        "A": "1 minute",
+        "B": "2 minutes",
+        "C": "3 minutes",
+        "D": "5 minutes"
+      },
+      "answer": "C",
+      "chapter": 9
+    },
+    {
+      "id": 41,
+      "question": "100% oxygen is usually considered safe for normal adults up to:",
+      "options": {
+        "A": "2–4 hours",
+        "B": "4–6 hours",
+        "C": "8–12 hours",
+        "D": "24 hours"
+      },
+      "answer": "C",
+      "chapter": 11
+    },
+    {
+      "id": 42,
+      "question": "Propofol is a potent:",
+      "options": {
+        "A": "Analgesic",
+        "B": "Antiemetic",
+        "C": "Muscle relaxant",
+        "D": "Antihypertensive"
+      },
+      "answer": "B",
+      "chapter": 12
+    },
+    {
+      "id": 43,
+      "question": "PAOP (Pulmonary Artery Occlusion Pressure) is best utilized to differentiate between:",
+      "options": {
+        "A": "Left and right heart failure",
+        "B": "Cardiogenic and noncardiogenic pulmonary edema",
+        "C": "Systolic and diastolic dysfunction",
+        "D": "Obstructive and restrictive lung disease"
+      },
+      "answer": "B",
+      "chapter": 6
+    },
+    {
+      "id": 44,
+      "question": "Colloids should be replaced in what ratio to intravascular volume loss?",
+      "options": {
+        "A": "1:1",
+        "B": "1.5:1",
+        "C": "2:1",
+        "D": "3:1"
+      },
+      "answer": "A",
+      "chapter": 7
+    },
+    {
+      "id": 45,
+      "question": "Which is the inhalational agent of choice for induction in children?",
+      "options": {
+        "A": "Halothane",
+        "B": "Isoflurane",
+        "C": "Desflurane",
+        "D": "Sevoflurane"
+      },
+      "answer": "D",
+      "chapter": 10
+    },
+    {
+      "id": 46,
+      "question": "The word anesthesia meaning 'no senses' was coined by:",
+      "options": {
+        "A": "Humphry Davy",
+        "B": "Oliver Wendell Holmes",
+        "C": "WTG Morton",
+        "D": "John Snow"
+      },
+      "answer": "B",
+      "chapter": 8
+    },
+    {
+      "id": 47,
+      "question": "Muscle rigidity (Wooden chest syndrome) is most commonly seen with:",
+      "options": {
+        "A": "Fentanyl",
+        "B": "Morphine",
+        "C": "Alfentanil",
+        "D": "Sufentanil"
+      },
+      "answer": "C",
+      "chapter": 12
+    },
+    {
+      "id": 48,
+      "question": "The maximum interval between two blood pressure recordings should not exceed:",
+      "options": {
+        "A": "2 minutes",
+        "B": "3 minutes",
+        "C": "5 minutes",
+        "D": "10 minutes"
+      },
+      "answer": "C",
+      "chapter": 6
+    },
+    {
+      "id": 49,
+      "question": "The leading cause of mortality after blood transfusion is:",
+      "options": {
+        "A": "DIC",
+        "B": "Acute lung injury (TRALI)",
+        "C": "Anaphylaxis",
+        "D": "Hepatitis"
+      },
+      "answer": "B",
+      "chapter": 7
+    },
+    {
+      "id": 50,
+      "question": "Which inhalational agent is the agent of choice for prolonged surgeries and day care surgery?",
+      "options": {
+        "A": "Sevoflurane",
+        "B": "Halothane",
+        "C": "Desflurane",
+        "D": "Isoflurane"
+      },
+      "answer": "C",
+      "chapter": 10
+    },
+    {
+      "id": 51,
+      "question": "The critical temperature of oxygen is:",
+      "options": {
+        "A": "–36.5°C",
+        "B": "–119°C",
+        "C": "–183°C",
+        "D": "–273°C"
+      },
+      "answer": "B",
+      "chapter": 11
+    },
+    {
+      "id": 52,
+      "question": "The opioid of choice for day care surgery is:",
+      "options": {
+        "A": "Morphine",
+        "B": "Fentanyl",
+        "C": "Remifentanil",
+        "D": "Sufentanil"
+      },
+      "answer": "C",
+      "chapter": 12
+    },
+    {
+      "id": 53,
+      "question": "Oxygen saturation of mixed venous blood is the best guide to assess:",
+      "options": {
+        "A": "Pulmonary function",
+        "B": "Liver function",
+        "C": "Tissue perfusion (cardiac output)",
+        "D": "Renal function"
+      },
+      "answer": "C",
+      "chapter": 6
+    },
+    {
+      "id": 54,
+      "question": "Blood can be stored for 35 days with which preservative?",
+      "options": {
+        "A": "Acid citrate dextrose",
+        "B": "CDPA-1",
+        "C": "ADSOL",
+        "D": "Heparin"
+      },
+      "answer": "B",
+      "chapter": 7
+    },
+    {
+      "id": 55,
+      "question": "Halothane sensitizes myocardium to:",
+      "options": {
+        "A": "Insulin",
+        "B": "Acetylcholine",
+        "C": "Adrenaline",
+        "D": "Norepinephrine"
+      },
+      "answer": "C",
+      "chapter": 10
+    },
+    {
+      "id": 56,
+      "question": "First endotracheal intubation was done by:",
+      "options": {
+        "A": "Edmund Gaskin Boyle",
+        "B": "Ivan Magill",
+        "C": "Macintosh",
+        "D": "Harold Griffith"
+      },
+      "answer": "B",
+      "chapter": 8
+    },
+    {
+      "id": 57,
+      "question": "Loss of consciousness during anesthesia is tested by absence of which reflex?",
+      "options": {
+        "A": "Corneal reflex",
+        "B": "Carinal reflex",
+        "C": "Eyelash reflex",
+        "D": "Pharyngeal reflex"
+      },
+      "answer": "C",
+      "chapter": 9
+    },
+    {
+      "id": 58,
+      "question": "The most common type of hypoxia seen during anesthesia is:",
+      "options": {
+        "A": "Anemic hypoxia",
+        "B": "Histotoxic hypoxia",
+        "C": "Stagnant hypoxia",
+        "D": "Hypoxic hypoxia"
+      },
+      "answer": "D",
+      "chapter": 11
+    },
+    {
+      "id": 59,
+      "question": "Midazolam is the only benzodiazepine used in which period?",
+      "options": {
+        "A": "Preoperative",
+        "B": "Intraoperative",
+        "C": "Postoperative",
+        "D": "All periods"
+      },
+      "answer": "B",
+      "chapter": 12
+    },
+    {
+      "id": 60,
+      "question": "Transesophageal echocardiography (TEE) provides the best window for measuring cardiac functions in:",
+      "options": {
+        "A": "Preoperative period",
+        "B": "Intraoperative period",
+        "C": "Postoperative period",
+        "D": "ICU only"
+      },
+      "answer": "B",
+      "chapter": 6
+    },
+    {
+      "id": 61,
+      "question": "Normal mixed venous oxygen saturation (SvO2) is:",
+      "options": {
+        "A": "50%",
+        "B": "60%",
+        "C": "75%",
+        "D": "90%"
+      },
+      "answer": "C",
+      "chapter": 6
+    },
+    {
+      "id": 62,
+      "question": "Children should receive what fraction of calculated fluid dose due to prone fluid overload?",
+      "options": {
+        "A": "1/2",
+        "B": "2/3",
+        "C": "3/4",
+        "D": "Full dose"
+      },
+      "answer": "B",
+      "chapter": 7
+    },
+    {
+      "id": 63,
+      "question": "Blood gas partition coefficient of halothane is:",
+      "options": {
+        "A": "0.42",
+        "B": "0.69",
+        "C": "1.38",
+        "D": "2.4"
+      },
+      "answer": "D",
+      "chapter": 10
+    },
+    {
+      "id": 64,
+      "question": "First anesthesia machine was invented by:",
+      "options": {
+        "A": "Macintosh",
+        "B": "Magill",
+        "C": "Edmund Gaskin Boyle",
+        "D": "Ralph Waters"
+      },
+      "answer": "C",
+      "chapter": 8
+    },
+    {
+      "id": 65,
+      "question": "Sufentanil is the agent of choice for inhibiting stress response to:",
+      "options": {
+        "A": "Surgical incision",
+        "B": "Laryngoscopy and intubation",
+        "C": "Extubation",
+        "D": "Position change"
+      },
+      "answer": "B",
+      "chapter": 12
+    },
+    {
+      "id": 66,
+      "question": "Co-oximeters can differentiate between:",
+      "options": {
+        "A": "Arterial and venous blood",
+        "B": "Normal and abnormal hemoglobin",
+        "C": "Systolic and diastolic pressure",
+        "D": "Inspired and expired gases"
+      },
+      "answer": "B",
+      "chapter": 6
+    },
+    {
+      "id": 67,
+      "question": "The most acceptable trigger points for blood transfusion are blood volume loss >20% and hemoglobin less than:",
+      "options": {
+        "A": "6 gm%",
+        "B": "7 gm%",
+        "C": "8 gm%",
+        "D": "10 gm%"
+      },
+      "answer": "C",
+      "chapter": 7
+    },
+    {
+      "id": 68,
+      "question": "Nitrous oxide can deplete ozone layer and produce:",
+      "options": {
+        "A": "Acid rain",
+        "B": "Global warming",
+        "C": "Smog",
+        "D": "Ocean acidification"
+      },
+      "answer": "B",
+      "chapter": 10
+    },
+    {
+      "id": 69,
+      "question": "Bovet got Nobel Prize for using which muscle relaxant in practice?",
+      "options": {
+        "A": "Curare",
+        "B": "Pancuronium",
+        "C": "Suxamethonium",
+        "D": "Vecuronium"
+      },
+      "answer": "C",
+      "chapter": 8
+    },
+    {
+      "id": 70,
+      "question": "The first reflex to go during anesthesia is eyelash; the last reflex to go is:",
+      "options": {
+        "A": "Corneal reflex",
+        "B": "Laryngeal reflex",
+        "C": "Pharyngeal reflex",
+        "D": "Carinal reflex"
+      },
+      "answer": "D",
+      "chapter": 9
+    },
+    {
+      "id": 71,
+      "question": "Retrolental fibroplasia with oxygen toxicity occurs in premature neonates less than:",
+      "options": {
+        "A": "28 weeks",
+        "B": "32 weeks",
+        "C": "36 weeks",
+        "D": "40 weeks"
+      },
+      "answer": "C",
+      "chapter": 11
+    },
+    {
+      "id": 72,
+      "question": "The most important receptors for the action of opioids are:",
+      "options": {
+        "A": "Kappa receptors",
+        "B": "Mu receptors",
+        "C": "Delta receptors",
+        "D": "Sigma receptors"
+      },
+      "answer": "B",
+      "chapter": 12
+    },
+    {
+      "id": 73,
+      "question": "Lower end of esophagus is considered as best site for:",
+      "options": {
+        "A": "CVP measurement",
+        "B": "Core body temperature measurement",
+        "C": "pH monitoring",
+        "D": "Cardiac output measurement"
+      },
+      "answer": "B",
+      "chapter": 6
+    },
+    {
+      "id": 74,
+      "question": "Normal saline can cause:",
+      "options": {
+        "A": "Hyponatremia",
+        "B": "Hyperchloremic metabolic acidosis",
+        "C": "Metabolic alkalosis",
+        "D": "Hypokalemia"
+      },
+      "answer": "B",
+      "chapter": 7
+    },
+    {
+      "id": 75,
+      "question": "The inhalational agent of choice for neurosurgery in current day practice is:",
+      "options": {
+        "A": "Halothane",
+        "B": "Isoflurane",
+        "C": "Sevoflurane",
+        "D": "Desflurane"
+      },
+      "answer": "C",
+      "chapter": 10
+    },
+    {
+      "id": 76,
+      "question": "16th October is celebrated as World Anesthesia Day because:",
+      "options": {
+        "A": "First spinal anesthesia was given",
+        "B": "First public demonstration of ether was given",
+        "C": "Chloroform was discovered",
+        "D": "First IV anesthetic was used"
+      },
+      "answer": "B",
+      "chapter": 8
+    },
+    {
+      "id": 77,
+      "question": "Dexmedetomidine is a new:",
+      "options": {
+        "A": "Beta-2 agonist",
+        "B": "Alpha-1 agonist",
+        "C": "Alpha-2 agonist",
+        "D": "GABA agonist"
+      },
+      "answer": "C",
+      "chapter": 12
+    },
+    {
+      "id": 78,
+      "question": "Train of four is the most commonly used modality for:",
+      "options": {
+        "A": "Depth of anesthesia monitoring",
+        "B": "Neuromuscular monitoring",
+        "C": "Cerebral function monitoring",
+        "D": "Pain assessment"
+      },
+      "answer": "B",
+      "chapter": 6
+    },
+    {
+      "id": 79,
+      "question": "The main aim of blood transfusion is to:",
+      "options": {
+        "A": "Replace volume",
+        "B": "Improve oxygen delivery to tissues",
+        "C": "Correct coagulopathy",
+        "D": "Maintain blood pressure"
+      },
+      "answer": "B",
+      "chapter": 7
+    },
+    {
+      "id": 80,
+      "question": "Enflurane was obsoleted mainly because it is highly:",
+      "options": {
+        "A": "Hepatotoxic",
+        "B": "Nephrotoxic",
+        "C": "Epileptogenic",
+        "D": "Cardiotoxic"
+      },
+      "answer": "C",
+      "chapter": 10
+    },
+    {
+      "id": 81,
+      "question": "Oxygen concentrators produce oxygen from ambient air by selective absorption of nitrogen on:",
+      "options": {
+        "A": "Sodalime",
+        "B": "Zeolites",
+        "C": "Silica gel",
+        "D": "Activated charcoal"
+      },
+      "answer": "B",
+      "chapter": 11
+    },
+    {
+      "id": 82,
+      "question": "All pressures (intraocular, intragastric, intracranial) are raised by:",
+      "options": {
+        "A": "Propofol",
+        "B": "Thiopentone",
+        "C": "Etomidate",
+        "D": "Ketamine"
+      },
+      "answer": "D",
+      "chapter": 12
+    },
+    {
+      "id": 83,
+      "question": "Electrical impedance pulmonometry is the simplest and most commonly used method to detect:",
+      "options": {
+        "A": "Cardiac arrest",
+        "B": "Apnea in a non-intubated patient",
+        "C": "Pneumothorax",
+        "D": "Bronchospasm"
+      },
+      "answer": "B",
+      "chapter": 6
+    },
+    {
+      "id": 84,
+      "question": "Ringer lactate should NOT be given with which blood product due to calcium content?",
+      "options": {
+        "A": "Platelets",
+        "B": "FFP",
+        "C": "Blood",
+        "D": "Cryoprecipitate"
+      },
+      "answer": "C",
+      "chapter": 7
+    },
+    {
+      "id": 85,
+      "question": "Ether is the only inhalational agent which preserves:",
+      "options": {
+        "A": "Blood pressure",
+        "B": "Ciliary activity",
+        "C": "Cardiac output",
+        "D": "Renal blood flow"
+      },
+      "answer": "B",
+      "chapter": 10
+    },
+    {
+      "id": 86,
+      "question": "Nitrous oxide was first synthesized by:",
+      "options": {
+        "A": "WTG Morton",
+        "B": "John Snow",
+        "C": "Priestley",
+        "D": "Oliver Wendell Holmes"
+      },
+      "answer": "C",
+      "chapter": 8
+    },
+    {
+      "id": 87,
+      "question": "Onset of surgical anesthesia (Stage III) is best indicated by:",
+      "options": {
+        "A": "Loss of eyelash reflex",
+        "B": "Pupil dilation",
+        "C": "Onset of regular respiration",
+        "D": "Cardiac depression"
+      },
+      "answer": "C",
+      "chapter": 9
+    },
+    {
+      "id": 88,
+      "question": "Half-life of carbon monoxide at 1 atmosphere is 214 minutes which can be reduced to 19 minutes at:",
+      "options": {
+        "A": "1.5 atm",
+        "B": "2.0 atm",
+        "C": "2.5 atm",
+        "D": "3.0 atm"
+      },
+      "answer": "C",
+      "chapter": 11
+    },
+    {
+      "id": 89,
+      "question": "Emergence reactions (hallucinations) are the major limiting factor for:",
+      "options": {
+        "A": "Propofol",
+        "B": "Etomidate",
+        "C": "Ketamine",
+        "D": "Thiopentone"
+      },
+      "answer": "C",
+      "chapter": 12
+    },
+    {
+      "id": 90,
+      "question": "The most accurate measurement of core body temperature is provided by:",
+      "options": {
+        "A": "Esophageal probe",
+        "B": "Pulmonary artery",
+        "C": "Tympanic membrane",
+        "D": "Nasopharynx"
+      },
+      "answer": "B",
+      "chapter": 6
+    },
+    {
+      "id": 91,
+      "question": "Massive blood transfusion is defined as transfusion of blood more than patient's blood volume in less than:",
+      "options": {
+        "A": "6 hours",
+        "B": "12 hours",
+        "C": "24 hours",
+        "D": "48 hours"
+      },
+      "answer": "C",
+      "chapter": 7
+    },
+    {
+      "id": 92,
+      "question": "Minimum Alveolar Concentration (MAC) decreasing factors include all EXCEPT:",
+      "options": {
+        "A": "Old age",
+        "B": "Pregnancy",
+        "C": "Chronic alcoholism",
+        "D": "Hypothermia"
+      },
+      "answer": "C",
+      "chapter": 10
+    },
+    {
+      "id": 93,
+      "question": "John Snow popularized which anesthetic agent using it on Queen Victoria?",
+      "options": {
+        "A": "Ether",
+        "B": "Nitrous oxide",
+        "C": "Chloroform",
+        "D": "Halothane"
+      },
+      "answer": "C",
+      "chapter": 8
+    },
+    {
+      "id": 94,
+      "question": "Thiopentone high alkalinity (pH 10.4) is responsible for complications of:",
+      "options": {
+        "A": "Respiratory depression",
+        "B": "Intra-arterial injection",
+        "C": "Anaphylaxis",
+        "D": "Seizures"
+      },
+      "answer": "B",
+      "chapter": 12
+    },
+    {
+      "id": 95,
+      "question": "Temperature should be monitored in patients receiving general anesthesia for more than:",
+      "options": {
+        "A": "15 minutes",
+        "B": "30 minutes",
+        "C": "45 minutes",
+        "D": "60 minutes"
+      },
+      "answer": "B",
+      "chapter": 6
+    },
+    {
+      "id": 96,
+      "question": "Stroke volume variation is considered most reliable to assess:",
+      "options": {
+        "A": "Depth of anesthesia",
+        "B": "Neuromuscular function",
+        "C": "Fluid status and titrate fluid therapy",
+        "D": "Cardiac rhythm"
+      },
+      "answer": "C",
+      "chapter": 7
+    },
+    {
+      "id": 97,
+      "question": "Sevoflurane at higher concentrations can produce:",
+      "options": {
+        "A": "Hepatitis",
+        "B": "Convulsions",
+        "C": "Malignant hyperthermia",
+        "D": "Renal failure"
+      },
+      "answer": "B",
+      "chapter": 10
+    },
+    {
+      "id": 98,
+      "question": "Anesthesia given with closed circuit is called:",
+      "options": {
+        "A": "High flow anesthesia",
+        "B": "Low flow anesthesia",
+        "C": "Open anesthesia",
+        "D": "Balanced anesthesia"
+      },
+      "answer": "B",
+      "chapter": 9
+    },
+    {
+      "id": 99,
+      "question": "Hyperbaric oxygen therapy is practically used for decompression sickness and:",
+      "options": {
+        "A": "Pneumonia",
+        "B": "Severe carbon monoxide poisoning",
+        "C": "Asthma",
+        "D": "COPD"
+      },
+      "answer": "B",
+      "chapter": 11
+    },
+    {
+      "id": 100,
+      "question": "Methylnaltrexone and Alvimopan are peripheral opioid antagonists that can reverse peripheral side effects without reversing:",
+      "options": {
+        "A": "Sedation",
+        "B": "Respiratory depression",
+        "C": "Analgesia",
+        "D": "Nausea"
+      },
+      "answer": "C",
+      "chapter": 12
+    },
+    {
+      "id": 101,
+      "question": "Fading, post-tetanic facilitation and post-tetanic count are only exhibited by:",
+      "options": {
+        "A": "Depolarizing muscle relaxants",
+        "B": "Non-depolarizing muscle relaxants",
+        "C": "Both types equally",
+        "D": "Neither type"
+      },
+      "answer": "B",
+      "chapter": 6
+    },
+    {
+      "id": 102,
+      "question": "Colloids in high doses can interfere with clotting and cause:",
+      "options": {
+        "A": "Renal dysfunction",
+        "B": "Hepatic failure",
+        "C": "Cardiac failure",
+        "D": "Pulmonary hypertension"
+      },
+      "answer": "A",
+      "chapter": 7
+    },
+    {
+      "id": 103,
+      "question": "The inhalational agent of choice for hepatic patients is:",
+      "options": {
+        "A": "Halothane",
+        "B": "Isoflurane",
+        "C": "Desflurane",
+        "D": "Sevoflurane"
+      },
+      "answer": "D",
+      "chapter": 10
+    },
+    {
+      "id": 104,
+      "question": "First intravenous anesthetic used in clinical practice was thiopentone by:",
+      "options": {
+        "A": "Macintosh in 1930",
+        "B": "Water and Lundy in 1934",
+        "C": "Griffith in 1942",
+        "D": "Morton in 1846"
+      },
+      "answer": "B",
+      "chapter": 8
+    },
+    {
+      "id": 105,
+      "question": "Propofol is the IV agent of choice for:",
+      "options": {
+        "A": "Cardiac surgery",
+        "B": "Day care surgery",
+        "C": "Emergency surgery",
+        "D": "Pediatric surgery"
+      },
+      "answer": "B",
+      "chapter": 12
+    },
+    {
+      "id": 106,
+      "question": "The most common acute mechanical complication of CVP catheterization through internal jugular vein is:",
+      "options": {
+        "A": "Pneumothorax",
+        "B": "Carotid artery puncture",
+        "C": "Air embolism",
+        "D": "Arrhythmias"
+      },
+      "answer": "B",
+      "chapter": 6
+    },
+    {
+      "id": 107,
+      "question": "FFP (Fresh Frozen Plasma) contains:",
+      "options": {
+        "A": "Only platelets",
+        "B": "Only red cells",
+        "C": "All coagulation factors and plasma proteins",
+        "D": "Only fibrinogen"
+      },
+      "answer": "C",
+      "chapter": 7
+    },
+    {
+      "id": 108,
+      "question": "Which agent among inhalational agents produces maximum muscle relaxation?",
+      "options": {
+        "A": "Halothane",
+        "B": "Sevoflurane",
+        "C": "Isoflurane",
+        "D": "Desflurane"
+      },
+      "answer": "D",
+      "chapter": 10
+    },
+    {
+      "id": 109,
+      "question": "Body stores of oxygen practically last only for:",
+      "options": {
+        "A": "30 seconds",
+        "B": "1 minute",
+        "C": "2–3 minutes",
+        "D": "5–10 minutes"
+      },
+      "answer": "C",
+      "chapter": 11
+    },
+    {
+      "id": 110,
+      "question": "Tolerance is seen to all actions of opioids EXCEPT:",
+      "options": {
+        "A": "Analgesia",
+        "B": "Respiratory depression",
+        "C": "Constipation and miosis",
+        "D": "Sedation"
+      },
+      "answer": "C",
+      "chapter": 12
+    },
+    {
+      "id": 111,
+      "question": "Measuring dynamic parameters like stroke volume variation by arterial cannulation is considered as:",
+      "options": {
+        "A": "Outdated technique",
+        "B": "Most recent and useful advancement in monitoring",
+        "C": "Only for research purposes",
+        "D": "Only for pediatric patients"
+      },
+      "answer": "B",
+      "chapter": 6
+    },
+    {
+      "id": 112,
+      "question": "The fluid of choice for hypochloremic metabolic alkalosis is:",
+      "options": {
+        "A": "Ringer lactate",
+        "B": "Normal saline",
+        "C": "5% Dextrose",
+        "D": "Plasmalyte"
+      },
+      "answer": "B",
+      "chapter": 7
+    },
+    {
+      "id": 113,
+      "question": "Isoflurane is the inhalational agent of choice for:",
+      "options": {
+        "A": "Controlled hypotension",
+        "B": "Pediatric induction",
+        "C": "Hepatic patients",
+        "D": "Day care surgery"
+      },
+      "answer": "A",
+      "chapter": 10
+    },
+    {
+      "id": 114,
+      "question": "Horace Wells first demonstrated which anesthetic gas for tooth extraction?",
+      "options": {
+        "A": "Ether",
+        "B": "Chloroform",
+        "C": "Nitrous oxide",
+        "D": "Cyclopropane"
+      },
+      "answer": "C",
+      "chapter": 8
+    },
+    {
+      "id": 115,
+      "question": "Which IV agent can be utilized for cerebral protection in focal ischemia?",
+      "options": {
+        "A": "Propofol",
+        "B": "Ketamine",
+        "C": "Thiopentone",
+        "D": "Midazolam"
+      },
+      "answer": "C",
+      "chapter": 12
+    },
+    {
+      "id": 116,
+      "question": "Ideal vein for monitoring CVP is:",
+      "options": {
+        "A": "Subclavian vein",
+        "B": "Femoral vein",
+        "C": "Right internal jugular vein",
+        "D": "External jugular vein"
+      },
+      "answer": "C",
+      "chapter": 6
+    },
+    {
+      "id": 117,
+      "question": "The hourly maintenance fluid requirement formula is:",
+      "options": {
+        "A": "2-1-0.5 rule",
+        "B": "4-2-1 rule",
+        "C": "6-3-1 rule",
+        "D": "8-4-2 rule"
+      },
+      "answer": "B",
+      "chapter": 7
+    },
+    {
+      "id": 118,
+      "question": "Which inhalational agents can produce carbon monoxide with desiccated sodalime in decreasing order?",
+      "options": {
+        "A": "Halothane > Isoflurane > Desflurane",
+        "B": "Sevoflurane > Halothane > Isoflurane",
+        "C": "Desflurane >> Isoflurane >> Halothane = Sevoflurane",
+        "D": "Isoflurane > Desflurane > Sevoflurane"
+      },
+      "answer": "C",
+      "chapter": 10
+    },
+    {
+      "id": 119,
+      "question": "Oxygen was first synthesized by Priestley who called it:",
+      "options": {
+        "A": "Vital air",
+        "B": "Laughing gas",
+        "C": "Dephlogisticated air",
+        "D": "Sweet oil of vitriol"
+      },
+      "answer": "C",
+      "chapter": 11
+    },
+    {
+      "id": 120,
+      "question": "Vasospasm and thrombus formation cause gangrene after intra-arterial injection of:",
+      "options": {
+        "A": "Propofol",
+        "B": "Ketamine",
+        "C": "Thiopentone",
+        "D": "Etomidate"
+      },
+      "answer": "C",
+      "chapter": 12
+    },
+    {
+      "id": 121,
+      "question": "Normal CVP is:",
+      "options": {
+        "A": "0–2 cm H2O",
+        "B": "3–10 cm H2O",
+        "C": "12–18 cm H2O",
+        "D": "20–25 cm H2O"
+      },
+      "answer": "B",
+      "chapter": 6
+    },
+    {
+      "id": 122,
+      "question": "Intraosseous route for fluid administration is now recommended for:",
+      "options": {
+        "A": "Only neonates",
+        "B": "Only children",
+        "C": "All ages",
+        "D": "Only adults"
+      },
+      "answer": "C",
+      "chapter": 7
+    },
+    {
+      "id": 123,
+      "question": "Nitrous oxide is contraindicated in pneumothorax because it doubles pneumothorax volume in:",
+      "options": {
+        "A": "5 minutes",
+        "B": "10 minutes",
+        "C": "20 minutes",
+        "D": "30 minutes"
+      },
+      "answer": "B",
+      "chapter": 10
+    },
+    {
+      "id": 124,
+      "question": "The most important characteristic of agonist-antagonists (opioids) is:",
+      "options": {
+        "A": "No analgesia",
+        "B": "Ceiling to respiratory depression",
+        "C": "No addiction",
+        "D": "Rapid onset"
+      },
+      "answer": "B",
+      "chapter": 12
+    },
+    {
+      "id": 125,
+      "question": "Pulse oximetry works on the principle of:",
+      "options": {
+        "A": "Doppler effect",
+        "B": "Piezoelectric effect",
+        "C": "Beer-Lambert law",
+        "D": "Bernoulli's principle"
+      },
+      "answer": "C",
+      "chapter": 6
+    },
+    {
+      "id": 126,
+      "question": "Cryoprecipitate contains Factor VIII, fibrinogen, Factor XIII and:",
+      "options": {
+        "A": "Antithrombin III",
+        "B": "Von Willebrand's factor",
+        "C": "Factor IX",
+        "D": "Protein C"
+      },
+      "answer": "B",
+      "chapter": 7
+    },
+    {
+      "id": 127,
+      "question": "The immunologic mechanism of halothane hepatitis involves antibodies against:",
+      "options": {
+        "A": "Chloride metabolites",
+        "B": "Fluoride metabolites",
+        "C": "Trifluoroacetic acid",
+        "D": "Bromide metabolites"
+      },
+      "answer": "C",
+      "chapter": 10
+    },
+    {
+      "id": 128,
+      "question": "First epidural anesthesia was given by:",
+      "options": {
+        "A": "August Beir",
+        "B": "Carl Koller",
+        "C": "Cathelin and Sicard",
+        "D": "J Leonard Corning"
+      },
+      "answer": "C",
+      "chapter": 8
+    },
+    {
+      "id": 129,
+      "question": "Traditionally, maintenance of anesthesia is done with oxygen (33%) + nitrous oxide (66%) + inhalational agent. Many anesthetists now use which gas instead of N2O?",
+      "options": {
+        "A": "Helium",
+        "B": "Air",
+        "C": "Nitrogen",
+        "D": "Carbon dioxide"
+      },
+      "answer": "B",
+      "chapter": 9
+    },
+    {
+      "id": 130,
+      "question": "Propofol contains egg lecithin which increases chances of:",
+      "options": {
+        "A": "Allergic reactions",
+        "B": "Contamination",
+        "C": "Hepatotoxicity",
+        "D": "Nephrotoxicity"
+      },
+      "answer": "B",
+      "chapter": 12
+    },
+    {
+      "id": 131,
+      "question": "Arrhythmias are best detected in lead:",
+      "options": {
+        "A": "Lead I",
+        "B": "Lead II",
+        "C": "Lead V5",
+        "D": "Lead aVR"
+      },
+      "answer": "B",
+      "chapter": 6
+    },
+    {
+      "id": 132,
+      "question": "Dextrans can interfere with:",
+      "options": {
+        "A": "Cardiac function",
+        "B": "Blood grouping and cross matching",
+        "C": "Liver enzymes",
+        "D": "Nerve conduction"
+      },
+      "answer": "B",
+      "chapter": 7
+    },
+    {
+      "id": 133,
+      "question": "MAC of halothane is:",
+      "options": {
+        "A": "0.74%",
+        "B": "1.15%",
+        "C": "2.05%",
+        "D": "6.0%"
+      },
+      "answer": "A",
+      "chapter": 10
+    },
+    {
+      "id": 134,
+      "question": "Nitrous oxide stored in blue cylinders at a pressure of:",
+      "options": {
+        "A": "75 psi",
+        "B": "760 psi",
+        "C": "1000 psi",
+        "D": "2000 psi"
+      },
+      "answer": "B",
+      "chapter": 11
+    },
+    {
+      "id": 135,
+      "question": "Recurring respiratory depression is exhibited by:",
+      "options": {
+        "A": "All pure opioid agonists",
+        "B": "Only morphine",
+        "C": "Agonist-antagonists",
+        "D": "Partial agonists"
+      },
+      "answer": "A",
+      "chapter": 12
+    },
+    {
+      "id": 136,
+      "question": "Ischemia is best detected in lead:",
+      "options": {
+        "A": "Lead II",
+        "B": "Lead III",
+        "C": "Lead V5",
+        "D": "Lead aVL"
+      },
+      "answer": "C",
+      "chapter": 6
+    },
+    {
+      "id": 137,
+      "question": "Blood should be transfused within how many hours to prevent bacterial contamination?",
+      "options": {
+        "A": "2 hours",
+        "B": "4 hours",
+        "C": "6 hours",
+        "D": "8 hours"
+      },
+      "answer": "B",
+      "chapter": 7
+    },
+    {
+      "id": 138,
+      "question": "Trichloroethylene (Trilene) can produce dichloroacetylene which is:",
+      "options": {
+        "A": "Hepatotoxic",
+        "B": "Nephrotoxic",
+        "C": "Neurotoxic",
+        "D": "Cardiotoxic"
+      },
+      "answer": "C",
+      "chapter": 10
+    },
+    {
+      "id": 139,
+      "question": "Which agent among the following does NOT undergo any metabolism in human body?",
+      "options": {
+        "A": "Halothane",
+        "B": "Isoflurane",
+        "C": "Nitrous oxide",
+        "D": "Sevoflurane"
+      },
+      "answer": "C",
+      "chapter": 10
+    },
+    {
+      "id": 140,
+      "question": "The chronic use of opioids can produce:",
+      "options": {
+        "A": "Hypoalgesia",
+        "B": "Hyperalgesia",
+        "C": "Analgesia",
+        "D": "Dysalgesia"
+      },
+      "answer": "B",
+      "chapter": 12
+    },
+    {
+      "id": 141,
+      "question": "The most common late complication of CVP catheterization is:",
+      "options": {
+        "A": "Thrombosis",
+        "B": "Pneumothorax",
+        "C": "Infection",
+        "D": "Air embolism"
+      },
+      "answer": "C",
+      "chapter": 6
+    },
+    {
+      "id": 142,
+      "question": "Bacterial contamination of blood most commonly occurs with:",
+      "options": {
+        "A": "E. coli",
+        "B": "Staphylococcus",
+        "C": "Pseudomonas",
+        "D": "Streptococcus"
+      },
+      "answer": "C",
+      "chapter": 7
+    },
+    {
+      "id": 143,
+      "question": "Minimum interval mandatory between two halothane exposures is:",
+      "options": {
+        "A": "1 month",
+        "B": "2 months",
+        "C": "3 months",
+        "D": "6 months"
+      },
+      "answer": "C",
+      "chapter": 10
+    },
+    {
+      "id": 144,
+      "question": "First anesthetic gas nitrous oxide was synthesized by Priestley in:",
+      "options": {
+        "A": "1740",
+        "B": "1774",
+        "C": "1846",
+        "D": "1884"
+      },
+      "answer": "B",
+      "chapter": 8
+    },
+    {
+      "id": 145,
+      "question": "The IV agent of choice for induction in patients with raised ICP is:",
+      "options": {
+        "A": "Ketamine",
+        "B": "Etomidate",
+        "C": "Thiopentone",
+        "D": "Midazolam"
+      },
+      "answer": "C",
+      "chapter": 12
+    },
+    {
+      "id": 146,
+      "question": "Which artery is most commonly chosen for invasive BP monitoring?",
+      "options": {
+        "A": "Femoral",
+        "B": "Brachial",
+        "C": "Radial",
+        "D": "Dorsalis pedis"
+      },
+      "answer": "C",
+      "chapter": 6
+    },
+    {
+      "id": 147,
+      "question": "Hydroxyethyl starch at doses >20 mL/kg can interfere with:",
+      "options": {
+        "A": "Respiration",
+        "B": "Clotting",
+        "C": "Cardiac output",
+        "D": "Liver function"
+      },
+      "answer": "B",
+      "chapter": 7
+    },
+    {
+      "id": 148,
+      "question": "The second gas effect refers to one inhalational agent affecting the concentration of:",
+      "options": {
+        "A": "Oxygen",
+        "B": "Nitrogen",
+        "C": "Another inhalational agent",
+        "D": "Carbon dioxide"
+      },
+      "answer": "C",
+      "chapter": 10
+    },
+    {
+      "id": 149,
+      "question": "Nitrous oxide by inhibiting vitamin B12 can produce:",
+      "options": {
+        "A": "Iron deficiency anemia",
+        "B": "Megaloblastic anemia",
+        "C": "Hemolytic anemia",
+        "D": "Sideroblastic anemia"
+      },
+      "answer": "B",
+      "chapter": 11
+    },
+    {
+      "id": 150,
+      "question": "Injection of which IV agent is painful?",
+      "options": {
+        "A": "Thiopentone",
+        "B": "Ketamine",
+        "C": "Propofol",
+        "D": "Etomidate"
+      },
+      "answer": "C",
+      "chapter": 12
+    },
+    {
+      "id": 151,
+      "question": "TEE can detect air embolism as low as:",
+      "options": {
+        "A": "0.02 mL",
+        "B": "0.2 mL",
+        "C": "2 mL",
+        "D": "20 mL"
+      },
+      "answer": "B",
+      "chapter": 6
+    },
+    {
+      "id": 152,
+      "question": "O negative blood (universal donor) is preferred as packed red cells over whole blood because some O negative donors may have:",
+      "options": {
+        "A": "High potassium",
+        "B": "Anti-A and anti-B antibodies in their plasma",
+        "C": "Low hemoglobin",
+        "D": "Abnormal platelets"
+      },
+      "answer": "B",
+      "chapter": 7
+    },
+    {
+      "id": 153,
+      "question": "All inhalational agents blunt hypoxic pulmonary vasoconstriction (HPV). Maximum blunting is seen with:",
+      "options": {
+        "A": "Sevoflurane",
+        "B": "Desflurane",
+        "C": "Isoflurane",
+        "D": "Halothane"
+      },
+      "answer": "D",
+      "chapter": 10
+    },
+    {
+      "id": 154,
+      "question": "World Anesthesia Day is celebrated on:",
+      "options": {
+        "A": "16th October",
+        "B": "14th November",
+        "C": "1st March",
+        "D": "7th April"
+      },
+      "answer": "A",
+      "chapter": 8
+    },
+    {
+      "id": 155,
+      "question": "Which EEG-based monitor was the first scientifically validated monitor to assess depth of anesthesia?",
+      "options": {
+        "A": "Entropy",
+        "B": "Narcotrend",
+        "C": "Bispectral Index (BIS)",
+        "D": "Patient State Index"
+      },
+      "answer": "C",
+      "chapter": 6
+    },
+    {
+      "id": 156,
+      "question": "The most common cause of transfusion reactions is:",
+      "options": {
+        "A": "Storage temperature error",
+        "B": "Clerical error",
+        "C": "Lab equipment failure",
+        "D": "Patient blood type mutation"
+      },
+      "answer": "B",
+      "chapter": 7
+    },
+    {
+      "id": 157,
+      "question": "Desflurane requires a special vaporizer (TEC 6) because its boiling point is less than:",
+      "options": {
+        "A": "23°C (room temperature)",
+        "B": "37°C (body temperature)",
+        "C": "50°C",
+        "D": "100°C"
+      },
+      "answer": "A",
+      "chapter": 10
+    },
+    {
+      "id": 158,
+      "question": "Nitrous oxide vitamin B12 inactivation is seen if used for more than:",
+      "options": {
+        "A": "2 hours",
+        "B": "6 hours",
+        "C": "12 hours",
+        "D": "24 hours"
+      },
+      "answer": "C",
+      "chapter": 11
+    },
+    {
+      "id": 159,
+      "question": "Etomidate is contraindicated in:",
+      "options": {
+        "A": "Cardiac disease",
+        "B": "Adrenal insufficiency",
+        "C": "Hepatic disease",
+        "D": "Renal disease"
+      },
+      "answer": "B",
+      "chapter": 12
+    },
+    {
+      "id": 160,
+      "question": "Normal ETCO2 (end tidal CO2) is:",
+      "options": {
+        "A": "20–30 mm Hg",
+        "B": "32–42 mm Hg",
+        "C": "45–55 mm Hg",
+        "D": "55–65 mm Hg"
+      },
+      "answer": "B",
+      "chapter": 6
+    },
+    {
+      "id": 161,
+      "question": "TRALI (Transfusion-related Acute Lung Injury) manifests as hypoxia within how many hours of transfusion?",
+      "options": {
+        "A": "2 hours",
+        "B": "6 hours",
+        "C": "12 hours",
+        "D": "24 hours"
+      },
+      "answer": "B",
+      "chapter": 7
+    },
+    {
+      "id": 162,
+      "question": "MAC of sevoflurane is:",
+      "options": {
+        "A": "0.74%",
+        "B": "1.15%",
+        "C": "2.05%",
+        "D": "6.0%"
+      },
+      "answer": "C",
+      "chapter": 10
+    },
+    {
+      "id": 163,
+      "question": "In the stages of anesthesia, initial pupillary dilatation in Stage II is because of:",
+      "options": {
+        "A": "Parasympathetic stimulation",
+        "B": "Sympathetic stimulation",
+        "C": "Direct muscle effect",
+        "D": "Cerebral anoxia"
+      },
+      "answer": "B",
+      "chapter": 9
+    },
+    {
+      "id": 164,
+      "question": "Nitrous oxide is stored at a pressure of 760 psi because its critical temperature is:",
+      "options": {
+        "A": "–119°C",
+        "B": "–36.5°C",
+        "C": "23°C",
+        "D": "36.5°C"
+      },
+      "answer": "D",
+      "chapter": 11
+    },
+    {
+      "id": 165,
+      "question": "The IV agent with maximum metabolism (20%) among inhalational agents used today is:",
+      "options": {
+        "A": "Isoflurane",
+        "B": "Sevoflurane",
+        "C": "Halothane",
+        "D": "Desflurane"
+      },
+      "answer": "C",
+      "chapter": 10
+    },
+    {
+      "id": 166,
+      "question": "Capnography ETCO2 suddenly becoming zero (flat line) indicates all EXCEPT:",
+      "options": {
+        "A": "Extubation",
+        "B": "Cardiac arrest",
+        "C": "Bronchospasm",
+        "D": "Disconnection"
+      },
+      "answer": "C",
+      "chapter": 6
+    },
+    {
+      "id": 167,
+      "question": "Albumin has an intravascular half-life of:",
+      "options": {
+        "A": "2–4 hours",
+        "B": "6–8 hours",
+        "C": "1–3 days",
+        "D": "10–15 days"
+      },
+      "answer": "D",
+      "chapter": 7
+    },
+    {
+      "id": 168,
+      "question": "Blood gas partition coefficient of sevoflurane is:",
+      "options": {
+        "A": "0.42",
+        "B": "0.47",
+        "C": "0.69",
+        "D": "1.38"
+      },
+      "answer": "C",
+      "chapter": 10
+    },
+    {
+      "id": 169,
+      "question": "Who was the first to use nitrous oxide on himself for toothache?",
+      "options": {
+        "A": "Priestley",
+        "B": "Humphry Davy",
+        "C": "Horace Wells",
+        "D": "Morton"
+      },
+      "answer": "B",
+      "chapter": 8
+    },
+    {
+      "id": 170,
+      "question": "Thiopentone mediates action through which receptor?",
+      "options": {
+        "A": "NMDA receptor",
+        "B": "Mu receptor",
+        "C": "GABA-A receptor",
+        "D": "Nicotinic receptor"
+      },
+      "answer": "C",
+      "chapter": 12
+    },
+    {
+      "id": 171,
+      "question": "Allen's test is performed before cannulation of which artery?",
+      "options": {
+        "A": "Femoral",
+        "B": "Brachial",
+        "C": "Radial",
+        "D": "Dorsalis pedis"
+      },
+      "answer": "C",
+      "chapter": 6
+    },
+    {
+      "id": 172,
+      "question": "In burns, fluid resuscitation should be tapered once urine output becomes:",
+      "options": {
+        "A": "> 0.25 mL/kg/hr",
+        "B": "> 0.5–1 mL/kg/hr",
+        "C": "> 2 mL/kg/hr",
+        "D": "> 3 mL/kg/hr"
+      },
+      "answer": "B",
+      "chapter": 7
+    },
+    {
+      "id": 173,
+      "question": "MAC of desflurane is:",
+      "options": {
+        "A": "0.74%",
+        "B": "1.15%",
+        "C": "2.05%",
+        "D": "6.0%"
+      },
+      "answer": "D",
+      "chapter": 10
+    },
+    {
+      "id": 174,
+      "question": "Oxygen stored in cylinders with black body and white shoulders at a pressure of:",
+      "options": {
+        "A": "760 psi",
+        "B": "1000 psi",
+        "C": "2000 psi",
+        "D": "3000 psi"
+      },
+      "answer": "C",
+      "chapter": 11
+    },
+    {
+      "id": 175,
+      "question": "Ketamine's mechanism of action is primarily through:",
+      "options": {
+        "A": "GABA receptors",
+        "B": "NMDA receptor antagonism",
+        "C": "Opioid receptors",
+        "D": "Alpha-2 receptors"
+      },
+      "answer": "B",
+      "chapter": 12
+    },
+    {
+      "id": 176,
+      "question": "The best clinical indicator for assessing adequacy of perfusion is:",
+      "options": {
+        "A": "Blood pressure",
+        "B": "Heart rate",
+        "C": "Urine output",
+        "D": "CVP"
+      },
+      "answer": "C",
+      "chapter": 6
+    },
+    {
+      "id": 177,
+      "question": "Platelet survival at room temperature is:",
+      "options": {
+        "A": "24 hours",
+        "B": "4–5 days",
+        "C": "14 days",
+        "D": "35 days"
+      },
+      "answer": "B",
+      "chapter": 7
+    },
+    {
+      "id": 178,
+      "question": "Desflurane at concentrations more than 1 MAC (>6%) stimulates:",
+      "options": {
+        "A": "Parasympathetic system",
+        "B": "Sympathetic system",
+        "C": "Vagal system",
+        "D": "Cholinergic system"
+      },
+      "answer": "B",
+      "chapter": 10
+    },
+    {
+      "id": 179,
+      "question": "Ether was first prepared by Valerius Cordus in 1540 when it was known as:",
+      "options": {
+        "A": "Laughing gas",
+        "B": "Sweet oil of vitriol",
+        "C": "Dephlogisticated air",
+        "D": "Spirit of wine"
+      },
+      "answer": "B",
+      "chapter": 8
+    },
+    {
+      "id": 180,
+      "question": "The IV anesthetic that produces unconsciousness in one arm-brain circulation time (15 seconds) is:",
+      "options": {
+        "A": "Propofol",
+        "B": "Ketamine",
+        "C": "Thiopentone",
+        "D": "Etomidate"
+      },
+      "answer": "C",
+      "chapter": 12
+    },
+    {
+      "id": 181,
+      "question": "During general anesthesia, FRC decreases by:",
+      "options": {
+        "A": "5–10%",
+        "B": "15–20%",
+        "C": "25–30%",
+        "D": "35–40%"
+      },
+      "answer": "B",
+      "chapter": 6
+    },
+    {
+      "id": 182,
+      "question": "CDPA stands for:",
+      "options": {
+        "A": "Citrate, Dextrose, Phosphate, Adenine",
+        "B": "Calcium, Dextrose, Potassium, Albumin",
+        "C": "Citrate, Dextran, Phosphate, Acid",
+        "D": "Calcium, Dextrose, Plasma, Adenine"
+      },
+      "answer": "A",
+      "chapter": 7
+    },
+    {
+      "id": 183,
+      "question": "All inhalational agents (including nitrous oxide) increase cerebral blood flow EXCEPT:",
+      "options": {
+        "A": "Halothane",
+        "B": "Isoflurane",
+        "C": "Xenon",
+        "D": "Desflurane"
+      },
+      "answer": "C",
+      "chapter": 10
+    },
+    {
+      "id": 184,
+      "question": "In neonates, 100% oxygen for more than how many hours can cause pulmonary toxicity?",
+      "options": {
+        "A": "1 hour",
+        "B": "2–3 hours",
+        "C": "6 hours",
+        "D": "12 hours"
+      },
+      "answer": "B",
+      "chapter": 11
+    },
+    {
+      "id": 185,
+      "question": "Propofol contains all EXCEPT:",
+      "options": {
+        "A": "Soybean oil",
+        "B": "Egg lecithin",
+        "C": "Glycerol",
+        "D": "Thymol"
+      },
+      "answer": "D",
+      "chapter": 12
+    },
+    {
+      "id": 186,
+      "question": "Normal arterial blood gas values: pO2 on room air is:",
+      "options": {
+        "A": "60–80 mm Hg",
+        "B": "80–95 mm Hg",
+        "C": "96–98 mm Hg",
+        "D": "100–120 mm Hg"
+      },
+      "answer": "C",
+      "chapter": 6
+    },
+    {
+      "id": 187,
+      "question": "Maximum chance of disease transmission among blood products is with:",
+      "options": {
+        "A": "Packed red cells",
+        "B": "FFP",
+        "C": "Platelets",
+        "D": "Cryoprecipitate"
+      },
+      "answer": "D",
+      "chapter": 7
+    },
+    {
+      "id": 188,
+      "question": "Factors having NO effect on MAC include all EXCEPT:",
+      "options": {
+        "A": "Thyroid disorders",
+        "B": "Sex",
+        "C": "Pregnancy",
+        "D": "Obesity"
+      },
+      "answer": "C",
+      "chapter": 10
+    },
+    {
+      "id": 189,
+      "question": "Diffusion hypoxia after stopping N2O can be prevented by giving 100% oxygen for:",
+      "options": {
+        "A": "1–2 minutes",
+        "B": "5–10 minutes",
+        "C": "15–20 minutes",
+        "D": "30 minutes"
+      },
+      "answer": "B",
+      "chapter": 10
+    },
+    {
+      "id": 190,
+      "question": "The most life-threatening complication of CVP catheterization is:",
+      "options": {
+        "A": "Carotid puncture",
+        "B": "Pneumothorax",
+        "C": "Cardiac perforation/tamponade",
+        "D": "Air embolism"
+      },
+      "answer": "C",
+      "chapter": 6
+    },
+    {
+      "id": 191,
+      "question": "1 unit of platelet increases the count by:",
+      "options": {
+        "A": "1,000–2,000",
+        "B": "5,000–10,000",
+        "C": "20,000–30,000",
+        "D": "50,000–100,000"
+      },
+      "answer": "B",
+      "chapter": 7
+    },
+    {
+      "id": 192,
+      "question": "Xenon acts primarily by inhibiting which receptors?",
+      "options": {
+        "A": "GABA receptors",
+        "B": "Glycine receptors",
+        "C": "NMDA receptors",
+        "D": "Opioid receptors"
+      },
+      "answer": "C",
+      "chapter": 10
+    },
+    {
+      "id": 193,
+      "question": "Nitrous oxide is 35 times more soluble than nitrogen, making it contraindicated in:",
+      "options": {
+        "A": "Asthma",
+        "B": "Pneumothorax",
+        "C": "Renal failure",
+        "D": "Liver disease"
+      },
+      "answer": "B",
+      "chapter": 11
+    },
+    {
+      "id": 194,
+      "question": "Propofol can be safely used in all EXCEPT:",
+      "options": {
+        "A": "Day care surgery",
+        "B": "Egg allergy patients",
+        "C": "Antiemetic prophylaxis",
+        "D": "TIVA"
+      },
+      "answer": "B",
+      "chapter": 12
+    },
+    {
+      "id": 195,
+      "question": "Pulse oximeter shows a fixed saturation of 85% in:",
+      "options": {
+        "A": "Carboxyhemoglobinemia",
+        "B": "Methemoglobinemia",
+        "C": "Sickle cell disease",
+        "D": "Fetal hemoglobin"
+      },
+      "answer": "B",
+      "chapter": 6
+    },
+    {
+      "id": 196,
+      "question": "The most commonly used colloids in current day practice are:",
+      "options": {
+        "A": "Dextrans",
+        "B": "Albumin",
+        "C": "Gelatins",
+        "D": "Hydroxyethyl starch"
+      },
+      "answer": "D",
+      "chapter": 7
+    },
+    {
+      "id": 197,
+      "question": "MAC of isoflurane is:",
+      "options": {
+        "A": "0.74%",
+        "B": "1.15%",
+        "C": "2.05%",
+        "D": "6.0%"
+      },
+      "answer": "B",
+      "chapter": 10
+    },
+    {
+      "id": 198,
+      "question": "Humphry Davy called nitrous oxide as:",
+      "options": {
+        "A": "Sweet oil of vitriol",
+        "B": "Dephlogisticated air",
+        "C": "Laughing gas",
+        "D": "Vital air"
+      },
+      "answer": "C",
+      "chapter": 8
+    },
+    {
+      "id": 199,
+      "question": "Maximum absorption of inhalational agent in rubber tubing is seen with:",
+      "options": {
+        "A": "Sevoflurane",
+        "B": "Halothane",
+        "C": "Desflurane",
+        "D": "Isoflurane"
+      },
+      "answer": "B",
+      "chapter": 10
+    },
+    {
+      "id": 200,
+      "question": "In carboxyhemoglobinemia, pulse oximeter:",
+      "options": {
+        "A": "Shows accurate reading",
+        "B": "Underestimates the real value",
+        "C": "Overestimates the real value",
+        "D": "Shows zero"
+      },
+      "answer": "C",
+      "chapter": 6
+    }
+  ]
+}

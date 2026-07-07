@@ -326,6 +326,12 @@ QUIZ_CATALOG = {
         "short": "Key Points All Ch (200Q)",
         "icon": "🔑",
     },
+    "ch6_to_12_200": {
+        "file": "questions_ch6_to_12_200.json",
+        "label": "Chapters 6–12 Mixed (Monitoring, Fluids, History, GA, Inhalational, Gases, IV Anesthetics) [200 Qs / 90 min]",
+        "short": "Ch 6–12 Mixed (200Q)",
+        "icon": "📖",
+    },
 }
 
 # ─── Load Questions ──────────────────────────────────────────────────────────
