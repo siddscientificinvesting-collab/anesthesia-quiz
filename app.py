@@ -896,7 +896,9 @@ def page_review():
                 st.markdown(f"&nbsp;&nbsp;&nbsp;{k}. {v}")
 
         # Explanation
-        st.info(f"**Explanation:** {q['explanation']}")
+        explanation = q.get('explanation', '')
+        if explanation:
+            st.info(f"**Explanation:** {explanation}")
 
         # Book Reference
         ref = q.get("reference", "")
@@ -994,7 +996,9 @@ def page_leaderboard():
                                 else:
                                     st.markdown(f"&nbsp;&nbsp;&nbsp;{k}. {v}")
 
-                            st.info(f"**Explanation:** {q['explanation']}")
+                            explanation = q.get('explanation', '')
+                            if explanation:
+                                st.info(f"**Explanation:** {explanation}")
 
                             ref = q.get("reference", "")
                             if ref:
