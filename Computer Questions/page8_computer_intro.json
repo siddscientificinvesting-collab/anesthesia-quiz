@@ -1,0 +1,659 @@
+{
+  "title": "Computer Introduction & Generations – Page 488",
+  "source": "Lucent's General Knowledge – Computer",
+  "section": "Computer: Introduction, Generations & Types",
+  "total_questions": 50,
+  "time_limit_minutes": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The word 'Computer' is derived from the English word:",
+      "options": {
+        "A": "Complete",
+        "B": "Compute",
+        "C": "Compare",
+        "D": "Compose"
+      },
+      "answer": "B",
+      "explanation": "Page 488: The word computer has derived from an English word 'Compute', which means 'to calculate'.",
+      "topic": "Introduction"
+    },
+    {
+      "id": 2,
+      "question": "Who is called the 'Father of Modern Computer'?",
+      "options": {
+        "A": "Blaise Pascal",
+        "B": "Charles Babbage",
+        "C": "John Von Newman",
+        "D": "Howard Ekin"
+      },
+      "answer": "B",
+      "explanation": "Page 488: British scientist Charles Babbage was the first person to conceive an automatic calculator or a computer in 1833. He is called the 'Father of Modern Computer'.",
+      "topic": "History"
+    },
+    {
+      "id": 3,
+      "question": "Blaise Pascal developed the first mechanical calculator in:",
+      "options": {
+        "A": "1833 AD",
+        "B": "1642 AD",
+        "C": "1937 AD",
+        "D": "1946 AD"
+      },
+      "answer": "B",
+      "explanation": "Page 488: Blaise Pascal had developed the first mechanical calculator in 1642 AD, which is called 'Pascalene'.",
+      "topic": "History"
+    },
+    {
+      "id": 4,
+      "question": "The credit of developing first computer program goes to:",
+      "options": {
+        "A": "Charles Babbage",
+        "B": "Lady Ada Augusta",
+        "C": "Herman Holorith",
+        "D": "Howard Ekin"
+      },
+      "answer": "B",
+      "explanation": "Page 488: The credit of developing first computer program goes to Lady Ada Augusta, a student of Babbage.",
+      "topic": "History"
+    },
+    {
+      "id": 5,
+      "question": "Herman Holorith prepared an electronic tabulating machine in 1880 using:",
+      "options": {
+        "A": "Transistors",
+        "B": "Punch Card",
+        "C": "IC chips",
+        "D": "Vacuum tubes"
+      },
+      "answer": "B",
+      "explanation": "Page 488: Herman Holorith prepared an electronic tabulating machine in 1880, automatically functional with the help of Punch Card.",
+      "topic": "History"
+    },
+    {
+      "id": 6,
+      "question": "Howard Ekin developed the first Mechanical Computer called:",
+      "options": {
+        "A": "ENIAC-I",
+        "B": "Mark-I",
+        "C": "EDVAC",
+        "D": "UNIVAC"
+      },
+      "answer": "B",
+      "explanation": "Page 488: Howard Ekin developed the first Mechanical Computer 'Mark-I' in 1937.",
+      "topic": "History"
+    },
+    {
+      "id": 7,
+      "question": "J.P. Ekart and John Moschley invented world's first electronic computer in 1946 called:",
+      "options": {
+        "A": "EDVAC",
+        "B": "ENIAC-I",
+        "C": "UNIVAC",
+        "D": "Mark-I"
+      },
+      "answer": "B",
+      "explanation": "Page 488: J.P. Ekart and John Moschley invented world's first electronic computer 'ENIAC-I' in 1946.",
+      "topic": "History"
+    },
+    {
+      "id": 8,
+      "question": "Electronic Valve or Vacuum Tube was used as a switch in:",
+      "options": {
+        "A": "Second generation",
+        "B": "First generation computer",
+        "C": "Third generation",
+        "D": "Fourth generation"
+      },
+      "answer": "B",
+      "explanation": "Page 488: Electronic Valve or Vacuum Tube was used as a switch in the first generation computer (ENIAC-I).",
+      "topic": "History"
+    },
+    {
+      "id": 9,
+      "question": "John Von Newman invented EDVAC (Electronic Descrete Variable Computer) in:",
+      "options": {
+        "A": "1946",
+        "B": "1951",
+        "C": "1937",
+        "D": "1642"
+      },
+      "answer": "B",
+      "explanation": "Page 488: John Von Newman invented EDVAC in 1951, in which he used Stored Program. The credit of using Binary System in computers also goes to him.",
+      "topic": "History"
+    },
+    {
+      "id": 10,
+      "question": "The credit of using Binary System in computers goes to:",
+      "options": {
+        "A": "Babbage",
+        "B": "John Von Newman",
+        "C": "Pascal",
+        "D": "Ada Augusta"
+      },
+      "answer": "B",
+      "explanation": "Page 488: The credit of using Binary System in computers goes to John Von Newman.",
+      "topic": "History"
+    },
+    {
+      "id": 11,
+      "question": "The main electronic component of First Generation (1940-52) computers was:",
+      "options": {
+        "A": "Transistor",
+        "B": "Electronic Valve / Vacuum Tube",
+        "C": "Integrated Circuit",
+        "D": "Microprocessor"
+      },
+      "answer": "B",
+      "explanation": "Page 488: First Generation (1940-52) used Electronic Valve/Vacuum Tube. Examples: EDSAC, EDVAC, UNIVAC.",
+      "topic": "Generations"
+    },
+    {
+      "id": 12,
+      "question": "The main electronic component of Second Generation (1952-64) computers was:",
+      "options": {
+        "A": "Vacuum Tube",
+        "B": "Transistor",
+        "C": "Integrated Circuit",
+        "D": "Optical Fibre"
+      },
+      "answer": "B",
+      "explanation": "Page 488: Second Generation (1952-64) used Transistor. Examples: IBM-700, IBM-1401, IBM-1620.",
+      "topic": "Generations"
+    },
+    {
+      "id": 13,
+      "question": "The main electronic component of Third Generation (1964-71) computers was:",
+      "options": {
+        "A": "Transistor",
+        "B": "Integrated Circuit (IC)",
+        "C": "Vacuum Tube",
+        "D": "Optical Fibre"
+      },
+      "answer": "B",
+      "explanation": "Page 488: Third Generation (1964-71) used Integrated Circuit. Examples: IBM-360, IBM-370, NCR-395.",
+      "topic": "Generations"
+    },
+    {
+      "id": 14,
+      "question": "The main electronic component of Fourth Generation (1971-) computers was:",
+      "options": {
+        "A": "Transistor",
+        "B": "Largely Integrated Circuit (LSI/VLSI)",
+        "C": "Vacuum Tube",
+        "D": "IC only"
+      },
+      "answer": "B",
+      "explanation": "Page 488: Fourth Generation (1971-) uses Largely Integrated Circuit. Examples: APPLE, DCM.",
+      "topic": "Generations"
+    },
+    {
+      "id": 15,
+      "question": "Fifth Generation computers will use:",
+      "options": {
+        "A": "Transistors",
+        "B": "Optical Fibre and Artificial Intelligence",
+        "C": "Vacuum Tubes",
+        "D": "Simple ICs"
+      },
+      "answer": "B",
+      "explanation": "Page 488: Fifth Generation uses Optical Fibre and Artificial Intelligence.",
+      "topic": "Generations"
+    },
+    {
+      "id": 16,
+      "question": "Computers used by individual persons for domestic and official purposes are called:",
+      "options": {
+        "A": "Super Computer",
+        "B": "Micro Computer (PC)",
+        "C": "Main Frame Computer",
+        "D": "Mini Computer"
+      },
+      "answer": "B",
+      "explanation": "Page 488: Micro Computers are used by individual, also called PC or Personal Computer, for domestic and official purposes.",
+      "topic": "Types"
+    },
+    {
+      "id": 17,
+      "question": "Mini Computer is how many times more powerful than Micro Computer?",
+      "options": {
+        "A": "2 to 5 times",
+        "B": "5 to 50 times",
+        "C": "100 times",
+        "D": "1000 times"
+      },
+      "answer": "B",
+      "explanation": "Page 488: Mini Computer is comparatively larger and 5 to 50 times more powerful than Micro Computer.",
+      "topic": "Types"
+    },
+    {
+      "id": 18,
+      "question": "In Main Frame Computer, more than how many people can work at a time using Time Sharing and Multi Tasking?",
+      "options": {
+        "A": "10",
+        "B": "100",
+        "C": "50",
+        "D": "500"
+      },
+      "answer": "B",
+      "explanation": "Page 488: Main Frame Computer: By Time Sharing and Multi Tasking techniques many people rather more than 100 people can work at a time.",
+      "topic": "Types"
+    },
+    {
+      "id": 19,
+      "question": "Super Computers are the most expensive and the fastest computers, able to process:",
+      "options": {
+        "A": "Simple calculations only",
+        "B": "Most complex jobs with very high speed",
+        "C": "Only text documents",
+        "D": "Only graphics"
+      },
+      "answer": "B",
+      "explanation": "Page 488: Super Computers are very powerful, most expensive and fastest, able to process most complex jobs with very high speed.",
+      "topic": "Types"
+    },
+    {
+      "id": 20,
+      "question": "In Quantum Computers, Q-Bit will be used in lieu of:",
+      "options": {
+        "A": "Bytes",
+        "B": "Binary Bits",
+        "C": "Kilobytes",
+        "D": "Megabytes"
+      },
+      "answer": "B",
+      "explanation": "Page 488: In Quantum Computers Q-Bit will be used in lieu of Binary Bits.",
+      "topic": "Types"
+    },
+    {
+      "id": 21,
+      "question": "The first programming language (1st Generation, 1940-52) was:",
+      "options": {
+        "A": "COBOL",
+        "B": "FORTRAN-i",
+        "C": "BASIC",
+        "D": "Pascal"
+      },
+      "answer": "B",
+      "explanation": "Page 488: 1st Generation (1940-52) programming language was FORTRAN-i.",
+      "topic": "Programming"
+    },
+    {
+      "id": 22,
+      "question": "FORTRAN-ii, ALGOL-60, COBOL, LISP belong to which generation of programming languages?",
+      "options": {
+        "A": "1st Generation",
+        "B": "2nd Generation (1952-64)",
+        "C": "3rd Generation",
+        "D": "4th Generation"
+      },
+      "answer": "B",
+      "explanation": "Page 488: 2nd Generation (1952-64) languages: FORTRAN-ii, ALGOL-60, COBOL, LISP.",
+      "topic": "Programming"
+    },
+    {
+      "id": 23,
+      "question": "PL/I, ALGOL-W, ALGOL-68, Pascal, SIMULA-67, APL, SNOBOL, 4 BASIC, C belong to:",
+      "options": {
+        "A": "2nd Generation",
+        "B": "3rd Generation (1964-71)",
+        "C": "4th Generation",
+        "D": "5th Generation"
+      },
+      "answer": "B",
+      "explanation": "Page 488: 3rd Generation (1964-71) languages include PL/I, ALGOL-W, ALGOL-68, Pascal, SIMULA-67, APL, SNOBOL, 4 BASIC, C.",
+      "topic": "Programming"
+    },
+    {
+      "id": 24,
+      "question": "4th Generation (1971-90) programming languages include:",
+      "options": {
+        "A": "Only FORTRAN",
+        "B": "CLUE, ALFARD, UCLID, Reformed Pascal, MODULA, EDA, ORACLE",
+        "C": "Only C",
+        "D": "Only Python"
+      },
+      "answer": "B",
+      "explanation": "Page 488: 4th Generation (1971-90): CLUE, ALFARD, UCLID, Reformed Pascal, MODULA, EDA, ORACLE.",
+      "topic": "Programming"
+    },
+    {
+      "id": 25,
+      "question": "5th Generation (Since 1990) uses:",
+      "options": {
+        "A": "Only FORTRAN",
+        "B": "Artificial Intelligence Languages",
+        "C": "Only Assembly",
+        "D": "Only COBOL"
+      },
+      "answer": "B",
+      "explanation": "Page 488: 5th Generation (Since 1990) uses Artificial Intelligence Languages.",
+      "topic": "Programming"
+    },
+    {
+      "id": 26,
+      "question": "A computer is an electronic machine that helps to:",
+      "options": {
+        "A": "Only play games",
+        "B": "Process data and solve problems in almost all fields",
+        "C": "Only print documents",
+        "D": "Only send emails"
+      },
+      "answer": "B",
+      "explanation": "Page 488: A computer is an electronic machine that helps to process data and solve problems in education, home, medicine, science, technology, research, designing, publishing, communication etc.",
+      "topic": "Introduction"
+    },
+    {
+      "id": 27,
+      "question": "A computer is an information-processing and:",
+      "options": {
+        "A": "Food preparation tool",
+        "B": "Information-accessing tool",
+        "C": "Musical instrument",
+        "D": "Cooking device"
+      },
+      "answer": "B",
+      "explanation": "Page 488: A computer is an information-processing and information-accessing tool.",
+      "topic": "Introduction"
+    },
+    {
+      "id": 28,
+      "question": "Information processing is the essence of:",
+      "options": {
+        "A": "Cooking",
+        "B": "Computing",
+        "C": "Painting",
+        "D": "Singing"
+      },
+      "answer": "B",
+      "explanation": "Page 488: Information processing is the essence of computing.",
+      "topic": "Introduction"
+    },
+    {
+      "id": 29,
+      "question": "Computer is an electronic device which processes the input informations according to:",
+      "options": {
+        "A": "Random instructions",
+        "B": "Given set of instructions called program",
+        "C": "No instructions",
+        "D": "Only voice commands"
+      },
+      "answer": "B",
+      "explanation": "Page 488: Computer processes input informations according to the given set of instructions, called program.",
+      "topic": "Introduction"
+    },
+    {
+      "id": 30,
+      "question": "John Von Newman used which concept in EDVAC?",
+      "options": {
+        "A": "Punch cards",
+        "B": "Stored Program",
+        "C": "Vacuum tubes only",
+        "D": "Paper tape"
+      },
+      "answer": "B",
+      "explanation": "Page 488: John Von Newman invented EDVAC in 1951, in which he used Stored Program concept.",
+      "topic": "History"
+    },
+    {
+      "id": 31,
+      "question": "IBM-700, IBM-1401, IBM-1620, CDC-3600, ATLAS, ICL-1901 are examples of which generation?",
+      "options": {
+        "A": "First",
+        "B": "Second (1952-64)",
+        "C": "Third",
+        "D": "Fourth"
+      },
+      "answer": "B",
+      "explanation": "Page 488: These are Second Generation computers using Transistors.",
+      "topic": "Generations"
+    },
+    {
+      "id": 32,
+      "question": "IBM-360, IBM-370, NCR-395, CDC-1700, ICL-2903 are examples of which generation?",
+      "options": {
+        "A": "Second",
+        "B": "Third (1964-71)",
+        "C": "Fourth",
+        "D": "Fifth"
+      },
+      "answer": "B",
+      "explanation": "Page 488: These are Third Generation computers using Integrated Circuits.",
+      "topic": "Generations"
+    },
+    {
+      "id": 33,
+      "question": "APPLE and DCM are examples of which generation computers?",
+      "options": {
+        "A": "Third",
+        "B": "Fourth (1971-)",
+        "C": "Second",
+        "D": "First"
+      },
+      "answer": "B",
+      "explanation": "Page 488: APPLE, DCM are Fourth Generation computers using Largely Integrated Circuits.",
+      "topic": "Generations"
+    },
+    {
+      "id": 34,
+      "question": "Desktop, Laptop, Tablets are examples of:",
+      "options": {
+        "A": "Super computers",
+        "B": "Micro computers (PCs)",
+        "C": "Main frame computers",
+        "D": "Mini computers"
+      },
+      "answer": "B",
+      "explanation": "Page 488: PCs are used for domestic and official purposes like Desktop, Laptop, Tablets etc.",
+      "topic": "Types"
+    },
+    {
+      "id": 35,
+      "question": "The era of computers started in which centuries?",
+      "options": {
+        "A": "18th",
+        "B": "20th and 21st",
+        "C": "15th",
+        "D": "10th"
+      },
+      "answer": "B",
+      "explanation": "Page 488: The era of 20th and 21st century has witnessed rapid developments in science and technology.",
+      "topic": "Introduction"
+    },
+    {
+      "id": 36,
+      "question": "Computer and Information Technology (IT) in recent years has become:",
+      "options": {
+        "A": "Obsolete",
+        "B": "An integral part of our life",
+        "C": "Only for scientists",
+        "D": "Only for military"
+      },
+      "answer": "B",
+      "explanation": "Page 488: Computer and Information Technology (IT) in recent years has become an integral part of our life.",
+      "topic": "Introduction"
+    },
+    {
+      "id": 37,
+      "question": "One of the greatest things that man has ever created is:",
+      "options": {
+        "A": "Television",
+        "B": "The Computer",
+        "C": "Radio",
+        "D": "Telephone"
+      },
+      "answer": "B",
+      "explanation": "Page 488: One of the greatest things that man has ever created is, perhaps, 'the Computer'.",
+      "topic": "Introduction"
+    },
+    {
+      "id": 38,
+      "question": "EDSAC, EDVAC, UNIVAC are computers of which generation?",
+      "options": {
+        "A": "Second",
+        "B": "First (1940-52)",
+        "C": "Third",
+        "D": "Fourth"
+      },
+      "answer": "B",
+      "explanation": "Page 488: EDSAC, EDVAC, UNIVAC are First Generation (1940-52) computers using Electronic Valve/Vacuum Tube.",
+      "topic": "Generations"
+    },
+    {
+      "id": 39,
+      "question": "The first mechanical calculator 'Pascalene' was developed by:",
+      "options": {
+        "A": "Babbage",
+        "B": "Blaise Pascal",
+        "C": "Newman",
+        "D": "Ekin"
+      },
+      "answer": "B",
+      "explanation": "Page 488: Blaise Pascal developed the first mechanical calculator 'Pascalene' in 1642 AD.",
+      "topic": "History"
+    },
+    {
+      "id": 40,
+      "question": "The Second Revolution of computers was given a right direction by:",
+      "options": {
+        "A": "Mark-I",
+        "B": "EDVAC and Stored Program concept by Newman",
+        "C": "Punch Cards",
+        "D": "ENIAC only"
+      },
+      "answer": "B",
+      "explanation": "Page 488: Newman's EDVAC and Stored Program concept gave a right direction to the Computer Revolution (Second Revolution).",
+      "topic": "History"
+    },
+    {
+      "id": 41,
+      "question": "Computer is used in areas of:",
+      "options": {
+        "A": "Only education",
+        "B": "Administration, medicine, education, sports, defence, shops, home, markets",
+        "C": "Only sports",
+        "D": "Only defence"
+      },
+      "answer": "B",
+      "explanation": "Page 488: Computer is being used in areas of administration, medicine, education, sports, defence, shops, home, markets and many more.",
+      "topic": "Introduction"
+    },
+    {
+      "id": 42,
+      "question": "Quantum Computers are probably more advanced than:",
+      "options": {
+        "A": "Calculators",
+        "B": "Human brain",
+        "C": "Abacus",
+        "D": "Typewriters"
+      },
+      "answer": "B",
+      "explanation": "Page 488: Probably Quantum Computers will be more advanced than that of human brain.",
+      "topic": "Types"
+    },
+    {
+      "id": 43,
+      "question": "The development of Quantum Computer is in:",
+      "options": {
+        "A": "Completed stage",
+        "B": "Final stage",
+        "C": "Not started",
+        "D": "Abandoned"
+      },
+      "answer": "B",
+      "explanation": "Page 488: The development of Quantum Computer is in final stage.",
+      "topic": "Types"
+    },
+    {
+      "id": 44,
+      "question": "A computer accepts information or data from the outside world and:",
+      "options": {
+        "A": "Deletes it",
+        "B": "Processes it to produce a new information",
+        "C": "Ignores it",
+        "D": "Stores it permanently without processing"
+      },
+      "answer": "B",
+      "explanation": "Page 488: A computer accepts information/data from outside world, processes it to produce new information.",
+      "topic": "Introduction"
+    },
+    {
+      "id": 45,
+      "question": "The period of Third Generation computers was:",
+      "options": {
+        "A": "1940-52",
+        "B": "1964-71",
+        "C": "1952-64",
+        "D": "1971-90"
+      },
+      "answer": "B",
+      "explanation": "Page 488: Third Generation period was 1964-71, using Integrated Circuits.",
+      "topic": "Generations"
+    },
+    {
+      "id": 46,
+      "question": "The period of First Generation computers was:",
+      "options": {
+        "A": "1952-64",
+        "B": "1940-52",
+        "C": "1964-71",
+        "D": "1971-90"
+      },
+      "answer": "B",
+      "explanation": "Page 488: First Generation period was 1940-52.",
+      "topic": "Generations"
+    },
+    {
+      "id": 47,
+      "question": "The period of Second Generation computers was:",
+      "options": {
+        "A": "1940-52",
+        "B": "1952-64",
+        "C": "1964-71",
+        "D": "1971-90"
+      },
+      "answer": "B",
+      "explanation": "Page 488: Second Generation period was 1952-64.",
+      "topic": "Generations"
+    },
+    {
+      "id": 48,
+      "question": "Herman Holorith's tabulating machine was automatically functional with the help of:",
+      "options": {
+        "A": "Electricity only",
+        "B": "Punch Card",
+        "C": "Transistor",
+        "D": "IC chip"
+      },
+      "answer": "B",
+      "explanation": "Page 488: Herman Holorith's machine in 1880 was automatically functional with the help of Punch Card.",
+      "topic": "History"
+    },
+    {
+      "id": 49,
+      "question": "The first electronic computer ENIAC-I paved the way for first revolution in the field of:",
+      "options": {
+        "A": "Music",
+        "B": "Calculating machine or computer",
+        "C": "Cooking",
+        "D": "Agriculture"
+      },
+      "answer": "B",
+      "explanation": "Page 488: ENIAC-I paved the way for first revolution in the field of calculating machine or computer.",
+      "topic": "History"
+    },
+    {
+      "id": 50,
+      "question": "Main Frame Computers use which techniques to allow multiple users?",
+      "options": {
+        "A": "Only batch processing",
+        "B": "Time Sharing and Multi Tasking",
+        "C": "Only serial processing",
+        "D": "Only parallel processing"
+      },
+      "answer": "B",
+      "explanation": "Page 488: Main Frame Computer: By Time Sharing and Multi Tasking techniques, many people can work at different terminals.",
+      "topic": "Types"
+    }
+  ]
+}

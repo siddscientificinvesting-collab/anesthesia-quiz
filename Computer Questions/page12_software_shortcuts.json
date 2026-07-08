@@ -1,0 +1,659 @@
+{
+  "title": "Software, Shortcuts & Glossary – Page 493",
+  "source": "Lucent's General Knowledge – Computer",
+  "section": "Computer: Software, Keyboard Shortcuts & Glossary",
+  "total_questions": 50,
+  "time_limit_minutes": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Computer programs are written using special languages called:",
+      "options": {
+        "A": "Human languages",
+        "B": "Programming languages",
+        "C": "Sign languages",
+        "D": "Musical languages"
+      },
+      "answer": "B",
+      "explanation": "Page 493: Computer programs are written using special languages called programming languages.",
+      "topic": "Software"
+    },
+    {
+      "id": 2,
+      "question": "There are several programming languages. Each has its own:",
+      "options": {
+        "A": "Color",
+        "B": "Grammar called its syntax",
+        "C": "Sound",
+        "D": "Shape"
+      },
+      "answer": "B",
+      "explanation": "Page 493: Each programming language has its own grammar called its syntax.",
+      "topic": "Software"
+    },
+    {
+      "id": 3,
+      "question": "Machine level and Assembly language are examples of:",
+      "options": {
+        "A": "High-level languages",
+        "B": "Low-level languages",
+        "C": "Web languages",
+        "D": "Database languages"
+      },
+      "answer": "B",
+      "explanation": "Page 493: Machine level and assembly language are examples of low-level languages.",
+      "topic": "Software"
+    },
+    {
+      "id": 4,
+      "question": "A special program called Assembler converts all instructions into:",
+      "options": {
+        "A": "High-level language",
+        "B": "The binary format",
+        "C": "Natural language",
+        "D": "HTML"
+      },
+      "answer": "B",
+      "explanation": "Page 493: A special program called Assembler converts all instructions into the binary format.",
+      "topic": "Software"
+    },
+    {
+      "id": 5,
+      "question": "Because all such instructions must finally be converted to binary form, all high-level languages have their own translator programs called:",
+      "options": {
+        "A": "Assemblers",
+        "B": "Compilers or Interpreters",
+        "C": "Browsers",
+        "D": "Editors"
+      },
+      "answer": "B",
+      "explanation": "Page 493: All high-level languages have their own form of translator—programs called compilers or interpreters.",
+      "topic": "Software"
+    },
+    {
+      "id": 6,
+      "question": "Software relates to set of programs. The software that makes the computer hardware parts operational is called:",
+      "options": {
+        "A": "Application software",
+        "B": "Operational (system) software",
+        "C": "Utility software",
+        "D": "Game software"
+      },
+      "answer": "B",
+      "explanation": "Page 493: Software relates to set of programs. Software that makes hardware parts operational is called operational/system software. In other words, it governs the operations of a computer system.",
+      "topic": "Software"
+    },
+    {
+      "id": 7,
+      "question": "Examples of popular high-level languages are:",
+      "options": {
+        "A": "Assembly only",
+        "B": "C, C++, Java, FORTRAN, Pascal",
+        "C": "Machine code only",
+        "D": "Binary only"
+      },
+      "answer": "B",
+      "explanation": "Page 493: Examples of popular high-level languages are C, C++, Java, FORTRAN, Pascal.",
+      "topic": "Software"
+    },
+    {
+      "id": 8,
+      "question": "Operating systems like Unix, MS-DOS, Linux, Windows, Mac OS are some of:",
+      "options": {
+        "A": "Application software",
+        "B": "The most popular operating systems used by computers",
+        "C": "Games",
+        "D": "Viruses"
+      },
+      "answer": "B",
+      "explanation": "Page 493: Unix, MS-DOS, Linux, Windows, Mac OS are some of the most popular operating systems.",
+      "topic": "Software"
+    },
+    {
+      "id": 9,
+      "question": "The most important system's program is:",
+      "options": {
+        "A": "Word processor",
+        "B": "Operating system",
+        "C": "Calculator",
+        "D": "Media player"
+      },
+      "answer": "B",
+      "explanation": "Page 493: The most important system's program is the operating system.",
+      "topic": "Software"
+    },
+    {
+      "id": 10,
+      "question": "Another popular type of application programs is the Database Management Systems (DBMS). A common term used for application programs that permit text editing is:",
+      "options": {
+        "A": "Spreadsheet",
+        "B": "Word processors",
+        "C": "Calculator",
+        "D": "Media player"
+      },
+      "answer": "B",
+      "explanation": "Page 493: A common term for application programs for text editing is word processors.",
+      "topic": "Software"
+    },
+    {
+      "id": 11,
+      "question": "Software is generally divided into two kinds:",
+      "options": {
+        "A": "Big and Small",
+        "B": "System Software and Application Software",
+        "C": "Free and Paid",
+        "D": "Old and New"
+      },
+      "answer": "B",
+      "explanation": "Page 493: Software generally divided into two kinds of programs: system software (collectively called the hardware) and application programs.",
+      "topic": "Software"
+    },
+    {
+      "id": 12,
+      "question": "The keyboard shortcut Ctrl + A is used for:",
+      "options": {
+        "A": "Bold",
+        "B": "Select All",
+        "C": "Copy",
+        "D": "Paste"
+      },
+      "answer": "B",
+      "explanation": "Page 493: Ctrl + A = Select All.",
+      "topic": "Shortcuts"
+    },
+    {
+      "id": 13,
+      "question": "The keyboard shortcut Ctrl + B is used for:",
+      "options": {
+        "A": "Select All",
+        "B": "Bold",
+        "C": "Copy",
+        "D": "Italic"
+      },
+      "answer": "B",
+      "explanation": "Page 493: Ctrl + B = Bold.",
+      "topic": "Shortcuts"
+    },
+    {
+      "id": 14,
+      "question": "The keyboard shortcut Ctrl + C is used for:",
+      "options": {
+        "A": "Bold",
+        "B": "Copy",
+        "C": "Cut",
+        "D": "Paste"
+      },
+      "answer": "B",
+      "explanation": "Page 493: Ctrl + C = Copy.",
+      "topic": "Shortcuts"
+    },
+    {
+      "id": 15,
+      "question": "The keyboard shortcut Ctrl + D is used for:",
+      "options": {
+        "A": "Copy",
+        "B": "Font Dialogue Box",
+        "C": "Delete",
+        "D": "Duplicate"
+      },
+      "answer": "B",
+      "explanation": "Page 493: Ctrl + D = Font Dialogue Box.",
+      "topic": "Shortcuts"
+    },
+    {
+      "id": 16,
+      "question": "The keyboard shortcut Ctrl + E is used for:",
+      "options": {
+        "A": "Bold",
+        "B": "Centre Alignment",
+        "C": "Exit",
+        "D": "Edit"
+      },
+      "answer": "B",
+      "explanation": "Page 493: Ctrl + E = Centre Alignment.",
+      "topic": "Shortcuts"
+    },
+    {
+      "id": 17,
+      "question": "The keyboard shortcut Ctrl + I is used for:",
+      "options": {
+        "A": "Insert",
+        "B": "Italics",
+        "C": "Image",
+        "D": "Indent"
+      },
+      "answer": "B",
+      "explanation": "Page 493: Ctrl + I = Italics.",
+      "topic": "Shortcuts"
+    },
+    {
+      "id": 18,
+      "question": "The keyboard shortcut Ctrl + J is used for:",
+      "options": {
+        "A": "Jump",
+        "B": "Justified Alignment",
+        "C": "Join",
+        "D": "Junk"
+      },
+      "answer": "B",
+      "explanation": "Page 493: Ctrl + J = Justified Alignment.",
+      "topic": "Shortcuts"
+    },
+    {
+      "id": 19,
+      "question": "The keyboard shortcut Ctrl + N is used for:",
+      "options": {
+        "A": "Next page",
+        "B": "Opens New blank document",
+        "C": "New folder",
+        "D": "Number"
+      },
+      "answer": "B",
+      "explanation": "Page 493: Ctrl + N = Opens New blank document.",
+      "topic": "Shortcuts"
+    },
+    {
+      "id": 20,
+      "question": "The keyboard shortcut Ctrl + O is used for:",
+      "options": {
+        "A": "Output",
+        "B": "Opens existing document",
+        "C": "Options",
+        "D": "Outline"
+      },
+      "answer": "B",
+      "explanation": "Page 493: Ctrl + O = Opens existing document.",
+      "topic": "Shortcuts"
+    },
+    {
+      "id": 21,
+      "question": "The keyboard shortcut Ctrl + R is used for:",
+      "options": {
+        "A": "Redo",
+        "B": "Right Alignment",
+        "C": "Replace",
+        "D": "Refresh"
+      },
+      "answer": "B",
+      "explanation": "Page 493: Ctrl + R = Right Alignment.",
+      "topic": "Shortcuts"
+    },
+    {
+      "id": 22,
+      "question": "The keyboard shortcut Ctrl + Esc is used for:",
+      "options": {
+        "A": "Exit program",
+        "B": "Displays the Start Menu in the Windows OS",
+        "C": "Escape",
+        "D": "Close"
+      },
+      "answer": "B",
+      "explanation": "Page 493: Ctrl + Esc = Displays the Start Menu in the Windows OS.",
+      "topic": "Shortcuts"
+    },
+    {
+      "id": 23,
+      "question": "The keyboard shortcut PrtScn is used for:",
+      "options": {
+        "A": "Print document",
+        "B": "Print screen / Take a screen shot",
+        "C": "Preview",
+        "D": "Properties"
+      },
+      "answer": "B",
+      "explanation": "Page 493: PrtScn = Print screen / Take a screen shot.",
+      "topic": "Shortcuts"
+    },
+    {
+      "id": 24,
+      "question": "The keyboard shortcut Alt + Tab is used for:",
+      "options": {
+        "A": "Open new tab",
+        "B": "Switch to next opened program",
+        "C": "Close tab",
+        "D": "New tab"
+      },
+      "answer": "B",
+      "explanation": "Page 493: Alt + Tab = Switch to next opened program.",
+      "topic": "Shortcuts"
+    },
+    {
+      "id": 25,
+      "question": "The keyboard shortcut Ctrl + End is used to:",
+      "options": {
+        "A": "Delete",
+        "B": "Go to end of a File/Worksheet",
+        "C": "End program",
+        "D": "Shutdown"
+      },
+      "answer": "B",
+      "explanation": "Page 493: Ctrl + End = Go to end of a File/Worksheet.",
+      "topic": "Shortcuts"
+    },
+    {
+      "id": 26,
+      "question": "The keyboard shortcut Ctrl + Home is used to:",
+      "options": {
+        "A": "Go to desktop",
+        "B": "Go to beginning of a File/Worksheet",
+        "C": "Home page",
+        "D": "Start menu"
+      },
+      "answer": "B",
+      "explanation": "Page 493: Ctrl + Home = Go to beginning of a File/Worksheet.",
+      "topic": "Shortcuts"
+    },
+    {
+      "id": 27,
+      "question": "The keyboard shortcut Alt + Shift + Tab is used to:",
+      "options": {
+        "A": "Open new window",
+        "B": "Switch to previous opened Program",
+        "C": "Close window",
+        "D": "Minimize"
+      },
+      "answer": "B",
+      "explanation": "Page 493: Alt + Shift + Tab = Switch to previous opened Program.",
+      "topic": "Shortcuts"
+    },
+    {
+      "id": 28,
+      "question": "The keyboard shortcut Alt + F4 is used to:",
+      "options": {
+        "A": "Open file",
+        "B": "Close windows/Shut down",
+        "C": "Find",
+        "D": "Format"
+      },
+      "answer": "B",
+      "explanation": "Page 493: Alt + F4 = Close windows/Shut down.",
+      "topic": "Shortcuts"
+    },
+    {
+      "id": 29,
+      "question": "The keyboard shortcut Ctrl + Z is used for:",
+      "options": {
+        "A": "Zoom",
+        "B": "Undo",
+        "C": "Zero",
+        "D": "Zip"
+      },
+      "answer": "B",
+      "explanation": "Page 493: Ctrl + Z = Undo.",
+      "topic": "Shortcuts"
+    },
+    {
+      "id": 30,
+      "question": "The keyboard shortcut Ctrl + Y is used for:",
+      "options": {
+        "A": "Yield",
+        "B": "Redo",
+        "C": "Yes",
+        "D": "Year"
+      },
+      "answer": "B",
+      "explanation": "Page 493: Ctrl + Y = Redo.",
+      "topic": "Shortcuts"
+    },
+    {
+      "id": 31,
+      "question": "The keyboard shortcut Ctrl + W is used to:",
+      "options": {
+        "A": "Open window",
+        "B": "Close File",
+        "C": "Write",
+        "D": "Wide"
+      },
+      "answer": "B",
+      "explanation": "Page 493: Ctrl + W = Close File.",
+      "topic": "Shortcuts"
+    },
+    {
+      "id": 32,
+      "question": "The keyboard shortcut Ctrl + P is used for:",
+      "options": {
+        "A": "Paste",
+        "B": "Print",
+        "C": "Preview",
+        "D": "Page"
+      },
+      "answer": "B",
+      "explanation": "Page 493: Ctrl + P = Print.",
+      "topic": "Shortcuts"
+    },
+    {
+      "id": 33,
+      "question": "The keyboard shortcut Ctrl + U is used for:",
+      "options": {
+        "A": "Undo",
+        "B": "Underline",
+        "C": "Upload",
+        "D": "Update"
+      },
+      "answer": "B",
+      "explanation": "Page 493: Ctrl + U = Underline.",
+      "topic": "Shortcuts"
+    },
+    {
+      "id": 34,
+      "question": "The keyboard shortcut Ctrl + K is used for:",
+      "options": {
+        "A": "Kill",
+        "B": "Hyperlink",
+        "C": "Keyboard",
+        "D": "Keep"
+      },
+      "answer": "B",
+      "explanation": "Page 493: Ctrl + K = Hyperlink.",
+      "topic": "Shortcuts"
+    },
+    {
+      "id": 35,
+      "question": "The keyboard shortcut Ctrl + S is used for:",
+      "options": {
+        "A": "Select",
+        "B": "Save",
+        "C": "Search",
+        "D": "Sort"
+      },
+      "answer": "B",
+      "explanation": "Page 493: Ctrl + S = Save.",
+      "topic": "Shortcuts"
+    },
+    {
+      "id": 36,
+      "question": "The keyboard shortcut F7 is used for:",
+      "options": {
+        "A": "Find",
+        "B": "Spell Check",
+        "C": "Format",
+        "D": "File"
+      },
+      "answer": "B",
+      "explanation": "Page 493: F7 = Spell Check.",
+      "topic": "Shortcuts"
+    },
+    {
+      "id": 37,
+      "question": "The keyboard shortcut F2 is used for:",
+      "options": {
+        "A": "Find",
+        "B": "Edit/Rename",
+        "C": "Format",
+        "D": "File"
+      },
+      "answer": "B",
+      "explanation": "Page 493: F2 = Edit/Rename.",
+      "topic": "Shortcuts"
+    },
+    {
+      "id": 38,
+      "question": "The keyboard shortcut F5 is used for:",
+      "options": {
+        "A": "Find",
+        "B": "Go to",
+        "C": "Format",
+        "D": "File"
+      },
+      "answer": "B",
+      "explanation": "Page 493: F5 = Go to.",
+      "topic": "Shortcuts"
+    },
+    {
+      "id": 39,
+      "question": "ALU stands for:",
+      "options": {
+        "A": "Advanced Logic Unit",
+        "B": "Arithmetic Logic Unit",
+        "C": "Automated Logic Unit",
+        "D": "Applied Logic Unit"
+      },
+      "answer": "B",
+      "explanation": "Page 493: ALU: It stands for Arithmetic Logic Unit. All calculations in computer are done here.",
+      "topic": "Glossary"
+    },
+    {
+      "id": 40,
+      "question": "BIOS stands for:",
+      "options": {
+        "A": "Binary Input Output Signal",
+        "B": "Basic Input Output System",
+        "C": "Basic Internal Operating System",
+        "D": "Binary Integrated Operating Software"
+      },
+      "answer": "B",
+      "explanation": "Page 493: BIOS: It stands for Basic Input Output System.",
+      "topic": "Glossary"
+    },
+    {
+      "id": 41,
+      "question": "Boot Loader reads the main portion of the operating system from:",
+      "options": {
+        "A": "RAM",
+        "B": "Secondary memory",
+        "C": "Cache",
+        "D": "ROM"
+      },
+      "answer": "B",
+      "explanation": "Page 493: Boot Loader: It reads the main portion of the operating system from secondary memory.",
+      "topic": "Glossary"
+    },
+    {
+      "id": 42,
+      "question": "Bit is the short form of:",
+      "options": {
+        "A": "Binary Term",
+        "B": "Binary Digit",
+        "C": "Binary Data",
+        "D": "Byte Information"
+      },
+      "answer": "B",
+      "explanation": "Page 493: Bit: It is the short form of Binary Digit.",
+      "topic": "Glossary"
+    },
+    {
+      "id": 43,
+      "question": "A program stored in ROM is called:",
+      "options": {
+        "A": "Software",
+        "B": "BIOS (firmware)",
+        "C": "Application",
+        "D": "Virus"
+      },
+      "answer": "B",
+      "explanation": "Page 493: BIOS/program is stored in ROM.",
+      "topic": "Glossary"
+    },
+    {
+      "id": 44,
+      "question": "Batch Processing means:",
+      "options": {
+        "A": "Single processing",
+        "B": "Data are processed in a batch",
+        "C": "No processing",
+        "D": "Random processing"
+      },
+      "answer": "B",
+      "explanation": "Page 493: Batch Processing: Data are processed in a batch.",
+      "topic": "Glossary"
+    },
+    {
+      "id": 45,
+      "question": "CU stands for:",
+      "options": {
+        "A": "Central Unit",
+        "B": "Control Unit",
+        "C": "Computing Unit",
+        "D": "Core Unit"
+      },
+      "answer": "B",
+      "explanation": "Page 493: CU: It stands for Control Unit. It controls the computer system.",
+      "topic": "Glossary"
+    },
+    {
+      "id": 46,
+      "question": "Browsing means:",
+      "options": {
+        "A": "Printing documents",
+        "B": "Viewing webpages on the website",
+        "C": "Deleting files",
+        "D": "Writing programs"
+      },
+      "answer": "B",
+      "explanation": "Page 493: Browsing: Viewing webpages on the website.",
+      "topic": "Glossary"
+    },
+    {
+      "id": 47,
+      "question": "Byte is defined as:",
+      "options": {
+        "A": "4 bits",
+        "B": "One byte is a collection of 8 bits",
+        "C": "16 bits",
+        "D": "32 bits"
+      },
+      "answer": "B",
+      "explanation": "Page 493: Byte: One byte is a collection of 8 bits.",
+      "topic": "Glossary"
+    },
+    {
+      "id": 48,
+      "question": "Cell in a spreadsheet refers to:",
+      "options": {
+        "A": "A single row",
+        "B": "Boxes created by the intersection of rows and columns",
+        "C": "A single column",
+        "D": "A header"
+      },
+      "answer": "B",
+      "explanation": "Page 493: Cell: Cells are boxes created by the intersection of rows and columns.",
+      "topic": "Glossary"
+    },
+    {
+      "id": 49,
+      "question": "A Cracker is a person who breaks into a:",
+      "options": {
+        "A": "Bank vault",
+        "B": "Computer system to steal information as programs for unauthorized use",
+        "C": "House",
+        "D": "Car"
+      },
+      "answer": "B",
+      "explanation": "Page 493: Cracker: A cracker is a person who breaks into a computer system to steal information as programs for unauthorized use.",
+      "topic": "Glossary"
+    },
+    {
+      "id": 50,
+      "question": "Copyright means the material and information are the property of:",
+      "options": {
+        "A": "Everyone",
+        "B": "The owner or producer",
+        "C": "The government only",
+        "D": "No one"
+      },
+      "answer": "B",
+      "explanation": "Page 493: Copyright: It means the material and information are the personal property of the owner or producer.",
+      "topic": "Glossary"
+    }
+  ]
+}

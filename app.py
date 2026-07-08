@@ -652,13 +652,30 @@ def page_quiz():
     # ── Question Navigation Sidebar ──────────────────────────────────────────
     with st.sidebar:
         st.markdown("### Question Map")
-        cols = st.columns(5)
+
+        # Filter options for navigation
+        filter_nav = st.radio("Show:", ["All", "Unanswered Only", "Answered Only"], horizontal=True, key="nav_filter")
+
+        filtered_indices = []
         for i, q in enumerate(QUESTIONS):
-            answered = str(q["id"]) in st.session_state.answers
-            label    = f"{'✅' if answered else '⬜'} {i+1}"
-            if cols[i % 5].button(label, key=f"nav_{i}", use_container_width=True):
-                st.session_state.current_q = i
-                st.rerun()
+            is_answered = str(q["id"]) in st.session_state.answers
+            if filter_nav == "Unanswered Only" and is_answered:
+                continue
+            if filter_nav == "Answered Only" and not is_answered:
+                continue
+            filtered_indices.append(i)
+
+        if not filtered_indices:
+            st.info("No questions match this filter.")
+        else:
+            cols = st.columns(5)
+            for col_idx, i in enumerate(filtered_indices):
+                q_item = QUESTIONS[i]
+                is_answered = str(q_item["id"]) in st.session_state.answers
+                label = f"{'✅' if is_answered else '⬜'} {i+1}"
+                if cols[col_idx % 5].button(label, key=f"nav_{i}", use_container_width=True):
+                    st.session_state.current_q = i
+                    st.rerun()
 
     # ── Current Question ──────────────────────────────────────────────────────
     idx = st.session_state.current_q
@@ -674,7 +691,7 @@ def page_quiz():
     options        = [f"{k}. {v}" for k, v in q["options"].items()]
     option_keys    = list(q["options"].keys())
 
-    # Find index of current answer
+    # Find index of current answer - use None for no selection
     default_idx = None
     if current_answer and current_answer in option_keys:
         default_idx = option_keys.index(current_answer)
@@ -686,14 +703,17 @@ def page_quiz():
         key=f"q_{idx}_{qid}",
     )
 
+    # Save answer on selection
     if choice:
         selected_key = choice.split(".")[0]
-        st.session_state.answers[qid] = selected_key
+        if st.session_state.answers.get(qid) != selected_key:
+            st.session_state.answers[qid] = selected_key
+            st.rerun()
 
     st.divider()
 
     # ── Navigation Buttons ────────────────────────────────────────────────────
-    c1, c2, c3 = st.columns([1, 1, 2])
+    c1, c2, c3, c4 = st.columns([1, 1, 1, 2])
     with c1:
         if idx > 0:
             if st.button("◀ Previous", use_container_width=True):
@@ -705,6 +725,22 @@ def page_quiz():
                 st.session_state.current_q += 1
                 st.rerun()
     with c3:
+        # Jump to next unanswered
+        next_unanswered = None
+        for i in range(idx + 1, TOTAL_Q):
+            if str(QUESTIONS[i]["id"]) not in st.session_state.answers:
+                next_unanswered = i
+                break
+        if next_unanswered is None:
+            for i in range(0, idx):
+                if str(QUESTIONS[i]["id"]) not in st.session_state.answers:
+                    next_unanswered = i
+                    break
+        if next_unanswered is not None:
+            if st.button("⏭ Next Unanswered", use_container_width=True):
+                st.session_state.current_q = next_unanswered
+                st.rerun()
+    with c4:
         answered_count = len(st.session_state.answers)
         btn_label = f"✅ Submit ({answered_count}/{TOTAL_Q} answered)"
         if st.button(btn_label, type="primary", use_container_width=True):

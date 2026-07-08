@@ -1,0 +1,659 @@
+{
+  "title": "Excretory & Nervous System – Page 416",
+  "source": "Lucent's General Knowledge – Biology",
+  "section": "Biology: Excretory System, Nervous System & Brain",
+  "total_questions": 50,
+  "time_limit_minutes": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Lymphocytes present in lymph help to prevent the body from diseases by:",
+      "options": {
+        "A": "Producing hormones",
+        "B": "Killing harmful bacteria and other toxic foreign bodies",
+        "C": "Producing glucose",
+        "D": "Absorbing nutrients"
+      },
+      "answer": "B",
+      "explanation": "Page 416: Lymphocytes in lymph prevent diseases by killing harmful bacteria and toxic foreign bodies.",
+      "topic": "Lymph"
+    },
+    {
+      "id": 2,
+      "question": "The node found in lymph vessels is called:",
+      "options": {
+        "A": "Alveoli",
+        "B": "Lymph node",
+        "C": "Nephron",
+        "D": "Neuron"
+      },
+      "answer": "B",
+      "explanation": "Page 416: The node found in lymph vessels is called lymph node. It works as a filter of microbes.",
+      "topic": "Lymph"
+    },
+    {
+      "id": 3,
+      "question": "Lymph helps in:",
+      "options": {
+        "A": "Digestion only",
+        "B": "Healing the wounds",
+        "C": "Producing hormones",
+        "D": "Blood clotting only"
+      },
+      "answer": "B",
+      "explanation": "Page 416: Lymph helps in healing the wounds.",
+      "topic": "Lymph"
+    },
+    {
+      "id": 4,
+      "question": "Excretion is the removal of:",
+      "options": {
+        "A": "Digested food",
+        "B": "Waste products formed during metabolism",
+        "C": "Blood",
+        "D": "Oxygen"
+      },
+      "answer": "B",
+      "explanation": "Page 416: Excretion is removal of waste products formed during metabolism from the body.",
+      "topic": "Excretory System"
+    },
+    {
+      "id": 5,
+      "question": "The excretory organs of human are:",
+      "options": {
+        "A": "Only kidneys",
+        "B": "Kidneys, Skin, Liver and Lungs",
+        "C": "Only liver",
+        "D": "Only skin"
+      },
+      "answer": "B",
+      "explanation": "Page 416: Excretory organs: 1. Kidneys, 2. Skin, 3. Liver, 4. Lungs.",
+      "topic": "Excretory System"
+    },
+    {
+      "id": 6,
+      "question": "The main excretory organ in human is:",
+      "options": {
+        "A": "Skin",
+        "B": "Kidneys",
+        "C": "Liver",
+        "D": "Lungs"
+      },
+      "answer": "B",
+      "explanation": "Page 416: Kidneys are the main excretory organ in human and other mammals. Weight is 140 grams.",
+      "topic": "Excretory System"
+    },
+    {
+      "id": 7,
+      "question": "Each kidney is made up of approximately how many kidney ducts (nephrons)?",
+      "options": {
+        "A": "50,000",
+        "B": "1,30,00,000 (13 lakh)",
+        "C": "1000",
+        "D": "100"
+      },
+      "answer": "B",
+      "explanation": "Page 416: Each kidney is made up of approximately 1,30,00,000 kidney ducts called nephrons.",
+      "topic": "Excretory System"
+    },
+    {
+      "id": 8,
+      "question": "Nephron is the structural and functional unit of:",
+      "options": {
+        "A": "Liver",
+        "B": "Kidney",
+        "C": "Heart",
+        "D": "Lung"
+      },
+      "answer": "B",
+      "explanation": "Page 416: Nephron is the structural and functional unit of the kidney.",
+      "topic": "Excretory System"
+    },
+    {
+      "id": 9,
+      "question": "The cup-like structure in every nephron is called:",
+      "options": {
+        "A": "Glomerulus",
+        "B": "Bowman's capsule",
+        "C": "Loop of Henle",
+        "D": "Collecting duct"
+      },
+      "answer": "B",
+      "explanation": "Page 416: There is a cup-like structure in every nephron called Bowman's capsule.",
+      "topic": "Excretory System"
+    },
+    {
+      "id": 10,
+      "question": "Glomerulus is made up of:",
+      "options": {
+        "A": "Muscle fibers",
+        "B": "Thin blood vessels found in Bowman's capsule",
+        "C": "Nerve fibers",
+        "D": "Bone cells"
+      },
+      "answer": "B",
+      "explanation": "Page 416: Glomerulus is made up of thin blood vessels found in Bowman's capsule.",
+      "topic": "Excretory System"
+    },
+    {
+      "id": 11,
+      "question": "The process of filtration of liquid into cavity of Bowman's capsule is called:",
+      "options": {
+        "A": "Absorption",
+        "B": "Ultra filtration",
+        "C": "Osmosis",
+        "D": "Diffusion"
+      },
+      "answer": "B",
+      "explanation": "Page 416: Process of filtration of liquid into cavity of Bowman's capsule is called ultra filtration.",
+      "topic": "Excretory System"
+    },
+    {
+      "id": 12,
+      "question": "The main function of the kidneys is:",
+      "options": {
+        "A": "Producing hormones",
+        "B": "Purification of blood plasma by excreting nitrogenous waste through urination",
+        "C": "Producing enzymes",
+        "D": "Digesting food"
+      },
+      "answer": "B",
+      "explanation": "Page 416: Main function of kidneys is purification of blood plasma, excreting unwanted nitrogenous waste substances through urination.",
+      "topic": "Excretory System"
+    },
+    {
+      "id": 13,
+      "question": "In kidneys, average blood filtrated per minute is:",
+      "options": {
+        "A": "50 mL",
+        "B": "125 mL",
+        "C": "250 mL",
+        "D": "500 mL"
+      },
+      "answer": "B",
+      "explanation": "Page 416: In kidneys, average 125 mL per minute blood is filtrated, i.e., 180 litres per day.",
+      "topic": "Excretory System"
+    },
+    {
+      "id": 14,
+      "question": "How many litres of urine is formed daily?",
+      "options": {
+        "A": "0.5 litres",
+        "B": "1.45 litres",
+        "C": "5 litres",
+        "D": "10 litres"
+      },
+      "answer": "B",
+      "explanation": "Page 416: Out of 180 litres filtered, 1.45 litres urine is formed daily and remaining is absorbed back.",
+      "topic": "Excretory System"
+    },
+    {
+      "id": 15,
+      "question": "Urine is an aqueous solution in which water constitutes:",
+      "options": {
+        "A": "80%",
+        "B": "95%",
+        "C": "70%",
+        "D": "99%"
+      },
+      "answer": "B",
+      "explanation": "Page 416: Urine is an aqueous solution in which 95% is water. Other constituents include urea, uric acid, chloride, sodium, potassium, creatinine.",
+      "topic": "Excretory System"
+    },
+    {
+      "id": 16,
+      "question": "The colour of urine is light yellow due to presence of:",
+      "options": {
+        "A": "Bilirubin",
+        "B": "Urochromes (formed by dissociation of haemoglobin)",
+        "C": "Melanin",
+        "D": "Carotene"
+      },
+      "answer": "B",
+      "explanation": "Page 416: Colour of urine is light yellow due to presence of urochromes, formed by dissociation of haemoglobin.",
+      "topic": "Excretory System"
+    },
+    {
+      "id": 17,
+      "question": "The correct sequence of urine flow in human body is:",
+      "options": {
+        "A": "Ureter → Kidney → Bladder → Urethra",
+        "B": "Kidney → Ureter → Urinary bladder → Urethra",
+        "C": "Urethra → Bladder → Ureter → Kidney",
+        "D": "Bladder → Kidney → Ureter → Urethra"
+      },
+      "answer": "B",
+      "explanation": "Page 416: Correct sequence: Kidney → Ureter → Urinary bladder → Urethra.",
+      "topic": "Excretory System"
+    },
+    {
+      "id": 18,
+      "question": "Urine pH is:",
+      "options": {
+        "A": "7 (neutral)",
+        "B": "6 (acidic)",
+        "C": "8 (alkaline)",
+        "D": "5 (very acidic)"
+      },
+      "answer": "B",
+      "explanation": "Page 416: Urine is acidic. Its pH value is 6.",
+      "topic": "Excretory System"
+    },
+    {
+      "id": 19,
+      "question": "Kidney stones are made up of:",
+      "options": {
+        "A": "Calcium carbonate",
+        "B": "Calcium oxalate",
+        "C": "Calcium chloride",
+        "D": "Sodium chloride"
+      },
+      "answer": "B",
+      "explanation": "Page 416: The stone formed in kidneys is made up of calcium oxalate.",
+      "topic": "Excretory System"
+    },
+    {
+      "id": 20,
+      "question": "Excretory parts of Arthropods are:",
+      "options": {
+        "A": "Nephridia",
+        "B": "Malpighian tubules",
+        "C": "Flame cells",
+        "D": "Kidneys"
+      },
+      "answer": "B",
+      "explanation": "Page 416: Arthropods excrete by Malpighian tubules.",
+      "topic": "Excretory System"
+    },
+    {
+      "id": 21,
+      "question": "Excretory parts of Flat worm are:",
+      "options": {
+        "A": "Kidneys",
+        "B": "Flame cells",
+        "C": "Malpighian tubules",
+        "D": "Nephridia"
+      },
+      "answer": "B",
+      "explanation": "Page 416: Flat worm excretory parts are flame cells.",
+      "topic": "Excretory System"
+    },
+    {
+      "id": 22,
+      "question": "Excretory parts of Animals of Annelida Phylum are:",
+      "options": {
+        "A": "Flame cells",
+        "B": "Nephridia",
+        "C": "Malpighian tubules",
+        "D": "Kidneys"
+      },
+      "answer": "B",
+      "explanation": "Page 416: Annelida Phylum excretory parts are Nephridia.",
+      "topic": "Excretory System"
+    },
+    {
+      "id": 23,
+      "question": "Hemodialysis is the process of:",
+      "options": {
+        "A": "Blood transfusion",
+        "B": "Removal of excess urea from blood using artificial kidney",
+        "C": "Blood typing",
+        "D": "Blood clotting"
+      },
+      "answer": "B",
+      "explanation": "Page 416: Hemodialysis is removal of excess urea from the blood of patient using artificial kidney.",
+      "topic": "Excretory System"
+    },
+    {
+      "id": 24,
+      "question": "Excretory parts of Curstaceans (crabs, lobsters) are:",
+      "options": {
+        "A": "Flame cells",
+        "B": "Antennal gland",
+        "C": "Nephridia",
+        "D": "Kidneys"
+      },
+      "answer": "B",
+      "explanation": "Page 416: Curstaceans excretory parts are Antennal gland.",
+      "topic": "Excretory System"
+    },
+    {
+      "id": 25,
+      "question": "Liver cells play the main role in excretion by converting amino acids and ammonia into:",
+      "options": {
+        "A": "Glucose",
+        "B": "Urea",
+        "C": "Fat",
+        "D": "Protein"
+      },
+      "answer": "B",
+      "explanation": "Page 416: Liver cells play main role in excretion by converting amino acids and ammonia of blood into urea.",
+      "topic": "Excretory System"
+    },
+    {
+      "id": 26,
+      "question": "Lungs excrete which gaseous substances?",
+      "options": {
+        "A": "Oxygen only",
+        "B": "Carbon dioxide and water vapour",
+        "C": "Nitrogen only",
+        "D": "Hydrogen only"
+      },
+      "answer": "B",
+      "explanation": "Page 416: Lungs excrete carbon dioxide and water vapour.",
+      "topic": "Excretory System"
+    },
+    {
+      "id": 27,
+      "question": "Nervous System of human is divided into how many parts?",
+      "options": {
+        "A": "2",
+        "B": "3 – Central, Peripheral, Autonomic",
+        "C": "4",
+        "D": "1"
+      },
+      "answer": "B",
+      "explanation": "Page 416: Nervous System is divided into 3 parts: 1. CNS, 2. PNS, 3. Autonomic Nervous System.",
+      "topic": "Nervous System"
+    },
+    {
+      "id": 28,
+      "question": "Central Nervous System is made up of:",
+      "options": {
+        "A": "Only Brain",
+        "B": "Brain and Spinal Cord",
+        "C": "Only Spinal Cord",
+        "D": "Only Nerves"
+      },
+      "answer": "B",
+      "explanation": "Page 416: CNS of human is made up of two parts - Brain and Spinal Cord.",
+      "topic": "Nervous System"
+    },
+    {
+      "id": 29,
+      "question": "Brain is covered by a membrane called:",
+      "options": {
+        "A": "Peritoneum",
+        "B": "Meninges",
+        "C": "Pericardium",
+        "D": "Pleura"
+      },
+      "answer": "B",
+      "explanation": "Page 416: Brain is covered by membrane called meninges. It is situated in a bony box called cranium.",
+      "topic": "Nervous System"
+    },
+    {
+      "id": 30,
+      "question": "Brain is situated in a bony box called:",
+      "options": {
+        "A": "Vertebra",
+        "B": "Cranium",
+        "C": "Sternum",
+        "D": "Pelvis"
+      },
+      "answer": "B",
+      "explanation": "Page 416: Brain is situated in a bony box called cranium which protects it from external injury.",
+      "topic": "Nervous System"
+    },
+    {
+      "id": 31,
+      "question": "Brain is divided into three parts:",
+      "options": {
+        "A": "Left, Right, Middle",
+        "B": "Fore brain, Mid brain, Hind brain",
+        "C": "Upper, Lower, Middle",
+        "D": "Inner, Outer, Core"
+      },
+      "answer": "B",
+      "explanation": "Page 416: Brain is divided into Fore brain, Mid brain, and Hind brain.",
+      "topic": "Nervous System"
+    },
+    {
+      "id": 32,
+      "question": "The weight of the human brain is:",
+      "options": {
+        "A": "500 grams",
+        "B": "1336 grams",
+        "C": "2000 grams",
+        "D": "750 grams"
+      },
+      "answer": "B",
+      "explanation": "Page 416: Weight of the brain of human is 1336 grams.",
+      "topic": "Nervous System"
+    },
+    {
+      "id": 33,
+      "question": "Fore brain includes:",
+      "options": {
+        "A": "Cerebellum and Pons",
+        "B": "Cerebrum, Thalamus and Hypothalamus",
+        "C": "Medulla only",
+        "D": "Corpora quadrigemina"
+      },
+      "answer": "B",
+      "explanation": "Page 416: Fore brain includes Cerebrum, Thalamus and Hypothalamus.",
+      "topic": "Nervous System"
+    },
+    {
+      "id": 34,
+      "question": "Cerebrum is the centre of:",
+      "options": {
+        "A": "Only movement",
+        "B": "Wisdom, will power, memory, knowledge and thinking",
+        "C": "Only hearing",
+        "D": "Only vision"
+      },
+      "answer": "B",
+      "explanation": "Page 416: Cerebrum is the most developed part of brain. Centre of wisdom, will power, movements, memory, knowledge and thinking.",
+      "topic": "Nervous System"
+    },
+    {
+      "id": 35,
+      "question": "Cerebrum is the largest part of the brain and is responsible for:",
+      "options": {
+        "A": "Only balance",
+        "B": "Analysis, coordination of muscular movements from sense organs",
+        "C": "Only breathing",
+        "D": "Only heartbeat"
+      },
+      "answer": "B",
+      "explanation": "Page 416: Cerebrum is the largest part. It analyses and coordinates muscular movements received from sense organs.",
+      "topic": "Nervous System"
+    },
+    {
+      "id": 36,
+      "question": "The function of Thalamus is:",
+      "options": {
+        "A": "Memory",
+        "B": "It is the centre of feeling pain, cold and heat",
+        "C": "Balance",
+        "D": "Breathing"
+      },
+      "answer": "B",
+      "explanation": "Page 416: Thalamus is the centre of feeling pain, cold and heat.",
+      "topic": "Nervous System"
+    },
+    {
+      "id": 37,
+      "question": "Hind brain consists of:",
+      "options": {
+        "A": "Cerebrum and Thalamus",
+        "B": "Cerebellum, Pons and Medulla",
+        "C": "Only Cerebrum",
+        "D": "Only Thalamus"
+      },
+      "answer": "B",
+      "explanation": "Page 416: Hind brain consists of Cerebellum, Pons and Medulla.",
+      "topic": "Nervous System"
+    },
+    {
+      "id": 38,
+      "question": "Outer part of kidney is called:",
+      "options": {
+        "A": "Medulla",
+        "B": "Cortex",
+        "C": "Pelvis",
+        "D": "Capsule"
+      },
+      "answer": "B",
+      "explanation": "Page 416: Outer part is called cortex and inner part is called medulla.",
+      "topic": "Excretory System"
+    },
+    {
+      "id": 39,
+      "question": "Which arteriole carries blood TO the glomerulus?",
+      "options": {
+        "A": "Efferent arteriole",
+        "B": "Afferent arteriole",
+        "C": "Renal vein",
+        "D": "Collecting duct"
+      },
+      "answer": "B",
+      "explanation": "Page 416: Afferent arteriole carries blood to the glomerulus. Efferent arteriole takes blood out.",
+      "topic": "Excretory System"
+    },
+    {
+      "id": 40,
+      "question": "Blood supply to the kidneys compared to other organs is:",
+      "options": {
+        "A": "Very less",
+        "B": "In large quantity",
+        "C": "Same",
+        "D": "Zero"
+      },
+      "answer": "B",
+      "explanation": "Page 416: Supply of blood to kidneys takes place in large quantity in comparison to other organs.",
+      "topic": "Excretory System"
+    },
+    {
+      "id": 41,
+      "question": "Unicellular animals excrete by:",
+      "options": {
+        "A": "Kidneys",
+        "B": "Diffusion through general body surface and contractile vacuole",
+        "C": "Flame cells",
+        "D": "Malpighian tubules"
+      },
+      "answer": "B",
+      "explanation": "Page 416: Unicellular animals excrete by diffusion through general body surface and contractile vacuole.",
+      "topic": "Excretory System"
+    },
+    {
+      "id": 42,
+      "question": "Animals of Porifera Phylum excrete by:",
+      "options": {
+        "A": "Kidneys",
+        "B": "General body surface",
+        "C": "Nephridia",
+        "D": "Flame cells"
+      },
+      "answer": "B",
+      "explanation": "Page 416: Porifera Phylum animals excrete by general body surface.",
+      "topic": "Excretory System"
+    },
+    {
+      "id": 43,
+      "question": "Coelenterates excrete:",
+      "options": {
+        "A": "By kidneys",
+        "B": "Directly by cells",
+        "C": "By nephridia",
+        "D": "By Malpighian tubules"
+      },
+      "answer": "B",
+      "explanation": "Page 416: Coelenterates excrete directly by cells.",
+      "topic": "Excretory System"
+    },
+    {
+      "id": 44,
+      "question": "Mollusca excrete by:",
+      "options": {
+        "A": "Kidneys",
+        "B": "Urinary organ (kidney-like organ)",
+        "C": "Flame cells",
+        "D": "Antennal gland"
+      },
+      "answer": "B",
+      "explanation": "Page 416: Mollusca excrete by urinary organ (by urinary organ/kidney-like structure).",
+      "topic": "Excretory System"
+    },
+    {
+      "id": 45,
+      "question": "Vertebrates mainly excrete by:",
+      "options": {
+        "A": "Flame cells",
+        "B": "Kidneys",
+        "C": "Antennal gland",
+        "D": "Malpighian tubules"
+      },
+      "answer": "B",
+      "explanation": "Page 416: Vertebrates mainly excrete by kidneys.",
+      "topic": "Excretory System"
+    },
+    {
+      "id": 46,
+      "question": "Oil gland and sweat glands found in skin are part of:",
+      "options": {
+        "A": "Digestive system",
+        "B": "Excretory system (Skin)",
+        "C": "Respiratory system",
+        "D": "Nervous system"
+      },
+      "answer": "B",
+      "explanation": "Page 416: Skin has oil glands and sweat glands. Skin is the second excretory organ.",
+      "topic": "Excretory System"
+    },
+    {
+      "id": 47,
+      "question": "The excretion of some spices like garlic, onion happens through:",
+      "options": {
+        "A": "Kidneys",
+        "B": "Lungs (as vapour)",
+        "C": "Skin",
+        "D": "Liver"
+      },
+      "answer": "B",
+      "explanation": "Page 416: Lungs excrete vapour component of some substances like garlic, onion and some spices.",
+      "topic": "Excretory System"
+    },
+    {
+      "id": 48,
+      "question": "Input and output nerves meet at:",
+      "options": {
+        "A": "Heart",
+        "B": "Central nervous system",
+        "C": "Liver",
+        "D": "Kidneys"
+      },
+      "answer": "B",
+      "explanation": "Page 416: Input and output nerves meet at central nervous system.",
+      "topic": "Nervous System"
+    },
+    {
+      "id": 49,
+      "question": "Mid brain contains:",
+      "options": {
+        "A": "Cerebrum",
+        "B": "Corpora quadrigemina",
+        "C": "Cerebellum",
+        "D": "Medulla"
+      },
+      "answer": "B",
+      "explanation": "Page 416: Mid brain contains Corpora quadrigemina.",
+      "topic": "Nervous System"
+    },
+    {
+      "id": 50,
+      "question": "Lymph helps in transportation of:",
+      "options": {
+        "A": "Only oxygen",
+        "B": "Different materials like oxygen, protein, and nutrients to tissues",
+        "C": "Only carbon dioxide",
+        "D": "Only hormones"
+      },
+      "answer": "B",
+      "explanation": "Page 416: Lymph helps in transportation of different materials like oxygen, protein and other nutrients to the tissues.",
+      "topic": "Lymph"
+    }
+  ]
+}

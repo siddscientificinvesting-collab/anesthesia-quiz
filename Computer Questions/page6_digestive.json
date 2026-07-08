@@ -1,0 +1,659 @@
+{
+  "title": "Digestive System – Page 414",
+  "source": "Lucent's General Knowledge – Biology",
+  "section": "Biology: Digestive System",
+  "total_questions": 50,
+  "time_limit_minutes": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The enzyme Amylase is present in:",
+      "options": {
+        "A": "Gastric juice",
+        "B": "Saliva",
+        "C": "Pancreatic juice only",
+        "D": "Intestinal juice only"
+      },
+      "answer": "B",
+      "explanation": "Page 414: Saliva contains enzyme Amylase which converts starch into maltose.",
+      "topic": "Digestive Enzymes"
+    },
+    {
+      "id": 2,
+      "question": "Saliva converts starch into:",
+      "options": {
+        "A": "Glucose",
+        "B": "Maltose",
+        "C": "Protein",
+        "D": "Fat"
+      },
+      "answer": "B",
+      "explanation": "Page 414: Saliva (Amylase) converts Starch into Maltose.",
+      "topic": "Digestive Enzymes"
+    },
+    {
+      "id": 3,
+      "question": "Gastric juice contains which enzymes?",
+      "options": {
+        "A": "Amylase and Lipase",
+        "B": "Pepsin and Rennin",
+        "C": "Trypsin and Lipase",
+        "D": "Lactase and Sucrase"
+      },
+      "answer": "B",
+      "explanation": "Page 414: Gastric juice contains Pepsin and Rennin.",
+      "topic": "Digestive Enzymes"
+    },
+    {
+      "id": 4,
+      "question": "Pepsin in gastric juice converts:",
+      "options": {
+        "A": "Starch into Maltose",
+        "B": "Protein into Polypeptides",
+        "C": "Fat into Fatty acid",
+        "D": "Sucrose into Glucose"
+      },
+      "answer": "B",
+      "explanation": "Page 414: Pepsin converts Protein into Polypeptides.",
+      "topic": "Digestive Enzymes"
+    },
+    {
+      "id": 5,
+      "question": "Rennin in gastric juice converts:",
+      "options": {
+        "A": "Starch to sugar",
+        "B": "Casein (milk protein) into Calcium paracasein",
+        "C": "Fat to fatty acid",
+        "D": "Maltose to glucose"
+      },
+      "answer": "B",
+      "explanation": "Page 414: Rennin converts Casein (milk protein) into Calcium paracasein.",
+      "topic": "Digestive Enzymes"
+    },
+    {
+      "id": 6,
+      "question": "Pancreatic juice contains:",
+      "options": {
+        "A": "Pepsin and Rennin",
+        "B": "Trypsin, Amylase, and Lipase",
+        "C": "Sucrase only",
+        "D": "Lactase only"
+      },
+      "answer": "B",
+      "explanation": "Page 414: Pancreatic juice contains Trypsin (Protein→Sugar), Amylase (Starch→Amino acid and glycerol), and Lipase (Fat→Fatty acid and glycerol).",
+      "topic": "Digestive Enzymes"
+    },
+    {
+      "id": 7,
+      "question": "Intestinal juice contains:",
+      "options": {
+        "A": "Pepsin",
+        "B": "Erepsin, Maltase, Lactase, Sucrase, Lipase",
+        "C": "Rennin only",
+        "D": "Amylase only"
+      },
+      "answer": "B",
+      "explanation": "Page 414: Intestinal juice contains Erepsin, Maltase, Lactase, Sucrase, Lipase etc.",
+      "topic": "Digestive Enzymes"
+    },
+    {
+      "id": 8,
+      "question": "Maltase converts Maltose into:",
+      "options": {
+        "A": "Protein",
+        "B": "Glucose",
+        "C": "Fat",
+        "D": "Amino acid"
+      },
+      "answer": "B",
+      "explanation": "Page 414: Maltase converts Maltose into Glucose.",
+      "topic": "Digestive Enzymes"
+    },
+    {
+      "id": 9,
+      "question": "Sucrase converts Sucrose into:",
+      "options": {
+        "A": "Maltose",
+        "B": "Glucose and Fructose",
+        "C": "Protein",
+        "D": "Fatty acid"
+      },
+      "answer": "B",
+      "explanation": "Page 414: Sucrase converts Sucrose into Glucose and Fructose.",
+      "topic": "Digestive Enzymes"
+    },
+    {
+      "id": 10,
+      "question": "Lactase converts Lactose into:",
+      "options": {
+        "A": "Maltose and Sucrose",
+        "B": "Glucose and Galactose",
+        "C": "Protein and Fat",
+        "D": "Amino acid and Glycerol"
+      },
+      "answer": "B",
+      "explanation": "Page 414: Lactase converts Lactose into Glucose and Galactose.",
+      "topic": "Digestive Enzymes"
+    },
+    {
+      "id": 11,
+      "question": "Lipase converts fat into:",
+      "options": {
+        "A": "Glucose",
+        "B": "Fatty acid and Glycerol",
+        "C": "Amino acid",
+        "D": "Starch"
+      },
+      "answer": "B",
+      "explanation": "Page 414: Lipase converts Fat into Fatty acid and Glycerol.",
+      "topic": "Digestive Enzymes"
+    },
+    {
+      "id": 12,
+      "question": "Erepsin converts:",
+      "options": {
+        "A": "Starch to maltose",
+        "B": "Remaining protein into amino acid",
+        "C": "Fat to glycerol",
+        "D": "Sucrose to glucose"
+      },
+      "answer": "B",
+      "explanation": "Page 414: Erepsin in intestinal juice converts remaining protein (peptones) into amino acids.",
+      "topic": "Digestive Enzymes"
+    },
+    {
+      "id": 13,
+      "question": "Enzymes are:",
+      "options": {
+        "A": "Inorganic catalysts",
+        "B": "Biocatalysts (organic biological catalysts)",
+        "C": "Minerals",
+        "D": "Vitamins"
+      },
+      "answer": "B",
+      "explanation": "Page 414: Enzymes are biocatalysts.",
+      "topic": "Digestive Enzymes"
+    },
+    {
+      "id": 14,
+      "question": "The root of tooth is covered by:",
+      "options": {
+        "A": "Enamel",
+        "B": "Cementum",
+        "C": "Dentin",
+        "D": "Pulp"
+      },
+      "answer": "B",
+      "explanation": "Page 414: Root of tooth is covered by cementum.",
+      "topic": "Digestive System"
+    },
+    {
+      "id": 15,
+      "question": "The pouch of caecum is connected to:",
+      "options": {
+        "A": "Stomach",
+        "B": "Junction of small and large intestine",
+        "C": "Esophagus",
+        "D": "Pharynx"
+      },
+      "answer": "B",
+      "explanation": "Page 414: The pouch (caecum) is connected to the junction of small and large intestine.",
+      "topic": "Digestive System"
+    },
+    {
+      "id": 16,
+      "question": "Complete digestion of food takes place in:",
+      "options": {
+        "A": "Stomach",
+        "B": "Small intestine",
+        "C": "Large intestine",
+        "D": "Mouth"
+      },
+      "answer": "B",
+      "explanation": "Page 414: Complete digestion of food takes place in small intestine.",
+      "topic": "Digestive System"
+    },
+    {
+      "id": 17,
+      "question": "Digestion of fat takes place in:",
+      "options": {
+        "A": "Mouth",
+        "B": "Small and large intestine",
+        "C": "Stomach only",
+        "D": "Esophagus"
+      },
+      "answer": "B",
+      "explanation": "Page 414: Digestion of fat takes place in small and large intestine.",
+      "topic": "Digestive System"
+    },
+    {
+      "id": 18,
+      "question": "Small intestine is longer than:",
+      "options": {
+        "A": "Esophagus",
+        "B": "Large intestine",
+        "C": "Trachea",
+        "D": "All of above"
+      },
+      "answer": "B",
+      "explanation": "Page 414: Small intestine is longer than large intestine.",
+      "topic": "Digestive System"
+    },
+    {
+      "id": 19,
+      "question": "Undigested food reaches into large intestine where bacteria turns it into:",
+      "options": {
+        "A": "Vitamins",
+        "B": "Faeces",
+        "C": "Blood",
+        "D": "Glucose"
+      },
+      "answer": "B",
+      "explanation": "Page 414: Undigested food reaches large intestine where bacteria turns it into faeces, which is excreted.",
+      "topic": "Digestive System"
+    },
+    {
+      "id": 20,
+      "question": "Absorption of digested food takes place through:",
+      "options": {
+        "A": "Stomach wall",
+        "B": "Wall of small intestine into blood",
+        "C": "Large intestine only",
+        "D": "Esophagus"
+      },
+      "answer": "B",
+      "explanation": "Page 414: Absorption of digested food gets mixed into blood through the wall of small intestine.",
+      "topic": "Digestive System"
+    },
+    {
+      "id": 21,
+      "question": "Intestinal juice is alkaline in nature. In healthy people approximately how many litres are secreted daily?",
+      "options": {
+        "A": "1 litre",
+        "B": "2 litres",
+        "C": "5 litres",
+        "D": "500 mL"
+      },
+      "answer": "B",
+      "explanation": "Page 414: Intestinal juice is alkaline. In healthy people approximately 2 litres of intestinal juice is secreted everyday.",
+      "topic": "Digestive System"
+    },
+    {
+      "id": 22,
+      "question": "The liver converts the emulsified fats into:",
+      "options": {
+        "A": "Protein",
+        "B": "Glycerol and fatty acid",
+        "C": "Starch",
+        "D": "Amino acid"
+      },
+      "answer": "B",
+      "explanation": "Page 414: Liver converts the emulsified fats into glycerol and fatty acid.",
+      "topic": "Liver"
+    },
+    {
+      "id": 23,
+      "question": "Liver converts the maltose into:",
+      "options": {
+        "A": "Starch",
+        "B": "Glucose",
+        "C": "Protein",
+        "D": "Fat"
+      },
+      "answer": "B",
+      "explanation": "Page 414: Liver converts maltose into glucose.",
+      "topic": "Liver"
+    },
+    {
+      "id": 24,
+      "question": "Liver converts the lactose into:",
+      "options": {
+        "A": "Maltose",
+        "B": "Glucose and galactose",
+        "C": "Sucrose",
+        "D": "Fructose"
+      },
+      "answer": "B",
+      "explanation": "Page 414: Liver converts lactose into glucose and galactose.",
+      "topic": "Liver"
+    },
+    {
+      "id": 25,
+      "question": "Liver converts the sucrose into:",
+      "options": {
+        "A": "Maltose",
+        "B": "Glucose and fructose",
+        "C": "Starch",
+        "D": "Protein"
+      },
+      "answer": "B",
+      "explanation": "Page 414: Liver converts sucrose into glucose and fructose.",
+      "topic": "Liver"
+    },
+    {
+      "id": 26,
+      "question": "The liver is the largest gland in the human body. Its weight is approximately:",
+      "options": {
+        "A": "500 grams",
+        "B": "1500 grams",
+        "C": "2500 grams",
+        "D": "3000 grams"
+      },
+      "answer": "B",
+      "explanation": "Page 414: Liver is the largest gland of the human body. Weight is approximately 1500 grams.",
+      "topic": "Liver"
+    },
+    {
+      "id": 27,
+      "question": "Bile is secreted from:",
+      "options": {
+        "A": "Pancreas",
+        "B": "Liver",
+        "C": "Stomach",
+        "D": "Small intestine"
+      },
+      "answer": "B",
+      "explanation": "Page 414: Bile is secreted from liver.",
+      "topic": "Liver"
+    },
+    {
+      "id": 28,
+      "question": "Liver converts excess of amino acid into ammonia by:",
+      "options": {
+        "A": "Hydrolysis",
+        "B": "Deamination",
+        "C": "Oxidation",
+        "D": "Reduction"
+      },
+      "answer": "B",
+      "explanation": "Page 414: Liver converts excess of amino acid into ammonia by deamination.",
+      "topic": "Liver"
+    },
+    {
+      "id": 29,
+      "question": "Ammonia is further converted into urea by:",
+      "options": {
+        "A": "Glycolysis",
+        "B": "Ornithine cycle",
+        "C": "Kreb's cycle",
+        "D": "Calvin cycle"
+      },
+      "answer": "B",
+      "explanation": "Page 414: Ammonia is further converted into urea by ornithine cycle. Urea comes out of body through kidney.",
+      "topic": "Liver"
+    },
+    {
+      "id": 30,
+      "question": "Bile of liver accelerates the action of:",
+      "options": {
+        "A": "Amylase",
+        "B": "Enzymes present in intestine",
+        "C": "Pepsin",
+        "D": "Rennin"
+      },
+      "answer": "B",
+      "explanation": "Page 414: Bile accelerates the action of enzymes present in intestine.",
+      "topic": "Liver"
+    },
+    {
+      "id": 31,
+      "question": "The main functions of bile include making the pH of food as:",
+      "options": {
+        "A": "Acidic",
+        "B": "Alkaline and facilitates action of bile",
+        "C": "Neutral",
+        "D": "Very acidic"
+      },
+      "answer": "B",
+      "explanation": "Page 414: Bile makes pH of food alkaline and facilitates action of enzymes.",
+      "topic": "Liver"
+    },
+    {
+      "id": 32,
+      "question": "Bile neutralizes the acidic pH of food coming from:",
+      "options": {
+        "A": "Mouth",
+        "B": "Stomach",
+        "C": "Esophagus",
+        "D": "Large intestine"
+      },
+      "answer": "B",
+      "explanation": "Page 414: Bile neutralizes the acidic pH of food coming from stomach.",
+      "topic": "Liver"
+    },
+    {
+      "id": 33,
+      "question": "The pH value of bile is:",
+      "options": {
+        "A": "5.7",
+        "B": "7.7",
+        "C": "3.7",
+        "D": "9.7"
+      },
+      "answer": "B",
+      "explanation": "Page 414: Bile pH value is 7.7.",
+      "topic": "Liver"
+    },
+    {
+      "id": 34,
+      "question": "Bile contains approximately what percentage of water?",
+      "options": {
+        "A": "75%",
+        "B": "85%",
+        "C": "95%",
+        "D": "65%"
+      },
+      "answer": "B",
+      "explanation": "Page 414: Bile contains 85% water and pigments 12%.",
+      "topic": "Liver"
+    },
+    {
+      "id": 35,
+      "question": "Bile is a yellowish-green coloured and:",
+      "options": {
+        "A": "Acidic liquid",
+        "B": "Alkaline liquid",
+        "C": "Neutral liquid",
+        "D": "Oily liquid"
+      },
+      "answer": "B",
+      "explanation": "Page 414: Bile is a yellowish-green coloured and alkaline liquid. Its pH is 7.7.",
+      "topic": "Liver"
+    },
+    {
+      "id": 36,
+      "question": "Bile comes from the bile duct into the:",
+      "options": {
+        "A": "Stomach",
+        "B": "Duodenum",
+        "C": "Large intestine",
+        "D": "Esophagus"
+      },
+      "answer": "B",
+      "explanation": "Page 414: Bile comes from the bile duct into the duodenum.",
+      "topic": "Liver"
+    },
+    {
+      "id": 37,
+      "question": "Gall bladder of liver is a:",
+      "options": {
+        "A": "Kidney shaped structure",
+        "B": "Pear shaped sac",
+        "C": "Round ball",
+        "D": "Tube shaped"
+      },
+      "answer": "B",
+      "explanation": "Page 414: Gall bladder of liver is a pear shaped sac. Bile is stored here.",
+      "topic": "Liver"
+    },
+    {
+      "id": 38,
+      "question": "Liver is an important organ in regulating body:",
+      "options": {
+        "A": "Movement",
+        "B": "Temperature",
+        "C": "Height",
+        "D": "Hair growth"
+      },
+      "answer": "B",
+      "explanation": "Page 414: Liver is an important organ in regulating the body temperature.",
+      "topic": "Liver"
+    },
+    {
+      "id": 39,
+      "question": "Liver helps in investigation of a person's death due to:",
+      "options": {
+        "A": "Heart attack",
+        "B": "Poisoning (it has been done due to investigating a person's death)",
+        "C": "Natural death",
+        "D": "Old age"
+      },
+      "answer": "B",
+      "explanation": "Page 414: Liver helps in investigating a person's death (especially in poisoning cases).",
+      "topic": "Liver"
+    },
+    {
+      "id": 40,
+      "question": "Dead RBCs are destroyed by:",
+      "options": {
+        "A": "Kidneys",
+        "B": "Liver",
+        "C": "Heart",
+        "D": "Lungs"
+      },
+      "answer": "B",
+      "explanation": "Page 414: Dead RBCs are destroyed by the liver.",
+      "topic": "Liver"
+    },
+    {
+      "id": 41,
+      "question": "Liver reserves some quantity of:",
+      "options": {
+        "A": "Calcium only",
+        "B": "Iron, copper, and vitamins",
+        "C": "Sodium only",
+        "D": "Potassium only"
+      },
+      "answer": "B",
+      "explanation": "Page 414: Liver reserves some quantity of iron, copper and vitamins.",
+      "topic": "Liver"
+    },
+    {
+      "id": 42,
+      "question": "Liver produces which protein that helps in clotting of blood?",
+      "options": {
+        "A": "Albumin",
+        "B": "Fibrinogen and Heparin",
+        "C": "Insulin",
+        "D": "Glucagon"
+      },
+      "answer": "B",
+      "explanation": "Page 414: Liver produces Fibrinogen protein (clotting) and Heparin (anti-clotting).",
+      "topic": "Liver"
+    },
+    {
+      "id": 43,
+      "question": "In case of obstruction in bile duct, liver cells stop working. Bilirubin from blood spreads throughout the body causing:",
+      "options": {
+        "A": "Anemia",
+        "B": "Jaundice",
+        "C": "Diabetes",
+        "D": "Scurvy"
+      },
+      "answer": "B",
+      "explanation": "Page 414: Obstruction in bile duct → bilirubin spreads → Jaundice.",
+      "topic": "Liver"
+    },
+    {
+      "id": 44,
+      "question": "Pancreatic juice secretes out of pancreas. The liquid's pH value is:",
+      "options": {
+        "A": "5.5-6.5",
+        "B": "7.5-8.3",
+        "C": "3.5-4.5",
+        "D": "9.5-10.5"
+      },
+      "answer": "B",
+      "explanation": "Page 414: Pancreatic juice pH is 7.5-8.3. It contains 98% water and enzymes which can digest all three types of food.",
+      "topic": "Pancreas"
+    },
+    {
+      "id": 45,
+      "question": "Pancreas is the second largest gland of the human body. It functions as both:",
+      "options": {
+        "A": "Only endocrine",
+        "B": "Exocrine and endocrine gland",
+        "C": "Only exocrine",
+        "D": "Neither"
+      },
+      "answer": "B",
+      "explanation": "Page 414: Pancreas is the second largest gland, functions as both exocrine (digestive juice) and endocrine (hormones).",
+      "topic": "Pancreas"
+    },
+    {
+      "id": 46,
+      "question": "Islets of Langerhans are present in:",
+      "options": {
+        "A": "Liver",
+        "B": "Pancreas",
+        "C": "Kidney",
+        "D": "Stomach"
+      },
+      "answer": "B",
+      "explanation": "Page 414: Islets of Langerhans are part of the Pancreas.",
+      "topic": "Pancreas"
+    },
+    {
+      "id": 47,
+      "question": "Insulin is secreted by which cells of Islets of Langerhans?",
+      "options": {
+        "A": "α-cells",
+        "B": "β-cells",
+        "C": "δ-cells",
+        "D": "γ-cells"
+      },
+      "answer": "B",
+      "explanation": "Page 414: Insulin is secreted by β-cells of Islets of Langerhans.",
+      "topic": "Pancreas"
+    },
+    {
+      "id": 48,
+      "question": "Glucagon is secreted by which cells of Islets of Langerhans?",
+      "options": {
+        "A": "β-cells",
+        "B": "α-cells",
+        "C": "δ-cells",
+        "D": "γ-cells"
+      },
+      "answer": "B",
+      "explanation": "Page 414: Glucagon is secreted by α-cells. Somatostatin hormones are secreted from δ-cells.",
+      "topic": "Pancreas"
+    },
+    {
+      "id": 49,
+      "question": "Insulin was discovered by:",
+      "options": {
+        "A": "Pasteur",
+        "B": "Medical scientist Langerhans",
+        "C": "Fleming",
+        "D": "Darwin"
+      },
+      "answer": "B",
+      "explanation": "Page 414: It was discovered by the medical scientist Langerhans.",
+      "topic": "Pancreas"
+    },
+    {
+      "id": 50,
+      "question": "In case of excess glucose in blood, liver converts glucose into glycogen. If not, it converts to:",
+      "options": {
+        "A": "Protein",
+        "B": "Fat",
+        "C": "Amino acid",
+        "D": "Vitamin"
+      },
+      "answer": "B",
+      "explanation": "Page 414: Liver regulates blood glucose: excess → glycogen → if more excess → fat.",
+      "topic": "Liver"
+    }
+  ]
+}

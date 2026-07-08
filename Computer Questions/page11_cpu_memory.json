@@ -1,0 +1,659 @@
+{
+  "title": "CPU & Memory Unit – Page 491",
+  "source": "Lucent's General Knowledge – Computer",
+  "section": "Computer: CPU Components & Memory Types",
+  "total_questions": 50,
+  "time_limit_minutes": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The CPU is the most important part of the computer. It is called:",
+      "options": {
+        "A": "Heart of computer",
+        "B": "Brain of the computer",
+        "C": "Eyes of computer",
+        "D": "Hands of computer"
+      },
+      "answer": "B",
+      "explanation": "Page 491: The Central Processing Unit or CPU is the most important part of the computer. It is called the brain of the computer.",
+      "topic": "CPU"
+    },
+    {
+      "id": 2,
+      "question": "The CPU can be divided into three main components:",
+      "options": {
+        "A": "RAM, ROM, Cache",
+        "B": "ALU, CU and Registers",
+        "C": "Input, Output, Storage",
+        "D": "Monitor, Keyboard, Mouse"
+      },
+      "answer": "B",
+      "explanation": "Page 491: The CPU can be divided into three main components: (a) ALU, (b) CU and (c) Registers.",
+      "topic": "CPU"
+    },
+    {
+      "id": 3,
+      "question": "The Arithmetic and Logic Unit (ALU) performs:",
+      "options": {
+        "A": "Only storage",
+        "B": "All the mathematical and logical operations on the information supplied to the CPU",
+        "C": "Only printing",
+        "D": "Only networking"
+      },
+      "answer": "B",
+      "explanation": "Page 491: ALU performs all the mathematical and logical operations on the information supplied to the CPU.",
+      "topic": "CPU"
+    },
+    {
+      "id": 4,
+      "question": "Control Unit (CU) directs the working of the CPU by fetching instructions from:",
+      "options": {
+        "A": "Output devices",
+        "B": "Memory",
+        "C": "Printer",
+        "D": "Monitor"
+      },
+      "answer": "B",
+      "explanation": "Page 491: Control Unit directs the working of the CPU. It fetches instructions (Programs) from the memory.",
+      "topic": "CPU"
+    },
+    {
+      "id": 5,
+      "question": "Registers are storage locations that hold instructions or data while the CPU is using them. They consist of:",
+      "options": {
+        "A": "Transistors",
+        "B": "Flip-flops and registers used by the CPU",
+        "C": "Capacitors",
+        "D": "Inductors"
+      },
+      "answer": "B",
+      "explanation": "Page 491: Registers consist of flip-flops and registers used by the CPU. They are the fastest memory elements in the computer.",
+      "topic": "CPU"
+    },
+    {
+      "id": 6,
+      "question": "CPU registers are the fastest memory elements in:",
+      "options": {
+        "A": "Hard disk",
+        "B": "The computer",
+        "C": "Internet",
+        "D": "Printer"
+      },
+      "answer": "B",
+      "explanation": "Page 491: The registers used by the CPU are the fastest memory elements in the computer.",
+      "topic": "CPU"
+    },
+    {
+      "id": 7,
+      "question": "Data Width refers to:",
+      "options": {
+        "A": "Physical size of CPU",
+        "B": "Number of bits of data that can be manipulated within the CPU at one given time",
+        "C": "Weight of computer",
+        "D": "Length of wires"
+      },
+      "answer": "B",
+      "explanation": "Page 491: Data Width: It refers to the number of bits of data that can be manipulated within the CPU at one given time.",
+      "topic": "CPU"
+    },
+    {
+      "id": 8,
+      "question": "The data width of a computer is also called its:",
+      "options": {
+        "A": "Byte size",
+        "B": "Word size",
+        "C": "File size",
+        "D": "Disk size"
+      },
+      "answer": "B",
+      "explanation": "Page 491: The data width of a computer is also called its word size.",
+      "topic": "CPU"
+    },
+    {
+      "id": 9,
+      "question": "Computers have data widths ranging from:",
+      "options": {
+        "A": "1 to 4 bits",
+        "B": "8 to 64 bits",
+        "C": "100 to 200 bits",
+        "D": "1000 bits"
+      },
+      "answer": "B",
+      "explanation": "Page 491: Computers have data widths ranging from 8 to 64 bits.",
+      "topic": "CPU"
+    },
+    {
+      "id": 10,
+      "question": "A higher data width means the CPU is capable of processing data:",
+      "options": {
+        "A": "Slower",
+        "B": "Faster",
+        "C": "Same speed",
+        "D": "Cannot process"
+      },
+      "answer": "B",
+      "explanation": "Page 491: A higher data width means the CPU is capable of processing data faster. A CPU with higher data width is more powerful.",
+      "topic": "CPU"
+    },
+    {
+      "id": 11,
+      "question": "Address Range refers to the amount of memory that can be:",
+      "options": {
+        "A": "Printed",
+        "B": "Directly read or written by the CPU",
+        "C": "Deleted",
+        "D": "Copied only"
+      },
+      "answer": "B",
+      "explanation": "Page 491: Address range refers to the amount of memory that can be directly read or written by the CPU.",
+      "topic": "CPU"
+    },
+    {
+      "id": 12,
+      "question": "The speed of CPU is known as:",
+      "options": {
+        "A": "Baud Rate",
+        "B": "Clock Speed",
+        "C": "Bandwidth",
+        "D": "Frequency"
+      },
+      "answer": "B",
+      "explanation": "Page 491: Clock Speed: The speed of CPU is known as Clock Speed.",
+      "topic": "CPU"
+    },
+    {
+      "id": 13,
+      "question": "The computer is essentially composed of tiny devices that can be put on or off to indicate:",
+      "options": {
+        "A": "Colors",
+        "B": "1 or 0",
+        "C": "Sound",
+        "D": "Light"
+      },
+      "answer": "B",
+      "explanation": "Page 491: The computer is essentially composed of tiny devices that can be put on or off to indicate 1 or 0.",
+      "topic": "CPU"
+    },
+    {
+      "id": 14,
+      "question": "To synchronize the change of all components, the CPU uses:",
+      "options": {
+        "A": "External clock",
+        "B": "An internal clock",
+        "C": "Alarm",
+        "D": "Timer"
+      },
+      "answer": "B",
+      "explanation": "Page 491: To synchronize the change of all these components the CPU uses an internal clock.",
+      "topic": "CPU"
+    },
+    {
+      "id": 15,
+      "question": "The memory unit stores all instructions and data for:",
+      "options": {
+        "A": "The printer",
+        "B": "The CPU",
+        "C": "The monitor",
+        "D": "The keyboard"
+      },
+      "answer": "B",
+      "explanation": "Page 491: The memory unit stores all instructions and data for the CPU.",
+      "topic": "Memory"
+    },
+    {
+      "id": 16,
+      "question": "Memory is of two kinds:",
+      "options": {
+        "A": "Fast and Slow",
+        "B": "Primary and Secondary",
+        "C": "Big and Small",
+        "D": "Old and New"
+      },
+      "answer": "B",
+      "explanation": "Page 491: Memory is of two kinds: (a) Primary and (b) Secondary.",
+      "topic": "Memory"
+    },
+    {
+      "id": 17,
+      "question": "Primary Memory is often referred to as the working memory or:",
+      "options": {
+        "A": "Storage memory",
+        "B": "Main memory of a computer system",
+        "C": "External memory",
+        "D": "Backup memory"
+      },
+      "answer": "B",
+      "explanation": "Page 491: Primary Memory is often referred to as the working memory or the main memory of a computer system.",
+      "topic": "Memory"
+    },
+    {
+      "id": 18,
+      "question": "Primary memory is temporary in nature, i.e. Data stored in primary memory is lost when:",
+      "options": {
+        "A": "New data comes",
+        "B": "The computer is switched off",
+        "C": "The disk is full",
+        "D": "Internet disconnects"
+      },
+      "answer": "B",
+      "explanation": "Page 491: Primary memory is temporary. Data is lost when computer is switched off. So it is also called volatile memory.",
+      "topic": "Memory"
+    },
+    {
+      "id": 19,
+      "question": "Primary memory is also called volatile memory. Example of primary memory is:",
+      "options": {
+        "A": "Hard disk",
+        "B": "RAM",
+        "C": "CD",
+        "D": "USB"
+      },
+      "answer": "B",
+      "explanation": "Page 491: Primary memory is volatile. Example of primary memory is RAM.",
+      "topic": "Memory"
+    },
+    {
+      "id": 20,
+      "question": "The two basic kinds of primary memory are:",
+      "options": {
+        "A": "HDD and SSD",
+        "B": "Random Access Memory (RAM) and Read Only Memory (ROM)",
+        "C": "CD and DVD",
+        "D": "USB and SD Card"
+      },
+      "answer": "B",
+      "explanation": "Page 491: Two basic kinds of primary memory are Random Access Memory (RAM) and Read Only Memory (ROM).",
+      "topic": "Memory"
+    },
+    {
+      "id": 21,
+      "question": "RAM is a:",
+      "options": {
+        "A": "Read only memory",
+        "B": "Read/write memory",
+        "C": "Non-volatile memory",
+        "D": "Permanent memory"
+      },
+      "answer": "B",
+      "explanation": "Page 491: The RAM is a read/write memory. The CPU can change the contents of the RAM at any time.",
+      "topic": "Memory"
+    },
+    {
+      "id": 22,
+      "question": "RAM is volatile, which means:",
+      "options": {
+        "A": "Data is permanent",
+        "B": "Data is lost when power is switched off",
+        "C": "Data cannot be written",
+        "D": "Data is always backed up"
+      },
+      "answer": "B",
+      "explanation": "Page 491: RAM is volatile. In addition, RAM is volatile - data lost when computer switched off.",
+      "topic": "Memory"
+    },
+    {
+      "id": 23,
+      "question": "RAM capacity greatly influences the:",
+      "options": {
+        "A": "Weight of computer",
+        "B": "Computing ability of the computer",
+        "C": "Color of monitor",
+        "D": "Size of keyboard"
+      },
+      "answer": "B",
+      "explanation": "Page 491: The RAM capacity greatly influences the computing ability of the computer. Capacity usually measured in kilobytes and megabytes.",
+      "topic": "Memory"
+    },
+    {
+      "id": 24,
+      "question": "The ROM can NOT be:",
+      "options": {
+        "A": "Read",
+        "B": "Altered",
+        "C": "Powered",
+        "D": "Installed"
+      },
+      "answer": "B",
+      "explanation": "Page 491: The ROM can not be altered. Information stored on ROM at time of manufacture.",
+      "topic": "Memory"
+    },
+    {
+      "id": 25,
+      "question": "Information is stored on the ROM at the time of its:",
+      "options": {
+        "A": "First use",
+        "B": "Manufacture",
+        "C": "Installation",
+        "D": "Update"
+      },
+      "answer": "B",
+      "explanation": "Page 491: Information is stored on the ROM at the time of its manufacture.",
+      "topic": "Memory"
+    },
+    {
+      "id": 26,
+      "question": "The ROM is non-volatile and retains its information even after:",
+      "options": {
+        "A": "Data deletion",
+        "B": "The power is turned off",
+        "C": "Formatting",
+        "D": "Virus attack"
+      },
+      "answer": "B",
+      "explanation": "Page 491: The ROM is non-volatile and retains its information even after the power is turned off.",
+      "topic": "Memory"
+    },
+    {
+      "id": 27,
+      "question": "PROM stands for:",
+      "options": {
+        "A": "Permanent Read Only Memory",
+        "B": "Programmable Read Only Memory",
+        "C": "Primary Read Only Memory",
+        "D": "Protected Read Only Memory"
+      },
+      "answer": "B",
+      "explanation": "Page 491: PROM (Programmable Read Only Memory) has the option of being programmed.",
+      "topic": "Memory"
+    },
+    {
+      "id": 28,
+      "question": "Cache is the primary memory that stores:",
+      "options": {
+        "A": "Permanent data",
+        "B": "Temporary data for quick access",
+        "C": "Only images",
+        "D": "Only videos"
+      },
+      "answer": "B",
+      "explanation": "Page 491: Cache is the primary memory that stores temporary data for quick access.",
+      "topic": "Memory"
+    },
+    {
+      "id": 29,
+      "question": "Secondary Memory is used to store data for:",
+      "options": {
+        "A": "Very short time",
+        "B": "A long term",
+        "C": "Only during shutdown",
+        "D": "Only during startup"
+      },
+      "answer": "B",
+      "explanation": "Page 491: Secondary Memory: It is used to store data for a long term. It operates at a much slower rate than primary memory.",
+      "topic": "Memory"
+    },
+    {
+      "id": 30,
+      "question": "Secondary memory is permanent in nature, so it is also called:",
+      "options": {
+        "A": "Volatile memory",
+        "B": "Non-volatile memory",
+        "C": "Temporary memory",
+        "D": "Flash memory"
+      },
+      "answer": "B",
+      "explanation": "Page 491: Secondary memory is permanent in nature, so it is also called non-volatile. It is also cheaper than primary memory.",
+      "topic": "Memory"
+    },
+    {
+      "id": 31,
+      "question": "Common examples of secondary memory include:",
+      "options": {
+        "A": "RAM and ROM",
+        "B": "Floppy diskettes, hard discs, magnetic tapes, CDs, DVDs, Memory Cards, USB Sticks",
+        "C": "Only RAM",
+        "D": "Only Cache"
+      },
+      "answer": "B",
+      "explanation": "Page 491: Common examples of secondary memory are floppy diskettes, hard (fixed) discs and magnetic tapes, CDs, DVDs, Memory Cards, USB Sticks.",
+      "topic": "Memory"
+    },
+    {
+      "id": 32,
+      "question": "Secondary memory is NOT directly accessible to the CPU. Information is moved from secondary to:",
+      "options": {
+        "A": "Output device",
+        "B": "Primary memory first and then to the CPU",
+        "C": "Printer",
+        "D": "Internet"
+      },
+      "answer": "B",
+      "explanation": "Page 491: It is not directly accessible to CPU. Information is moved from secondary memory to primary memory first and then to CPU.",
+      "topic": "Memory"
+    },
+    {
+      "id": 33,
+      "question": "A floppy diskette is a plastic disk coated with:",
+      "options": {
+        "A": "Glass",
+        "B": "Magnetic material",
+        "C": "Gold",
+        "D": "Silicon"
+      },
+      "answer": "B",
+      "explanation": "Page 491: A floppy diskette is a plastic disk coated with magnetic material.",
+      "topic": "Memory"
+    },
+    {
+      "id": 34,
+      "question": "Special devices known as disk drives are capable of reading from and writing to floppies using:",
+      "options": {
+        "A": "Laser",
+        "B": "Special magnetic 'head'",
+        "C": "Electrical current",
+        "D": "Light beam"
+      },
+      "answer": "B",
+      "explanation": "Page 491: Special devices known as disk drives are capable of reading from and writing to floppies using special magnetic 'head'.",
+      "topic": "Memory"
+    },
+    {
+      "id": 35,
+      "question": "Magnetic tapes are long plastic tapes coated with:",
+      "options": {
+        "A": "Silicon",
+        "B": "Magnetic material",
+        "C": "Glass",
+        "D": "Copper"
+      },
+      "answer": "B",
+      "explanation": "Page 491: Magnetic tapes are long plastic tapes coated with magnetic material.",
+      "topic": "Memory"
+    },
+    {
+      "id": 36,
+      "question": "A problem with magnetic tapes is that information can NOT be:",
+      "options": {
+        "A": "Stored",
+        "B": "Accessed directly (like in floppy diskettes)",
+        "C": "Written",
+        "D": "Erased"
+      },
+      "answer": "B",
+      "explanation": "Page 491: A problem with magnetic tapes is that information can not be accessed directly as in floppy diskettes.",
+      "topic": "Memory"
+    },
+    {
+      "id": 37,
+      "question": "The third type of medium, called fixed or hard disks, contains:",
+      "options": {
+        "A": "Single disk",
+        "B": "Several discs of a hard material",
+        "C": "Paper",
+        "D": "Only one platter"
+      },
+      "answer": "B",
+      "explanation": "Page 491: The third type of medium, called fixed or hard disks, are more or less similar to floppy. One hard disk drive contains several discs of hard material.",
+      "topic": "Memory"
+    },
+    {
+      "id": 38,
+      "question": "Primary memory is fast but expensive. To reduce storage costs, computers also use:",
+      "options": {
+        "A": "More primary memory",
+        "B": "Secondary memory",
+        "C": "No memory",
+        "D": "Only cache"
+      },
+      "answer": "B",
+      "explanation": "Page 491: Primary memory is fast but expensive. To reduce storage costs, computers also use secondary memory.",
+      "topic": "Memory"
+    },
+    {
+      "id": 39,
+      "question": "Any piece of information stored on a floppy diskette can be:",
+      "options": {
+        "A": "Never accessed",
+        "B": "Directly accessed",
+        "C": "Only read once",
+        "D": "Only written once"
+      },
+      "answer": "B",
+      "explanation": "Page 491: Any piece of information stored on a floppy diskette can be directly accessed.",
+      "topic": "Memory"
+    },
+    {
+      "id": 40,
+      "question": "The memory unit holds instructions and data:",
+      "options": {
+        "A": "During printing",
+        "B": "Before or after the CPU processes these",
+        "C": "During shutdown",
+        "D": "Only at startup"
+      },
+      "answer": "B",
+      "explanation": "Page 491: The memory unit holds instructions and data before or after the CPU processes these.",
+      "topic": "Memory"
+    },
+    {
+      "id": 41,
+      "question": "The Control Unit controls the flow of data between the ALU and:",
+      "options": {
+        "A": "Printer",
+        "B": "Other parts of the computer",
+        "C": "Monitor only",
+        "D": "Speaker only"
+      },
+      "answer": "B",
+      "explanation": "Page 491: Control Unit controls flow of data between the ALU and other parts of the computer.",
+      "topic": "CPU"
+    },
+    {
+      "id": 42,
+      "question": "Primary memory must be able to provide data:",
+      "options": {
+        "A": "Slowly",
+        "B": "Very quickly",
+        "C": "Only when requested",
+        "D": "Only once"
+      },
+      "answer": "B",
+      "explanation": "Page 491: Primary memory is directly accessible to the CPU. It must be able to provide data very quickly.",
+      "topic": "Memory"
+    },
+    {
+      "id": 43,
+      "question": "Primary memory is directly accessible to:",
+      "options": {
+        "A": "The printer",
+        "B": "The CPU",
+        "C": "The monitor",
+        "D": "The keyboard"
+      },
+      "answer": "B",
+      "explanation": "Page 491: Primary memory is directly accessible to the CPU.",
+      "topic": "Memory"
+    },
+    {
+      "id": 44,
+      "question": "The information on ROM might be in the form of crucial instructions that govern the:",
+      "options": {
+        "A": "Printer",
+        "B": "Working of the computer",
+        "C": "Internet connection",
+        "D": "Speaker volume"
+      },
+      "answer": "B",
+      "explanation": "Page 491: Information on ROM might be crucial instructions that govern the working of the computer.",
+      "topic": "Memory"
+    },
+    {
+      "id": 45,
+      "question": "In PROM, the manufacturer of computer may choose to load a program designed by his company. The computer would use this PROM like:",
+      "options": {
+        "A": "RAM",
+        "B": "Any other ROM",
+        "C": "Hard disk",
+        "D": "Cache"
+      },
+      "answer": "B",
+      "explanation": "Page 491: In PROM, manufacturer may load a program. The computer would use this PROM like any other ROM.",
+      "topic": "Memory"
+    },
+    {
+      "id": 46,
+      "question": "Magnetic tapes can store far larger amounts of data than:",
+      "options": {
+        "A": "Hard disks",
+        "B": "Floppy diskettes",
+        "C": "SSDs",
+        "D": "DVDs"
+      },
+      "answer": "B",
+      "explanation": "Page 491: Magnetic tapes can store far larger amounts of data than the floppy diskette.",
+      "topic": "Memory"
+    },
+    {
+      "id": 47,
+      "question": "It makes all the required calculations and processes data. This refers to:",
+      "options": {
+        "A": "Memory Unit",
+        "B": "CPU (it makes all the required calculations and processes data)",
+        "C": "Output Unit",
+        "D": "Input Unit"
+      },
+      "answer": "B",
+      "explanation": "Page 491: CPU makes all the required calculations and processes data.",
+      "topic": "CPU"
+    },
+    {
+      "id": 48,
+      "question": "The Storage device of a computer system is known as:",
+      "options": {
+        "A": "CPU",
+        "B": "Memory",
+        "C": "ALU",
+        "D": "CU"
+      },
+      "answer": "B",
+      "explanation": "Page 491: The storage device of a computer system is known as memory.",
+      "topic": "Memory"
+    },
+    {
+      "id": 49,
+      "question": "Memory Unit can receive data, hold it and deliver according to the instructions from:",
+      "options": {
+        "A": "Output unit",
+        "B": "Control unit",
+        "C": "Printer",
+        "D": "Monitor"
+      },
+      "answer": "B",
+      "explanation": "Page 491: Memory Unit can receive data, hold it and deliver according to the instructions from the control unit.",
+      "topic": "Memory"
+    },
+    {
+      "id": 50,
+      "question": "With every tick of the internal clock, all switches change their position in:",
+      "options": {
+        "A": "Random order",
+        "B": "Perfect harmony",
+        "C": "No particular order",
+        "D": "Reverse order"
+      },
+      "answer": "B",
+      "explanation": "Page 491: With every tick of this clock all switches that need to change their position do so in perfect harmony.",
+      "topic": "CPU"
+    }
+  ]
+}

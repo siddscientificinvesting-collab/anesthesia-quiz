@@ -1,0 +1,659 @@
+{
+  "title": "Cloud Computing & Govt Initiatives – Page 496",
+  "source": "Lucent's General Knowledge – Computer",
+  "section": "Computer: Cloud Computing, Encryption, Government Digital Initiatives",
+  "total_questions": 50,
+  "time_limit_minutes": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Cloud Computing is on demand delivery of computer power, database storage, applications and other IT resources through:",
+      "options": {
+        "A": "CD/DVD",
+        "B": "A cloud services platform mainly via the internet",
+        "C": "Floppy disk",
+        "D": "USB drive"
+      },
+      "answer": "B",
+      "explanation": "Page 496: Cloud Computing – On demand delivery of resources through a cloud services platform mainly via the internet.",
+      "topic": "Cloud Computing"
+    },
+    {
+      "id": 2,
+      "question": "Cloud Computing is a distributed computer architecture that provides software, infrastructure and:",
+      "options": {
+        "A": "Hardware only",
+        "B": "Platforms just as required by applications/users",
+        "C": "Nothing",
+        "D": "Only storage"
+      },
+      "answer": "B",
+      "explanation": "Page 496: It is a distributed computer architecture that provides software, infrastructure and platforms just as required by applications/users.",
+      "topic": "Cloud Computing"
+    },
+    {
+      "id": 3,
+      "question": "Spreadsheet/MS Excel is appropriate for performing:",
+      "options": {
+        "A": "Only typing",
+        "B": "Numerical and statistic calculations",
+        "C": "Only drawing",
+        "D": "Only printing"
+      },
+      "answer": "B",
+      "explanation": "Page 496: Spreadsheet/MS Excel is appropriate for performing numerical and statistic calculations.",
+      "topic": "Computer Facts"
+    },
+    {
+      "id": 4,
+      "question": "CAD/CAM systems are based on:",
+      "options": {
+        "A": "Simple text",
+        "B": "Interactive Computer Graphics",
+        "C": "Audio signals",
+        "D": "Video only"
+      },
+      "answer": "B",
+      "explanation": "Page 496: CAD/CAM systems are based on Interactive Computer Graphics.",
+      "topic": "Computer Facts"
+    },
+    {
+      "id": 5,
+      "question": "Data Encryption Standard (DES) is an implementation of a Feistel Cipher. It uses how many round Feistel structure?",
+      "options": {
+        "A": "8",
+        "B": "16",
+        "C": "32",
+        "D": "64"
+      },
+      "answer": "B",
+      "explanation": "Page 496: DES uses 16 round Feistel structure and the block size is 64 bits.",
+      "topic": "Computer Facts"
+    },
+    {
+      "id": 6,
+      "question": "The block size of DES (Data Encryption Standard) is:",
+      "options": {
+        "A": "32 bits",
+        "B": "64 bits",
+        "C": "128 bits",
+        "D": "256 bits"
+      },
+      "answer": "B",
+      "explanation": "Page 496: DES uses 16 round Feistel structure and the block size is 64 bits.",
+      "topic": "Computer Facts"
+    },
+    {
+      "id": 7,
+      "question": "The Banker algorithm is a resource allocation and deadlock avoidance algorithm developed by:",
+      "options": {
+        "A": "Tim Berners-Lee",
+        "B": "Edsger W. Dijkstra",
+        "C": "Charles Babbage",
+        "D": "Alan Turing"
+      },
+      "answer": "B",
+      "explanation": "Page 496: The Banker algorithm is a resource allocation and deadlock avoidance algorithm developed by Edsger W. Dijkstra.",
+      "topic": "Computer Facts"
+    },
+    {
+      "id": 8,
+      "question": "Gateway is used to connect two different networks using:",
+      "options": {
+        "A": "Same protocol",
+        "B": "Different protocols",
+        "C": "No protocol",
+        "D": "Single cable"
+      },
+      "answer": "B",
+      "explanation": "Page 496: Gateway is used to connect two different networks using different protocols.",
+      "topic": "Computer Facts"
+    },
+    {
+      "id": 9,
+      "question": "A half byte is known as 'Nibble' and consists of:",
+      "options": {
+        "A": "8 bits",
+        "B": "4 bits",
+        "C": "2 bits",
+        "D": "16 bits"
+      },
+      "answer": "B",
+      "explanation": "Page 496: A half byte is known as 'Nibble' (consists 4 bits).",
+      "topic": "Computer Facts"
+    },
+    {
+      "id": 10,
+      "question": "MS Excel from Version 8.0 to 11.0 could handle 65,536 rows and:",
+      "options": {
+        "A": "128 columns",
+        "B": "256 columns",
+        "C": "512 columns",
+        "D": "1024 columns"
+      },
+      "answer": "B",
+      "explanation": "Page 496: MS Excel Version 8.0 to 11.0 could handle 65,536 rows and 256 columns.",
+      "topic": "Computer Facts"
+    },
+    {
+      "id": 11,
+      "question": "MS Excel Version 12.0 can handle 10,48,576 rows and:",
+      "options": {
+        "A": "256 columns",
+        "B": "16,384 columns",
+        "C": "1024 columns",
+        "D": "65,536 columns"
+      },
+      "answer": "B",
+      "explanation": "Page 496: Later Version 12.0 can handle 10,48,576 rows and 16,384 columns.",
+      "topic": "Computer Facts"
+    },
+    {
+      "id": 12,
+      "question": "The robot named 'Pepe' was recently used by pupils at a primary school in:",
+      "options": {
+        "A": "Tamil Nadu",
+        "B": "Kerala",
+        "C": "Karnataka",
+        "D": "Delhi"
+      },
+      "answer": "B",
+      "explanation": "Page 496: The robot named Pepe was recently used by pupils at a primary school in Kerala.",
+      "topic": "Computer Facts"
+    },
+    {
+      "id": 13,
+      "question": "India's first indigenously developed payment ecosystem for transport is based on:",
+      "options": {
+        "A": "UPI",
+        "B": "National Common Mobility Card (NCMC) standards",
+        "C": "Credit cards only",
+        "D": "Cash only"
+      },
+      "answer": "B",
+      "explanation": "Page 496: India's first indigenously developed payment ecosystem for transport, based on National Common Mobility Card (NCMC) standards, launched on 4th March, 2019.",
+      "topic": "Govt Initiatives"
+    },
+    {
+      "id": 14,
+      "question": "Mobile App 'cVIGIL' has been launched by:",
+      "options": {
+        "A": "RBI",
+        "B": "Election Commission of India",
+        "C": "NITI Aayog",
+        "D": "Supreme Court"
+      },
+      "answer": "B",
+      "explanation": "Page 496: Mobile App 'cVIGIL' has been launched by Election Commission of India for citizens to report Model Code of Conduct and Expenditure violations during elections.",
+      "topic": "Govt Initiatives"
+    },
+    {
+      "id": 15,
+      "question": "VISHWAS stands for Video Integration and State Wide Advanced:",
+      "options": {
+        "A": "System",
+        "B": "Security",
+        "C": "Software",
+        "D": "Service"
+      },
+      "answer": "B",
+      "explanation": "Page 496: VISHWAS is acronym for Video Integration and State Wide Advanced Security.",
+      "topic": "Govt Initiatives"
+    },
+    {
+      "id": 16,
+      "question": "VISHWAS project aims at improving:",
+      "options": {
+        "A": "Education",
+        "B": "Law and Order Management, Proactive traffic management and control, Crime detection",
+        "C": "Agriculture",
+        "D": "Healthcare"
+      },
+      "answer": "B",
+      "explanation": "Page 496: VISHWAS aims at improving Law and Order Management, Proactive traffic management and control, Crime detection through video analytics.",
+      "topic": "Govt Initiatives"
+    },
+    {
+      "id": 17,
+      "question": "A gutter margin adds extra space to the side margin, top margin, or inside margins of a document that you plan to:",
+      "options": {
+        "A": "Delete",
+        "B": "Bind",
+        "C": "Email",
+        "D": "Copy"
+      },
+      "answer": "B",
+      "explanation": "Page 496: A gutter margin adds extra space to margins of a document you plan to bind.",
+      "topic": "Computer Facts"
+    },
+    {
+      "id": 18,
+      "question": "An integrated circuit (IC) is small chip that can function as an amplifier, oscillator, timer, microprocessor, or even computer memory. It is usually made of:",
+      "options": {
+        "A": "Copper",
+        "B": "Silicon",
+        "C": "Gold",
+        "D": "Iron"
+      },
+      "answer": "B",
+      "explanation": "Page 496: An IC is usually made of silicon, can hold hundreds to millions of transistors, resistors and capacitors.",
+      "topic": "Computer Facts"
+    },
+    {
+      "id": 19,
+      "question": "WorldWideWeb: First Web browser was developed in the mid and late 1980s. Tim Berners-Lee is credited with developing it in:",
+      "options": {
+        "A": "1985",
+        "B": "1990",
+        "C": "1995",
+        "D": "2000"
+      },
+      "answer": "B",
+      "explanation": "Page 496: Tim Berners-Lee is credited with developing in 1990, both the first web server and the first web browser called WorldWideWeb (later renamed Nexus).",
+      "topic": "Internet"
+    },
+    {
+      "id": 20,
+      "question": "The first web browser was called WorldWideWeb and was later renamed:",
+      "options": {
+        "A": "Chrome",
+        "B": "Nexus",
+        "C": "Firefox",
+        "D": "Safari"
+      },
+      "answer": "B",
+      "explanation": "Page 496: The first web browser was called WorldWideWeb (without spaces) and later renamed Nexus.",
+      "topic": "Internet"
+    },
+    {
+      "id": 21,
+      "question": "Windows 10 was released as a preview on:",
+      "options": {
+        "A": "October 5, 2021",
+        "B": "1st October, 2014",
+        "C": "March 4, 2019",
+        "D": "June 1, 2015"
+      },
+      "answer": "B",
+      "explanation": "Page 496: Windows 10 was released as a preview on 1st October, 2014.",
+      "topic": "Computer Facts"
+    },
+    {
+      "id": 22,
+      "question": "Windows 11 was released on:",
+      "options": {
+        "A": "1st October, 2014",
+        "B": "5th October, 2021",
+        "C": "March 4, 2019",
+        "D": "January 1, 2022"
+      },
+      "answer": "B",
+      "explanation": "Page 496: Windows 11 was released on 5th October, 2021.",
+      "topic": "Computer Facts"
+    },
+    {
+      "id": 23,
+      "question": "e-Pramaan is a framework for:",
+      "options": {
+        "A": "e-Commerce",
+        "B": "e-Authentication for public services",
+        "C": "e-Learning",
+        "D": "e-Banking"
+      },
+      "answer": "B",
+      "explanation": "Page 496: e-Pramaan: Framework for e-Authentication for public services. Objective is to deliver government services securely.",
+      "topic": "Govt Initiatives"
+    },
+    {
+      "id": 24,
+      "question": "Online e-Sign (e-Hastakshar) facility was formally launched in:",
+      "options": {
+        "A": "2010",
+        "B": "2015",
+        "C": "2020",
+        "D": "2005"
+      },
+      "answer": "B",
+      "explanation": "Page 496: Online e-Sign (e-Hastakshar) facility was formally launched in 2015.",
+      "topic": "Govt Initiatives"
+    },
+    {
+      "id": 25,
+      "question": "e-Sign service facilitates instant signing of documents online by citizens in:",
+      "options": {
+        "A": "Illegal form",
+        "B": "A legally acceptable form",
+        "C": "Temporary form",
+        "D": "Unverified form"
+      },
+      "answer": "B",
+      "explanation": "Page 496: e-Sign facilitates instant signing of documents online by citizens in a legally acceptable form.",
+      "topic": "Govt Initiatives"
+    },
+    {
+      "id": 26,
+      "question": "National Knowledge Network (NKN) was established in:",
+      "options": {
+        "A": "2005",
+        "B": "2010",
+        "C": "2015",
+        "D": "2020"
+      },
+      "answer": "B",
+      "explanation": "Page 496: National Knowledge Network (NKN) was established in 2010.",
+      "topic": "Govt Initiatives"
+    },
+    {
+      "id": 27,
+      "question": "The objective of NKN is to interconnect all institutions of higher learning and research with:",
+      "options": {
+        "A": "Low-speed network",
+        "B": "A high-speed data communication network",
+        "C": "Radio signals",
+        "D": "Television"
+      },
+      "answer": "B",
+      "explanation": "Page 496: NKN objective: interconnect all institutions of higher learning and research with a high-speed data communication network.",
+      "topic": "Govt Initiatives"
+    },
+    {
+      "id": 28,
+      "question": "NKN is the only network globally that carries research and evaluation, internet and e-Governance traffic as:",
+      "options": {
+        "A": "One vertical",
+        "B": "Three independent verticals under one umbrella",
+        "C": "Separate networks",
+        "D": "Two verticals"
+      },
+      "answer": "B",
+      "explanation": "Page 496: NKN is the only network globally that carries research/evaluation, internet and e-Governance traffic as three independent verticals under one umbrella.",
+      "topic": "Govt Initiatives"
+    },
+    {
+      "id": 29,
+      "question": "UMANG stands for:",
+      "options": {
+        "A": "Universal Mobile Access for New Generation",
+        "B": "Unified Mobile Application for New-Age Governance",
+        "C": "United Mobile App for National Government",
+        "D": "Universal Management Application for Governance"
+      },
+      "answer": "B",
+      "explanation": "Page 496: UMANG: Unified Mobile Application for New-Age Governance.",
+      "topic": "Govt Initiatives"
+    },
+    {
+      "id": 30,
+      "question": "UMANG was developed and launched in:",
+      "options": {
+        "A": "2015",
+        "B": "2017",
+        "C": "2019",
+        "D": "2020"
+      },
+      "answer": "B",
+      "explanation": "Page 496: UMANG has been developed and launched in 2017 as a single mobile platform to deliver major government services.",
+      "topic": "Govt Initiatives"
+    },
+    {
+      "id": 31,
+      "question": "UMANG's core platform is integrated with:",
+      "options": {
+        "A": "Only banking",
+        "B": "Adhaar, DigiLocker, PayGov, Rapid Assessment System (RAS) etc.",
+        "C": "Only education",
+        "D": "Only health"
+      },
+      "answer": "B",
+      "explanation": "Page 496: UMANG's core platform is integrated with Adhaar, DigiLocker, PayGov, Rapid Assessment System (RAS) etc.",
+      "topic": "Govt Initiatives"
+    },
+    {
+      "id": 32,
+      "question": "UMANG supports how many Indian languages?",
+      "options": {
+        "A": "5",
+        "B": "12",
+        "C": "22",
+        "D": "8"
+      },
+      "answer": "B",
+      "explanation": "Page 496: UMANG supports 12 Indian languages, in addition to English.",
+      "topic": "Govt Initiatives"
+    },
+    {
+      "id": 33,
+      "question": "Over how many services from central/states departments are on boarded into UMANG?",
+      "options": {
+        "A": "500",
+        "B": "2,033",
+        "C": "100",
+        "D": "5000"
+      },
+      "answer": "B",
+      "explanation": "Page 496: Over 2,033 services from 207 central/states departments are on boarded into UMANG.",
+      "topic": "Govt Initiatives"
+    },
+    {
+      "id": 34,
+      "question": "Digital Locker (Digilocker) is a key initiative under:",
+      "options": {
+        "A": "Make in India",
+        "B": "Digital India",
+        "C": "Swachh Bharat",
+        "D": "Skill India"
+      },
+      "answer": "B",
+      "explanation": "Page 496: Digital Locker (Digilocker) is a key initiative under Digital India, the Government of India's flagship program.",
+      "topic": "Govt Initiatives"
+    },
+    {
+      "id": 35,
+      "question": "Digital Locker is a platform for insurance and verification of documents and certificates in:",
+      "options": {
+        "A": "Paper form",
+        "B": "A digital way (eliminating use of physical documents)",
+        "C": "Audio form",
+        "D": "Video form"
+      },
+      "answer": "B",
+      "explanation": "Page 496: Digital Locker is a platform for insurance and verification of documents and certificates in a digital way, eliminating use of physical documents.",
+      "topic": "Govt Initiatives"
+    },
+    {
+      "id": 36,
+      "question": "Indian residents who signup for a DigiLocker account get a dedicated:",
+      "options": {
+        "A": "Physical locker",
+        "B": "Cloud storage space",
+        "C": "Bank account",
+        "D": "Email address"
+      },
+      "answer": "B",
+      "explanation": "Page 496: Indian residents who signup get a dedicated cloud storage space.",
+      "topic": "Govt Initiatives"
+    },
+    {
+      "id": 37,
+      "question": "Over how many crore users are registered with DigiLocker platform?",
+      "options": {
+        "A": "10",
+        "B": "29.61 crore",
+        "C": "50 crore",
+        "D": "5 crore"
+      },
+      "answer": "B",
+      "explanation": "Page 496: Over 29.61 crore users are registered with this platform.",
+      "topic": "Govt Initiatives"
+    },
+    {
+      "id": 38,
+      "question": "Over how many crore documents are accessible via Digi Locker?",
+      "options": {
+        "A": "100",
+        "B": "675 crore",
+        "C": "50",
+        "D": "1000"
+      },
+      "answer": "B",
+      "explanation": "Page 496: Over 675 crore documents are accessible via Digi Locker.",
+      "topic": "Govt Initiatives"
+    },
+    {
+      "id": 39,
+      "question": "PRAGATI stands for:",
+      "options": {
+        "A": "Progressive Governance And Technology Initiative",
+        "B": "Pro-Active Governance And Timely Implementation",
+        "C": "Public Resource And Government Technology Initiative",
+        "D": "Program for Active Government And Technology"
+      },
+      "answer": "B",
+      "explanation": "Page 496: PRAGATI: Pro-Active Governance And Timely Implementation.",
+      "topic": "Govt Initiatives"
+    },
+    {
+      "id": 40,
+      "question": "PRAGATI is a video conferencing facility part of Digital India programme for e-Governance, launched in:",
+      "options": {
+        "A": "2010",
+        "B": "2015",
+        "C": "2017",
+        "D": "2020"
+      },
+      "answer": "B",
+      "explanation": "Page 496: PRAGATI video conferencing facility, part of Digital India programme, e-Governance Reforming Government through Technology, was launched in 2015.",
+      "topic": "Govt Initiatives"
+    },
+    {
+      "id": 41,
+      "question": "PRAGATI enables faster implementation of central level schemes, state level projects and resolutions of grievances between:",
+      "options": {
+        "A": "Two states only",
+        "B": "State and central level departments",
+        "C": "Two countries",
+        "D": "Private companies"
+      },
+      "answer": "B",
+      "explanation": "Page 496: PRAGATI enables faster implementation of central level schemes/projects and resolutions of grievances between state and central level departments.",
+      "topic": "Govt Initiatives"
+    },
+    {
+      "id": 42,
+      "question": "MeitY has made e-Pramaan available for public usage with the help of:",
+      "options": {
+        "A": "IIT Delhi",
+        "B": "C-DAC, Mumbai",
+        "C": "IISc Bangalore",
+        "D": "NIC Delhi"
+      },
+      "answer": "B",
+      "explanation": "Page 496: MeitY has made e-Pramaan available for public usage with the help of C-DAC, Mumbai.",
+      "topic": "Govt Initiatives"
+    },
+    {
+      "id": 43,
+      "question": "Orthographic 3D Projection (a form of parallel projection) is a means of representing 3D objects in:",
+      "options": {
+        "A": "3D",
+        "B": "2D",
+        "C": "4D",
+        "D": "1D"
+      },
+      "answer": "B",
+      "explanation": "Page 496: Orthographic 3D Projection (parallel projection) is a means of representing 3D objects in 2D.",
+      "topic": "Computer Facts"
+    },
+    {
+      "id": 44,
+      "question": "TAG Heuer has associated with which company to develop a smart luxury watch?",
+      "options": {
+        "A": "Apple",
+        "B": "Google",
+        "C": "Samsung",
+        "D": "Microsoft"
+      },
+      "answer": "B",
+      "explanation": "Page 496: TAG Heuer, a premium watchmaker, has associated with Google to develop a smart luxury watch.",
+      "topic": "Computer Facts"
+    },
+    {
+      "id": 45,
+      "question": "NKN connects SDCs (State Data Centre), NDCs (National Data Centre), Ministries and departments across:",
+      "options": {
+        "A": "Only one state",
+        "B": "The government (all educational institutes)",
+        "C": "Only private sector",
+        "D": "Only banks"
+      },
+      "answer": "B",
+      "explanation": "Page 496: NKN connects all SDCs, NDCs, Ministries and departments across the government and educational institutions.",
+      "topic": "Govt Initiatives"
+    },
+    {
+      "id": 46,
+      "question": "India's first payment ecosystem for transport based on NCMC standards was launched on:",
+      "options": {
+        "A": "January 26, 2019",
+        "B": "4th March, 2019",
+        "C": "August 15, 2019",
+        "D": "December 25, 2018"
+      },
+      "answer": "B",
+      "explanation": "Page 496: India's first payment ecosystem for transport based on NCMC was launched on 4th March, 2019.",
+      "topic": "Govt Initiatives"
+    },
+    {
+      "id": 47,
+      "question": "cVIGIL is an innovative mobile application for citizens to report:",
+      "options": {
+        "A": "Traffic violations",
+        "B": "Model Code of Conduct and Expenditure violations during elections",
+        "C": "Tax fraud",
+        "D": "Pollution"
+      },
+      "answer": "B",
+      "explanation": "Page 496: cVIGIL is for citizens to report Model Code of Conduct and Expenditure violations during elections.",
+      "topic": "Govt Initiatives"
+    },
+    {
+      "id": 48,
+      "question": "An IC can hold anywhere from hundreds to:",
+      "options": {
+        "A": "Thousands",
+        "B": "Millions of transistors, resistors and capacitors",
+        "C": "Tens",
+        "D": "Only one"
+      },
+      "answer": "B",
+      "explanation": "Page 496: An IC can hold anywhere from hundreds to millions of transistors, resistors and capacitors.",
+      "topic": "Computer Facts"
+    },
+    {
+      "id": 49,
+      "question": "e-Sign can be integrated with service delivery applications via:",
+      "options": {
+        "A": "Email",
+        "B": "An Application Programming Interface (API)",
+        "C": "Phone call",
+        "D": "Letter"
+      },
+      "answer": "B",
+      "explanation": "Page 496: e-Sign is an online electronic signature service which can be integrated with service delivery applications via an API.",
+      "topic": "Govt Initiatives"
+    },
+    {
+      "id": 50,
+      "question": "Digital India's flagship program is aimed at transforming India into a digitally empowered society and:",
+      "options": {
+        "A": "Agricultural economy",
+        "B": "Knowledge economy",
+        "C": "Industrial economy",
+        "D": "Trading economy"
+      },
+      "answer": "B",
+      "explanation": "Page 496: Digital India's flagship program aimed at transforming India into a digitally empowered society and knowledge economy.",
+      "topic": "Govt Initiatives"
+    }
+  ]
+}

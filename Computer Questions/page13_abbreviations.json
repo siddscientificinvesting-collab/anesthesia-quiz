@@ -1,0 +1,659 @@
+{
+  "title": "Glossary & Abbreviations – Page 494",
+  "source": "Lucent's General Knowledge – Computer",
+  "section": "Computer: Glossary, Definitions & Abbreviations",
+  "total_questions": 50,
+  "time_limit_minutes": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "DBMS stands for:",
+      "options": {
+        "A": "Data Binary Management System",
+        "B": "Database Management System",
+        "C": "Digital Base Management System",
+        "D": "Data Block Management System"
+      },
+      "answer": "B",
+      "explanation": "Page 494: DBMS: It stands for Database Management System. It is a software package to manage database.",
+      "topic": "Glossary"
+    },
+    {
+      "id": 2,
+      "question": "DHTML stands for:",
+      "options": {
+        "A": "Data Hyper Text Markup Language",
+        "B": "Dynamic Hyper Text Markup Language",
+        "C": "Direct Hyper Text Markup Language",
+        "D": "Digital Hyper Text Markup Language"
+      },
+      "answer": "B",
+      "explanation": "Page 494: DHTML: It stands for Dynamic Hyper Text Markup Language. Used to create dynamic content on web pages.",
+      "topic": "Glossary"
+    },
+    {
+      "id": 3,
+      "question": "DOS stands for:",
+      "options": {
+        "A": "Data Operating System",
+        "B": "Disk Operating System",
+        "C": "Digital Operating System",
+        "D": "Direct Operating System"
+      },
+      "answer": "B",
+      "explanation": "Page 494: DOS: It stands for Disk Operating System. It is an operating system.",
+      "topic": "Glossary"
+    },
+    {
+      "id": 4,
+      "question": "HTML stands for:",
+      "options": {
+        "A": "High Text Markup Language",
+        "B": "Hyper Text Markup Language",
+        "C": "Home Text Markup Language",
+        "D": "Host Text Markup Language"
+      },
+      "answer": "B",
+      "explanation": "Page 494: HTML: It stands for Hyper Text Markup Language. It is used to create web-pages.",
+      "topic": "Glossary"
+    },
+    {
+      "id": 5,
+      "question": "IAB stands for Internet Activities Board, formed in 1983, now called:",
+      "options": {
+        "A": "Internet Advisory Board",
+        "B": "Internet Architectural Board",
+        "C": "Internet Access Board",
+        "D": "Internet Application Board"
+      },
+      "answer": "B",
+      "explanation": "Page 494: IAB: Internet Activities Board formed in 1983, now called Internet Architectural Board.",
+      "topic": "Glossary"
+    },
+    {
+      "id": 6,
+      "question": "IAS stands for Internet Application Software also known as:",
+      "options": {
+        "A": "Search engines",
+        "B": "Browsers",
+        "C": "Databases",
+        "D": "Compilers"
+      },
+      "answer": "B",
+      "explanation": "Page 494: IAS: Internet Application Software also known as Browsers.",
+      "topic": "Glossary"
+    },
+    {
+      "id": 7,
+      "question": "ISP stands for:",
+      "options": {
+        "A": "Internet Software Provider",
+        "B": "Internet Service Provider",
+        "C": "Internet System Protocol",
+        "D": "Internet Security Provider"
+      },
+      "answer": "B",
+      "explanation": "Page 494: ISP: It stands for Internet Service Provider.",
+      "topic": "Glossary"
+    },
+    {
+      "id": 8,
+      "question": "Internet Society was formed in 1992 to promote:",
+      "options": {
+        "A": "Television",
+        "B": "The use of Internet",
+        "C": "Radio",
+        "D": "Newspapers"
+      },
+      "answer": "B",
+      "explanation": "Page 494: Internet Society: It was formed in 1992 to promote the use of Internet.",
+      "topic": "Glossary"
+    },
+    {
+      "id": 9,
+      "question": "A Hacker is a person who breaks into a computer system to:",
+      "options": {
+        "A": "Repair it",
+        "B": "Get access to the information stored there",
+        "C": "Clean it",
+        "D": "Update it"
+      },
+      "answer": "B",
+      "explanation": "Page 494: Hacker: A person who breaks into a computer system to get access to the information stored there.",
+      "topic": "Glossary"
+    },
+    {
+      "id": 10,
+      "question": "GML stands for:",
+      "options": {
+        "A": "General Machine Language",
+        "B": "General Mark-up Language",
+        "C": "Global Machine Language",
+        "D": "Generic Markup Logic"
+      },
+      "answer": "B",
+      "explanation": "Page 494: GML: It stands for General Mark-up Language.",
+      "topic": "Glossary"
+    },
+    {
+      "id": 11,
+      "question": "MAC OS is an Operating System used in Macintosh Computer, developed by:",
+      "options": {
+        "A": "Microsoft",
+        "B": "Apple",
+        "C": "Google",
+        "D": "IBM"
+      },
+      "answer": "B",
+      "explanation": "Page 494: MAC OS: Operating System used in Macintosh Computer, developed by Apple.",
+      "topic": "Glossary"
+    },
+    {
+      "id": 12,
+      "question": "Linux is a Unix like Operating System with:",
+      "options": {
+        "A": "Command line only",
+        "B": "Graphical user interface",
+        "C": "No interface",
+        "D": "Voice interface"
+      },
+      "answer": "B",
+      "explanation": "Page 494: Linux: It is a Unix like Operating System with graphical user interface.",
+      "topic": "Glossary"
+    },
+    {
+      "id": 13,
+      "question": "Modem is a device to connect different computer systems to the internet using:",
+      "options": {
+        "A": "Radio waves",
+        "B": "Telephone or cable lines",
+        "C": "Satellite only",
+        "D": "Bluetooth"
+      },
+      "answer": "B",
+      "explanation": "Page 494: Modem: device to connect different computer systems to the internet using telephone or cable lines.",
+      "topic": "Glossary"
+    },
+    {
+      "id": 14,
+      "question": "Piracy is the illegal reproduction and distribution of:",
+      "options": {
+        "A": "Books",
+        "B": "Software application",
+        "C": "Food",
+        "D": "Clothes"
+      },
+      "answer": "B",
+      "explanation": "Page 494: Piracy: illegal reproduction and distribution of software application.",
+      "topic": "Glossary"
+    },
+    {
+      "id": 15,
+      "question": "Primary Key is a field with:",
+      "options": {
+        "A": "Any value",
+        "B": "Unique value for each record",
+        "C": "Same value for all records",
+        "D": "No value"
+      },
+      "answer": "B",
+      "explanation": "Page 494: Primary Key: It is a field with unique value for each record.",
+      "topic": "Glossary"
+    },
+    {
+      "id": 16,
+      "question": "RDBMS stands for:",
+      "options": {
+        "A": "Random Database Management System",
+        "B": "Relational Database Management System",
+        "C": "Remote Database Management System",
+        "D": "Real Database Management System"
+      },
+      "answer": "B",
+      "explanation": "Page 494: RDBMS: Relational Database Management System.",
+      "topic": "Abbreviations"
+    },
+    {
+      "id": 17,
+      "question": "SOLARIS is a Unix like Operating System developed by:",
+      "options": {
+        "A": "Microsoft",
+        "B": "Sun Microsystems",
+        "C": "Apple",
+        "D": "Google"
+      },
+      "answer": "B",
+      "explanation": "Page 494: SOLARIS: It is a Unix like Operating System developed by Sun Microsystems.",
+      "topic": "Glossary"
+    },
+    {
+      "id": 18,
+      "question": "Tag is part of HTML. It determines:",
+      "options": {
+        "A": "Color only",
+        "B": "The way the browser displays text in a Web Page",
+        "C": "Sound",
+        "D": "Speed"
+      },
+      "answer": "B",
+      "explanation": "Page 494: Tag: It is part of HTML. It determines the way the browser displays text in a Web Page.",
+      "topic": "Glossary"
+    },
+    {
+      "id": 19,
+      "question": "Unix is a powerful multiuser operating system that uses:",
+      "options": {
+        "A": "Graphical interface only",
+        "B": "Command line user interface",
+        "C": "Voice interface",
+        "D": "Touch interface"
+      },
+      "answer": "B",
+      "explanation": "Page 494: Unix: powerful multiuser operating system. It uses command line user interface.",
+      "topic": "Glossary"
+    },
+    {
+      "id": 20,
+      "question": "CDAC stands for:",
+      "options": {
+        "A": "Centre for Data and Computing",
+        "B": "Centre for Development of Advanced Parallel Computing",
+        "C": "Computer Development and Control",
+        "D": "Central Data Analysis Centre"
+      },
+      "answer": "B",
+      "explanation": "Page 494: CDAC: Centre for Development of Advanced Parallel Computing.",
+      "topic": "Abbreviations"
+    },
+    {
+      "id": 21,
+      "question": "C-DOT stands for:",
+      "options": {
+        "A": "Centre for Development of Technology",
+        "B": "Centre for Development Of Telematrics",
+        "C": "Computer Department of Technology",
+        "D": "Central Data Office Technology"
+      },
+      "answer": "B",
+      "explanation": "Page 494: C-DOT: Centre for Development Of Telematrics.",
+      "topic": "Abbreviations"
+    },
+    {
+      "id": 22,
+      "question": "HTTP stands for:",
+      "options": {
+        "A": "High Text Transfer Protocol",
+        "B": "Hyper Text Transfer Protocol",
+        "C": "Home Text Transfer Protocol",
+        "D": "Host Text Transfer Protocol"
+      },
+      "answer": "B",
+      "explanation": "Page 494: HTTP: Hyper Text Transfer Protocol.",
+      "topic": "Abbreviations"
+    },
+    {
+      "id": 23,
+      "question": "ROM stands for:",
+      "options": {
+        "A": "Random Output Memory",
+        "B": "Read Only Memory",
+        "C": "Run Only Memory",
+        "D": "Real Output Memory"
+      },
+      "answer": "B",
+      "explanation": "Page 494: ROM: Read Only Memory.",
+      "topic": "Abbreviations"
+    },
+    {
+      "id": 24,
+      "question": "RAM stands for:",
+      "options": {
+        "A": "Read All Memory",
+        "B": "Random Access Memory",
+        "C": "Run Access Memory",
+        "D": "Real Access Memory"
+      },
+      "answer": "B",
+      "explanation": "Page 494: RAM: Random Access Memory.",
+      "topic": "Abbreviations"
+    },
+    {
+      "id": 25,
+      "question": "BIOS stands for:",
+      "options": {
+        "A": "Binary Input Output Signal",
+        "B": "Basic Input-Output System",
+        "C": "Base Internal Operating System",
+        "D": "Binary Integrated Output System"
+      },
+      "answer": "B",
+      "explanation": "Page 494: BIOS: Basic Input-Output System.",
+      "topic": "Abbreviations"
+    },
+    {
+      "id": 26,
+      "question": "MODEM stands for:",
+      "options": {
+        "A": "Modular Device Manager",
+        "B": "Modulation-Demodulation",
+        "C": "Modern Device Machine",
+        "D": "Module-Demonstration"
+      },
+      "answer": "B",
+      "explanation": "Page 494: MODEM: Modulation-Demodulation.",
+      "topic": "Abbreviations"
+    },
+    {
+      "id": 27,
+      "question": "CAD stands for:",
+      "options": {
+        "A": "Computer Automated Data",
+        "B": "Computer Aided Design",
+        "C": "Central Access Device",
+        "D": "Control and Design"
+      },
+      "answer": "B",
+      "explanation": "Page 494: CAD: Computer Aided Design.",
+      "topic": "Abbreviations"
+    },
+    {
+      "id": 28,
+      "question": "LAN stands for:",
+      "options": {
+        "A": "Large Area Network",
+        "B": "Local Area Network",
+        "C": "Long Access Network",
+        "D": "Linear Area Network"
+      },
+      "answer": "B",
+      "explanation": "Page 494: LAN: Local Area Network.",
+      "topic": "Abbreviations"
+    },
+    {
+      "id": 29,
+      "question": "WAN stands for:",
+      "options": {
+        "A": "Wireless Area Network",
+        "B": "Wide Area Network",
+        "C": "World Access Network",
+        "D": "Web Area Network"
+      },
+      "answer": "B",
+      "explanation": "Page 494: WAN: Wide Area Network.",
+      "topic": "Abbreviations"
+    },
+    {
+      "id": 30,
+      "question": "MAN stands for:",
+      "options": {
+        "A": "Main Area Network",
+        "B": "Metropolitan Area Network",
+        "C": "Module Access Network",
+        "D": "Multi Area Network"
+      },
+      "answer": "B",
+      "explanation": "Page 494: MAN: Metropolitan Area Network.",
+      "topic": "Abbreviations"
+    },
+    {
+      "id": 31,
+      "question": "ENIAC stands for:",
+      "options": {
+        "A": "Electronic Network Integrated And Calculator",
+        "B": "Electronic Numerical Integrator And Calculator",
+        "C": "Electronic Number Input And Computer",
+        "D": "Enhanced Numerical Integrator And Calculator"
+      },
+      "answer": "B",
+      "explanation": "Page 494: ENIAC: Electronic Numerical Integrator And Calculator.",
+      "topic": "Abbreviations"
+    },
+    {
+      "id": 32,
+      "question": "FORTRAN stands for:",
+      "options": {
+        "A": "Form Translation",
+        "B": "Formula Translation",
+        "C": "Forward Translation",
+        "D": "Format Translation"
+      },
+      "answer": "B",
+      "explanation": "Page 494: FORTRAN: Formula Translation.",
+      "topic": "Abbreviations"
+    },
+    {
+      "id": 33,
+      "question": "COBOL stands for:",
+      "options": {
+        "A": "Computer Oriented Binary Language",
+        "B": "Common Business Oriented Language",
+        "C": "Central Office Business Language",
+        "D": "Computer Object Based Language"
+      },
+      "answer": "B",
+      "explanation": "Page 494: COBOL: Common Business Oriented Language.",
+      "topic": "Abbreviations"
+    },
+    {
+      "id": 34,
+      "question": "FAX stands for:",
+      "options": {
+        "A": "Fast Access Xerox",
+        "B": "Fascimile Automated Xerox",
+        "C": "File Access Exchange",
+        "D": "Fax Automated Transfer"
+      },
+      "answer": "B",
+      "explanation": "Page 494: FAX: Fascimile Automated Xerox.",
+      "topic": "Abbreviations"
+    },
+    {
+      "id": 35,
+      "question": "FLOPS stands for:",
+      "options": {
+        "A": "Floating Line Operations Per Second",
+        "B": "Floating Operations Per Second",
+        "C": "Fast Logic Operations Per Second",
+        "D": "File Logic Operations Per Second"
+      },
+      "answer": "B",
+      "explanation": "Page 494: FLOPS: Floating Operations Per Second.",
+      "topic": "Abbreviations"
+    },
+    {
+      "id": 36,
+      "question": "HLL stands for:",
+      "options": {
+        "A": "High Logic Language",
+        "B": "High Level Language",
+        "C": "Home Level Language",
+        "D": "Hybrid Logic Language"
+      },
+      "answer": "B",
+      "explanation": "Page 494: HLL: High Level Language.",
+      "topic": "Abbreviations"
+    },
+    {
+      "id": 37,
+      "question": "IBM stands for:",
+      "options": {
+        "A": "Indian Business Machine",
+        "B": "International Business Machine",
+        "C": "Integrated Binary Machine",
+        "D": "Internal Business Module"
+      },
+      "answer": "B",
+      "explanation": "Page 494: IBM: International Business Machine.",
+      "topic": "Abbreviations"
+    },
+    {
+      "id": 38,
+      "question": "IC stands for:",
+      "options": {
+        "A": "Internal Computer",
+        "B": "Integrated Circuit",
+        "C": "Input Controller",
+        "D": "Internet Connection"
+      },
+      "answer": "B",
+      "explanation": "Page 494: IC: Integrated Circuit.",
+      "topic": "Abbreviations"
+    },
+    {
+      "id": 39,
+      "question": "IP stands for:",
+      "options": {
+        "A": "Internal Processing",
+        "B": "Internet Protocol",
+        "C": "Input Port",
+        "D": "Integrated Program"
+      },
+      "answer": "B",
+      "explanation": "Page 494: IP: Internet Protocol.",
+      "topic": "Abbreviations"
+    },
+    {
+      "id": 40,
+      "question": "PSTN stands for:",
+      "options": {
+        "A": "Private Switched Telephone Network",
+        "B": "Public Switched Telephone Network",
+        "C": "Protected System Telephone Network",
+        "D": "Primary Switched Telephone Network"
+      },
+      "answer": "B",
+      "explanation": "Page 494: PSTN: Public Switched Telephone Network.",
+      "topic": "Abbreviations"
+    },
+    {
+      "id": 41,
+      "question": "CDMA stands for:",
+      "options": {
+        "A": "Computer Division Multiple Access",
+        "B": "Code Division Multiple Access",
+        "C": "Central Data Multiple Access",
+        "D": "Common Device Multiple Access"
+      },
+      "answer": "B",
+      "explanation": "Page 494: CDMA: Code Division Multiple Access.",
+      "topic": "Abbreviations"
+    },
+    {
+      "id": 42,
+      "question": "DTP stands for:",
+      "options": {
+        "A": "Data Transfer Protocol",
+        "B": "Desk Top Publishing",
+        "C": "Digital Transfer Processing",
+        "D": "Direct Text Processing"
+      },
+      "answer": "B",
+      "explanation": "Page 494: DTP: Desk Top Publishing.",
+      "topic": "Abbreviations"
+    },
+    {
+      "id": 43,
+      "question": "DTS stands for:",
+      "options": {
+        "A": "Digital Transfer System",
+        "B": "Desk Top System",
+        "C": "Data Translation Service",
+        "D": "Direct Technology System"
+      },
+      "answer": "B",
+      "explanation": "Page 494: DTS: Desk Top System.",
+      "topic": "Abbreviations"
+    },
+    {
+      "id": 44,
+      "question": "CAM stands for:",
+      "options": {
+        "A": "Computer Access Module",
+        "B": "Computer Aided Manufacturing",
+        "C": "Central Automated Machine",
+        "D": "Control and Management"
+      },
+      "answer": "B",
+      "explanation": "Page 494: CAM: Computer Aided Manufacturing.",
+      "topic": "Abbreviations"
+    },
+    {
+      "id": 45,
+      "question": "CATScan stands for:",
+      "options": {
+        "A": "Computer Automated Testing Scan",
+        "B": "Computerised Axial Tomography Scan",
+        "C": "Central Access Technology Scan",
+        "D": "Computer Analysis Testing Scan"
+      },
+      "answer": "B",
+      "explanation": "Page 494: CATScan: Computerised Axial Tomography Scan.",
+      "topic": "Abbreviations"
+    },
+    {
+      "id": 46,
+      "question": "COMAL stands for:",
+      "options": {
+        "A": "Computer Oriented Machine Language",
+        "B": "Common Algorithmic Language",
+        "C": "Central Object Management Language",
+        "D": "Computer Analysis Language"
+      },
+      "answer": "B",
+      "explanation": "Page 494: COMAL: Common Algorithmic Language.",
+      "topic": "Abbreviations"
+    },
+    {
+      "id": 47,
+      "question": "DOS (as abbreviation) stands for:",
+      "options": {
+        "A": "Data Operating System",
+        "B": "Disc Operating System",
+        "C": "Digital Output System",
+        "D": "Direct Operating Software"
+      },
+      "answer": "B",
+      "explanation": "Page 494: DOS: Disc Operating System.",
+      "topic": "Abbreviations"
+    },
+    {
+      "id": 48,
+      "question": "LDU stands for:",
+      "options": {
+        "A": "Large Data Unit",
+        "B": "Liquid Display Unit",
+        "C": "Light Data Unit",
+        "D": "Linear Display Unit"
+      },
+      "answer": "B",
+      "explanation": "Page 494: LDU: Liquid Display Unit.",
+      "topic": "Abbreviations"
+    },
+    {
+      "id": 49,
+      "question": "CPU stands for:",
+      "options": {
+        "A": "Computer Processing Unit",
+        "B": "Central Processing Unit",
+        "C": "Core Processing Unit",
+        "D": "Control Processing Unit"
+      },
+      "answer": "B",
+      "explanation": "Page 494: CPU: Central Processing Unit.",
+      "topic": "Abbreviations"
+    },
+    {
+      "id": 50,
+      "question": "GAIS stands for:",
+      "options": {
+        "A": "Global Access Internet System",
+        "B": "Gateway Internet Access Service",
+        "C": "General Automated Internet Service",
+        "D": "Government Access Internet Service"
+      },
+      "answer": "B",
+      "explanation": "Page 494: GAIS: Gateway Internet Access Service.",
+      "topic": "Abbreviations"
+    }
+  ]
+}

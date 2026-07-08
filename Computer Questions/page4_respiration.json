@@ -1,0 +1,659 @@
+{
+  "title": "Respiratory System – Page 420",
+  "source": "Lucent's General Knowledge – Biology",
+  "section": "Biology: Respiratory System",
+  "total_questions": 50,
+  "time_limit_minutes": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The opening of larynx is called:",
+      "options": {
+        "A": "Pharynx",
+        "B": "Glottis",
+        "C": "Bronchi",
+        "D": "Alveoli"
+      },
+      "answer": "B",
+      "explanation": "Page 420: The opening of larynx is called glottis.",
+      "topic": "Respiratory Anatomy"
+    },
+    {
+      "id": 2,
+      "question": "The cartilaginous flap structure that prevents the entry of food during swallowing is:",
+      "options": {
+        "A": "Larynx",
+        "B": "Epiglottis",
+        "C": "Trachea",
+        "D": "Bronchi"
+      },
+      "answer": "B",
+      "explanation": "Page 420: Epiglottis is the cartilaginous flap that prevents food entry during swallowing.",
+      "topic": "Respiratory Anatomy"
+    },
+    {
+      "id": 3,
+      "question": "A pair of vocal cords that help in producing sound are present inside the:",
+      "options": {
+        "A": "Pharynx",
+        "B": "Larynx",
+        "C": "Trachea",
+        "D": "Bronchi"
+      },
+      "answer": "B",
+      "explanation": "Page 420: A pair of vocal cords are present inside the larynx.",
+      "topic": "Respiratory Anatomy"
+    },
+    {
+      "id": 4,
+      "question": "Trachea passes through the neck and from the base of larynx reaches the middle of:",
+      "options": {
+        "A": "Abdomen",
+        "B": "Thoracic cavity (chest)",
+        "C": "Cranium",
+        "D": "Pelvis"
+      },
+      "answer": "B",
+      "explanation": "Page 420: Trachea from the base of larynx reaches the middle of thoracic cavity.",
+      "topic": "Respiratory Anatomy"
+    },
+    {
+      "id": 5,
+      "question": "Trachea is supported by:",
+      "options": {
+        "A": "Bones",
+        "B": "C-shaped cartilaginous rings",
+        "C": "Muscles only",
+        "D": "Ligaments only"
+      },
+      "answer": "B",
+      "explanation": "Page 420: Trachea is called wind pipe, supported by C-shaped cartilaginous rings.",
+      "topic": "Respiratory Anatomy"
+    },
+    {
+      "id": 6,
+      "question": "The inner lining of trachea is secreted by:",
+      "options": {
+        "A": "Sweat glands",
+        "B": "Ciliated epithelium (mucus secreting)",
+        "C": "Bone cells",
+        "D": "Nerve cells"
+      },
+      "answer": "B",
+      "explanation": "Page 420: The inner lining of trachea is ciliated epithelium (mucus secreting).",
+      "topic": "Respiratory Anatomy"
+    },
+    {
+      "id": 7,
+      "question": "Trachea divides into two branches called:",
+      "options": {
+        "A": "Alveoli",
+        "B": "Bronchi",
+        "C": "Pharynx",
+        "D": "Larynx"
+      },
+      "answer": "B",
+      "explanation": "Page 420: Trachea divides into two branches called bronchi, each entering one lung.",
+      "topic": "Respiratory Anatomy"
+    },
+    {
+      "id": 8,
+      "question": "Bronchi further divide into smaller branches called:",
+      "options": {
+        "A": "Alveoli",
+        "B": "Bronchioles",
+        "C": "Trachea",
+        "D": "Larynx"
+      },
+      "answer": "B",
+      "explanation": "Page 420: Bronchi further divide into smaller branches called bronchioles, finally giving alveoli.",
+      "topic": "Respiratory Anatomy"
+    },
+    {
+      "id": 9,
+      "question": "Each lung is surrounded by a membrane called:",
+      "options": {
+        "A": "Pericardium",
+        "B": "Pleural membrane",
+        "C": "Peritoneum",
+        "D": "Meninges"
+      },
+      "answer": "B",
+      "explanation": "Page 420: Each lung is surrounded by a membrane called pleural membrane.",
+      "topic": "Respiratory Anatomy"
+    },
+    {
+      "id": 10,
+      "question": "There is a network of blood capillaries on:",
+      "options": {
+        "A": "Trachea",
+        "B": "Alveoli",
+        "C": "Pharynx",
+        "D": "Larynx"
+      },
+      "answer": "B",
+      "explanation": "Page 420: There is a network of blood capillaries on alveoli.",
+      "topic": "Respiratory Anatomy"
+    },
+    {
+      "id": 11,
+      "question": "Each lung has colour:",
+      "options": {
+        "A": "Red",
+        "B": "Pink, spongy",
+        "C": "Yellow",
+        "D": "Blue"
+      },
+      "answer": "B",
+      "explanation": "Page 420: Each lung is pink, spongy in comparison to left lung.",
+      "topic": "Respiratory Anatomy"
+    },
+    {
+      "id": 12,
+      "question": "Right lung is divided into:",
+      "options": {
+        "A": "2 lobes",
+        "B": "3 lobes",
+        "C": "4 lobes",
+        "D": "5 lobes"
+      },
+      "answer": "B",
+      "explanation": "Page 420: Right lung has three lobes and left lung has two lobes.",
+      "topic": "Respiratory Anatomy"
+    },
+    {
+      "id": 13,
+      "question": "Nitrogen percentage in the constitution of air is:",
+      "options": {
+        "A": "21%",
+        "B": "79%",
+        "C": "0.03%",
+        "D": "4%"
+      },
+      "answer": "B",
+      "explanation": "Page 420: Constitution of air: Nitrogen 79%, Oxygen 21%, Carbon dioxide 0.03%.",
+      "topic": "Respiration"
+    },
+    {
+      "id": 14,
+      "question": "Oxygen percentage in the constitution of air is:",
+      "options": {
+        "A": "79%",
+        "B": "21%",
+        "C": "4%",
+        "D": "0.03%"
+      },
+      "answer": "B",
+      "explanation": "Page 420: Constitution of air: Oxygen 21%.",
+      "topic": "Respiration"
+    },
+    {
+      "id": 15,
+      "question": "Carbon dioxide percentage in exhaled air is approximately:",
+      "options": {
+        "A": "0.03%",
+        "B": "4%",
+        "C": "21%",
+        "D": "79%"
+      },
+      "answer": "B",
+      "explanation": "Page 420: In exhaled air, CO2 is about 4% (vs 0.03% in inhaled air).",
+      "topic": "Respiration"
+    },
+    {
+      "id": 16,
+      "question": "The maximum volume of air which can be inhaled through human breathing is:",
+      "options": {
+        "A": "200 mL",
+        "B": "400 mL",
+        "C": "600 mL",
+        "D": "800 mL"
+      },
+      "answer": "B",
+      "explanation": "Page 420: Maximum volume of air inhaled is approximately 400 mL.",
+      "topic": "Respiration"
+    },
+    {
+      "id": 17,
+      "question": "An adult breathes approximately 12 to 16 times in a:",
+      "options": {
+        "A": "Hour",
+        "B": "Minute",
+        "C": "Second",
+        "D": "Day"
+      },
+      "answer": "B",
+      "explanation": "Page 420: An adult breathes approximately 12 to 16 times in a minute.",
+      "topic": "Respiration"
+    },
+    {
+      "id": 18,
+      "question": "During inspiration, the diaphragm:",
+      "options": {
+        "A": "Moves up",
+        "B": "Flattens (moves down)",
+        "C": "Stays same",
+        "D": "Disappears"
+      },
+      "answer": "B",
+      "explanation": "Page 420: During inspiration, the diaphragm flattens/contracts, creating low pressure, allowing air to enter lungs.",
+      "topic": "Respiration"
+    },
+    {
+      "id": 19,
+      "question": "During expiration, air pressure inside and outside the body becomes:",
+      "options": {
+        "A": "Very different",
+        "B": "Equal",
+        "C": "Inside is much higher",
+        "D": "Outside is zero"
+      },
+      "answer": "B",
+      "explanation": "Page 420: In expiration, diaphragm relaxes, air pressure inside and outside body becomes equal.",
+      "topic": "Respiration"
+    },
+    {
+      "id": 20,
+      "question": "The process of respiration can be divided into how many parts?",
+      "options": {
+        "A": "2",
+        "B": "4 parts",
+        "C": "6",
+        "D": "3"
+      },
+      "answer": "B",
+      "explanation": "Page 420: Process of respiration is divided into 4 parts: External, Internal, Transportation of gases, Cellular respiration.",
+      "topic": "Respiration"
+    },
+    {
+      "id": 21,
+      "question": "External respiration is the exchange of gases in:",
+      "options": {
+        "A": "Cells",
+        "B": "Lungs",
+        "C": "Blood",
+        "D": "Stomach"
+      },
+      "answer": "B",
+      "explanation": "Page 420: External respiration is exchange of gases in lungs.",
+      "topic": "Respiration"
+    },
+    {
+      "id": 22,
+      "question": "Exchange of gases between blood and tissue fluid is called:",
+      "options": {
+        "A": "External respiration",
+        "B": "Internal respiration",
+        "C": "Cellular respiration",
+        "D": "Anaerobic respiration"
+      },
+      "answer": "B",
+      "explanation": "Page 420: Internal respiration is exchange of gases between blood and tissue fluid.",
+      "topic": "Respiration"
+    },
+    {
+      "id": 23,
+      "question": "Cellular respiration is where glucose is oxidised by oxygen. This process is called:",
+      "options": {
+        "A": "Fermentation",
+        "B": "Cellular respiration",
+        "C": "Photosynthesis",
+        "D": "Osmosis"
+      },
+      "answer": "B",
+      "explanation": "Page 420: Cellular respiration: glucose is oxidised by oxygen, reached into the cell.",
+      "topic": "Respiration"
+    },
+    {
+      "id": 24,
+      "question": "There are how many types of cellular respiration?",
+      "options": {
+        "A": "3",
+        "B": "2 – Anaerobic and Aerobic",
+        "C": "4",
+        "D": "1"
+      },
+      "answer": "B",
+      "explanation": "Page 420: Two types of cellular respiration: Anaerobic and Aerobic.",
+      "topic": "Respiration"
+    },
+    {
+      "id": 25,
+      "question": "Anaerobic respiration occurs in the absence of:",
+      "options": {
+        "A": "Water",
+        "B": "Oxygen",
+        "C": "Carbon dioxide",
+        "D": "Nitrogen"
+      },
+      "answer": "B",
+      "explanation": "Page 420: Anaerobic respiration is if the oxidation of food takes place in absence of oxygen.",
+      "topic": "Respiration"
+    },
+    {
+      "id": 26,
+      "question": "During anaerobic respiration, only how many ATP molecules are produced from one molecule of glucose?",
+      "options": {
+        "A": "38",
+        "B": "2",
+        "C": "4",
+        "D": "36"
+      },
+      "answer": "B",
+      "explanation": "Page 420: During anaerobic respiration, only 2 ATP molecules are produced.",
+      "topic": "Respiration"
+    },
+    {
+      "id": 27,
+      "question": "In anaerobic respiration in yeast, the final product is:",
+      "options": {
+        "A": "Lactic acid",
+        "B": "Ethyl alcohol and CO2",
+        "C": "Water",
+        "D": "Oxygen"
+      },
+      "answer": "B",
+      "explanation": "Page 420: In yeast: C6H12O6 → 2C2H5OH + 2CO2 + Energy (ethyl alcohol or ethanol).",
+      "topic": "Respiration"
+    },
+    {
+      "id": 28,
+      "question": "In anaerobic respiration in animals, the final product is:",
+      "options": {
+        "A": "Ethyl alcohol",
+        "B": "Lactic acid",
+        "C": "Acetic acid",
+        "D": "Ethanol"
+      },
+      "answer": "B",
+      "explanation": "Page 420: In animals: anaerobic respiration produces lactic acid. Accumulation causes muscle pain (cramps).",
+      "topic": "Respiration"
+    },
+    {
+      "id": 29,
+      "question": "A sprint athlete feels cramps due to accumulation of:",
+      "options": {
+        "A": "Glucose",
+        "B": "Lactic acid",
+        "C": "Ethanol",
+        "D": "CO2"
+      },
+      "answer": "B",
+      "explanation": "Page 420: After a sprint, lactic acid accumulates causing pain in the thigh muscles.",
+      "topic": "Respiration"
+    },
+    {
+      "id": 30,
+      "question": "Aerobic respiration takes place in presence of oxygen. The complete process produces how many ATP?",
+      "options": {
+        "A": "2",
+        "B": "38",
+        "C": "4",
+        "D": "36"
+      },
+      "answer": "B",
+      "explanation": "Page 420: Complete aerobic respiration: C6H12O6 + 6O2 → 6CO2 + 6H2O + 2870 kJ energy (38 ATP).",
+      "topic": "Respiration"
+    },
+    {
+      "id": 31,
+      "question": "Glycolysis (cytoplasm) was first studied by:",
+      "options": {
+        "A": "Kreb",
+        "B": "Embden, Meyerhof, Parnas (EMP path)",
+        "C": "Watson",
+        "D": "Mendel"
+      },
+      "answer": "B",
+      "explanation": "Page 420: Glycolysis was first studied by Embden, Meyerhof, Parnas. Also called EMP pathway.",
+      "topic": "Respiration"
+    },
+    {
+      "id": 32,
+      "question": "Glycolysis is present in both types of respiration and takes place in:",
+      "options": {
+        "A": "Mitochondria",
+        "B": "Cytoplasm",
+        "C": "Nucleus",
+        "D": "Ribosome"
+      },
+      "answer": "B",
+      "explanation": "Page 420: Glycolysis is present in both aerobic and anaerobic respiration, takes place in cytoplasm.",
+      "topic": "Respiration"
+    },
+    {
+      "id": 33,
+      "question": "Kreb's Cycle was described by:",
+      "options": {
+        "A": "Embden",
+        "B": "Hans Krebs in 1937",
+        "C": "Watson in 1953",
+        "D": "Mendel in 1865"
+      },
+      "answer": "B",
+      "explanation": "Page 420: Kreb's Cycle was described by Hans Krebs in 1937. Also called Citric Acid Cycle or TCA cycle.",
+      "topic": "Respiration"
+    },
+    {
+      "id": 34,
+      "question": "Kreb's Cycle is completed inside the:",
+      "options": {
+        "A": "Cytoplasm",
+        "B": "Mitochondria",
+        "C": "Nucleus",
+        "D": "Ribosome"
+      },
+      "answer": "B",
+      "explanation": "Page 420: Kreb's cycle is completed inside the Mitochondria in presence of specific enzymes.",
+      "topic": "Respiration"
+    },
+    {
+      "id": 35,
+      "question": "Kreb's cycle is also called:",
+      "options": {
+        "A": "EMP pathway",
+        "B": "Citric Acid Cycle or TCA cycle",
+        "C": "Calvin cycle",
+        "D": "Nitrogen cycle"
+      },
+      "answer": "B",
+      "explanation": "Page 420: Kreb's cycle is also called Citric Acid Cycle or Tricarboxylic Acid Cycle (TCA cycle).",
+      "topic": "Respiration"
+    },
+    {
+      "id": 36,
+      "question": "Breakdown of pyruvate into CO2, H2O and energy takes place in:",
+      "options": {
+        "A": "Cytoplasm",
+        "B": "Mitochondria",
+        "C": "Nucleus",
+        "D": "Cell membrane"
+      },
+      "answer": "B",
+      "explanation": "Page 420: Breakdown of pyruvate takes place in mitochondria.",
+      "topic": "Respiration"
+    },
+    {
+      "id": 37,
+      "question": "In glycolysis, 4 atoms of hydrogen formed are used in converting NAD to:",
+      "options": {
+        "A": "ATP",
+        "B": "2NADH2",
+        "C": "FAD",
+        "D": "GTP"
+      },
+      "answer": "B",
+      "explanation": "Page 420: 4 atoms of hydrogen formed in glycolysis are used in converting NAD to 2NADH2.",
+      "topic": "Respiration"
+    },
+    {
+      "id": 38,
+      "question": "The enzymes which take part in glycolysis and respiration are found in:",
+      "options": {
+        "A": "Nucleus",
+        "B": "Cell cytoplasm",
+        "C": "Ribosome",
+        "D": "Golgi body"
+      },
+      "answer": "B",
+      "explanation": "Page 420: Enzymes for glycolysis are found in cell cytoplasm.",
+      "topic": "Respiration"
+    },
+    {
+      "id": 39,
+      "question": "To start glycolysis, how many molecules of ATP are utilized?",
+      "options": {
+        "A": "4",
+        "B": "2",
+        "C": "1",
+        "D": "6"
+      },
+      "answer": "B",
+      "explanation": "Page 420: To start the process of glycolysis, 2 molecules of ATP are utilised.",
+      "topic": "Respiration"
+    },
+    {
+      "id": 40,
+      "question": "As a result of glycolysis, how many ATP are obtained net?",
+      "options": {
+        "A": "4",
+        "B": "2 (net, since 4 produced minus 2 used)",
+        "C": "38",
+        "D": "36"
+      },
+      "answer": "B",
+      "explanation": "Page 420: As a result of glycolysis, 4 molecules of ATP are obtained. But 2 were used, so net gain is 2 ATP.",
+      "topic": "Respiration"
+    },
+    {
+      "id": 41,
+      "question": "There is no need of oxygen in:",
+      "options": {
+        "A": "Aerobic respiration",
+        "B": "Glycolysis",
+        "C": "Kreb's cycle",
+        "D": "Electron transport chain"
+      },
+      "answer": "B",
+      "explanation": "Page 420: There is no need of oxygen in glycolysis. This process is similar in both anaerobic and aerobic respiration.",
+      "topic": "Respiration"
+    },
+    {
+      "id": 42,
+      "question": "Breaking down of glucose in cytoplasm results in formation of:",
+      "options": {
+        "A": "Ethanol",
+        "B": "Pyruvate (pyruvic acid)",
+        "C": "Lactic acid",
+        "D": "Acetic acid"
+      },
+      "answer": "B",
+      "explanation": "Page 420: Breaking down of glucose in cytoplasm results in formation of two molecules of pyruvate and energy.",
+      "topic": "Respiration"
+    },
+    {
+      "id": 43,
+      "question": "ATP stands for:",
+      "options": {
+        "A": "Adenine Tri Phosphate",
+        "B": "Adenosine Triphosphate",
+        "C": "Amino Tri Phosphate",
+        "D": "Adenosine Tri Protein"
+      },
+      "answer": "B",
+      "explanation": "Page 420: ATP = Adenosine Triphosphate.",
+      "topic": "Respiration"
+    },
+    {
+      "id": 44,
+      "question": "Transportation of oxygen from lungs to the cells of body takes place by:",
+      "options": {
+        "A": "White blood cells",
+        "B": "Haemoglobin (in RBC)",
+        "C": "Plasma only",
+        "D": "Platelets"
+      },
+      "answer": "B",
+      "explanation": "Page 420: Transportation of oxygen takes place by haemoglobin in blood.",
+      "topic": "Respiration"
+    },
+    {
+      "id": 45,
+      "question": "Carbon dioxide from cells to lungs is mainly transported as:",
+      "options": {
+        "A": "Attached to hemoglobin",
+        "B": "Bicarbonates (70% as HCO3)",
+        "C": "Dissolved in plasma only",
+        "D": "In WBCs"
+      },
+      "answer": "B",
+      "explanation": "Page 420: 70% of CO2 is transported as bicarbonates, rest by mixing with plasma and combining with haemoglobin.",
+      "topic": "Respiration"
+    },
+    {
+      "id": 46,
+      "question": "Carbon dioxide after mixing with plasma forms:",
+      "options": {
+        "A": "Oxygen",
+        "B": "Carbonic acid",
+        "C": "Lactic acid",
+        "D": "Acetic acid"
+      },
+      "answer": "B",
+      "explanation": "Page 420: Carbon dioxide after mixing with plasma forms carbonic acid.",
+      "topic": "Respiration"
+    },
+    {
+      "id": 47,
+      "question": "Respiration is controlled by:",
+      "options": {
+        "A": "Cerebrum",
+        "B": "Medulla in second (hindbrain)",
+        "C": "Cerebellum",
+        "D": "Hypothalamus"
+      },
+      "answer": "B",
+      "explanation": "Page 420: Respiration is controlled by medulla in the hindbrain.",
+      "topic": "Respiration"
+    },
+    {
+      "id": 48,
+      "question": "Respiration is a:",
+      "options": {
+        "A": "Anabolic process",
+        "B": "Catabolic process (it also reduces the weight of the body)",
+        "C": "Neither",
+        "D": "Synthetic process"
+      },
+      "answer": "B",
+      "explanation": "Page 420: Respiration is a catabolic process. It also reduces the weight of the body.",
+      "topic": "Respiration"
+    },
+    {
+      "id": 49,
+      "question": "Cyanide poisoning causes death by:",
+      "options": {
+        "A": "Stopping digestion",
+        "B": "Breaking down the electron transport chain system",
+        "C": "Stopping heartbeat",
+        "D": "Blocking kidneys"
+      },
+      "answer": "B",
+      "explanation": "Page 420: Cyanide poisoning causes death by breaking down the electron transport chain system.",
+      "topic": "Respiration"
+    },
+    {
+      "id": 50,
+      "question": "The gaseous exchange in lungs is called:",
+      "options": {
+        "A": "Internal respiration",
+        "B": "External respiration",
+        "C": "Cellular respiration",
+        "D": "Anaerobic respiration"
+      },
+      "answer": "B",
+      "explanation": "Page 420: The gaseous exchange in lungs is called external respiration.",
+      "topic": "Respiration"
+    }
+  ]
+}

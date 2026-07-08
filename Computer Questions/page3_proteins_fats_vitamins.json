@@ -1,0 +1,659 @@
+{
+  "title": "Proteins, Fats & Vitamins – Page 422",
+  "source": "Lucent's General Knowledge – Biology",
+  "section": "Biology: Proteins, Fats & Vitamins",
+  "total_questions": 50,
+  "time_limit_minutes": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "On the basis of chemical composition, proteins are divided into how many types?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "answer": "B",
+      "explanation": "Page 422: Proteins are divided into three types: Simple Protein, Conjugated Protein, and Derived Protein.",
+      "topic": "Proteins"
+    },
+    {
+      "id": 2,
+      "question": "Simple Protein consists of only:",
+      "options": {
+        "A": "Fatty acids",
+        "B": "Amino acids",
+        "C": "Nucleic acids",
+        "D": "Carbohydrates"
+      },
+      "answer": "B",
+      "explanation": "Page 422: Simple Protein consists of only amino acids. Examples: Albumins, Globulins, Histones.",
+      "topic": "Proteins"
+    },
+    {
+      "id": 3,
+      "question": "Which is an example of Conjugated Protein?",
+      "options": {
+        "A": "Albumin",
+        "B": "Histones",
+        "C": "Haemoglobin (having some other chemical compound in addition to amino acids)",
+        "D": "Globulin"
+      },
+      "answer": "C",
+      "explanation": "Page 422: Conjugated Protein has some other chemical compound in addition to amino acids, e.g. Haemoglobin.",
+      "topic": "Proteins"
+    },
+    {
+      "id": 4,
+      "question": "Derived Protein is obtained from:",
+      "options": {
+        "A": "Fats",
+        "B": "Partial hydrolysis of natural protein",
+        "C": "Carbohydrates",
+        "D": "Minerals"
+      },
+      "answer": "B",
+      "explanation": "Page 422: Derived Protein is derived from the partial hydrolysis of natural protein. Examples: Peptone, Peptide, Proteases.",
+      "topic": "Proteins"
+    },
+    {
+      "id": 5,
+      "question": "Animal protein is called first class protein because:",
+      "options": {
+        "A": "It is cheap",
+        "B": "It contains all the essential amino acids",
+        "C": "It is vegetarian",
+        "D": "It is easy to digest"
+      },
+      "answer": "B",
+      "explanation": "Page 422: Animal protein is called first class protein because it contains all the essential amino acids.",
+      "topic": "Proteins"
+    },
+    {
+      "id": 6,
+      "question": "Egg contains how many essential amino acids?",
+      "options": {
+        "A": "10",
+        "B": "15",
+        "C": "20 (all)",
+        "D": "5"
+      },
+      "answer": "C",
+      "explanation": "Page 422: Egg contains all the essential amino acids.",
+      "topic": "Proteins"
+    },
+    {
+      "id": 7,
+      "question": "Proteins are important for:",
+      "options": {
+        "A": "Only energy",
+        "B": "Physical growth, protoplasm and formation of cells, tissues",
+        "C": "Only bones",
+        "D": "Only blood"
+      },
+      "answer": "B",
+      "explanation": "Page 422: Proteins are important for physical growth, protoplasm and formation of cells, tissues.",
+      "topic": "Proteins"
+    },
+    {
+      "id": 8,
+      "question": "Lack of proteins hampers growth. This causes a disease called:",
+      "options": {
+        "A": "Rickets",
+        "B": "Kwashiorkor",
+        "C": "Scurvy",
+        "D": "Beriberi"
+      },
+      "answer": "B",
+      "explanation": "Page 422: Lack of proteins causes Kwashiorkor and Marasmus in children.",
+      "topic": "Proteins"
+    },
+    {
+      "id": 9,
+      "question": "In Kwashiorkor disease, which parts of children are affected?",
+      "options": {
+        "A": "Only legs",
+        "B": "Stomach comes out, hands and legs get slimmed",
+        "C": "Only hands",
+        "D": "Only head"
+      },
+      "answer": "B",
+      "explanation": "Page 422: In Kwashiorkor, the stomach comes out, and hands and legs of children get slimmed. Caused by protein deficiency.",
+      "topic": "Proteins"
+    },
+    {
+      "id": 10,
+      "question": "Marasmus is caused by:",
+      "options": {
+        "A": "Excess protein",
+        "B": "Loosened deficiency of protein and energy",
+        "C": "Excess vitamins",
+        "D": "Iron deficiency"
+      },
+      "answer": "B",
+      "explanation": "Page 422: Marasmus is caused by loosened deficiency of protein and energy together.",
+      "topic": "Proteins"
+    },
+    {
+      "id": 11,
+      "question": "Biological catalysts which speed up chemical reactions and remain unchanged at 37°C are called:",
+      "options": {
+        "A": "Hormones",
+        "B": "Enzymes",
+        "C": "Vitamins",
+        "D": "Minerals"
+      },
+      "answer": "B",
+      "explanation": "Page 422: Biological catalysts (enzymes) speed up chemical reactions and remain unchanged after reaction at 37°C.",
+      "topic": "Proteins"
+    },
+    {
+      "id": 12,
+      "question": "Human nails are made up of which protein?",
+      "options": {
+        "A": "Albumin",
+        "B": "Keratin",
+        "C": "Casein",
+        "D": "Globulin"
+      },
+      "answer": "B",
+      "explanation": "Page 422: Human nails are made up of protein Keratin.",
+      "topic": "Proteins"
+    },
+    {
+      "id": 13,
+      "question": "Soybean is the richest source of:",
+      "options": {
+        "A": "Fat",
+        "B": "Protein",
+        "C": "Carbohydrate",
+        "D": "Vitamin C"
+      },
+      "answer": "B",
+      "explanation": "Page 422: Soybean is the richest source of protein.",
+      "topic": "Proteins"
+    },
+    {
+      "id": 14,
+      "question": "When egg is heated, the transparent liquid portion turns solid. This happens due to:",
+      "options": {
+        "A": "Evaporation",
+        "B": "Thermal denaturation of protein",
+        "C": "Chemical reaction with air",
+        "D": "Loss of water"
+      },
+      "answer": "B",
+      "explanation": "Page 422: When egg is heated, the protein turns solid due to thermal denaturation of protein (denaturation around at normal solution).",
+      "topic": "Proteins"
+    },
+    {
+      "id": 15,
+      "question": "Keratin is a protein which protects:",
+      "options": {
+        "A": "Bones",
+        "B": "Epithelial cells from damage",
+        "C": "Blood cells",
+        "D": "Nerve cells"
+      },
+      "answer": "B",
+      "explanation": "Page 422: Keratin is the protein which protects the epithelial cells from damage.",
+      "topic": "Proteins"
+    },
+    {
+      "id": 16,
+      "question": "Fats are esters of:",
+      "options": {
+        "A": "Amino acid and glucose",
+        "B": "Glycerol and fatty acid",
+        "C": "Nucleic acid and protein",
+        "D": "Starch and sugar"
+      },
+      "answer": "B",
+      "explanation": "Page 422: Fats are esters of glycerol and fatty acid. They contain carbon, hydrogen and oxygen but proportionally less oxygen.",
+      "topic": "Fats"
+    },
+    {
+      "id": 17,
+      "question": "Fats are of how many types?",
+      "options": {
+        "A": "3",
+        "B": "2 – Saturated and Unsaturated fatty acids",
+        "C": "4",
+        "D": "1"
+      },
+      "answer": "B",
+      "explanation": "Page 422: Only two types – Saturated fatty acids (solid at 20°C, e.g. this is called fat) and Unsaturated fatty acids (liquid form, called oil).",
+      "topic": "Fats"
+    },
+    {
+      "id": 18,
+      "question": "Saturated fatty acids are found in:",
+      "options": {
+        "A": "Fish oil and vegetable oil",
+        "B": "Fat (solid at 20°C temperature)",
+        "C": "Only soybean oil",
+        "D": "Only coconut water"
+      },
+      "answer": "B",
+      "explanation": "Page 422: Saturated fatty acids are solid at 20°C temperature, this is called fat.",
+      "topic": "Fats"
+    },
+    {
+      "id": 19,
+      "question": "Unsaturated fatty acids are found in:",
+      "options": {
+        "A": "Solid fats only",
+        "B": "Fish oil and vegetable oil (liquid form - called oil)",
+        "C": "Butter only",
+        "D": "Cheese only"
+      },
+      "answer": "B",
+      "explanation": "Page 422: Unsaturated fatty acids are found in fish oil and vegetable oil. Examples: coconut oil, palm oil.",
+      "topic": "Fats"
+    },
+    {
+      "id": 20,
+      "question": "An adult person should get approximately what percentage of energy from fat?",
+      "options": {
+        "A": "10-15%",
+        "B": "20-30%",
+        "C": "40-50%",
+        "D": "5-10%"
+      },
+      "answer": "B",
+      "explanation": "Page 422: Normally an adult person should get approximately 20-30% of energy from fat.",
+      "topic": "Fats"
+    },
+    {
+      "id": 21,
+      "question": "1 gram of fat liberates how many kilo calories of energy?",
+      "options": {
+        "A": "4.1",
+        "B": "9.3",
+        "C": "7.0",
+        "D": "5.5"
+      },
+      "answer": "B",
+      "explanation": "Page 422: 9.3 kilo calorie energy is liberated from 1 gram of fat.",
+      "topic": "Fats"
+    },
+    {
+      "id": 22,
+      "question": "Fat stores maximum energy per:",
+      "options": {
+        "A": "Milliliter",
+        "B": "Gram",
+        "C": "Kilogram",
+        "D": "Liter"
+      },
+      "answer": "B",
+      "explanation": "Page 422: Fat stores maximum energy per gram.",
+      "topic": "Fats"
+    },
+    {
+      "id": 23,
+      "question": "Fat provides energy to the body and:",
+      "options": {
+        "A": "Increases body weight only",
+        "B": "Prevents the loss of heat and remains under the skin",
+        "C": "Causes diseases",
+        "D": "Has no function"
+      },
+      "answer": "B",
+      "explanation": "Page 422: Fat provides energy to the body and prevents the loss of heat, remaining under the skin.",
+      "topic": "Fats"
+    },
+    {
+      "id": 24,
+      "question": "Rancidity is the oxidation of fat. It changes the:",
+      "options": {
+        "A": "Color only",
+        "B": "Taste and smell of food",
+        "C": "Volume",
+        "D": "Weight"
+      },
+      "answer": "B",
+      "explanation": "Page 422: Rancidity takes place due to oxidation of fat and oils. It changes the taste and smell of food.",
+      "topic": "Fats"
+    },
+    {
+      "id": 25,
+      "question": "Due to lack of fat, skin gets:",
+      "options": {
+        "A": "Darker",
+        "B": "Dry and body weight decreases",
+        "C": "Thicker",
+        "D": "Smoother"
+      },
+      "answer": "B",
+      "explanation": "Page 422: Due to the lack of fat, skin gets fatty/dry, the body weight of the body gets checked/decreases and development of the body is affected.",
+      "topic": "Fats"
+    },
+    {
+      "id": 26,
+      "question": "Vitamin was first coined/invented by:",
+      "options": {
+        "A": "Louis Pasteur",
+        "B": "Sir F.G. Hopkins",
+        "C": "Robert Koch",
+        "D": "Alexander Fleming"
+      },
+      "answer": "B",
+      "explanation": "Page 422: Vitamin was coined/invented by Sir F.G. Hopkins.",
+      "topic": "Vitamins"
+    },
+    {
+      "id": 27,
+      "question": "The term 'Vitamine' was first used by:",
+      "options": {
+        "A": "Hopkins",
+        "B": "Funk",
+        "C": "Pasteur",
+        "D": "Darwin"
+      },
+      "answer": "B",
+      "explanation": "Page 422: The term vitamin was coined by Funk.",
+      "topic": "Vitamins"
+    },
+    {
+      "id": 28,
+      "question": "On the basis of solubility, vitamins are of how many types?",
+      "options": {
+        "A": "3",
+        "B": "2 – Water soluble and Fat soluble",
+        "C": "4",
+        "D": "1"
+      },
+      "answer": "B",
+      "explanation": "Page 422: On the basis of solubility, vitamins are of two types: (a) Vitamin soluble in water: Vitamin-B and Vitamin-C, (b) Vitamin soluble in fat: Vitamin-A, Vitamin-D, Vitamin-E and Vitamin-K.",
+      "topic": "Vitamins"
+    },
+    {
+      "id": 29,
+      "question": "Which vitamins are water soluble?",
+      "options": {
+        "A": "A and D",
+        "B": "B and C",
+        "C": "E and K",
+        "D": "A and K"
+      },
+      "answer": "B",
+      "explanation": "Page 422: Water soluble vitamins are Vitamin B and Vitamin C.",
+      "topic": "Vitamins"
+    },
+    {
+      "id": 30,
+      "question": "Which vitamins are fat soluble?",
+      "options": {
+        "A": "B and C",
+        "B": "A, D, E and K",
+        "C": "Only B12",
+        "D": "Only C"
+      },
+      "answer": "B",
+      "explanation": "Page 422: Fat soluble vitamins are Vitamin A, D, E and K.",
+      "topic": "Vitamins"
+    },
+    {
+      "id": 31,
+      "question": "Chemical name of Vitamin A is:",
+      "options": {
+        "A": "Thiamine",
+        "B": "Retinol",
+        "C": "Riboflavin",
+        "D": "Niacin"
+      },
+      "answer": "B",
+      "explanation": "Page 422: Vitamin A chemical name is Retinol.",
+      "topic": "Vitamins"
+    },
+    {
+      "id": 32,
+      "question": "Deficiency of Vitamin A causes:",
+      "options": {
+        "A": "Beriberi",
+        "B": "Night blindness, Xerophthalmia",
+        "C": "Scurvy",
+        "D": "Pellagra"
+      },
+      "answer": "B",
+      "explanation": "Page 422: Vitamin A deficiency causes night blindness and xerophthalmia.",
+      "topic": "Vitamins"
+    },
+    {
+      "id": 33,
+      "question": "Chemical name of Vitamin B1 is:",
+      "options": {
+        "A": "Riboflavin",
+        "B": "Thiamine",
+        "C": "Niacin",
+        "D": "Pyridoxine"
+      },
+      "answer": "B",
+      "explanation": "Page 422: Vitamin B1 chemical name is Thiamine.",
+      "topic": "Vitamins"
+    },
+    {
+      "id": 34,
+      "question": "Deficiency of Vitamin B2 (Riboflavin) causes:",
+      "options": {
+        "A": "Night blindness",
+        "B": "Cracking of skin, reddish eye, cracking at corners of lips, mouth ulcers",
+        "C": "Scurvy",
+        "D": "Rickets"
+      },
+      "answer": "B",
+      "explanation": "Page 422: Vitamin B2 deficiency causes cracking of skin, reddish eye, cracking at corners of lips, mouth ulcers.",
+      "topic": "Vitamins"
+    },
+    {
+      "id": 35,
+      "question": "Deficiency of Vitamin B3 (Nicotinamide/Niacin) causes:",
+      "options": {
+        "A": "Rickets",
+        "B": "Whitening of hair, mental retardation, Pellagra",
+        "C": "Scurvy",
+        "D": "Night blindness"
+      },
+      "answer": "B",
+      "explanation": "Page 422: Vitamin B3 deficiency causes whitening of hair, mental retardation, Pellagra.",
+      "topic": "Vitamins"
+    },
+    {
+      "id": 36,
+      "question": "Deficiency of Vitamin B5 (Pantothenic acid) causes:",
+      "options": {
+        "A": "Scurvy",
+        "B": "Burning sensation, Dermatitis",
+        "C": "Rickets",
+        "D": "Night blindness"
+      },
+      "answer": "B",
+      "explanation": "Page 422: Vitamin B5 (Pantothenic acid) deficiency causes burning sensation, dermatitis.",
+      "topic": "Vitamins"
+    },
+    {
+      "id": 37,
+      "question": "Chemical name of Vitamin B6 is:",
+      "options": {
+        "A": "Riboflavin",
+        "B": "Pyridoxine",
+        "C": "Thiamine",
+        "D": "Niacin"
+      },
+      "answer": "B",
+      "explanation": "Page 422: Vitamin B6 chemical name is Pyridoxine.",
+      "topic": "Vitamins"
+    },
+    {
+      "id": 38,
+      "question": "Deficiency of Vitamin B6 causes:",
+      "options": {
+        "A": "Night blindness",
+        "B": "Anemia, skin disease, Depression",
+        "C": "Rickets",
+        "D": "Scurvy"
+      },
+      "answer": "B",
+      "explanation": "Page 422: Vitamin B6 deficiency causes Anemia, skin disease, Depression.",
+      "topic": "Vitamins"
+    },
+    {
+      "id": 39,
+      "question": "Deficiency of Vitamin B7 (Biotin) causes:",
+      "options": {
+        "A": "Scurvy",
+        "B": "Paralysis, body pain, hair falling, scaly and itchy skin",
+        "C": "Pellagra",
+        "D": "Rickets"
+      },
+      "answer": "B",
+      "explanation": "Page 422: Vitamin B7 (Biotin) deficiency causes paralysis, body pain, hair falling, scaly and itchy skin.",
+      "topic": "Vitamins"
+    },
+    {
+      "id": 40,
+      "question": "Chemical name of Vitamin B9 is:",
+      "options": {
+        "A": "Cyanocobalamin",
+        "B": "Folic acid",
+        "C": "Biotin",
+        "D": "Thiamine"
+      },
+      "answer": "B",
+      "explanation": "Page 422: Vitamin B9 chemical name is Folic acid.",
+      "topic": "Vitamins"
+    },
+    {
+      "id": 41,
+      "question": "Deficiency of Vitamin B9 (Folic acid) causes:",
+      "options": {
+        "A": "Night blindness",
+        "B": "Pernicious Anemia, jaundice",
+        "C": "Rickets",
+        "D": "Pellagra"
+      },
+      "answer": "B",
+      "explanation": "Page 422: Vitamin B9 deficiency causes Pernicious Anemia, jaundice.",
+      "topic": "Vitamins"
+    },
+    {
+      "id": 42,
+      "question": "Chemical name of Vitamin B12 is:",
+      "options": {
+        "A": "Folic acid",
+        "B": "Cyanocobalamin",
+        "C": "Pyridoxine",
+        "D": "Riboflavin"
+      },
+      "answer": "B",
+      "explanation": "Page 422: Vitamin B12 chemical name is Cyanocobalamin (or Cobalamin).",
+      "topic": "Vitamins"
+    },
+    {
+      "id": 43,
+      "question": "Deficiency of Vitamin B12 causes:",
+      "options": {
+        "A": "Scurvy",
+        "B": "Anemia, dysentery",
+        "C": "Pellagra",
+        "D": "Rickets"
+      },
+      "answer": "B",
+      "explanation": "Page 422: Vitamin B12 deficiency causes Anemia, dysentery.",
+      "topic": "Vitamins"
+    },
+    {
+      "id": 44,
+      "question": "Chemical name of Vitamin C is:",
+      "options": {
+        "A": "Retinol",
+        "B": "Ascorbic acid",
+        "C": "Calciferol",
+        "D": "Tocopherol"
+      },
+      "answer": "B",
+      "explanation": "Page 422: Vitamin C chemical name is Ascorbic acid.",
+      "topic": "Vitamins"
+    },
+    {
+      "id": 45,
+      "question": "Deficiency of Vitamin C causes:",
+      "options": {
+        "A": "Rickets",
+        "B": "Scurvy, swelling of gums or bleeding gums",
+        "C": "Night blindness",
+        "D": "Beriberi"
+      },
+      "answer": "B",
+      "explanation": "Page 422: Vitamin C deficiency causes Scurvy, swelling of gums or bleeding gums.",
+      "topic": "Vitamins"
+    },
+    {
+      "id": 46,
+      "question": "Sources of Vitamin A include:",
+      "options": {
+        "A": "Sea fish only",
+        "B": "Milk, Egg, Cheese, Green vegetable, Carrot",
+        "C": "Only fruits",
+        "D": "Only grains"
+      },
+      "answer": "B",
+      "explanation": "Page 422: Vitamin A sources include Milk, Egg, Cheese, Green vegetables, Carrot.",
+      "topic": "Vitamins"
+    },
+    {
+      "id": 47,
+      "question": "Kwashiorkor disease typically develops in children due to:",
+      "options": {
+        "A": "Excess protein",
+        "B": "Protein deficiency while caloric intake may be adequate",
+        "C": "Vitamin D deficiency",
+        "D": "Iron deficiency"
+      },
+      "answer": "B",
+      "explanation": "Page 422: Kwashiorkor is caused by protein deficiency, especially when caloric intake is not severely affected.",
+      "topic": "Proteins"
+    },
+    {
+      "id": 48,
+      "question": "Proteins take part in formation of:",
+      "options": {
+        "A": "Only bones",
+        "B": "Cells, protoplasm and tissues",
+        "C": "Only blood",
+        "D": "Only skin"
+      },
+      "answer": "B",
+      "explanation": "Page 422: Proteins take part in formation of cells, protoplasm and tissues.",
+      "topic": "Proteins"
+    },
+    {
+      "id": 49,
+      "question": "Sources of Vitamin B1 (Thiamine) include:",
+      "options": {
+        "A": "Fish liver oil",
+        "B": "Pulse, Liver, Egg, Milk, eggs etc.",
+        "C": "Only sea fish",
+        "D": "Only iodized salt"
+      },
+      "answer": "B",
+      "explanation": "Page 422: Sources of Vitamin B1 include Pulse, Liver, Egg, Milk, eggs.",
+      "topic": "Vitamins"
+    },
+    {
+      "id": 50,
+      "question": "Vitamin B1 (Thiamine) deficiency causes which disease?",
+      "options": {
+        "A": "Scurvy",
+        "B": "Beriberi",
+        "C": "Pellagra",
+        "D": "Rickets"
+      },
+      "answer": "B",
+      "explanation": "Page 422: Vitamin B1 (Thiamine) deficiency causes Beriberi.",
+      "topic": "Vitamins"
+    }
+  ]
+}

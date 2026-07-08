@@ -1,0 +1,659 @@
+{
+  "title": "Important Computer Facts & Super Computers – Page 489",
+  "source": "Lucent's General Knowledge – Computer",
+  "section": "Computer: Important Facts, Super Computers & Firsts",
+  "total_questions": 50,
+  "time_limit_minutes": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "December 2 is observed as:",
+      "options": {
+        "A": "World Internet Day",
+        "B": "Computer Literacy Day",
+        "C": "Science Day",
+        "D": "Technology Day"
+      },
+      "answer": "B",
+      "explanation": "Page 489: December 2 is observed as Computer Literacy Day.",
+      "topic": "Computer Facts"
+    },
+    {
+      "id": 2,
+      "question": "India announced New Computer Policy in:",
+      "options": {
+        "A": "1990",
+        "B": "1984",
+        "C": "1978",
+        "D": "2000"
+      },
+      "answer": "B",
+      "explanation": "Page 489: India has announced New Computer Policy in 1984.",
+      "topic": "Computer Facts"
+    },
+    {
+      "id": 3,
+      "question": "First computer made in India is:",
+      "options": {
+        "A": "PARAM",
+        "B": "Siddharth",
+        "C": "PACE",
+        "D": "MACH"
+      },
+      "answer": "B",
+      "explanation": "Page 489: First computer (made in India) is 'Siddharth', manufactured by Electronics Corporation of India.",
+      "topic": "Computer Facts"
+    },
+    {
+      "id": 4,
+      "question": "First computer in India was installed in the Main Post Office of Bangalore on:",
+      "options": {
+        "A": "January 26, 1980",
+        "B": "August 16, 1986",
+        "C": "March 15, 1990",
+        "D": "December 2, 1984"
+      },
+      "answer": "B",
+      "explanation": "Page 489: First computer in India was installed in the Main Post Office of Bangalore on August 16, 1986.",
+      "topic": "Computer Facts"
+    },
+    {
+      "id": 5,
+      "question": "First Pollution Free Computerized Petrol Pump of India is in:",
+      "options": {
+        "A": "Delhi",
+        "B": "Mumbai",
+        "C": "Bangalore",
+        "D": "Chennai"
+      },
+      "answer": "B",
+      "explanation": "Page 489: First Pollution Free Computerized Petrol Pump of India is in Mumbai.",
+      "topic": "Computer Facts"
+    },
+    {
+      "id": 6,
+      "question": "First Computer University (in Private Sector) in India is:",
+      "options": {
+        "A": "IIT Delhi",
+        "B": "Rajeev Gandhi Computer University",
+        "C": "IIIT Hyderabad",
+        "D": "NIT Trichy"
+      },
+      "answer": "B",
+      "explanation": "Page 489: First Computer University (in Private Sector) in India is Rajeev Gandhi Computer University.",
+      "topic": "Computer Facts"
+    },
+    {
+      "id": 7,
+      "question": "Bangalore (now Bengaluru) is also known as the:",
+      "options": {
+        "A": "Garden City of India",
+        "B": "Silicon Valley of India",
+        "C": "IT Capital of India",
+        "D": "Computer City"
+      },
+      "answer": "B",
+      "explanation": "Page 489: Bangalore (now Bengaluru) is also known as the Silicon Valley of India.",
+      "topic": "Computer Facts"
+    },
+    {
+      "id": 8,
+      "question": "First Indian News Paper to be available on Internet is:",
+      "options": {
+        "A": "Times of India",
+        "B": "The Hindu",
+        "C": "Hindustan Times",
+        "D": "Indian Express"
+      },
+      "answer": "B",
+      "explanation": "Page 489: First Indian News Paper to be available on Internet is 'The Hindu'.",
+      "topic": "Computer Facts"
+    },
+    {
+      "id": 9,
+      "question": "First Indian magazine to be available on Internet is:",
+      "options": {
+        "A": "Outlook",
+        "B": "India Today",
+        "C": "Frontline",
+        "D": "The Week"
+      },
+      "answer": "B",
+      "explanation": "Page 489: First Indian magazine to be available on Internet is 'India Today'.",
+      "topic": "Computer Facts"
+    },
+    {
+      "id": 10,
+      "question": "First Indian political party which created its website on internet is:",
+      "options": {
+        "A": "Congress",
+        "B": "Bhartiya Janata Party (BJP)",
+        "C": "CPI",
+        "D": "AAP"
+      },
+      "answer": "B",
+      "explanation": "Page 489: First Indian political party which has created its website on internet is 'Bhartiya Janata Party (BJP)'.",
+      "topic": "Computer Facts"
+    },
+    {
+      "id": 11,
+      "question": "There are mainly three types of Computers:",
+      "options": {
+        "A": "Small, Medium, Large",
+        "B": "Digital, Analog and Hybrid",
+        "C": "Fast, Slow, Medium",
+        "D": "Old, New, Latest"
+      },
+      "answer": "B",
+      "explanation": "Page 489: Mainly there are three types of Computers — Digital, Analog and Hybrid.",
+      "topic": "Computer Facts"
+    },
+    {
+      "id": 12,
+      "question": "First Super Computer of the world is:",
+      "options": {
+        "A": "Deep Blue",
+        "B": "CRAY K-1-S",
+        "C": "PARAM",
+        "D": "Blue Gene"
+      },
+      "answer": "B",
+      "explanation": "Page 489: First Super Computer of the world is CRAY K-1-S, developed by Cray K Company of U.S.A.",
+      "topic": "Super Computers"
+    },
+    {
+      "id": 13,
+      "question": "'Deep Blue' is a Super Computer which had defeated World Chess Champion:",
+      "options": {
+        "A": "Viswanathan Anand",
+        "B": "Garry Kasparov",
+        "C": "Magnus Carlsen",
+        "D": "Bobby Fischer"
+      },
+      "answer": "B",
+      "explanation": "Page 489: 'Deep Blue' is a Super Computer which had defeated World Chess Champion Garry Kasparov.",
+      "topic": "Super Computers"
+    },
+    {
+      "id": 14,
+      "question": "Deep Blue is able to do work equivalent to how many computers?",
+      "options": {
+        "A": "16",
+        "B": "32",
+        "C": "64",
+        "D": "128"
+      },
+      "answer": "B",
+      "explanation": "Page 489: Deep Blue is able to do the work equivalent to 32 computers and can think 20 crore steps of chess in 1 second.",
+      "topic": "Super Computers"
+    },
+    {
+      "id": 15,
+      "question": "Seymour Cray is called the Father of:",
+      "options": {
+        "A": "Personal Computer",
+        "B": "Super Computer",
+        "C": "Laptop",
+        "D": "Internet"
+      },
+      "answer": "B",
+      "explanation": "Page 489: Seymour Cray is called the Father of Super Computer.",
+      "topic": "Super Computers"
+    },
+    {
+      "id": 16,
+      "question": "CRAY KIS super computer was manufactured by:",
+      "options": {
+        "A": "IBM Co., USA",
+        "B": "CRAY K Research Co., USA",
+        "C": "Cambridge University, UK",
+        "D": "C-DAC, Pune"
+      },
+      "answer": "B",
+      "explanation": "Page 489: CRAY KIS manufactured by CRAY K Research Co., USA.",
+      "topic": "Super Computers"
+    },
+    {
+      "id": 17,
+      "question": "Deep Blue and Blue Gene were manufactured by:",
+      "options": {
+        "A": "CRAY K Research",
+        "B": "IBM Co., USA",
+        "C": "Cambridge University",
+        "D": "NAL Bangalore"
+      },
+      "answer": "B",
+      "explanation": "Page 489: Deep Blue and Blue Gene manufactured by IBM Co., USA.",
+      "topic": "Super Computers"
+    },
+    {
+      "id": 18,
+      "question": "COSMOS super computer was developed by:",
+      "options": {
+        "A": "IBM Co., USA",
+        "B": "Cambridge University, UK",
+        "C": "CRAY K Research",
+        "D": "C-DAC Pune"
+      },
+      "answer": "B",
+      "explanation": "Page 489: COSMOS developed by Cambridge University, UK.",
+      "topic": "Super Computers"
+    },
+    {
+      "id": 19,
+      "question": "First Electronic Digital Computer of the world is:",
+      "options": {
+        "A": "UNIVAC",
+        "B": "ENIAC",
+        "C": "EDVAC",
+        "D": "Mark-I"
+      },
+      "answer": "B",
+      "explanation": "Page 489: First Electronic Digital Computer of the world is 'ENIAC'.",
+      "topic": "Computer Facts"
+    },
+    {
+      "id": 20,
+      "question": "Most popular Operating System in smartphones is:",
+      "options": {
+        "A": "Windows",
+        "B": "Android",
+        "C": "iOS",
+        "D": "Linux"
+      },
+      "answer": "B",
+      "explanation": "Page 489: Most popular OS: in PC—Windows, in smartphones—Android, in Tablets—iOS. Android is used in highest number of devices across the world.",
+      "topic": "Computer Facts"
+    },
+    {
+      "id": 21,
+      "question": "Most Super Computers use which operating system?",
+      "options": {
+        "A": "Windows",
+        "B": "Linux",
+        "C": "Android",
+        "D": "Mac OS"
+      },
+      "answer": "B",
+      "explanation": "Page 489: Most Super Computers use Linux.",
+      "topic": "Computer Facts"
+    },
+    {
+      "id": 22,
+      "question": "USENET is a link to connect all the:",
+      "options": {
+        "A": "Schools",
+        "B": "Universities",
+        "C": "Hospitals",
+        "D": "Banks"
+      },
+      "answer": "B",
+      "explanation": "Page 489: USENET is a link to connect all the universities.",
+      "topic": "Computer Facts"
+    },
+    {
+      "id": 23,
+      "question": "First book on Personal Computer was written by:",
+      "options": {
+        "A": "Bill Gates",
+        "B": "Ted Nelson",
+        "C": "Tim Berners-Lee",
+        "D": "Steve Jobs"
+      },
+      "answer": "B",
+      "explanation": "Page 489: First book on Personal Computer was written by Ted Nelson. The book 'Soul of New Machine' won Pulitzer Prize.",
+      "topic": "Computer Facts"
+    },
+    {
+      "id": 24,
+      "question": "First magazine on Computer is:",
+      "options": {
+        "A": "PC World",
+        "B": "Computer and Automotion",
+        "C": "Byte",
+        "D": "Wired"
+      },
+      "answer": "B",
+      "explanation": "Page 489: First magazine on Computer is 'Computer and Automotion'.",
+      "topic": "Computer Facts"
+    },
+    {
+      "id": 25,
+      "question": "First home Computer is:",
+      "options": {
+        "A": "Apple II",
+        "B": "Comodor VIC / 20",
+        "C": "IBM PC",
+        "D": "Altair 8800"
+      },
+      "answer": "B",
+      "explanation": "Page 489: First home Computer is Comodor VIC / 20.",
+      "topic": "Computer Facts"
+    },
+    {
+      "id": 26,
+      "question": "First Practical Digital computer is:",
+      "options": {
+        "A": "ENIAC",
+        "B": "UNIVAC",
+        "C": "EDVAC",
+        "D": "Mark-I"
+      },
+      "answer": "B",
+      "explanation": "Page 489: First Practical Digital computer is UNIVAC.",
+      "topic": "Computer Facts"
+    },
+    {
+      "id": 27,
+      "question": "FORTRAN is the first:",
+      "options": {
+        "A": "Operating System",
+        "B": "Programming Language",
+        "C": "Computer virus",
+        "D": "Web browser"
+      },
+      "answer": "B",
+      "explanation": "Page 489: FORTRAN is the first Programming Language.",
+      "topic": "Computer Facts"
+    },
+    {
+      "id": 28,
+      "question": "PROLOG is the language of the:",
+      "options": {
+        "A": "First generation",
+        "B": "Fifth generation",
+        "C": "Second generation",
+        "D": "Third generation"
+      },
+      "answer": "B",
+      "explanation": "Page 489: PROLOG is the language of the fifth generation of computer.",
+      "topic": "Computer Facts"
+    },
+    {
+      "id": 29,
+      "question": "J.S. Kilbi developed the:",
+      "options": {
+        "A": "Transistor",
+        "B": "IC chips",
+        "C": "Vacuum tube",
+        "D": "Optical fibre"
+      },
+      "answer": "B",
+      "explanation": "Page 489: J.S. Kilbi developed the IC chips.",
+      "topic": "Computer Facts"
+    },
+    {
+      "id": 30,
+      "question": "A computer error is known as:",
+      "options": {
+        "A": "Virus",
+        "B": "Bug",
+        "C": "Worm",
+        "D": "Spam"
+      },
+      "answer": "B",
+      "explanation": "Page 489: A computer error is known as Bug.",
+      "topic": "Computer Facts"
+    },
+    {
+      "id": 31,
+      "question": "C-DAC (Centre for Development and Advanced Computing) was established in Pune in:",
+      "options": {
+        "A": "1984",
+        "B": "1988",
+        "C": "1990",
+        "D": "1995"
+      },
+      "answer": "B",
+      "explanation": "Page 489: C-DAC was established in Pune in 1988.",
+      "topic": "Super Computers"
+    },
+    {
+      "id": 32,
+      "question": "FLO SOLVER super computer was developed by:",
+      "options": {
+        "A": "C-DAC, Pune",
+        "B": "NAL, Bangalore",
+        "C": "IIT Bombay",
+        "D": "DRDO"
+      },
+      "answer": "B",
+      "explanation": "Page 489: FLO SOLVER developed by NAL, Bangalore.",
+      "topic": "Super Computers"
+    },
+    {
+      "id": 33,
+      "question": "PACE super computer was developed by:",
+      "options": {
+        "A": "NAL Bangalore",
+        "B": "DRDO",
+        "C": "C-DAC Pune",
+        "D": "IIS Bangalore"
+      },
+      "answer": "B",
+      "explanation": "Page 489: PACE developed by DRDO.",
+      "topic": "Super Computers"
+    },
+    {
+      "id": 34,
+      "question": "PARAM-10000 super computer was developed by:",
+      "options": {
+        "A": "NAL Bangalore",
+        "B": "C-DAC, Pune",
+        "C": "DRDO",
+        "D": "IIT Bombay"
+      },
+      "answer": "B",
+      "explanation": "Page 489: PARAM-10000 developed by C-DAC, Pune.",
+      "topic": "Super Computers"
+    },
+    {
+      "id": 35,
+      "question": "Super computer PARAM-10000 has the capacity of 1 billion calculations per second. The main credit goes to:",
+      "options": {
+        "A": "APJ Abdul Kalam",
+        "B": "Dr. Vijay P. Bhaskar, Executive Director of C-DAC, Pune",
+        "C": "Narayan Murthy",
+        "D": "Nandan Nilekani"
+      },
+      "answer": "B",
+      "explanation": "Page 489: PARAM-10000 was made on March 28, 1998. Main credit goes to Dr. Vijay P. Bhaskar, Executive Director of C-DAC, Pune.",
+      "topic": "Super Computers"
+    },
+    {
+      "id": 36,
+      "question": "PARAM KAMRUPA Super Computer facility was inaugurated at IIT Guahati on:",
+      "options": {
+        "A": "March 28, 1998",
+        "B": "Oct. 13, 2022",
+        "C": "August 16, 1986",
+        "D": "December 2, 1984"
+      },
+      "answer": "B",
+      "explanation": "Page 489: PARAM KAMRUPA was inaugurated by President Droupadi Murmu at IIT Guahati on Oct. 13, 2022.",
+      "topic": "Super Computers"
+    },
+    {
+      "id": 37,
+      "question": "National Aeronautics Laboratories, Bangalore was the first in India to develop a Super Computer named:",
+      "options": {
+        "A": "PARAM",
+        "B": "FLO SOLVER",
+        "C": "PACE",
+        "D": "MACH"
+      },
+      "answer": "B",
+      "explanation": "Page 489: National Aeronautics Laboratories, Bangalore was the first in India to develop a Super Computer named FLO SOLVER.",
+      "topic": "Super Computers"
+    },
+    {
+      "id": 38,
+      "question": "Laser Printers are the:",
+      "options": {
+        "A": "Slowest printers",
+        "B": "Fastest printers",
+        "C": "Cheapest printers",
+        "D": "Oldest printers"
+      },
+      "answer": "B",
+      "explanation": "Page 489: Laser Printers are the fastest printers.",
+      "topic": "Computer Facts"
+    },
+    {
+      "id": 39,
+      "question": "IBM stands for:",
+      "options": {
+        "A": "Indian Business Machine",
+        "B": "International Business Machine",
+        "C": "Integrated Business Module",
+        "D": "Internal Binary Machine"
+      },
+      "answer": "B",
+      "explanation": "Page 489: IBM (International Business Machine) is an American computer company.",
+      "topic": "Computer Facts"
+    },
+    {
+      "id": 40,
+      "question": "Computer virus is a man made digital parasite which corrupts the file and is known as:",
+      "options": {
+        "A": "Worm",
+        "B": "File corrupter",
+        "C": "Bug",
+        "D": "Spam"
+      },
+      "answer": "B",
+      "explanation": "Page 489: Computer virus is a man made digital parasite which corrupts (infects) the file and known as 'File corrupter'.",
+      "topic": "Computer Facts"
+    },
+    {
+      "id": 41,
+      "question": "Modem is a device which connects computers and works based on:",
+      "options": {
+        "A": "Radio waves",
+        "B": "Telephone lines",
+        "C": "Satellite",
+        "D": "Bluetooth"
+      },
+      "answer": "B",
+      "explanation": "Page 489: Modem is a device which connects the computers and works based on telephone lines.",
+      "topic": "Computer Facts"
+    },
+    {
+      "id": 42,
+      "question": "Y-2K was a technical problem associated with the calendar known as:",
+      "options": {
+        "A": "Date Bug",
+        "B": "Millenium Bug",
+        "C": "Year Bug",
+        "D": "Time Bug"
+      },
+      "answer": "B",
+      "explanation": "Page 489: Y-2K was a technical problem associated with the calendar (Date, Month and Year) known as 'Millenium Bug'.",
+      "topic": "Computer Facts"
+    },
+    {
+      "id": 43,
+      "question": "The development of computer started in India since:",
+      "options": {
+        "A": "1970",
+        "B": "1955",
+        "C": "1946",
+        "D": "1980"
+      },
+      "answer": "B",
+      "explanation": "Page 489: The development of computer started in India since 1955.",
+      "topic": "Computer Facts"
+    },
+    {
+      "id": 44,
+      "question": "Indian Institute of Science, Bangalore has developed a small palm sized touch screen computer called:",
+      "options": {
+        "A": "PARAM",
+        "B": "Simputer",
+        "C": "Tablet",
+        "D": "PACE"
+      },
+      "answer": "B",
+      "explanation": "Page 489: Indian Institute of Science, Bangalore has developed 'Simputer', a small palm sized touch screen computer.",
+      "topic": "Computer Facts"
+    },
+    {
+      "id": 45,
+      "question": "First computerarium in India is in:",
+      "options": {
+        "A": "Mumbai",
+        "B": "Bangaluru (Karnataka)",
+        "C": "Delhi",
+        "D": "Chennai"
+      },
+      "answer": "B",
+      "explanation": "Page 489: First computerarium in India is in Bangaluru (Karnataka).",
+      "topic": "Computer Facts"
+    },
+    {
+      "id": 46,
+      "question": "Vellanad of Thiruvananthapuram district in Kerala has been declared the first fully computerised village of:",
+      "options": {
+        "A": "World",
+        "B": "India",
+        "C": "Asia",
+        "D": "Kerala only"
+      },
+      "answer": "B",
+      "explanation": "Page 489: Vellanad of Thiruvananthapuram district in Kerala has been declared the first fully computerised village of India.",
+      "topic": "Computer Facts"
+    },
+    {
+      "id": 47,
+      "question": "Linus Benedict Torvalds, creator of Unix like Operating System (Linux), was born in Helsinki, Finland on:",
+      "options": {
+        "A": "January 1, 1970",
+        "B": "December 28, 1969",
+        "C": "March 15, 1975",
+        "D": "August 16, 1971"
+      },
+      "answer": "B",
+      "explanation": "Page 489: Linus Benedict Torvalds was born in Helsinki, Finland on December 28, 1969.",
+      "topic": "Computer Facts"
+    },
+    {
+      "id": 48,
+      "question": "On Sept. 17, 1991, Linus completed the first version of:",
+      "options": {
+        "A": "Windows",
+        "B": "Linux",
+        "C": "Mac OS",
+        "D": "DOS"
+      },
+      "answer": "B",
+      "explanation": "Page 489: On Sept. 17, 1991, Linus completed the first version of Linux. He released it under General Public Licence.",
+      "topic": "Computer Facts"
+    },
+    {
+      "id": 49,
+      "question": "CHIPP-16 super computer was developed by:",
+      "options": {
+        "A": "NAL, Bangalore",
+        "B": "C-Dot, Bangalore",
+        "C": "DRDO",
+        "D": "IBM"
+      },
+      "answer": "B",
+      "explanation": "Page 489: CHIPP-16 developed by C-Dot, Bangalore.",
+      "topic": "Super Computers"
+    },
+    {
+      "id": 50,
+      "question": "MULTIMICRO and MACH super computers were developed in:",
+      "options": {
+        "A": "NAL, Bangalore and DRDO",
+        "B": "IIS, Bangalore and IIT, Bombay",
+        "C": "C-DAC and C-Dot",
+        "D": "IBM and CRAY"
+      },
+      "answer": "B",
+      "explanation": "Page 489: MULTIMICRO by IIS, Bangalore. MACH by IIT, Bombay.",
+      "topic": "Super Computers"
+    }
+  ]
+}

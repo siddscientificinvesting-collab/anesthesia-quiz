@@ -1,0 +1,1930 @@
+
+--- Page 1 ---
+Page 1
+ KEY POINTS
+ 
+Short Textbook of Anesthesia
+Source: Short Textbook of Anesthesia – Ajay Yadav (6th Edition)
+ 38 Chapters  598 Key Points
+ 
+About this document:
+ Contains all KEY POINTS from the end of each chapter.
+ Organized chapter-wise for quick revision.
+ Ideal for last-minute review before exams.
+
+--- Page 2 ---
+Page 2
+Chapter 1 – Applied Anatomy, Physiology and Physics
+1.
+Subglottis is the narrowest part in children up to the age of 6 years however, this does not act as
+deterrent to use cuffed tubes in children.
+2.
+During general anesthesia with muscle relaxants the cords are held in cadaveric position. SECTION 1:
+Fundamental Concepts 12
+3.
+Due to shorter, wider and less acute angle chances of endobronchial intubation are more on right side.
+4.
+Aspiration in supine position most commonly involves apical segment of right lower lobe.
+5.
+Maximum airway resistance to airflow occurs in trachea and then main bronchus and minimum in
+terminal bronchi.
+6.
+Endotracheal tubes and tracheostomy decrease the anatomical dead space by bypassing the upper
+airways.
+7.
+During general anesthesia alveolar dead space is increased.
+8.
+P50 i.e. partial pressure at which oxygen saturation is 50% is not affected by anesthetics.
+9.
+All inhalational agents blunt hypoxic pulmonary vasoconstriction (HPV) response thereby increasing the
+shunt fraction.
+10
+.
+Closing capacity is normally 1 L less than functional residual capacity.
+11
+.
+Venturi principle is often utilized in anesthesia particularly with Venturi masks.
+Chapter 2 – Anesthesia Delivery Systems (Machine and Circuits)
+1.
+The color of oxygen cylinder is black body with white shoulders (top) and pressure is 2,000 pounds per
+square inch (psi).
+2.
+Nitrous oxide is stored in blue color cylinders at a pressure of 760 psi.
+3.
+Entonox is the mixture of 50% oxygen and 50% nitrous oxide.
+4.
+Pin index system is to prevent the wrong fitting of cylinders while diameter index safety system is to
+prevent the wrong fitting of central supply pipe lines.
+5.
+Fail safe valve, oxygen-nitrous oxide proportionater and oxygen tube placed most downstream are to
+decrease the possibility of delivery of hypoxic mixture to patient.
+6.
+Upper end of bobbin determines the flow rate in rotameter.
+7.
+Aladin cassette vaporizer is the latest vaporizer, which can be used to deliver all inhalational agents.
+8.
+Magill circuit is the circuit of choice for spontaneous ventilation. Fresh gas flow should be kept equal to
+minute volume to prevent rebreathing in a spontaneously breathing patient.
+9.
+Bain circuit is the circuit of choice for controlled ventilation. Fresh gas flow for controlled ventilation is
+1.6 times of minute ventilation.
+10
+.
+Jackson Rees (Mapleson F) is the most commonly used semiclosed circuit for children.
+
+--- Page 3 ---
+Page 3
+11
+.
+Sevoflurane by reacting with sodalime and barylime can produce compound A.
+12
+.
+Desiccated (dry) sodalime and Barylime (Barylime > Sodalime) can produces carbon monoxide with the
+following inhalational agents in decreasing order: Desflurane > > Isoflurane >> halothane =
+Sevoflurane.
+13
+.
+Desiccated sodalime can cause burns of respiratory mucosa with sevoflurane by producing hydrogen
+fluoride.
+14
+.
+Amsorb neither produces compound A nor carbon monoxide with desiccated sodalime and Barylime.
+Chapter 3 – Airway Management and Intubation
+1.
+The most common airway used to prevent the tongue fall is Guedel’s airway.
+2.
+The major limitation of mask ventilation is that it increases the chances of aspiration.
+3.
+Macintosh is the most commonly used laryngoscope.
+4.
+Intubation success rates of 94–99% has been reported for video laryngoscopy as a rescue modality
+after failed direct laryngoscopy.
+5.
+Most commonly used video laryngoscopes is C-MAC.
+6.
+Fiberoptic laryngoscope/bronchoscope-guided intubation is considered as gold standard technique for
+the management of difficult/failed intubation.
+7.
+Current day anesthetic practice is an era of supraglottic devices.
+8.
+Second generation LMA has shown significant decrease in incidence of aspiration as compared to first
+generation LMA.
+9.
+Among the second generation LMA, I-Gel is most frequently used in India.
+10
+.
+Definitive airway management devices includes endotracheal tube and tracheostomy.
+11
+.
+The chief advantage of PVC tube is that their cuff is low pressure and high volume.
+12
+.
+During laryngoscopy, there should be extension at atlanto-occipital joint and flexion at cervical spine.
+13
+.
+Capnography is the surest sign to confirm the correct position of endotracheal tube.
+14
+.
+The traditional approach of not using cuffed tubes in children up to 10 years does not hold true in
+present day practice.
+15
+.
+The most common cause of hypoxia for double lumen tube is ventilation perfusion mismatch.
+16
+.
+Fixed performance devices deliver accurate oxygen concentration.
+17
+.
+Heat and moisture exchanger (HME) is the most commonly used device to preserve humidity in
+anesthesia.
+
+--- Page 4 ---
+Page 4
+Chapter 4 – Preoperative Assessment and Premedication
+1.
+Preoperative assessment is done to obtain history, do physical examination, order investigations, risk
+stratification (by ASA grading) and give preoperative instructions.
+2.
+The decision to order preoperative tests should be guided by the patient’s clinical history, comorbidities,
+physical examination findings and the proposed surgery. Only the investigations which are necessary
+should be done.
+3.
+For solid food 8 hours of fasting is must while clear fluids can be given up to 2 hours. Medications need
+to be stopped:
+4.
+MAO-A inhibitors (3 weeks before)
+5.
+Oral anticoagulants (Warfarin 4 days prior)
+6.
+Heparin (Low molecular weight 12 hours before)
+7.
+Antiplatelets except aspirin (Clopidogrel 5 days prior)
+8.
+Thrombolytic (10 days prior)
+9.
+Nonsteroidal anti-inflammatory drugs (NSAIDs) (48 hours prior if used with other antiplatets)
+10
+.
+High dose estrogen oral contraceptives (4 weeks prior)
+11
+.
+Viagra (24 hours prior)
+12
+.
+Disulfiram (10 days prior)
+13
+.
+All herbal medications (7 days before)
+14
+.
+Smoking (8 weeks before) Medications for which only morning dose to be omitted:
+15
+.
+ACE inhibitors and angiotensin II antagonist
+16
+.
+Oral hypoglycemics
+17
+.
+Topical creams and ointments
+18
+.
+Vitamins and iron. Dose adjustment is needed for:
+19
+.
+Cholinesterase inhibitors
+20
+.
+Corticosteroids
+21
+.
+Rest all medications are continued in the same dosages and same regime with morning dose on the
+day of surgery to be taken with a sip of water.
+22
+.
+In the current day practice of anesthesia patient is premedicated with a purpose not as a routine
+procedure.
+
+--- Page 5 ---
+Page 5
+Chapter 5 – Difficult Airway Management
+1.
+Airway assessment is one of the most important parts of preoperative assessment, failure to do so can
+make anesthetist negligent in case of some catastrophe.
+2.
+Mallampati grading, thyromental distance and neck movements are the three most important
+parameters to be assessed in every case.
+3.
+Video laryngoscopy have revolutionized the practice of airway management; intubation success rates
+can be as high as 94–99% with video laryngoscopy after failed intubation with direct laryngoscopy.
+4.
+Every head injury should be considered to be having cervical injury until proved otherwise.
+5.
+For cervical spine injury intubation should be done after neck stabilization with neck in neutral position.
+Chapter 6 – Monitoring in Anesthesia
+1.
+In spite of availability of sophisticated monitors nothing can replace the vigilance of an anesthetist.
+2.
+The most preferred leads for ECG monitoring are lead II and V5. Arrhythmia are best detected in lead II
+and ischemia’s in lead V5.
+3.
+The maximum interval between two blood pressure recordings should not exceed more than 5 minutes.
+4.
+Invasive blood pressure monitoring is considered as gold standard monitoring of blood pressure.
+5.
+As radial artery has collaterals (transpalmar arch) for the blood supply of hand, it is most commonly
+chosen artery for cannulation.
+6.
+Measuring dynamic parameters like stroke volume variation by arterial cannulation may be considered
+as one of the most recent and useful advancement in the field of monitoring.
+7.
+PAOP is best utilized to differentiate between cardiogenic and noncardiogenic pulmonary edema
+(ARDS).
+8.
+Oxygen saturation of mixed venous blood is best guide to assess tissue perfusion (cardiac output).
+9.
+In present day medicine transesophageal echocardiography (TEE) and transthoracic echocardiography
+(TTE) are the best tools to assess cardiac function and detect wall motion abnormality, i.e. Ischemia in
+perioperative period.
+10
+.
+Transesophageal echocardiography provides the best window for measuring and assessing cardiac
+functions in intraoperative period.
+11
+.
+Co-oximeters are the special type of oximeters which can differentiate between normal and abnormal
+hemoglobin.
+12
+.
+In current day practice all monitors use infrared absorption technique to measure concentration of all
+expired gases except oxygen and nitrous oxide.
+13
+.
+Capnography is the surest technique to confirm intubation.
+14
+.
+Electrical impendence pulmonometery is the simplest and most commonly used method to detect
+apnea in a non-intubated patient.
+15
+.
+Hypothermia is the most common thermal perturbation seen during anesthesia.
+
+--- Page 6 ---
+Page 6
+16
+.
+Temperature should be monitored in patients receiving general anesthesia >30 minutes and in all
+patients whose surgery lasts > 1 hour (irrespective of type of anesthesia).
+17
+.
+Lower end of esophagus is considered as best site for core body temperature measurement. However,
+the most accurate measurement of core body temperature is provided by pulmonary artery.
+18
+.
+Each degree (°C) fall in temperature reduces the metabolic rate by 6 to 7%.
+19
+.
+Most commonly used muscle for neuromuscular monitoring is adductor pollicis supplied by ulnar nerve.
+20
+.
+Train of four is the most commonly used modality for neuromuscular monitoring in clinical practice.
+21
+.
+Fading, post-tetanic facilitation and post-tetanic count are only exhibited by non-depolarizing muscle
+relaxants.
+22
+.
+Bispectral index (BIS) monitor is the first scientifically validated and commercially available monitor to
+assess the depth of anesthesia.
+Chapter 7 – Fluids and Blood Transfusion
+1.
+Crystalloids should be replaced in a ratio of 1.5:1 to intravascular volume loss while colloids in a ratio of
+1:1.
+2.
+Colloids in high doses can interfere with clotting and causes renal dysfunction.
+3.
+Ringer lactate is the most preferred fluid for maintenance as well as replacement.
+4.
+Children are prone for fluid overload therefore should receive 2/3rd of the calculated dose.
+5.
+Colloids can be safely given even if there is endothelial injury like in ARDS or head injury.
+6.
+The main aim of blood transfusion is to improve the oxygen delivery of tissues, not the volume
+replacement (which should be done by fluids).
+7.
+In spite of varying controversies the most acceptable trigger point for blood transfusion are blood
+volume loss >20% and hemoglobin < 8 gm%.
+8.
+One unit of blood/packed cells increases hemoglobin by 0.8%.
+9.
+Most common cause of mismatch transfusion is ABO incompatibility.
+10
+.
+DIC is the most common cause of death after massive transfusion while acute lung injury remains the
+leading cause of mortality after transfusion.
+11
+.
+Massive transfusion related dilutional coagulopathies should not be treated prophylactically.
+12
+.
+Platelets are the only blood products which are stored at room temperature.
+13
+.
+Normovolemic/isovolemichemodilution is the most widely used technique for autologous blood
+donation.
+Chapter 10 – Inhalational Agents
+
+--- Page 7 ---
+Page 7
+1.
+Inhalational agents are mainly used in anesthesia for maintenance.
+2.
+The major changed happened in mechanism of action of inhalational agents is shifting of mechanism
+from lipid sites to protein sites.
+3.
+Best estimate for determining the potency of inhalational agent is minimum alveolar concentration
+(MAC). Halothane is the most potent while nitrous oxide is the least potent among the agents used
+nowadays.
+4.
+Blood gas partition coefficient indicates induction and recovery. Among the agents used nowadays
+induction is fastest with desflurane and slowest with Halothane.
+5.
+All inhalational in current use decreases cardiac output and depresses respiration.
+6.
+Halothane (and theoretically other agents too except Isoflurane) can sensitize myocardium to
+adrenaline, exogenous to heart.
+7.
+Direct hepatocellular damage is seen with halothane (and theoretically with Isoflurane and Desflurane)
+but not with sevoflurane.
+8.
+Inflammable agents used in past were Ether and Cyclopropane.
+9.
+Sevoflurane can produce Compound A with sodalime and Barylime.
+10
+.
+Desflurane (and other agents too) can produce Carbonmonoxide by reacting with desiccated sodalime
+and Barylime.
+11
+.
+Sevoflurane by reacting with desiccated sodalime and barylime can cause burns of respiratory mucosa.
+12
+.
+times more solubility of nitrous oxide than nitrogen makes it absolutely contraindicated in
+pneumothorax, pneumopericardium, pneumoperitoneum and pneumoencephalus.
+13
+.
+Nitrous oxide can deplete ozone layer and produce global warming.
+14
+.
+Immunologic mechanism of halothane hepatitis warrants to avoid frequent use of halothane; at least an
+interval of 3 months is mandatory between two exposures.
+15
+.
+Isoflurane is the agent of choice for cardiac patients.
+16
+.
+In the current day practice Sevoflurane is preferred over Isoflurane for neurosurgery.
+17
+.
+Desflurane is agent of choice for prolonged surgeries, old age, renal diseases, obesity, day care
+surgery and shock.
+18
+.
+Sevoflurane is the agent of choice for induction in children.
+19
+.
+Sevoflurane is the agent of choice for hepatic patients.
+20
+.
+At higher concentrations, sevoflurane can produce convulsions.
+21
+.
+Enflurane was highly epileptogenic.
+22
+.
+Ether is safest, cheapest and only complete anesthetic while on flip side, it is highly inflammable and
+explosive and induction and recovery are very unpleasant.
+
+--- Page 8 ---
+Page 8
+23
+.
+Methoxyflurane can produce vasopressin resistant polyuric renal failure.
+24
+.
+Trielene by reacting with sodalime can produce dichloroacetylene (craniotoxic) and phosgene (ARDS).
+Chapter 12 – Intravenous Anesthetics
+1.
+Most commonly used IV anesthetic for induction in current day practice is propofol.
+2.
+Although elimination half-life of Thiopentone is 10.4 hours but consciousness is regained after 15–20
+minutes due to redistribution.
+3.
+Thiopentone can be utilized for cerebral protection in case of focal ischemia.
+4.
+Thiopentone high alkalinity is responsible for local complications like intra-arterial injection.
+5.
+Vasospasm and thrombus formation are the major events responsible for causing gangrene after
+intra-arterial injection of Thiopentone.
+6.
+Thiopentone is absolutely contraindicated in acute intermittent and variegate porphyria but can be used
+safely in porphyria cutaneatarda.
+7.
+Injection of propofol is painful.
+8.
+As propofol contains egg lecithin there are high chances of contamination of Propofol. CHAPTER 12:
+Intravenous Anesthetics 121
+9.
+Propofol is the IV agent of choice for day care surgery.
+10
+.
+Propofol is a potent antiemetic agent.
+11
+.
+Etomidate is the most cardiovascular stable among all IV agents.
+12
+.
+The major side effect of etomidate is adrenocortical suppression.
+13
+.
+Midazolam is the only BZ used in intraoperative period.
+14
+.
+Ketamine is the most potent analgesic among IV agents.
+15
+.
+Emergence reactions, mainly hallucinations, are the major limiting factor for restricting the use of
+ketamine.
+16
+.
+All pressures like intraocular, intragastric, intracranial are raised by ketamine.
+17
+.
+Ketamine is the induction agent of choice for shock, full stomach, low cardiac output states and right to
+left shunts.
+18
+.
+The most important receptors for the action of opioids are mu receptors.
+19
+.
+The most important characteristic of agonist- antagonists is ceiling to respiratory depression.
+
+--- Page 9 ---
+Page 9
+20
+.
+Recurring respiratory depression is exhibited by all pure agonists.
+21
+.
+Muscle rigidity (Wooden chest syndrome) is most commonly seen with alfentanil.
+22
+.
+Tolerance is seen to all actions of opioids except constipation and miosis.
+23
+.
+The chronic use of opioids can produce hyperalgesia.
+24
+.
+Sufentanil is the agent of choice for inhibiting stress response to laryngoscopy and intubation.
+25
+.
+Remifentanil is the opioid of choice for day care surgery.
+26
+.
+Methylnaltrexone and Alvimopan are the peripheral opioid antagonist which can reverse the peripheral
+side effects without reversing the analgesia.
+27
+.
+Dexmedetomidine is a new α2 agonist which is frequently used in anesthetic practice.
+Chapter 13 – Muscle Relaxants
+1.
+In clinical practice central muscle are blocked and recover earlier than peripheral muscles (limb
+muscles).
+2.
+Because of early onset and short duration Succinylcholine is the ideal muscle relaxant for intubation.
+3.
+Hyperkalemia is the most prominent effect of suxamethonium.
+4.
+Succinylcholine is the most commonly implicated drug for malignant hyperthermia.
+5.
+Intraocular, intragastric and intracranial pressures are increased by suxamethonium.
+6.
+Fading after suxamethonium is pathognomonic of phase II block.
+7.
+Continue intermittent positive pressure ventilation and wait for spontaneous recovery is the treatment of
+choice for low and atypical pseudocholinesterase.
+8.
+Benzylisoquinoline releases histamine while steroidal compounds are vagolytic.
+9.
+Onset of a nondepolarizer is inversely proportional to potency.
+10
+.
+Vecuronium is most cardiovascular stable muscle relaxant.
+11
+.
+Rocuronium is nondepolarizer of choice for intubation.
+12
+.
+Intense bronchospasm led to withdrawal of rapacuronium from market.
+13
+.
+Atracurium and cisatracurium are metabolized by Hoffman degradation making them relaxant of choice
+for hepatic and renal failure.
+14
+.
+Cisatracurium does not release histamine and Laudonosine production is 5 times less than atracurium.
+
+--- Page 10 ---
+Page 10
+15
+.
+Mivacurium is the muscle relaxant of choice for day care surgery.
+16
+.
+Gallamine is the only nondepolarizer which can cross the placenta therefore absolutely contraindicated
+in pregnancy.
+17
+.
+Gantacurium onset and duration is almost comparable to suxamethonium.
+18
+.
+To prevent muscarinic side effects, anticholinergic like atropine or glycopyrrolate has to be given with
+cholinesterase inhibitors.
+19
+.
+Sugammadex is the newer reversal agent which rapidly and completely reverses the block by steroidal
+type of nondepolarizers but cannot reverse benzylisoquinoline compounds.
+20
+.
+Sustained jaw clench over a tongue blade is considered as best clinical sign however train of four ratio
+> 0.9 guarantees recovery.
+Chapter 14 – Perioperative Complications of GA
+1.
+Maximum complications are reported in maintenance period however more than 80% of cardiac arrest
+occurs at the time of induction.
+2.
+Postoperative respiratory depression has been cited as the most common cause of anesthesia related
+death in perioperative period.
+3.
+Death is the leading cause of claims as per American Society of Anesthesiologists (ASA) claim studies.
+4.
+Aspiration is considered as preventable complication of anesthesia.
+5.
+Full stomach is the single most important predisposing factor for aspiration.
+6.
+Rapid sequence induction technique must be employed for giving GA to the patients who are at high
+risk of aspiration.
+7.
+Atelectasis is the most common postoperative pulmonary complication and the most common cause of
+atelectasis is secretions.
+8.
+Use of oxygen analyzers is mandatory as per ASA task force guidelines.
+9.
+Secretions is the most common cause of laryngospasm in anesthesia.
+10
+.
+Postoperative hypertension and tachycardia are more responsible for unplanned ICU admission and
+carries higher morbidity and mortality than hypotension and bradycardia.
+11
+.
+Tachycardia is the most common arrhythmia seen in perioperative period.
+12
+.
+The most common cause of hypotension in perioperative period is intravascular volume depletion.
+13
+.
+Nitroglycerin as continuous infusion is the most commonly used agent to produce controlled
+hypotension.
+14
+.
+Anesthetic drugs which can cause convulsion are—Local anesthetics, methohexitone, enflurane,
+sevoflurane and atracurium/cisatracurium.
+15
+.
+Delayed recovery is the most common CNS complication.
+
+--- Page 11 ---
+Page 11
+16
+.
+Brachial plexus injuries are the most common postoperative nerve injury associated with general
+anesthesia followed by ulnar nerve. However after regional anesthesia lumbosacral nerve roots are
+most commonly involved nerves.
+17
+.
+Ondansetron/Granisetron remains the drugs of choice for treatment as well as prophylaxis for
+postoperative nausea and vomiting.
+18
+.
+Pain is the most common complication is postoperative period.
+19
+.
+Hypothermia is the most common thermal perturbation seen in anesthesia.
+20
+.
+Succinylcholine is the most commonly implicated drug while halothane is the most commonly
+implicated inhalational agent for causing malignant hyperthermia.
+21
+.
+Hyperkalemia induced ventricular fibrillation is the most common cause of death in malignant
+hyperthermia.
+22
+.
+Propofol and non-depolarizing muscle relaxants can delay or prevent malignant hyperthermia.
+23
+.
+Muscle relaxants are the most common cause of anaphylaxis followed by latex allergy.
+24
+.
+Cautery is responsible for 68% of fires seen in OT.
+Chapter 15 – Local Anesthetics
+1.
+Local anesthetics are classified on the basis of chemical structure and duration of action.
+2.
+Chloroprocaine is the shortest acting and dibucaine is the longest acting local anesthetic.
+3.
+Recent studies have proven that local anesthetics not only act on sodium channels, but also block
+potassium and calcium channels.
+4.
+Sequence of blockade of nerve fibers is A > B> C. The traditional notion that thin fibers are most
+sensitive to the action of local anesthetics does not hold true in present day practice.
+5.
+Potency is proportional to the duration of action.
+6.
+Maximum systemic absorption has been seen after intercostal nerve block.
+7.
+Central nervous system is the first system involved in local anesthetic toxicity.
+8.
+At clinically used doses all local anesthetics are vasodilators except cocaine, levobupivacaine and
+ropivacaine.
+9.
+Allergic reactions are common with esters but rare with amides.
+10
+.
+Methemoglobinemia is usually seen with prilocaine however benzocaine can also cause
+methemoglobinemia.
+11
+.
+Maximum local neurotoxicity has been reported with chloroprocaine.
+12
+.
+Local anesthetics with adrenaline can cause necrosis and gangrene if used for ring block of fingers,
+toes, penis or pinna because these structures have end arteries.
+
+--- Page 12 ---
+Page 12
+13
+.
+For spinal and epidural anesthesia preservative free preparations should be used.
+14
+.
+Maximum safe dose of lignocaine without adrenaline is 4.5 mg/kg (maximum 300 mg) while with
+adrenaline it is 7 mg/kg (maximum 500 mg).
+15
+.
+Wide differential blockade of bupivacaine and ropivacaine makes them local anesthetic of choice for
+postoperative pain relief and painless labor.
+16
+.
+Prilocaine has significant extrahepatic metabolism.
+17
+.
+Because of high cardiotoxicity bupivacaine is absolutely contraindicated for bier’s block.
+18
+.
+Amiodarone now a days is considered as drug of choice for the treatment of bupivacaine (and other
+local anesthetic) induced ventricular tachycardia.
+19
+.
+Cardiotoxicity and CNS toxicity of ropivacaine is far lesser than bupivacaine and lesser than
+levobupivacaine (but still higher than lignocaine).
+20
+.
+Mepivacaine, bupivacaine, levobupivacaine and ropivacaine cannot be used while procaine and
+chloroprocaine should not be used for surface anesthesia. Nerve blocks may be classified as central
+neuraxial blocks (spinal and epidural) and peripheral nerve blocks. Nerve blocks are given either for
+regional anesthesia or for acute and chronic pain relief. (For pain relief blocks see Chapter 39, page no.
+273). TECHNIQUE The conventional method of giving a nerve block is by eliciting paresthesia and/or
+using the nerve stimulator. However, the use of ultrasound has revolutionized the practice of nerve
+block in modern day anesthetic practice. BLOCKS OF UPPER LIMB Brachial Plexus Block This is the
+second most commonly performed block (after central neuraxial block). It is used for surgery of upper
+limb and shoulder. Brachial plexus can be blocked by 4 approaches— interscalene, supraclavicular,
+infraclavicular and axillary approach. Interscalene Approach The usual indication for interscalene block
+is surgery on the shoulder or upper arm. In this technique brachial plexus is blocked between anterior
+and middle scalene at the level of cricoid. Blockade occurs at the level of the superior and middle
+trunks. Ulnar nerve is usually spared with this approach making it unsuitable for hand surgeries.
+Complications: z z Phrenic nerve block: Phrenic nerve block occurs in almost all patients but unilateral
+phrenic nerve block has no clinically significant consequences in a normal individual (pulmonary
+functions are only reduced by 20–25%). z z Horner syndrome (due to block of stellate ganglion). z z
+Epidural and intrathecal injection can be dreadful complication. z z Pneumothorax if the needle
+insertion is too low. z z General complications like nerve injury, neuritis, intravascular injection, bleeding
+and hematoma formation, infection or injury to a nearby structure and systemic toxicity of local
+anesthetic. Supraclavicular Approach This is very commonly used approach. This approach is usually
+employed for surgeries on lower arm, elbow, forearm and hand. Distal trunk and proximal division of
+brachial plexus is blocked by this approach. Technique: Patient lies supine with a small wedge under
+the shoulder. The arm is extended and adducted; needle is inserted at a point 1 cm superior to midpoint
+of clavicle after palpating the subclavian artery. The needle is inserted lateral to subclavian vessels
+(Fig. 16.1). The needle is inserted in downward and backward direction till paresthesia is elicited. After
+eliciting paresthesia 20–30 mL of 1–1.5% xylocaine alone or mixed with bupivacaine is injected.
+Complications: z z Pneumothorax: Dome of pleura can be punctured. Incidence is 1–6% but fortunately
+in more than 98% of the cases pneumothorax C H A P T E R 16 Peripheral Nerve Blocks
+Chapter 16 – Peripheral Nerve Blocks
+1.
+The use of ultrasound has not only made the nerve blocks technically easy but also has improved the
+precision.
+
+--- Page 13 ---
+Page 13
+2.
+Ulnar nerve is usually spared with interscalene approach while musculocutaneous is usually spared
+with axillary approach.
+3.
+The most bothersome complication of supraclavicular block is pneumothorax. Keeping the direction of
+needle lateral to the Subclavian artery is the best way to avoid pneumothorax.
+4.
+Only safe local anesthetics, i.e. lignocaine and prilocaine are permitted for Bier block. Drug with high
+toxicity like bupivacaine is absolutely contraindicated.
+5.
+Cervical plexus block is best utilized for carotid endarterectomy.
+6.
+Maximum systemic absorption of local anesthetic occurs after intercostal nerve block.
+7.
+Associated coagulopathy and infection at needle site are the absolute contraindication for nerve blocks.
+Chapter 17 – Central Neuraxial Blocks
+1.
+The line joining the highest point on iliac crest corresponds to L4 and L5 interspace or L4 spine.
+2.
+Spinal cord extends from medulla oblongata to lower border of L1 in adults and L3 in infants.
+3.
+The sequence of blockade after CNB is autonomic > sensory > motor.
+4.
+Several meta-analyses have shown a reduced risk as high as 30% in overall mortality and morbidity in
+patients who underwent surgeries under CNB as compared to GA.
+5.
+Apnea after spinal anesthesia is usually due to severe hypotension.
+6.
+The most common cause of nausea and vomiting is hypotension.
+7.
+Hypotension is the most common complication of spinal anesthesia.
+8.
+Urinary retention is the most common postoperative complication of central neuraxial blocks in present
+day practice.
+9.
+Hyperbaric bupivacaine is the most commonly used drug for spinal.
+10
+.
+Dose and Baricity are 2 very important determinants of level of block.
+11
+.
+Ephedrine is the most preferred vasopressor for the treatment of spinal hypotension.
+12
+.
+High spinal is associated with bradycardia and hypotension.
+13
+.
+The drug of choice for treatment of shivering is pethidine.
+14
+.
+Postspinal headache is low pressure, meningovascular headache.
+15
+.
+Postural relation, i.e. pain in sitting and standing position and getting relived in lying down is diagnostic
+of postspinal headache. SECTION 6: Regional Anesthesia 180
+16
+.
+Use of small gauge and dura separating needles are the most important preventive measures to
+prevent post spinal headache.
+17
+.
+6th is most commonly involved cranial nerve after spinal anesthesia.
+
+--- Page 14 ---
+Page 14
+18
+.
+Streptococcus viridans has been cited as the most common organism responsible for meningitis after
+spinal while Staphylococcus epidermidis is the most common organism responsible for meningitis after
+epidural.
+19
+.
+Transient neurological symptoms and cauda equina syndrome lead to almost elimination of lignocaine
+for spinal.
+20
+.
+The most commonly used needle for epidural is Tuohy needle and most commonly used method to
+locate epidural space is by loss of resistance technique.
+21
+.
+Fentanyl + bupivacaine or ropivacaine as continuous infusion is the most commonly used combination
+for postoperative analgesia and painless labor.
+22
+.
+There is less hypotension in epidural as compared to spinal.
+23
+.
+Chances of infectious complications, epidural hematoma and neurotoxicity is more with epidural as
+compared to spinal.
+24
+.
+It is considered safe to give central neuraxial block 12 hours after last dose of LMWH and LMWH can
+be given safely given 6 hours after central neuraxial blocks.
+25
+.
+Patients on aspirin and NSAIDs can be safely given central neuraxial blocks while CNB should be
+delayed for 7 days after clopidogrel.
+26
+.
+Patients with platelet count more than 80,000/cubic mm can be safely given central neuraxial blocks.
+Chapter 18 – Anesthesia for Cardiovascular Diseases
+1.
+Effort tolerance > 4 METS is generally associated with lesser complications.
+2.
+Beta blockers should not be started afresh in a patient who is not on beta blockers unless they can be
+started at least 1 week before surgery. CHAPTER 18: Anesthesia for Cardiovascular Diseases (For
+Noncardiac Surgeries) 191
+3.
+Aspirin should be continued while Clopidogrel should be stopped 5 days before surgery.
+4.
+If a patient had myocardial infarction/ischemia then elective surgery must be deferred for 6 weeks if the
+patient was treated without stenting, for 6 weeks if bare metal stent was used, for 6 months if new
+generation drug eluting stent was used, for 1 year if conventional drug eluting stent was used and for 6
+weeks if treated with coronary artery pass graft (CABG).
+5.
+If a patient with drug eluted stent has to undergo emergency surgery then continuing antiplatelet
+therapy is always preferred.
+6.
+Transesophageal echocardiography(TEE) is the earliest and most sensitive monitor to detect
+intra-operative infarction.
+7.
+The most important goal of anesthetic management for patients of ischemic heart disease is to avoid a
+imbalance between myocardial oxygen demand and supply.
+8.
+Etomidate is the induction agent of choice for cardiac patients.
+9.
+Cardiac patients with normal left ventricular function can safely receive inhalational agents however if
+left ventricular function is compromised then anaesthesia should preferably be maintained with opioids.
+10
+.
+Vecuronium is the muscle relaxant of choice for cardiac patients.
+
+--- Page 15 ---
+Page 15
+11
+.
+Central neuraxial blocks (CNB) should be avoided for fixed cardiac output lesions like mitral or aortic
+stenosis.
+12
+.
+CPR may be ineffective in patients with severe aortic stenosis.
+13
+.
+Contrary to the previous recommendation of antibiotic prophylaxis to all patients of prosthetic heart
+valves undergoing any procedure the new guidelines recommends antibiotics prophylaxis only for
+dental procedures which involves gingiva, oral mucosa and periapical region of teeth and invasive
+procedure that involve incision on infective tissue.
+14
+.
+The basic aim of anesthetic management of patients with Left to Right Shunts is to maintain low
+vascular resistance (hypotension) and maintain high pulmonary vascular resistance while for Right to
+Left Shunts is to maintain high vascular resistance (hypertension) or decrease pulmonary vascular
+resistance.
+15
+.
+As ketamine increases the systemic vascular resistance it is agent of choice for induction in right to left
+shunts.
+16
+.
+Elective surgery is contraindicated in patient with heart failure.
+17
+.
+Cardiac implanted electronic devices (CIED) should be programmed to asynchronous mode before
+surgery and reset to their original settings as soon as the surgery is over.
+18
+.
+Permanently implanted cardioverter-defibrillator (ICD) must be turned off before surgery.
+19
+.
+Although there is no universal standard cut off limit of BP to delay surgery however a general
+consensus is to delay elective surgery if diastolic blood pressure is > 110 mm Hg.
+20
+.
+All Antihypertensives should be continued except ACE inhibitors and angiotensin II receptor antagonist
+which are stopped on the day of surgery.
+21
+.
+Patient in shock must be resuscitated to at least mean arterial pressure > 65 mm Hg or systolic pres-
+sure > 90 mm Hg before considering for anesthesia.
+22
+.
+Central neuraxial blocks are absolutely contraindicated for severely hypovolemic and relatively
+contraindicated for mild to moderate hypovolemic patient.
+23
+.
+Ketamine is the induction agent of choice for shock.
+Chapter 19 – Anesthesia for Respiratory Diseases
+1.
+Dyspnea at minimal activity and site of surgery are the two most important predictors of postoperative
+complications.
+2.
+Always rule out associated cor pulmonale in patients with pulmonary disease.
+3.
+Ideally smoking should be stopped 8 weeks before surgery however stopping smoking 12 hours before
+may be beneficial by reducing carboxyhemoglobin levels.
+4.
+The routine use of pulmonary function tests is not recommended.
+5.
+Regional anesthesia is always preferred over general anesthesia for respiratory compromised patients.
+6.
+Ventilation principle for COPD/asthma patients includes low tidal volume (6–8 mL/kg), low I: E ratio and
+slow respiratory rate of (6–10 breaths/min.) to allow adequate exhalation and prevent air trapping.
+
+--- Page 16 ---
+Page 16
+7.
+Thoracic epidural is the most preferred approach to achieve analgesia for thoracic and upper
+abdominal surgeries while parenteral opioids should be avoided as much as possible.
+8.
+Ketamine in spite of its best bronchodilator property is generally avoided for asthma patients; its use is
+restricted to patients in active asthma (wheezing) undergoing life-threatening emergency surgeries.
+9.
+Propofol is preferred over ketamine for asthma patients in present day anesthesia practice.
+10
+.
+Thiopentone can induce bronchoconstriction therefore, should be avoided.
+11
+.
+Sevoflurane is the inhalational agent of choice for asthma patients.
+12
+.
+Intraoperative bronchospasm should first be treated by increasing the depth of anesthesia with
+inhalational agent (preferably sevoflurane).
+13
+.
+Nitrous oxide should not be used in emphysema.
+14
+.
+Elective surgery should be deferred in a patient of active (open) pulmonary tuberculosis.
+15
+.
+Elective surgery is contraindicated in patients with lower respiratory tract infection (lung infections). The
+decision to go ahead with elective surgery in patient with upper respiratory tract infection (URTI)
+depends on the severity of the disease.
+16
+.
+If surgery has to be deferred in a patient of URTI then it should ideally be deferred for 6 weeks.
+17
+.
+For patient of URTI general anesthesia (GA) with laryngeal mask airway (LMA) is always preferred over
+GA with intubation.
+Chapter 20 – Anesthesia for CNS Diseases
+1.
+Levodopa should not be stopped before surgery.
+2.
+Dopamine antagonists like droperidol and metoclopramide should not be used in patients with
+Parkinson’s disease.
+3.
+The rising concern that general anesthesia worsens the dementia is not yet fully substantiated by
+studies.
+4.
+All antiepileptic should be continued.
+5.
+Thiopentone is the induction agent of choice for epileptics.
+6.
+After cerebrovascular accident elective surgery should be deferred for 9 months.
+7.
+Spinal anesthesia (but not epidural) and stress can precipitate multiple sclerosis; peripheral blocks can
+be given safely.
+8.
+Regional anesthesia and deep GA can prevent autonomic hyper-reflexia.
+9.
+All antidepressants including monoamine oxidase (MAO) inhibitors should be continued.
+10
+.
+Methohexital is the induction agent of choice for electroconvulsive therapy.
+
+--- Page 17 ---
+Page 17
+11
+.
+Current recommendation is to continue lithium.
+12
+.
+Patients must not be taken for elective surgeries in acute drug withdrawal.
+13
+.
+Acute drug intake decreases while chronic intake increases the anesthetic requirement.
+Chapter 21 – Anesthesia for Hepatic Diseases
+1.
+Child-Pugh classification is the gold standard scoring system to assess the severity of hepatic disease
+and hence the risk assessment.
+2.
+Elective surgery should be deferred in acute liver disease till the liver functions are stabilized.
+3.
+Due to the possibility of existing coagulopathy and intravascular volume depletion, central neuraxial
+blocks should be avoided in hepatic patients.
+4.
+Propofol, due to its short half-life and extrahepatic metabolism is the induction agent of choice for
+hepatic patients.
+5.
+Sevoflurane is the inhalational agent of choice for hepatic patients while halothane and nitrous oxide
+should be avoided.
+6.
+Atracurium and Cis-atracurium are the muscle relaxants of choice for hepatic patients.
+7.
+Albumin is the preferred colloid for a patient with compromised hepatic functions.
+8.
+As vecuronium has 30–40% excretion through bile, it should be avoided for patients with biliary
+obstruction.
+Chapter 22 – Anesthesia for Renal Diseases and Electrolyte
+Imbalances
+1.
+Patients with acute kidney injury (AKI) should not undergo elective surgery until the injury is fully
+resolved.
+2.
+Dialysis should be performed within 24 hours before surgery.
+3.
+Correction of hyperkalemia is of utmost importance in chronic kidney disease patients.
+4.
+Maintaining fluid balance is essential in renal patients; excess fluid can precipitate pulmonary edema
+and fluid deficiency can worsen kidney injury.
+5.
+If invasive blood pressure monitoring is required then radial and ulnar artery should be spared as they
+may be required for hemodialysis in future.
+6.
+Central neuraxial blocks should be avoided due to associated uremic coagulopathy, uremic
+polyneuropathy and intolerance of renal patients to extra fluids to treat hypotension.
+7.
+Desflurane is the inhalational agent of choice because it does not produce fluoride.
+8.
+Sevoflurane should not be used in renal patients as it produces high levels of fluoride approaching renal
+threshold of 50 µmol/L.
+
+--- Page 18 ---
+Page 18
+9.
+Non-depolarizing relaxant of choice is atracurium/Cis-atracurium while suxamethonium is contra-
+indicated due to associated hyperkalemia.
+10
+.
+Ringer lactate is preferred over normal saline with close monitoring of potassium levels. Colloids
+(hydroxyethyl starch) have been found to exacerbate renal injury.
+11
+.
+TURP syndrome is exhibited as fluid overloading, dilutional hyponatremia and hypo-osmolality.
+12
+.
+Hyperkalemia must be corrected before taking the patient for surgery while there is no need to correct
+mild chronic hypokalemia.
+13
+.
+Hypermagnesemia potentiates the action of both depolarizing and non-depolarizing muscle relaxants.
+Chapter 23 – Anesthesia for Endocrinal Disorders
+1.
+Ruling out autonomic neuropathy is one of the most important part of preoperative assessment in
+diabetic patient.
+2.
+Regular insulin by continuous infusion is the most recommended method to control intraoperative
+plasma glucose.
+3.
+The target plasma sugar level should be between 150–180 mg/dL in perioperative period.
+4.
+Myocardial ischemia is the most common cause of death in perioperative period in diabetic patients.
+5.
+Elective surgery should be deferred in hyper- or hypothyroid patient till the patient is euthyroid however,
+mild hypothyroidism should not be a deterrent to postpone the surgery.
+6.
+Thiopentone is the induction agent of choice in hyperthyroid patients.
+7.
+At least tachycardia should be settled in hyperthyroid patients undergoing emergency surgery.
+8.
+As the metabolism of drugs is reduced in hypothyroidism, all drugs should be used in minimal possible
+doses.
+9.
+Halothane is absolutely contraindicated in pheochromocytoma because it sensitizes myocardium to
+catecholamines.
+10
+.
+Increase in catecholamines during tumor handing can cause profound hypertension and life-threatening
+arrhythmias during pheochromocytoma surgery.
+11
+.
+Etomidate is contraindicated in adrenal insufficiency because it causes adrenocortical suppression.
+Chapter 24 – Anesthesia for Neuromuscular Diseases
+1.
+For myasthenic patients anticholinesterases should be continued in reduced doses.
+2.
+Local/regional anesthesia is the anesthetic technique of choice for myasthenia gravis patients.
+3.
+Desflurane is the most preferred inhalational agent for maintenance in myasthenia gravis patients
+because it produces maximum muscle relaxation among the currently used inhalational agents.
+4.
+Myasthenic patients are resistant to depolarizers and hypersensitive to non-depolarizers.
+5.
+Mivacurium, atracurium, and Cis-atracurium are safe non-deploarizers for myasthenia gravis patients.
+
+--- Page 19 ---
+Page 19
+6.
+Myasthenic syndrome patients are sensitive to both depolarizing and non-depolarizing muscle
+relaxants.
+7.
+Succinylcholine is absolutely contraindicated for muscular dystrophies; it may produce cardiac arrest
+due to hyperkalemia and rhabdomyolysis and can precipitate malignant hyperthermia in these patients.
+8.
+Non-depolarizers exhibit increased sensitivity in muscular dystrophies making mivacurium, atracurium,
+cis-atracurium to be safer choices.
+9.
+Halothane is contraindicated in muscular dystrophies as it can precipitate malignant hyperthermia.
+Chapter 25 – Anesthesia for Immune Mediated and Infectious
+Diseases
+1.
+Due to atlantoaxial instability intubation in patients with rheumatoid arthritis should be performed with
+neck in extension.
+2.
+In patients with ankylosing spondylitis fusion of lumbar spine may make central neuraxial blocks
+impossible and fusion of cervical spine may make intubation impossible.
+3.
+CD4 count and viral load do not determine the rate of perioperative anesthetic complications.
+Chapter 26 – Anesthesia for Disorders of Blood
+1.
+Minimum hemoglobin of 8 g/dL is considered optimal to accept the patient for elective surgery.
+2.
+Considering the complications associated with blood transfusion, the approach in present day practice
+is towards the minimum use of blood products called as restrictive approach to transfusion. CHAPTER
+26: Anesthesia for Disorders of Blood 219
+3.
+Exchange transfusion is not practiced technique for sickle cell patient in current day. The approach is
+just to correct the anemia by giving red cell transfusion with the target hematocrit > 30 (Hemoglobin >10
+g%).
+4.
+The most important perioperative goal in sickle cell patients is to avoid hypoxia, acidosis, dehydration,
+hypothermia, stress and pain.
+5.
+Intravenous regional anesthesia (Bier’s block) can be utilized for sickle cell patients.
+6.
+Platelet count of > 50,000/mm3 is recommended before considering the patients for surgery.
+7.
+The deficit coagulation factor should be increased to at least 50% of the normal before considering the
+patient for surgery.
+8.
+Regional anesthesia is contraindicated for patients with deficient coagulation factor disorders like
+hemophilia.
+9.
+Administrating methylene blue can be life-threatening in patients with G6PD deficiency.
+10
+.
+Barbiturates are absolutely contraindicated for all kind of porphyrias except porphyria cutanea tarda
+and erythropoietic protoporphyrias.
+11
+.
+Propofol, opioids and suxamethonium are considered safe for porphyrias patients.
+12
+.
+Fasting, dehydration and infection can trigger acute crisis of porphyria.
+
+--- Page 20 ---
+Page 20
+Chapter 27 – Neurosurgical Anesthesia
+1.
+All inhalational agents inhibit autoregulation of cerebral blood flow while it remains largely preserved
+with most of the intravenous anesthetics.
+2.
+pCO2 should be maintained between 25–30 mm Hg to achieve optimal hypocapnia.
+3.
+Hyperosmolar drugs like mannitol are not absolutely contraindicated in disrupted blood brain barrier like
+head injury or stroke however, should be used judiciously.
+4.
+All inhalational agents (including nitrous oxide) increase the cerebral blood flow and ICT. The order of
+vasodilating potency is- halothane >>Desflurane ≈ Isoflurane>Sevoflurane.
+5.
+Due to more favorable effects sevoflurane is preferred over isoflurane as an inhalational agent of choice
+in neurosurgery in current day anesthetic practice. CHAPTER 27: Neurosurgical Anesthesia 229
+6.
+All IV agents except ketamine decrease CBF, CMR and ICT.
+7.
+As hyperglycemia can cause cerebral edema, Glucose containing solutions should be avoided in
+neurosurgery.
+8.
+If necessary colloids can be safely used in neurosurgical patient however, there their use should be
+limited.
+9.
+Routine use of hypothermia is not recommended.
+10
+.
+Blood sugar should be best maintained between 140–180 mg%.
+11
+.
+Capnography is more than mandatory monitor for neurosurgical patients.
+12
+.
+The aim during neurosurgical procedures is to maintain cerebral perfusion pressure between 70 and
+100 mm Hg.
+13
+.
+Not only induction, recovery should also be very smooth in neurosurgical patients.
+14
+.
+Steroids must be started in preoperative period in patients having brain edema due to brain tumor while
+preoperative steroids should be avoided if edema is due to head injury.
+15
+.
+Central neuraxial blocks are absolutely contraindicated in raised ICT.
+16
+.
+Suxamethonium is not absolutely contraindicated for neurosurgery.
+17
+.
+All head injury patients should be assumed to be having cervical injury and basal skull fracture until
+proved otherwise.
+18
+.
+Venous air embolism is the most bothersome complication of posterior fossa craniotomies.
+19
+.
+Venous air embolism can become clinically significant if the volume of entertained air > 100 mL.
+20
+.
+The most sensitive tool to detect venous air embolism is transesophageal echocardiography.
+
+--- Page 21 ---
+Page 21
+21
+.
+After stroke surgery should avoided in period of maximal vasospasm risk (4–14 days) as far as
+possible.
+22
+.
+Carotid endarterectomy can be undertaken after 6 weeks while other elective surgeries should be
+deferred for 9 months after cerebrovascular accident.
+23
+.
+The major concerns of spine surgery are related to prone position.
+Chapter 28 – Anesthesia for Obstetrics
+1.
+Hyperdynamic circulation makes pregnant patients more vulnerable for cardiac failure.
+2.
+Decreased FRC, ERV and increased oxygen requirement makes pregnant patients more vulnerable for
+hypoxia. CHAPTER 28: Anesthesia for Obstetrics 235
+3.
+Minimum alveolar concentration decreases by 25 to 40% in pregnant patients making them more
+susceptible to anesthetic over dosage.
+4.
+Pregnant patients are very prone to develop high spinal.
+5.
+Supine hypotension syndrome (SHS) can cause severe hypotension or even cardiac arrest after spinal
+anesthesia. To prevent SHS the pregnant patient should lie in left lateral position.
+6.
+All anesthetic drugs except muscle relaxants (only Gallamine has significant transfer) and glycopyrolate
+can be transferred to fetus from maternal circulation.
+7.
+Due to alkaline pH local anesthetics and opioids can get accumulated in fetus.
+8.
+Regional anesthesia is preferred over general anesthesia for cesarean section because risk of
+pulmonary aspiration and possibility of failed intubation can be avoided.
+9.
+Because of pulmonary aspiration and failed intubation the mortality in obstetrics during GA is twice as
+compared to regional anesthesia.
+10
+.
+All pregnant patients must be considered full stomach irrespective of their fasting status and must be
+managed like rapid sequence induction.
+11
+.
+At concentration less than half minimum alveolar concentration (MAC) inhalational agents do not
+produces significant uterine relaxation.
+12
+.
+Contrary to old recommendations propofol can be safely used in pregnancy.
+13
+.
+Anesthetic technique of choice for PIH is epidural.
+14
+.
+Most commonly used technique for painless labor is continuous lumbar epidural.
+15
+.
+Maternal demand is sufficient indication to start painless labor.
+16
+.
+Low concentration epidurals neither increase the rate of cesarean section nor the rate of instrumental
+delivery.
+17
+.
+Nonobstetric elective surgery should be deferred until postpartum period (6 weeks postdelivery) while
+urgent surgeries should be performed during the second trimester.
+
+--- Page 22 ---
+Page 22
+18
+.
+Anesthesia of choice for non-obstetric surgery is regional.
+Chapter 29 – Pediatric Anesthesia
+1.
+The larynx is more anterior and high and subglottis (at the level of cricoid) is the narrowest part in
+children.
+2.
+Due to high oxygen requirement and low reserve, children are very prone for developing hypoxia.
+3.
+Contrary to previous recommendation cuffed tubes can be used in children but should allow a leak at a
+pressure of more than 15–20 cm H2O.
+4.
+Bradycardia is the most common adverse cardiac event during perioperative period in pediatric
+patients.
+5.
+The high volume of distribution increases the initial dose requirement in children.
+6.
+MAC requirement in decreasing order is infants > neonates > adults.
+7.
+A simpler and probably more accurate formula than 4-2-1 is to give 20–40 mL/kg of fluid during
+intraoperative period. Thereafter, in postoperative period the fluid is given by the formula of 2-1-0.5.
+8.
+As children are not so prone for hypoglycemia ringer lactate may be the only fluid required.
+9.
+Inhalational induction is the most commonly utilized induction method in pediatric patients however, the
+method of choice for induction is always IV.
+10
+.
+Due to smooth and rapid induction, sevoflurane (7–8%) is considered as the inhalational agent of
+choice for induction.
+11
+.
+Isoflurane and desflurane has got irritating induction therefore, must not be used for induction.
+12
+.
+Sevoflurane and halothane are excellent agents for induction but not suitable for maintenance as they
+can cause postoperative agitation.
+13
+.
+Atracurium and Cisatracurium are the relaxant of choice as they do not depend on hepatic and renal
+functions.
+14
+.
+Succinylcholine should be avoided in children.
+15
+.
+Pain perception in pediatric patients is same as adults.
+16
+.
+Age is no bar for regional anesthesia; any block can be given at any age.
+17
+.
+Bag and mask ventilation is contraindicated for diaphragmatic hernia, tracheoesophageal fistula and
+pyloric stenosis.
+18
+.
+In diaphragmatic hernia positive pressure ventilation should be done with airway pressure < 20 cm
+H2O.
+19
+.
+Nitrous oxide is contraindicated in diaphragmatic hernia surgery.
+20
+.
+The position of endotracheal in tracheoesophageal fistula should be below the fistula but above the
+carina.
+
+--- Page 23 ---
+Page 23
+21
+.
+Metabolic, fluid and electrolyte correction must be done before taking the patient for pyloric stenosis
+surgery.
+22
+.
+Avoid elective surgeries in premature babies till 50 weeks of their postconception age.
+23
+.
+Airway management may be difficult in children suffering from Down syndrome. .
+Chapter 30 – Geriatric Anesthesia
+1.
+Diastolic dysfunction, the most common cardiac finding in old age, is a significant determinant of
+morbidity.
+2.
+Chronological age is neither a contraindication for any surgery nor is a criterion to do battery of routine
+investigations.
+3.
+Assessment of cognitive function is must in geriatric patients.
+4.
+Regional anesthesia is preferred over general anesthesia.
+5.
+The requirement of benzodiazepines and opioids may be reduced by 50%.
+6.
+The minimum alveolar concentration (MAC) of inhalational agents decreases by 4–6% per decade.
+7.
+Desflurane because of its rapid emergence and least metabolism is the preferred inhalational agent for
+geriatric patients.
+8.
+Atracurium and Cis-atracurium are the muscle relaxant of choice for old age patients.
+9.
+The overall prevalence of postoperative delirium in older patients is estimated to be 10%.
+10
+.
+Short-term changes in cognitive function have been very well-documented in 10–15% of geriatric
+population after surgery.
+11
+.
+The incidence of POCD is independent of both surgery and anesthesia.
+Chapter 31 – Anesthesia for Obese Patients (Bariatric)
+1.
+To perfuse extra fat obese patients are in high cardiac output state.
+2.
+Obese patients may have extra parenchymal restrictive pattern in their pulmonary functions.
+3.
+Polysomnography should be strongly considered in morbidly obese patients or in patients with a history
+of obstructive sleep apnea.
+4.
+Due to difficult airway management, anesthesia of choice is regional anesthesia.
+5.
+Airway management is the most challenging part in obese patients.
+6.
+As the ramped position provides a superior view of laryngoscopy it is preferred position for intubation
+for obese patients.
+7.
+Lipid soluble drugs (IV induction agents, opioids) have increased volume of distribution, therefore given
+on actual body weight basis. Water soluble drugs (nondepolarizing muscle relaxants) have limited
+volume of distribution, therefore should be given on ideal body weight basis.
+
+--- Page 24 ---
+Page 24
+8.
+Desflurane is the inhalational agent of choice for maintenance in obese patients.
+9.
+Obese patients are very prone to hypoxia in post- operative period.
+10
+.
+Application of CPAP and PEEP improves oxygenation in obese patients.
+Chapter 32 – Anesthesia for Laparoscopy
+1.
+Carbon dioxide is the most frequently used gas for laparoscopy because it is more soluble.
+2.
+Argon is considered as most ideal gas for laparoscopy. CHAPTER 32: Anesthesia for Laparoscopy 251
+3.
+Intra-abdominal pressure of 12–14 mm Hg can decrease the cardiac output by 30–35%.
+4.
+Capnothorax usually resolves by itself in 30–60 minutes; chest tube drainage should be reserved only
+for the cases not responding to conservative measures or which are life threatening.
+5.
+CO2 embolism can be fatal complication of laparoscopy; it carries a mortality of 30%.
+6.
+In CO2 embolism, there is a biphasic response on capnography.
+7.
+Intra-abdominal pressure of > 20 mm Hg can significantly impair renal, mesenteric and intestinal blood
+flow. Therefore, intra-abdominal pressure should be kept between 12 and 14 mm Hg.
+8.
+Nausea and vomiting is the most common postoperative complication of laparoscopic surgeries;
+incidence can be as high as 40–75%.
+9.
+General anesthesia with endotracheal intubation and mild hyperventilation is the most commonly used
+technique for most of the laparoscopic surgeries.
+10
+.
+A patient with the controlled ischemic heart disease can be safely considered for laparoscopic
+surgeries.
+11
+.
+Laparoscopy is considered safe during pregnancy.
+12
+.
+Laparoscopy once used to be considered as contraindication in obese patients has now become the
+preferred method over open surgeries.
+Chapter 33 – Anesthesia for Ophthalmic Surgery
+1.
+Topical eye medications can have systemic effects.
+2.
+One of the most important goals during eye surgery is to reduce or at least maintain the intraocular
+pressure within normal range.
+3.
+Traction on extraocular muscle (especially the medial rectus) can precipitate oculocardiac reflex.
+4.
+Most of the ocular surgeries are performed under regional anesthesia.
+5.
+Peribulbar block has now almost completely replaced retrobulbar block.
+6.
+All IV agents (except ketamine) and inhalational agents reduce the IOP.
+7.
+Nitrous oxide should be avoided in retinal detachment surgery if air, sulfur hexafluoride or perfluoro-
+propane bubble is used for correction.
+
+--- Page 25 ---
+Page 25
+8.
+Succinylcholine increases the IOP, however the rise is transient (5–10 minutes), therefore if the risk of
+pulmonary aspiration is high, it is safer to use succinylcholine.
+Chapter 34 – Anesthesia for ENT Surgery
+1.
+In preoperative evaluation of patients posted for panendoscopy, assessment of airway by preoperative
+endoscopy or indirect laryngoscopy is must.
+2.
+In the majority (>95%) of the patients it is possible to get the panendoscopy surgery done with MLS
+tube.
+3.
+Nitrous oxide should be avoided in laryngeal surgeries because it can increase the post-surgical edema
+by causing expansion of the cuff of the endotracheal tube.
+4.
+The most important complication of laser surgery is fires.
+5.
+Laser resistant endotracheal tubes are not 100% protective against laser fires.
+6.
+Tonsillar patients should be nursed in tonsillar position in the postoperative period to prevent aspiration
+and laryngospasm.
+7.
+Post tonsillectomy bleeding re-exploration patients should be managed like full stomach patient.
+8.
+Nitrous oxide should not be used in patients with blocked Eustachian tubes and tympanoplasties.
+Chapter 35 – Anesthesia for Trauma and Burns
+1.
+Management of trauma patients poses unique challenges due to difficulty in obtaining a medical history,
+inadequate fasting, intoxication, multiple injuries and shock.
+2.
+Systolic blood pressure of at least 80–90 mm Hg is recommended before induction. CHAPTER 35:
+Anesthesia for Trauma and Burns 261
+3.
+Invasive blood pressure and temperature monitoring is highly recommended for trauma patients.
+4.
+Requirement of IV induction doses is drastically reduced in hypotensive patients.
+5.
+Etomidate and ketamine are the agents often selected for induction.
+6.
+All trauma patients should be assumed to be having cervical spine injury and basal skull fracture until
+proved otherwise.
+7.
+Patients with maxillary fractures can be easily intubated through oral route; patients with mandibular
+fracture are often intubated nasally. Patients with both mandibular and maxillary fracture may require
+tracheostomy.
+8.
+Desflurane is often the most preferred inhalational agent in trauma patients.
+9.
+Succinylcholine remains the muscle relaxant of choice for intubation if there is risk of aspiration or
+difficult airway while atracurium and Cis- atracurium are preferred non depolarizers in trauma.
+10
+.
+Airway may be difficult in burn patients due to contracture of face and neck.
+11
+.
+In burns succinylcholine is contraindicated for one year while dose of nondepolarizers is increased.
+
+--- Page 26 ---
+Page 26
+Chapter 36 – Anesthesia for Orthopedics
+1.
+Cardiac arrest can occur at the time of tourniquet deflation.
+2.
+Pressure in tourniquet should not exceed more than 100 mmHg above systolic pressure and duration
+should not exceed more than 2 hours for both upper and lower limbs.
+3.
+The triad of fat embolism syndrome is dyspnea, confusion and petechial hemorrhages. Petechial rash
+is pathognomonic of FES.
+4.
+Cement implantation syndrome may be characterized by hypoxia, profound hypotension or even
+cardiac arrest.
+5.
+The incidence of fatal PE after hip surgery can be as high as 1–3%.
+6.
+There have been case reports of stroke or even brain death in shoulder surgeries done in the beach
+chair position.
+7.
+Regional anesthesia is always preferred over general anesthesia due to less incidence of
+thromboembolism, less blood loss, fewer respiratory complications and better control of pain.
+8.
+The function of the spinal cord is monitored by evoked responses like somatosensory evoked potential
+(SSEP), motor evoked potential (MEP) and electromyogram (EMG).
+Chapter 37 – Anesthesia at Remote Locations
+1.
+At high altitude, rotameter under reads the actual flow rate.
+2.
+Vaporizer settings need not be changed at low or high barometric pressure, except for desflurane.
+3.
+The incidence of postspinal headache is high at high altitude.
+4.
+Nitrous oxide should not be used in helium atmosphere.
+5.
+Small and crowded space, nonavailability of adequate equipment, monitors, technical support and help
+in case of emergency, inadequate preoperative evaluation of patients and inadequate knowledge of
+anesthesia intricacies by medical proceduralists make nonoperating room anesthesia very challenging
+and least preferred by majority of anesthetists.
+6.
+Full fasting recommendations are required for non-operating room anesthesia.
+7.
+Capnography is highly desirable for nonoperating room anesthesia.
+8.
+Most often, either sedation with midazolam or total intravenous anesthesia (TIVA) with Propofol +
+Remifentanil is utilized for nonoperating room procedures.
+9.
+For MRI suites, anesthesia machine, monitors and oxygen cylinders should be made up of aluminum.
+Chapter 38 – Anesthesia for Day-care Surgery
+1.
+Duration of surgery, the American Society of Anesthesiologist (ASA) grading and age (except
+prematures) are not considered as absoulte parameters to deny a surgery on day-care basis.
+2.
+Midazolam is the benzodiazepine of choice for day-care patients.
+3.
+Nil orally guidelines for day-care patients are same as for indoor patients.
+
+--- Page 27 ---
+Page 27
+4.
+GA with laryngeal mask airway (LMA) is always preferred over intubation.
+5.
+For day-care patients, propofol is the most preferred agent for induction, desflurane for maintenance
+and mivacurium for muscle relaxation.
+6.
+The combination of choice for TIVA is Propofol + Remifentanil.
+7.
+Spinal anesthesia is frequently used for day-care patients, however, with small gauge pencil tip needles
+and short/intermediate acting agents.
+8.
+The aim of discharge should be fast-track discharge.
+9.
+The two most common causes of unexpected admission are uncontrolled pain and nausea and
+vomiting.
+10
+.
+Able to accept liquids and pass urine is not considered as mandatory criteria for discharging a patient
+after day care surgery.
+11
+.
+Most often the re-admission is due to surgical complications such as surgical site infection.
+Chapter 39 – Pain Management
+1.
+Visual analog scale is the most commonly used scale for pain assessment.
+2.
+Postoperative pain management should have multimodal approach.
+3.
+Opioid remains the mainstay of treatment for post-operative analgesia.
+4.
+Epidural route is the most preferred route for postoperative analgesia.
+5.
+Patient-controlled analgesia (PCA) is the method of choice if opioids have to be given by parenteral
+route.
+6.
+Regional nerve blocks with local anesthetics as a single shot or continuous infusion provide excellent
+postoperative analgesia.
+7.
+Radiofrequency ablation (RFA) is always preferred over chemical neurolysis.
+8.
+Transforamina route for the delivery of steroids is preferred over epidural route.
+9.
+Radiofrequency (RF) ablation of medial branch of posterior ramus of spinal nerve is the most definitive
+modality of treatment for facet arthropathy.
+10
+.
+Most common neuropathy encountered in clinical practice is diabetic neuropathy.
+11
+.
+Drug of choice for neuropathic pain is pregabalin followed by gabapentin.
+12
+.
+Trigeminal neuralgia still responds best to carbamazepine.
+13
+.
+For upper limb CRPS, stellate ganglion block is performed; and, for lower limb dystrophies, lumbar
+sympathetic chain block is performed.
+14
+.
+Opioid remains the mainstay of treatment for cancer pain.
+15
+.
+The multiple trigger points are pathognomonic of fibromyalgia.
+
+--- Page 28 ---
+Page 28
+16
+.
+Highest blood level of local anesthetic is achieved after intercostal nerve block.
+Chapter 40 – Intensive Care Management
+1.
+Oxygen therapy is helpful in improving oxygen saturation in all types of hypoxia except histotoxic
+hypoxia.
+2.
+Ventilatory breath may be volume controlled or pressure controlled.
+3.
+The chief advantage of volume controlled ventilation is decreased chances of hypoventilation and chief
+disadvantage is increased chances of barotrauma.
+4.
+The chief advantage of pressure controlled ventilation is less chances of barotrauma while main
+disadvantage is increased possibility of hypoventilation.
+5.
+Pressure regulated volume control (PRVC) can be considered as mode of choice for ventilation in
+current day critical care practice.
+6.
+Ideal PEEP is the PEEP which maintain oxygen saturation >90% without decreasing the cardiac output
+significantly. Usually, it is between 5–12 cm H2O.
+7.
+Leakage is the major problem during NIPPV.
+8.
+It is possible to wean patient in any mode of ventilation except control mode ventilation.
+9.
+The most common source of nosocomial infections in ICU are urinary tract infections.
+10
+.
+Majority of nosocomial infections in ICU are caused by gram-negative organisms.
+11
+.
+Positing head at 30 degrees proves to be simplest and most cost effective method to decrease
+ventilator associated pneumonia.
+12
+.
+Current guidelines for hemorrhagic shock are in favor of hypotensive resuscitation which means
+maintaining SBP between 80–100 mm Hg and MAP between 60–65 mm Hg.
+13
+.
+Correction of coagulopathy called as hemostatic resuscitation is of utmost importance in hemorrhagic
+shock.
+14
+.
+The concept of hypotensive and hemostatic resuscitation is called as balanced resuscitation.
+15
+.
+Modified shock index (MSI), ratio of heart rate to mean blood pressure (MAP) is considered as better
+predictor of outcome in shock then shock index.
+16
+.
+Mixed venous oxygen saturation is overall the best guide to assess tissue perfusion while urine output
+is considered as best clinical guide to assess tissue perfusion.
+17
+.
+Stroke volume variation is considered as most reliable to assess fluid status and titrate fluid therapy.
+18
+.
+Crystalloids are preferred over colloids for shock and Ringer is the most preferred crystalloid.
+19
+.
+Phenylephrine is the vasopressor of choice for neurogenic shock, ephedrine for spinal shock and nor-
+epinephrine for septicemic shock.
+20
+.
+Metabolic acidosis due to shock should be treated by fluids and vasopressors not by soda bicarbonate
+unless severe (pH <7.15).
+
+--- Page 29 ---
+Page 29
+21
+.
+Enteral route is always preferred over parenteral route for nutrition.
+22
+.
+Subclavian is vein of choice for parenteral nutrition.
+23
+.
+Out of the total energy required 60–70% should be provided by carbohydrates (dextrose) and 30–40%
+by fats. Amino acids are given as supplement, never as a substrate for source of energy.
+24
+.
+Sepsis is the leading cause of death in ICU.
+25
+.
+New studies do not recommended tight glycemic control in septicemia.
+26
+.
+Low pO2, decreased functional residual capacity (FRC) and decreased static compliance of lungs are
+the hallmark of ARDS while pCO2 may be low, normal or high.
+27
+.
+Low tidal volume (6 mL/kg), airway plateau pressure < 30 cm H2O and low FiO2 (<0.5) are the key in
+the management of ARDS.
+28
+.
+Extracorporeal membrane oxygenation (ECMO) should be instituted early for refractory ARDS.
+29
+.
+In current day practice the use of recruitment measures, prone position, inhaled nitric oxide and muscle
+relaxants are reserved for refractory ARDS.
+30
+.
+For COPD patients it is necessary to keep the low flows (1–2 L/min) of oxygen to preserve hypoxic
+drive.
+31
+.
+Maintaining oxygenation by non-invasive positive pressure ventilation (NIPPV) with CPAP/BIPAP
+should be the prime goal in COPD patients.
+32
+.
+Ventilator setting for COPD patients includes small tidal volume, low breath rate (6–8/min.) and longer
+expiratory time to allow maximum exhalation.
+33
+.
+Lactic acidosis is the most common cause of metabolic acidosis in anesthesia and is due to tissue
+hypoxia.
+34
+.
+Soda bicarbonate should be used to treat only severe acidosis (pH <7.15).
+Chapter 41 – Cardiopulmonary and Cerebral Resuscitation
+1.
+Unwitnessed cardiac arrest in adults should be considered due to ventricular fibrillation until proved
+otherwise and in children should be considered due to asystole until proved otherwise.
+2.
+The standard sequence of CPR, i.e. A (airway) → B (breathing) → C (circulation) was changed to C →
+A → B in 2010 CPR guidelines.
+3.
+Epiglottis, rather than tongue fall, has been found to be the more important cause of airway obstruction
+in unconscious patient.
+4.
+In patients with suspected cervical spine fracture if airway is not manageable by jaw thrust alone then
+head tilt and chin lift can be given.
+5.
+For patients with cervical spine fractures intubation should be performed with neck in neutral position
+and only after stabilization. Manual stabilization is preferred over collar stabilization.
+6.
+Rescue breath by mouth to mouth is reserved only for trained rescuers.
+
+--- Page 30 ---
+Page 30
+7.
+For untrained lay rescuer CPR means “hands only” i.e. only cardiac massage.
+8.
+Intubation is the most definitive and best method for ventilation.
+9.
+Cardiac massage should be able to depress sternum by 2 inches (5 cm) but not more than 2.4 inches
+(6 cm).
+10
+.
+During CPR rescuer must not lean on patient chest between compressions.
+11
+.
+The rate of cardiac compression should be 100–120 compressions/minute but not more than 120.
+CHAPTER 41: Cardiopulmonary and Cerebral Resuscitation 311
+12
+.
+Without advanced airway the ratio of compression to breathing for adults should be 30:2 irrespective of
+number of resuscitators while for children this ratio is 30: 2 for single rescuer and 15:2 for two rescuers.
+13
+.
+With advanced airway compression is continued at a rate of 100–120 compressions/minute and breath-
+ing at a rate of 10 breaths/minute without any synchronization.
+14
+.
+In the current day CPR Capnography is considered essential.
+15
+.
+Successful cardiac massage should be able to produce ETCO2 of at least 20 mm Hg.
+16
+.
+Ventricular fibrillation, pulseless ventricular tachycardia and polymorphic ventricular tachycardia are
+shockable rhythms while pulseless electrical activity and asystole are considered as nonshockable
+rhythms.
+17
+.
+Shock energy should be 360J with monophasic defibrillators and 150–200 with biphasic defibrillators.
+18
+.
+Immediately after giving shock give 5 cycles of 30:2 or 2 minutes of CPR before checking the rhythm.
+19
+.
+The end point to stop CPR is the return of spontaneous circulation (ROSC) assessed by palpating
+carotids.
+20
+.
+Vasopressin, which was given after 1st dose of adrenaline, has been removed from 2015 CPR
+guidelines.
+21
+.
+Defibrillation should be attempted 2 minutes after epinephrine and Amiodarone injection.
+22
+.
+Consider termination of CPR efforts if no response for 20 minutes.
+23
+.
+Hypovolemia (shock) is the most common cause of pulseless electrical activity (PEA).
+24
+.
+Targeted temperature management is the only recommended method for brain protection.
+25
+.
+Targeted temperature management means maintaining core body temperature between 32–36° for 24
+hours.
+26
+.
+Prognostication is recommended after 72 hours.
+27
+.
+In unwitnessed cardiac arrest in children 5 cycles of CPR are given before activating EMS.
+
+--- Page 31 ---
+Page 31
+28
+.
+During CPR in pregnancy aortocaval compression should be prevented by uterine displacement, not by
+lateral tilt.
+29
+.
+Emergency cesarean section should be considered if fetus >25 week and cesarean section can be
+performed within 4 minutes of maternal arrest.
+30
+.
+Intraosseous route is recommended for all ages, anything can be given and is preferred over endo-
+tracheal route.
+31
+.
+Fluid of choice during CPR is normal saline.
+32
+.
+Adrenaline by intra-cardiac route is contraindicated in present day CPR.
+33
+.
+The routine empiric use of sodium bicarbonate is not recommended.
+34
+.
+The intravenous/intraosseous/endotracheal tube (IV/IO/ET) concentration of adrenaline during CPR is
+1: 10,000.
+35
+.
+Amiodarone is considered as drug of choice for ventricular tachycardia.

@@ -1,0 +1,659 @@
+{
+  "title": "Vitamins, Minerals & Water – Page 423",
+  "source": "Lucent's General Knowledge – Biology",
+  "section": "Biology: Vitamins, Minerals, Water & Balanced Diet",
+  "total_questions": 50,
+  "time_limit_minutes": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the chemical name of Vitamin D?",
+      "options": {
+        "A": "Tocopherol",
+        "B": "Calciferol",
+        "C": "Phylloquinone",
+        "D": "Retinol"
+      },
+      "answer": "B",
+      "explanation": "Page 423: Vitamin D chemical name is Calciferol.",
+      "topic": "Vitamins"
+    },
+    {
+      "id": 2,
+      "question": "Deficiency of Vitamin D in children causes:",
+      "options": {
+        "A": "Scurvy",
+        "B": "Beriberi",
+        "C": "Rickets",
+        "D": "Night blindness"
+      },
+      "answer": "C",
+      "explanation": "Page 423: Vitamin D deficiency causes Rickets in children and Osteomalacia/Osteoporosis in adults.",
+      "topic": "Vitamins"
+    },
+    {
+      "id": 3,
+      "question": "What is the chemical name of Vitamin E?",
+      "options": {
+        "A": "Calciferol",
+        "B": "Ascorbic acid",
+        "C": "Tocopherol",
+        "D": "Thiamine"
+      },
+      "answer": "C",
+      "explanation": "Page 423: Vitamin E chemical name is Tocopherol.",
+      "topic": "Vitamins"
+    },
+    {
+      "id": 4,
+      "question": "Deficiency of Vitamin E causes:",
+      "options": {
+        "A": "Non-clotting of blood",
+        "B": "Less fertility and destruction of RBC",
+        "C": "Night blindness",
+        "D": "Rickets"
+      },
+      "answer": "B",
+      "explanation": "Page 423: Vitamin E deficiency causes less fertility and destruction of RBC.",
+      "topic": "Vitamins"
+    },
+    {
+      "id": 5,
+      "question": "Sources of Vitamin E include:",
+      "options": {
+        "A": "Tomato and Soybean oil",
+        "B": "Leafy vegetables, Milk, Butter, Sprouted wheat, Vegetable oil",
+        "C": "Sea fish and Iodized salt",
+        "D": "Meat and Liver only"
+      },
+      "answer": "B",
+      "explanation": "Page 423: Vitamin E sources include Leafy vegetables, Milk, Butter, Sprouted wheat, Vegetable oil, Wheat germ oil.",
+      "topic": "Vitamins"
+    },
+    {
+      "id": 6,
+      "question": "What is the chemical name of Vitamin K?",
+      "options": {
+        "A": "Phylloquinone",
+        "B": "Riboflavin",
+        "C": "Niacin",
+        "D": "Pyridoxine"
+      },
+      "answer": "A",
+      "explanation": "Page 423: Vitamin K chemical name is Phylloquinone.",
+      "topic": "Vitamins"
+    },
+    {
+      "id": 7,
+      "question": "Deficiency of Vitamin K causes:",
+      "options": {
+        "A": "Scurvy",
+        "B": "Pellagra",
+        "C": "Non-clotting of blood",
+        "D": "Anemia"
+      },
+      "answer": "C",
+      "explanation": "Page 423: Vitamin K deficiency causes non-clotting of blood.",
+      "topic": "Vitamins"
+    },
+    {
+      "id": 8,
+      "question": "Cobalt is found in which vitamin?",
+      "options": {
+        "A": "Vitamin A",
+        "B": "Vitamin C",
+        "C": "Vitamin B12",
+        "D": "Vitamin D"
+      },
+      "answer": "C",
+      "explanation": "Page 423: Cobalt is found in Vitamin B12.",
+      "topic": "Vitamins"
+    },
+    {
+      "id": 9,
+      "question": "Synthesis of Vitamin D takes place through which substance in sunlight?",
+      "options": {
+        "A": "Keratin",
+        "B": "Melanin",
+        "C": "Cholesterol (Ergosterol)",
+        "D": "Hemoglobin"
+      },
+      "answer": "C",
+      "explanation": "Page 423: Synthesis of Vitamin D takes place through cholesterol (ergosterol) present in skin via ultraviolet rays of sunlight.",
+      "topic": "Vitamins"
+    },
+    {
+      "id": 10,
+      "question": "Vitamin D2 is also known as:",
+      "options": {
+        "A": "Calciferol",
+        "B": "Ergocalciferol",
+        "C": "Tocopherol",
+        "D": "Phylloquinone"
+      },
+      "answer": "B",
+      "explanation": "Page 423: Vitamin D2 is known as ergocalciferol.",
+      "topic": "Vitamins"
+    },
+    {
+      "id": 11,
+      "question": "Vitamin K is synthesized in our body by:",
+      "options": {
+        "A": "Liver cells",
+        "B": "Kidney cells",
+        "C": "Bacteria in the colon",
+        "D": "Skin cells"
+      },
+      "answer": "C",
+      "explanation": "Page 423: Vitamin K is synthesized in our colon by bacteria and from there it is absorbed.",
+      "topic": "Vitamins"
+    },
+    {
+      "id": 12,
+      "question": "Which vitamin is mainly stored in the liver?",
+      "options": {
+        "A": "Vitamin C",
+        "B": "Vitamin B1",
+        "C": "Vitamin A",
+        "D": "Vitamin E"
+      },
+      "answer": "C",
+      "explanation": "Page 423: Vitamin A is mainly stored in liver.",
+      "topic": "Vitamins"
+    },
+    {
+      "id": 13,
+      "question": "Use of polished rice in human diet causes:",
+      "options": {
+        "A": "Scurvy",
+        "B": "Rickets",
+        "C": "Beriberi",
+        "D": "Pellagra"
+      },
+      "answer": "C",
+      "explanation": "Page 423: Use of polished rice in human diet causes Beriberi.",
+      "topic": "Vitamins"
+    },
+    {
+      "id": 14,
+      "question": "Which is the richest source of Vitamin C?",
+      "options": {
+        "A": "Milk",
+        "B": "Egg",
+        "C": "Amla",
+        "D": "Fish"
+      },
+      "answer": "C",
+      "explanation": "Page 423: Amla is the richest source of Vitamin C.",
+      "topic": "Vitamins"
+    },
+    {
+      "id": 15,
+      "question": "Bleeding gum, falling of teeth, fragile bones, and delayed wound healing are symptoms of deficiency of:",
+      "options": {
+        "A": "Vitamin A",
+        "B": "Vitamin D",
+        "C": "Vitamin C",
+        "D": "Vitamin K"
+      },
+      "answer": "C",
+      "explanation": "Page 423: These symptoms occur due to deficiency of Vitamin C.",
+      "topic": "Vitamins"
+    },
+    {
+      "id": 16,
+      "question": "Deficiency of calcium mainly occurs in the absence of which vitamin?",
+      "options": {
+        "A": "Vitamin A",
+        "B": "Vitamin B",
+        "C": "Vitamin C",
+        "D": "Vitamin D"
+      },
+      "answer": "D",
+      "explanation": "Page 423: Deficiency of calcium mainly occurs in absence of Vitamin D.",
+      "topic": "Vitamins"
+    },
+    {
+      "id": 17,
+      "question": "The daily requirement of Sodium (as sodium chloride) is:",
+      "options": {
+        "A": "20 mg",
+        "B": "1 gram",
+        "C": "2–5 grams",
+        "D": "1.2 grams"
+      },
+      "answer": "C",
+      "explanation": "Page 423: Daily requirement of Sodium is 2–5 grams (as sodium chloride).",
+      "topic": "Minerals"
+    },
+    {
+      "id": 18,
+      "question": "Sodium is normally found in which part of the cell?",
+      "options": {
+        "A": "Nucleus",
+        "B": "Protoplasm",
+        "C": "External fluid of cell",
+        "D": "Mitochondria"
+      },
+      "answer": "C",
+      "explanation": "Page 423: Sodium is normally found in external fluid of cell.",
+      "topic": "Minerals"
+    },
+    {
+      "id": 19,
+      "question": "The daily requirement of Potassium is:",
+      "options": {
+        "A": "2–5 grams",
+        "B": "1 gram",
+        "C": "20 mg",
+        "D": "1.2 grams"
+      },
+      "answer": "B",
+      "explanation": "Page 423: Daily requirement of Potassium is approximately 1 gram.",
+      "topic": "Minerals"
+    },
+    {
+      "id": 20,
+      "question": "Potassium is normally found in:",
+      "options": {
+        "A": "External fluid of cell",
+        "B": "Protoplasm",
+        "C": "Bones only",
+        "D": "Blood plasma only"
+      },
+      "answer": "B",
+      "explanation": "Page 423: Potassium is normally found in protoplasm. It is important for different chemical reactions in cells.",
+      "topic": "Minerals"
+    },
+    {
+      "id": 21,
+      "question": "The daily requirement of Calcium is approximately:",
+      "options": {
+        "A": "20 mg",
+        "B": "1 gram",
+        "C": "1.2 grams",
+        "D": "2–5 grams"
+      },
+      "answer": "C",
+      "explanation": "Page 423: Daily requirement of Calcium is approximately 1.2 grams.",
+      "topic": "Minerals"
+    },
+    {
+      "id": 22,
+      "question": "Which mineral provides strength to bones and teeth, and helps in blood clotting?",
+      "options": {
+        "A": "Iron",
+        "B": "Calcium",
+        "C": "Zinc",
+        "D": "Iodine"
+      },
+      "answer": "B",
+      "explanation": "Page 423: Calcium provides strength to bones and teeth with vitamin, important role in blood formation, muscular contraction, and help in clotting of blood.",
+      "topic": "Minerals"
+    },
+    {
+      "id": 23,
+      "question": "The daily requirement of Iron for boys and girls respectively is:",
+      "options": {
+        "A": "20 mg for both",
+        "B": "25 mg (boy) and 35 mg (girl)",
+        "C": "35 mg (boy) and 25 mg (girl)",
+        "D": "10 mg for both"
+      },
+      "answer": "B",
+      "explanation": "Page 423: Iron daily requirement is 25 mg for boys and 35 mg for girls.",
+      "topic": "Minerals"
+    },
+    {
+      "id": 24,
+      "question": "Iron is an important component of:",
+      "options": {
+        "A": "Thyroxin hormone",
+        "B": "Insulin",
+        "C": "Red Blood Corpuscles and Haemoglobin",
+        "D": "Bones and Teeth"
+      },
+      "answer": "C",
+      "explanation": "Page 423: Iron is important component of Red Blood Corpuscles and haemoglobin.",
+      "topic": "Minerals"
+    },
+    {
+      "id": 25,
+      "question": "Iodine is important for the synthesis of which hormone?",
+      "options": {
+        "A": "Insulin",
+        "B": "Adrenaline",
+        "C": "Thyroxin hormone secreted by Thyroid gland",
+        "D": "Growth hormone"
+      },
+      "answer": "C",
+      "explanation": "Page 423: Iodine is important for synthesis of thyroxin hormone secreted by Thyroid gland.",
+      "topic": "Minerals"
+    },
+    {
+      "id": 26,
+      "question": "The daily requirement of Iodine is:",
+      "options": {
+        "A": "1 gram",
+        "B": "1.2 grams",
+        "C": "20 mg",
+        "D": "2–5 grams"
+      },
+      "answer": "C",
+      "explanation": "Page 423: Daily requirement of Iodine is 20 mg.",
+      "topic": "Minerals"
+    },
+    {
+      "id": 27,
+      "question": "Which mineral is required for insulin functioning?",
+      "options": {
+        "A": "Copper",
+        "B": "Magnesium",
+        "C": "Zinc",
+        "D": "Cobalt"
+      },
+      "answer": "C",
+      "explanation": "Page 423: Zinc is required for insulin functioning. Sources include liver and fishes.",
+      "topic": "Minerals"
+    },
+    {
+      "id": 28,
+      "question": "Magnesium is important for functioning of:",
+      "options": {
+        "A": "Thyroid gland",
+        "B": "Muscular system and nervous system",
+        "C": "Insulin production",
+        "D": "Blood clotting"
+      },
+      "answer": "B",
+      "explanation": "Page 423: Magnesium is for functioning of muscular system and nervous system.",
+      "topic": "Minerals"
+    },
+    {
+      "id": 29,
+      "question": "Copper is needed for:",
+      "options": {
+        "A": "Insulin functioning",
+        "B": "Thyroxin synthesis",
+        "C": "Formation of haemoglobin and bones, and as a conductor of electron",
+        "D": "Nerve impulse transmission only"
+      },
+      "answer": "C",
+      "explanation": "Page 423: Copper is needed for formation of haemoglobin and bones and as a conductor of electron.",
+      "topic": "Minerals"
+    },
+    {
+      "id": 30,
+      "question": "Cobalt is essential for synthesis of:",
+      "options": {
+        "A": "Thyroxin and Growth hormone",
+        "B": "RBC and Vitamin B12",
+        "C": "Insulin and Glucagon",
+        "D": "Hemoglobin only"
+      },
+      "answer": "B",
+      "explanation": "Page 423: Cobalt is essential for synthesis of RBC and Vitamin B12.",
+      "topic": "Minerals"
+    },
+    {
+      "id": 31,
+      "question": "Deficiency of fluoride leads to:",
+      "options": {
+        "A": "Anemia",
+        "B": "Goitre",
+        "C": "Mottling of teeth",
+        "D": "Night blindness"
+      },
+      "answer": "C",
+      "explanation": "Page 423: Deficiency of fluoride leads to mottling of teeth.",
+      "topic": "Minerals"
+    },
+    {
+      "id": 32,
+      "question": "Presence of excess fluorine in water causes:",
+      "options": {
+        "A": "Goitre",
+        "B": "Fluorosis",
+        "C": "Rickets",
+        "D": "Scurvy"
+      },
+      "answer": "B",
+      "explanation": "Page 423: Presence of excess fluorine in water causes fluorosis.",
+      "topic": "Minerals"
+    },
+    {
+      "id": 33,
+      "question": "To reduce tooth decay, most toothpastes contain:",
+      "options": {
+        "A": "Calcium",
+        "B": "Iron",
+        "C": "Fluoride",
+        "D": "Zinc"
+      },
+      "answer": "C",
+      "explanation": "Page 423: To reduce tooth decay most tooth pastes contain fluoride.",
+      "topic": "Minerals"
+    },
+    {
+      "id": 34,
+      "question": "The hard enamel layer of teeth is made of:",
+      "options": {
+        "A": "Calcium carbonate",
+        "B": "Calcium hydroxy apatite",
+        "C": "Calcium oxalate",
+        "D": "Calcium phosphate only"
+      },
+      "answer": "B",
+      "explanation": "Page 423: Hard enamel layer of teeth is calcium hydroxy apatite.",
+      "topic": "Minerals"
+    },
+    {
+      "id": 35,
+      "question": "Deficiency of calcium and iron is generally found in:",
+      "options": {
+        "A": "Children",
+        "B": "Elderly men",
+        "C": "Pregnant women",
+        "D": "Athletes"
+      },
+      "answer": "C",
+      "explanation": "Page 423: Deficiency of calcium and iron is generally found in pregnant women.",
+      "topic": "Minerals"
+    },
+    {
+      "id": 36,
+      "question": "A typical adult human body contains about how much magnesium?",
+      "options": {
+        "A": "5 grams",
+        "B": "10 grams",
+        "C": "25 grams",
+        "D": "50 grams"
+      },
+      "answer": "C",
+      "explanation": "Page 423: A typical adult human body contains about 25 grams of magnesium.",
+      "topic": "Minerals"
+    },
+    {
+      "id": 37,
+      "question": "Water is what percentage of our body weight?",
+      "options": {
+        "A": "40%",
+        "B": "50%",
+        "C": "60%",
+        "D": "70%"
+      },
+      "answer": "C",
+      "explanation": "Page 423: Water is the important component of our body, 60% weight of the body is water.",
+      "topic": "Water"
+    },
+    {
+      "id": 38,
+      "question": "Which of the following is NOT a main function of water in the body?",
+      "options": {
+        "A": "Controls temperature by sweating and vapourization",
+        "B": "Important for excretion of excretory substances",
+        "C": "Synthesis of Vitamin D",
+        "D": "Maximum chemical reactions through hydrolysis"
+      },
+      "answer": "C",
+      "explanation": "Page 423: Water functions include temperature control, excretion, and hydrolysis. Vitamin D synthesis is by sunlight/cholesterol, not water.",
+      "topic": "Water"
+    },
+    {
+      "id": 39,
+      "question": "Minerals are:",
+      "options": {
+        "A": "Organic compounds",
+        "B": "Homogenous inorganic material needed for metabolism",
+        "C": "Proteins",
+        "D": "Carbohydrates"
+      },
+      "answer": "B",
+      "explanation": "Page 423: Mineral is a homogenous inorganic material needed for body which control the metabolism of body.",
+      "topic": "Minerals"
+    },
+    {
+      "id": 40,
+      "question": "Sources of Iodine include:",
+      "options": {
+        "A": "Milk and cheese only",
+        "B": "Sea fish, sea food, green leafy vegetables, iodized salt",
+        "C": "Meat and liver only",
+        "D": "Eggs and bread only"
+      },
+      "answer": "B",
+      "explanation": "Page 423: Iodine sources include sea fish, sea food, green leafy vegetables, iodized salt.",
+      "topic": "Minerals"
+    },
+    {
+      "id": 41,
+      "question": "Which mineral deficiency affects the activity of nitrogenase, nitrate reductase, and chlorate reductase in plants?",
+      "options": {
+        "A": "Zinc",
+        "B": "Copper",
+        "C": "Molybdenum",
+        "D": "Magnesium"
+      },
+      "answer": "C",
+      "explanation": "Page 423: Deficiency of molybdenum affects the activity of nitrogenase, nitrate reductase and chlorate reductase in plants.",
+      "topic": "Minerals"
+    },
+    {
+      "id": 42,
+      "question": "Sodium is related to which function in the body?",
+      "options": {
+        "A": "Insulin functioning",
+        "B": "Contraction of muscles and transmission of nerve impulses",
+        "C": "Synthesis of thyroxin",
+        "D": "Formation of haemoglobin"
+      },
+      "answer": "B",
+      "explanation": "Page 423: Sodium is related to contraction of muscles and transmission of nerve impulses in nerve fiber.",
+      "topic": "Minerals"
+    },
+    {
+      "id": 43,
+      "question": "Main sources of Calcium include:",
+      "options": {
+        "A": "Sea fish and iodized salt",
+        "B": "Liver and fishes",
+        "C": "Milk, cheese, eggs, grains, fish",
+        "D": "Meat, fish, liver and grains"
+      },
+      "answer": "C",
+      "explanation": "Page 423: Calcium sources include milk, cheese, eggs, grains, gram, fish etc.",
+      "topic": "Minerals"
+    },
+    {
+      "id": 44,
+      "question": "Phosphorus daily requirement is:",
+      "options": {
+        "A": "20 mg",
+        "B": "1.2 grams",
+        "C": "1 gram",
+        "D": "25 mg"
+      },
+      "answer": "B",
+      "explanation": "Page 423: Phosphorus daily requirement is 1.2 gram. Sources include milk, cheese, bajra, green leafy vegetables.",
+      "topic": "Minerals"
+    },
+    {
+      "id": 45,
+      "question": "Phosphorus provides strength to bones and teeth in coordination with:",
+      "options": {
+        "A": "Iron",
+        "B": "Zinc",
+        "C": "Calcium",
+        "D": "Iodine"
+      },
+      "answer": "C",
+      "explanation": "Page 423: Phosphorus provides strength to bones and teeth, in coordination with calcium.",
+      "topic": "Minerals"
+    },
+    {
+      "id": 46,
+      "question": "Synthesis of vitamins can/cannot be done by cells of the body:",
+      "options": {
+        "A": "Can be done easily",
+        "B": "Cannot be done; fulfilled by vitamin-containing food",
+        "C": "Only in liver",
+        "D": "Only in kidneys"
+      },
+      "answer": "B",
+      "explanation": "Page 423: Synthesis of vitamins cannot be done by the cells of body. It is fulfilled by vitamin containing food.",
+      "topic": "Vitamins"
+    },
+    {
+      "id": 47,
+      "question": "Which vitamins can be synthesized in the human body?",
+      "options": {
+        "A": "Vitamin A and B",
+        "B": "Vitamin B and C",
+        "C": "Vitamin D and K",
+        "D": "Vitamin E and K"
+      },
+      "answer": "C",
+      "explanation": "Page 423: Synthesis of Vitamin D and K takes place in body (D via sunlight, K via colon bacteria).",
+      "topic": "Vitamins"
+    },
+    {
+      "id": 48,
+      "question": "Sources of Vitamin K include:",
+      "options": {
+        "A": "Fish liver oil and milk",
+        "B": "Tomato, Soybean oil, Green vegetables, Alfalfa",
+        "C": "Eggs and bread",
+        "D": "Meat and liver"
+      },
+      "answer": "B",
+      "explanation": "Page 423: Vitamin K sources include Tomato, Soybean oil, Green vegetables, Alfalfa etc.",
+      "topic": "Vitamins"
+    },
+    {
+      "id": 49,
+      "question": "Sources of Iron include:",
+      "options": {
+        "A": "Sea fish and iodized salt",
+        "B": "Vegetables only",
+        "C": "Albumen of egg, bread, Bajra, Banana, Spinach, Apple",
+        "D": "Milk and cheese only"
+      },
+      "answer": "C",
+      "explanation": "Page 423: Iron sources include albumen of egg, bread, Bajra, Banana, Spinach apple.",
+      "topic": "Minerals"
+    },
+    {
+      "id": 50,
+      "question": "Balance Diet is defined as:",
+      "options": {
+        "A": "Eating only proteins",
+        "B": "Nutrition in which all important nutrients are available in sufficient quantity",
+        "C": "Eating only carbohydrates",
+        "D": "Fasting for health"
+      },
+      "answer": "B",
+      "explanation": "Page 423: Balance Diet is that nutrition in which all the important nutrients for organism are available in sufficient quantity.",
+      "topic": "Balanced Diet"
+    }
+  ]
+}

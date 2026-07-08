@@ -1,0 +1,659 @@
+{
+  "title": "Nutrients & Carbohydrates – Page 421",
+  "source": "Lucent's General Knowledge – Biology",
+  "section": "Biology: Nutrients, Carbohydrates & Energy Production",
+  "total_questions": 50,
+  "time_limit_minutes": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The function of food in providing basic nutrition is called:",
+      "options": {
+        "A": "Digestion",
+        "B": "Nutrition",
+        "C": "Absorption",
+        "D": "Excretion"
+      },
+      "answer": "B",
+      "explanation": "Page 421: To maintain life, organisms need nutrition. Nutrition is the basic function of food.",
+      "topic": "Nutrients"
+    },
+    {
+      "id": 2,
+      "question": "Nutrients include:",
+      "options": {
+        "A": "Only proteins",
+        "B": "Carbohydrates, proteins, fats, minerals, vitamins and water",
+        "C": "Only vitamins",
+        "D": "Only minerals"
+      },
+      "answer": "B",
+      "explanation": "Page 421: Nutrients include carbohydrates, proteins, fats, minerals, vitamins and water.",
+      "topic": "Nutrients"
+    },
+    {
+      "id": 3,
+      "question": "Carbohydrates are organic compounds made of:",
+      "options": {
+        "A": "Nitrogen and Hydrogen",
+        "B": "Carbon, Hydrogen and Oxygen",
+        "C": "Sulphur and Phosphorus",
+        "D": "Only Carbon"
+      },
+      "answer": "B",
+      "explanation": "Page 421: Carbohydrates are organic compounds in which the ratio of Carbon, Hydrogen and Oxygen is 1:2:1.",
+      "topic": "Carbohydrates"
+    },
+    {
+      "id": 4,
+      "question": "Carbohydrate is the major intake in animals and humans, providing what percentage of energy?",
+      "options": {
+        "A": "20-30%",
+        "B": "50 to 75%",
+        "C": "90%",
+        "D": "10%"
+      },
+      "answer": "B",
+      "explanation": "Page 421: Carbohydrate is the major intake providing 50 to 75% energy.",
+      "topic": "Carbohydrates"
+    },
+    {
+      "id": 5,
+      "question": "Carbohydrate containing aldehyde group is called:",
+      "options": {
+        "A": "Ketose",
+        "B": "Aldose",
+        "C": "Lactose",
+        "D": "Sucrose"
+      },
+      "answer": "B",
+      "explanation": "Page 421: Carbohydrate containing aldehyde group is called aldose and with ketone group is called ketose.",
+      "topic": "Carbohydrates"
+    },
+    {
+      "id": 6,
+      "question": "Carbohydrates are classified into how many main groups?",
+      "options": {
+        "A": "2",
+        "B": "3 – Monosaccharides, Oligosaccharides, Polysaccharides",
+        "C": "4",
+        "D": "5"
+      },
+      "answer": "B",
+      "explanation": "Page 421: Carbohydrates are classified into three main groups: Monosaccharides, Oligosaccharides, Polysaccharides.",
+      "topic": "Carbohydrates"
+    },
+    {
+      "id": 7,
+      "question": "Monosaccharides are the simplest sugars composed of:",
+      "options": {
+        "A": "Multiple units",
+        "B": "Single polyhydroxy or ketone units",
+        "C": "Proteins",
+        "D": "Fats"
+      },
+      "answer": "B",
+      "explanation": "Page 421: Monosaccharides are the simplest carbohydrates, single polyhydroxy or ketone units.",
+      "topic": "Carbohydrates"
+    },
+    {
+      "id": 8,
+      "question": "Most abundant monosaccharide found in nature is:",
+      "options": {
+        "A": "Fructose",
+        "B": "Glucose",
+        "C": "Galactose",
+        "D": "Ribose"
+      },
+      "answer": "B",
+      "explanation": "Page 421: Most abundant monosaccharide found in nature is glucose. Containing 6 carbon atoms.",
+      "topic": "Carbohydrates"
+    },
+    {
+      "id": 9,
+      "question": "Glucose is a type of:",
+      "options": {
+        "A": "Disaccharide",
+        "B": "Hexose sugar",
+        "C": "Polysaccharide",
+        "D": "Amino acid"
+      },
+      "answer": "B",
+      "explanation": "Page 421: Glucose is a type of hexose sugar (6 carbon atoms).",
+      "topic": "Carbohydrates"
+    },
+    {
+      "id": 10,
+      "question": "The sweetest sugar is:",
+      "options": {
+        "A": "Glucose",
+        "B": "Fructose",
+        "C": "Sucrose",
+        "D": "Lactose"
+      },
+      "answer": "B",
+      "explanation": "Page 421: The sweetest sugar is fructose.",
+      "topic": "Carbohydrates"
+    },
+    {
+      "id": 11,
+      "question": "When 2 to 10 monosaccharides join together they form:",
+      "options": {
+        "A": "Polysaccharides",
+        "B": "Oligosaccharides",
+        "C": "Amino acids",
+        "D": "Fatty acids"
+      },
+      "answer": "B",
+      "explanation": "Page 421: Oligosaccharides are formed when 2 to 10 monosaccharides join together.",
+      "topic": "Carbohydrates"
+    },
+    {
+      "id": 12,
+      "question": "Maltose, Sucrose and Lactose are usually:",
+      "options": {
+        "A": "Monosaccharides",
+        "B": "Disaccharides (crystalline, sweet in taste)",
+        "C": "Polysaccharides",
+        "D": "Proteins"
+      },
+      "answer": "B",
+      "explanation": "Page 421: They are usually crystalline in nature and sweet in test. Maltose, sucrose, lactose are disaccharides.",
+      "topic": "Carbohydrates"
+    },
+    {
+      "id": 13,
+      "question": "Polysaccharides are formed when more than how many monosaccharides join?",
+      "options": {
+        "A": "2",
+        "B": "10",
+        "C": "5",
+        "D": "3"
+      },
+      "answer": "B",
+      "explanation": "Page 421: Polysaccharides are formed when more than 10 monosaccharides join together.",
+      "topic": "Carbohydrates"
+    },
+    {
+      "id": 14,
+      "question": "Polysaccharides are large, insoluble, tasteless. Examples include:",
+      "options": {
+        "A": "Glucose and Fructose",
+        "B": "Starch, glycogen, cellulose, chitin",
+        "C": "Maltose and Sucrose",
+        "D": "Ribose and Deoxyribose"
+      },
+      "answer": "B",
+      "explanation": "Page 421: Polysaccharides examples: starch, glycogen, cellulose, chitin etc. They are large, insoluble, tasteless.",
+      "topic": "Carbohydrates"
+    },
+    {
+      "id": 15,
+      "question": "Glucose is the source of immediate energy production in:",
+      "options": {
+        "A": "Plants only",
+        "B": "The cell",
+        "C": "Bones",
+        "D": "Hair"
+      },
+      "answer": "B",
+      "explanation": "Page 421: Glucose is the source of immediate energy production in the cell.",
+      "topic": "Carbohydrates"
+    },
+    {
+      "id": 16,
+      "question": "Carbohydrate is used as fuel. During the process of respiration, glucose breaks into CO2 and H2O with the help of:",
+      "options": {
+        "A": "Vitamins",
+        "B": "Oxygen",
+        "C": "Minerals",
+        "D": "Hormones"
+      },
+      "answer": "B",
+      "explanation": "Page 421: Carbohydrate is used as fuel. During respiration, glucose breaks into CO2 and H2O with help of oxygen releasing 4.2 kilo calories energy.",
+      "topic": "Carbohydrates"
+    },
+    {
+      "id": 17,
+      "question": "One gram of glucose gives how many kilo calories of energy?",
+      "options": {
+        "A": "9.3",
+        "B": "4.2",
+        "C": "7.0",
+        "D": "2.1"
+      },
+      "answer": "B",
+      "explanation": "Page 421: One gram of glucose gives 4.2 kilo calories energy.",
+      "topic": "Carbohydrates"
+    },
+    {
+      "id": 18,
+      "question": "Nucleic acids are polymers of:",
+      "options": {
+        "A": "Amino acids",
+        "B": "Nucleosides and nucleotides",
+        "C": "Fatty acids",
+        "D": "Glucose"
+      },
+      "answer": "B",
+      "explanation": "Page 421: Nucleic acids are polymers of nucleosides and nucleotides.",
+      "topic": "Carbohydrates"
+    },
+    {
+      "id": 19,
+      "question": "Lactose of milk is formed from:",
+      "options": {
+        "A": "Two glucose molecules",
+        "B": "Glucose and galactose",
+        "C": "Fructose and glucose",
+        "D": "Two fructose molecules"
+      },
+      "answer": "B",
+      "explanation": "Page 421: Lactose of milk is formed from glucose and galactose.",
+      "topic": "Carbohydrates"
+    },
+    {
+      "id": 20,
+      "question": "Glucose is used for the formation of fat and:",
+      "options": {
+        "A": "Vitamins",
+        "B": "Amino acid",
+        "C": "Minerals",
+        "D": "Hormones"
+      },
+      "answer": "B",
+      "explanation": "Page 421: Glucose is used for the formation of fat and amino acid.",
+      "topic": "Carbohydrates"
+    },
+    {
+      "id": 21,
+      "question": "Carbon skeleton of fats, chitin, cellulose is used in:",
+      "options": {
+        "A": "Respiration only",
+        "B": "Formation of fat and amino acid in the body",
+        "C": "Blood production",
+        "D": "Bone formation"
+      },
+      "answer": "B",
+      "explanation": "Page 421: Carbon skeleton of fats, chitin, cellulose etc. is used in the body for formation of structures.",
+      "topic": "Carbohydrates"
+    },
+    {
+      "id": 22,
+      "question": "Sources of carbohydrate include:",
+      "options": {
+        "A": "Meat and fish only",
+        "B": "Potato, wheat, rice, maize, sweet potato, and other plant and animal materials",
+        "C": "Eggs only",
+        "D": "Milk only"
+      },
+      "answer": "B",
+      "explanation": "Page 421: Sources include potato, wheat, rice, maize, sweet potato, and other plant and animal sources.",
+      "topic": "Carbohydrates"
+    },
+    {
+      "id": 23,
+      "question": "Protein was first used by:",
+      "options": {
+        "A": "Hopkins",
+        "B": "J. Berzelius",
+        "C": "Funk",
+        "D": "Pasteur"
+      },
+      "answer": "B",
+      "explanation": "Page 421: Protein word was first used by J. Berzelius.",
+      "topic": "Proteins"
+    },
+    {
+      "id": 24,
+      "question": "Proteins are complex organic compounds made of:",
+      "options": {
+        "A": "Fatty acids",
+        "B": "Amino acids (approximately 16% of the human body is protein)",
+        "C": "Nucleic acids",
+        "D": "Glucose units"
+      },
+      "answer": "B",
+      "explanation": "Page 421: Protein is a complex organic compound made up of amino acids. Approximately 16% of human body is protein.",
+      "topic": "Proteins"
+    },
+    {
+      "id": 25,
+      "question": "How many types of amino acids are necessary for protein synthesis in the human body?",
+      "options": {
+        "A": "10",
+        "B": "20",
+        "C": "30",
+        "D": "15"
+      },
+      "answer": "B",
+      "explanation": "Page 421: Twenty types of amino acid are necessary for protein synthesis.",
+      "topic": "Proteins"
+    },
+    {
+      "id": 26,
+      "question": "Out of 20 amino acids, how many are synthesized by the body itself?",
+      "options": {
+        "A": "8",
+        "B": "12",
+        "C": "15",
+        "D": "20"
+      },
+      "answer": "B",
+      "explanation": "Page 421: Out of 20, 12 are synthesized by body itself and remaining 8 are obtained from food (essential amino acids).",
+      "topic": "Proteins"
+    },
+    {
+      "id": 27,
+      "question": "Nitrogen is present in protein at approximately:",
+      "options": {
+        "A": "10%",
+        "B": "16%",
+        "C": "25%",
+        "D": "5%"
+      },
+      "answer": "B",
+      "explanation": "Page 421: Nitrogen is 16% present in protein.",
+      "topic": "Proteins"
+    },
+    {
+      "id": 28,
+      "question": "Production of energy: By oxidation of pyruvic acid, from one molecule NADH, how many molecules of ATP are formed?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "1",
+        "D": "5"
+      },
+      "answer": "B",
+      "explanation": "Page 421: By the oxidation of NADH, 3 molecules of ATP are formed.",
+      "topic": "Energy Production"
+    },
+    {
+      "id": 29,
+      "question": "From one molecule of NADH2, how many molecules of ATP are formed?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "1",
+        "D": "5"
+      },
+      "answer": "B",
+      "explanation": "Page 421: One molecule of NADH2 gives 3 ATP molecules.",
+      "topic": "Energy Production"
+    },
+    {
+      "id": 30,
+      "question": "Total ATP molecules produced from one molecule of glucose in aerobic respiration is:",
+      "options": {
+        "A": "36",
+        "B": "38",
+        "C": "2",
+        "D": "4"
+      },
+      "answer": "B",
+      "explanation": "Page 421: ATP glucose total = 2 + 36 = 38 ATP molecules from complete oxidation of glucose.",
+      "topic": "Energy Production"
+    },
+    {
+      "id": 31,
+      "question": "From glycolysis, how many molecules of NADH are produced from one glucose molecule?",
+      "options": {
+        "A": "4",
+        "B": "2",
+        "C": "1",
+        "D": "6"
+      },
+      "answer": "B",
+      "explanation": "Page 421: From glycolysis, 2 NADH molecules are produced.",
+      "topic": "Energy Production"
+    },
+    {
+      "id": 32,
+      "question": "Kreb's cycle produces how many ATP molecules per glucose?",
+      "options": {
+        "A": "38",
+        "B": "24",
+        "C": "2",
+        "D": "4"
+      },
+      "answer": "B",
+      "explanation": "Page 421: Kreb's cycle produces 24 ATP (from complete cycle for both pyruvate molecules).",
+      "topic": "Energy Production"
+    },
+    {
+      "id": 33,
+      "question": "The main respiratory substances are:",
+      "options": {
+        "A": "Only fats",
+        "B": "Carbohydrate, fat, and protein",
+        "C": "Only minerals",
+        "D": "Only vitamins"
+      },
+      "answer": "B",
+      "explanation": "Page 421: Main respiratory substances are carbohydrate, fat and protein. At first, oxidation of glucose takes place, then fat, then protein.",
+      "topic": "Respiration"
+    },
+    {
+      "id": 34,
+      "question": "The part of eye which is responsible for the conversion of image into neural signal is:",
+      "options": {
+        "A": "Cornea",
+        "B": "Retina",
+        "C": "Iris",
+        "D": "Lens"
+      },
+      "answer": "B",
+      "explanation": "Page 421: The part of eye responsible for conversion of image into neural signal is Retina. It contains photoreceptor cells.",
+      "topic": "Eye/Vision"
+    },
+    {
+      "id": 35,
+      "question": "Retina of eye contains cells called:",
+      "options": {
+        "A": "Neurons",
+        "B": "Photoreceptor cells",
+        "C": "Muscle cells",
+        "D": "Blood cells"
+      },
+      "answer": "B",
+      "explanation": "Page 421: Retina contains photoreceptor cells and sends information to brain to decide what the picture is.",
+      "topic": "Eye/Vision"
+    },
+    {
+      "id": 36,
+      "question": "The optic nerve carries image information to the:",
+      "options": {
+        "A": "Spinal cord",
+        "B": "Brain",
+        "C": "Heart",
+        "D": "Lungs"
+      },
+      "answer": "B",
+      "explanation": "Page 421: Retina side of eye processes and sends information to the brain through optic nerve.",
+      "topic": "Eye/Vision"
+    },
+    {
+      "id": 37,
+      "question": "Cyanide poisoning causes death by affecting:",
+      "options": {
+        "A": "Digestive system",
+        "B": "Electron transport chain system",
+        "C": "Skeletal system",
+        "D": "Endocrine system"
+      },
+      "answer": "B",
+      "explanation": "Page 421: Cyanide poisoning causes death by breaking down the electron transport chain/equalising the pressure on the system.",
+      "topic": "Respiration"
+    },
+    {
+      "id": 38,
+      "question": "Organisms get energy from:",
+      "options": {
+        "A": "Only water",
+        "B": "Nutrients (mainly carbohydrate and fat used for biosynthesis and energy)",
+        "C": "Only air",
+        "D": "Only minerals"
+      },
+      "answer": "B",
+      "explanation": "Page 421: Organisms get energy from nutrients. Carbohydrate and fat are used for biosynthesis and energy.",
+      "topic": "Nutrients"
+    },
+    {
+      "id": 39,
+      "question": "Assimilation means:",
+      "options": {
+        "A": "Eating food",
+        "B": "Absorption of food and utilization for body functions",
+        "C": "Excretion of waste",
+        "D": "Breathing"
+      },
+      "answer": "B",
+      "explanation": "Page 421: Assimilation is the absorption of nutrients and their utilization for body functions.",
+      "topic": "Nutrients"
+    },
+    {
+      "id": 40,
+      "question": "Undigested foods are included in:",
+      "options": {
+        "A": "Nutrition",
+        "B": "Excretion/egestion",
+        "C": "Assimilation",
+        "D": "Absorption"
+      },
+      "answer": "B",
+      "explanation": "Page 421: Function of food includes nutrition, digestion, absorption, assimilation and egestion of undigested foods.",
+      "topic": "Nutrients"
+    },
+    {
+      "id": 41,
+      "question": "Monosaccharides containing six carbon atoms are called:",
+      "options": {
+        "A": "Pentoses",
+        "B": "Hexoses",
+        "C": "Trioses",
+        "D": "Tetroses"
+      },
+      "answer": "B",
+      "explanation": "Page 421: Monosaccharides with 6 carbon atoms are called hexoses (e.g., glucose, fructose).",
+      "topic": "Carbohydrates"
+    },
+    {
+      "id": 42,
+      "question": "Starch is a:",
+      "options": {
+        "A": "Monosaccharide",
+        "B": "Polysaccharide",
+        "C": "Disaccharide",
+        "D": "Amino acid"
+      },
+      "answer": "B",
+      "explanation": "Page 421: Starch is a polysaccharide. It is the storage form of carbohydrate in plants.",
+      "topic": "Carbohydrates"
+    },
+    {
+      "id": 43,
+      "question": "Glycogen is the storage form of carbohydrate in:",
+      "options": {
+        "A": "Plants",
+        "B": "Animals",
+        "C": "Bacteria",
+        "D": "Fungi only"
+      },
+      "answer": "B",
+      "explanation": "Page 421: Glycogen is the storage form of carbohydrate in animals.",
+      "topic": "Carbohydrates"
+    },
+    {
+      "id": 44,
+      "question": "Cellulose is found in:",
+      "options": {
+        "A": "Animal muscles",
+        "B": "Plant cell walls",
+        "C": "Blood",
+        "D": "Bones"
+      },
+      "answer": "B",
+      "explanation": "Page 421: Cellulose is found in plant cell walls. It is a structural polysaccharide.",
+      "topic": "Carbohydrates"
+    },
+    {
+      "id": 45,
+      "question": "Pentose sugars include:",
+      "options": {
+        "A": "Glucose and Fructose",
+        "B": "Ribose and Deoxyribose",
+        "C": "Sucrose and Maltose",
+        "D": "Starch and Glycogen"
+      },
+      "answer": "B",
+      "explanation": "Page 421: Monosaccharides with 5 carbons include ribose (in RNA) and deoxyribose (in DNA).",
+      "topic": "Carbohydrates"
+    },
+    {
+      "id": 46,
+      "question": "Sucrose is formed by joining:",
+      "options": {
+        "A": "Two glucose molecules",
+        "B": "Glucose and Fructose",
+        "C": "Glucose and Galactose",
+        "D": "Two fructose molecules"
+      },
+      "answer": "B",
+      "explanation": "Page 421: Sucrose (table sugar) is formed by joining glucose and fructose.",
+      "topic": "Carbohydrates"
+    },
+    {
+      "id": 47,
+      "question": "Maltose is formed by joining:",
+      "options": {
+        "A": "Glucose and fructose",
+        "B": "Two glucose molecules",
+        "C": "Glucose and galactose",
+        "D": "Two fructose molecules"
+      },
+      "answer": "B",
+      "explanation": "Page 421: Maltose is formed by joining two glucose molecules.",
+      "topic": "Carbohydrates"
+    },
+    {
+      "id": 48,
+      "question": "Which polysaccharide forms the exoskeleton of arthropods?",
+      "options": {
+        "A": "Starch",
+        "B": "Chitin",
+        "C": "Glycogen",
+        "D": "Cellulose"
+      },
+      "answer": "B",
+      "explanation": "Page 421: Chitin is the polysaccharide that forms exoskeleton of arthropods.",
+      "topic": "Carbohydrates"
+    },
+    {
+      "id": 49,
+      "question": "Essential amino acids are those which:",
+      "options": {
+        "A": "Body can synthesize",
+        "B": "Must be obtained from food (8 in number)",
+        "C": "Are not needed",
+        "D": "Are only in plants"
+      },
+      "answer": "B",
+      "explanation": "Page 421: Essential amino acids are 8 in number and must be obtained from food.",
+      "topic": "Proteins"
+    },
+    {
+      "id": 50,
+      "question": "During complete aerobic respiration of one glucose molecule, how many calories of energy is produced?",
+      "options": {
+        "A": "1000 kJ",
+        "B": "2870 kJ (686 kcal)",
+        "C": "500 kJ",
+        "D": "100 kJ"
+      },
+      "answer": "B",
+      "explanation": "Page 421: C6H12O6 + 6O2 → 6CO2 + 6H2O + 2870 kJ energy.",
+      "topic": "Energy Production"
+    }
+  ]
+}

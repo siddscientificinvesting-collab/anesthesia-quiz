@@ -1,0 +1,659 @@
+{
+  "title": "Hardware, Binary System & Data Units – Page 490",
+  "source": "Lucent's General Knowledge – Computer",
+  "section": "Computer: Hardware, Binary System, Data Measurement & Logic Gates",
+  "total_questions": 50,
+  "time_limit_minutes": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "A computer has two main parts:",
+      "options": {
+        "A": "Monitor and Keyboard",
+        "B": "Hardware and Software",
+        "C": "CPU and Memory",
+        "D": "Input and Output"
+      },
+      "answer": "B",
+      "explanation": "Page 490: It has two main parts: (i) Hardware and (ii) Software.",
+      "topic": "Hardware"
+    },
+    {
+      "id": 2,
+      "question": "Hardware comprises of the physical units of a computer system. These units constitute the:",
+      "options": {
+        "A": "Software",
+        "B": "Hardware of a computer",
+        "C": "Programs",
+        "D": "Data"
+      },
+      "answer": "B",
+      "explanation": "Page 490: A computer has three main units: Input unit, Processing unit, Output unit. These constitute the hardware.",
+      "topic": "Hardware"
+    },
+    {
+      "id": 3,
+      "question": "A computer has three main units:",
+      "options": {
+        "A": "ALU, CU, Memory",
+        "B": "Input unit, Processing unit, Output unit",
+        "C": "Keyboard, Mouse, Monitor",
+        "D": "CPU, RAM, HDD"
+      },
+      "answer": "B",
+      "explanation": "Page 490: A computer has three main units: 1. Input unit, 2. Processing unit and 3. Output unit.",
+      "topic": "Hardware"
+    },
+    {
+      "id": 4,
+      "question": "The computer has its own internal:",
+      "options": {
+        "A": "Voice",
+        "B": "Language",
+        "C": "Music",
+        "D": "Video"
+      },
+      "answer": "B",
+      "explanation": "Page 490: The computer has its own internal 'language'.",
+      "topic": "Hardware"
+    },
+    {
+      "id": 5,
+      "question": "The computer is essentially made of electronic components that can generate either a low (0 volt) or a high (say 5 volts). These states are represented by:",
+      "options": {
+        "A": "Alphabets",
+        "B": "Binary digits (bits) - 1s and 0s",
+        "C": "Decimal numbers",
+        "D": "Roman numerals"
+      },
+      "answer": "B",
+      "explanation": "Page 490: A high is represented by '1' and a low by '0'. The 1s and 0s are known as binary digits or 'bits'.",
+      "topic": "Binary System"
+    },
+    {
+      "id": 6,
+      "question": "Computers always work with:",
+      "options": {
+        "A": "Decimal numbers",
+        "B": "Bits",
+        "C": "Words",
+        "D": "Pictures"
+      },
+      "answer": "B",
+      "explanation": "Page 490: Computers always work with bits. They do not understand any other form.",
+      "topic": "Binary System"
+    },
+    {
+      "id": 7,
+      "question": "Computer scientists use combination of how many bits to represent various symbols?",
+      "options": {
+        "A": "4",
+        "B": "8",
+        "C": "16",
+        "D": "32"
+      },
+      "answer": "B",
+      "explanation": "Page 490: Computer scientists use combination of 8 bits taken together to represent various symbols.",
+      "topic": "Binary System"
+    },
+    {
+      "id": 8,
+      "question": "Using 8 bits, the computer can represent how many different symbols?",
+      "options": {
+        "A": "128",
+        "B": "256",
+        "C": "64",
+        "D": "512"
+      },
+      "answer": "B",
+      "explanation": "Page 490: Because every bit can take one of 2 possible values, using 8 bits, the computer can represent 256 different symbols.",
+      "topic": "Binary System"
+    },
+    {
+      "id": 9,
+      "question": "A combination of 8 bits is called a:",
+      "options": {
+        "A": "Nibble",
+        "B": "Byte",
+        "C": "Word",
+        "D": "Kilobyte"
+      },
+      "answer": "B",
+      "explanation": "Page 490: Such a combination of 8 bits is called a byte.",
+      "topic": "Binary System"
+    },
+    {
+      "id": 10,
+      "question": "In computers, information is represented using multiples of 8 (2³) bits. Higher units are expressible in multiples of:",
+      "options": {
+        "A": "2^2",
+        "B": "2^3",
+        "C": "10",
+        "D": "100"
+      },
+      "answer": "B",
+      "explanation": "Page 490: Since 8 bits are the smallest unit of information, higher units are expressible in multiples of 2^3.",
+      "topic": "Data Units"
+    },
+    {
+      "id": 11,
+      "question": "The power of two closest to a kilo (1000) is 2^10 =:",
+      "options": {
+        "A": "512",
+        "B": "1024",
+        "C": "2048",
+        "D": "256"
+      },
+      "answer": "B",
+      "explanation": "Page 490: The power of two closest to a kilo (1000) is 2^10 = 1024.",
+      "topic": "Data Units"
+    },
+    {
+      "id": 12,
+      "question": "1 Mega Byte is equal to:",
+      "options": {
+        "A": "1024 Bytes",
+        "B": "1 million bytes or 1000 Kilo Bytes",
+        "C": "1 billion bytes",
+        "D": "512 KB"
+      },
+      "answer": "B",
+      "explanation": "Page 490: Mega Bytes is used in conventional sense equal to 1 million bytes or 1000 Kilo Bytes.",
+      "topic": "Data Units"
+    },
+    {
+      "id": 13,
+      "question": "A Giga Byte refers to approximately:",
+      "options": {
+        "A": "1000 bytes",
+        "B": "1000 megabytes or 1 million kilobytes",
+        "C": "100 megabytes",
+        "D": "10 megabytes"
+      },
+      "answer": "B",
+      "explanation": "Page 490: A Giga Byte refers to 1000 megabytes approximately or 1 million kilobytes.",
+      "topic": "Data Units"
+    },
+    {
+      "id": 14,
+      "question": "4 Bit = :",
+      "options": {
+        "A": "1 Byte",
+        "B": "1 Nibble",
+        "C": "1 KB",
+        "D": "1 Word"
+      },
+      "answer": "B",
+      "explanation": "Page 490: 4 Bit = 1 Nibble.",
+      "topic": "Data Units"
+    },
+    {
+      "id": 15,
+      "question": "2 Nibble (8 Bit) = :",
+      "options": {
+        "A": "1 Nibble",
+        "B": "1 Byte",
+        "C": "1 KB",
+        "D": "1 MB"
+      },
+      "answer": "B",
+      "explanation": "Page 490: 2 Nibble (8 Bit) = 1 Byte.",
+      "topic": "Data Units"
+    },
+    {
+      "id": 16,
+      "question": "1024 Byte = :",
+      "options": {
+        "A": "1 MB",
+        "B": "1 Kilo Byte (KB)",
+        "C": "1 GB",
+        "D": "1 Nibble"
+      },
+      "answer": "B",
+      "explanation": "Page 490: 1024 Byte = 1 Kilo Byte (KB).",
+      "topic": "Data Units"
+    },
+    {
+      "id": 17,
+      "question": "1024 KB = :",
+      "options": {
+        "A": "1 GB",
+        "B": "1 Mega Byte (MB)",
+        "C": "1 TB",
+        "D": "1 Byte"
+      },
+      "answer": "B",
+      "explanation": "Page 490: 1024 KB = 1 Mega Byte (MB).",
+      "topic": "Data Units"
+    },
+    {
+      "id": 18,
+      "question": "1024 MB = :",
+      "options": {
+        "A": "1 TB",
+        "B": "1 Giga Byte (GB)",
+        "C": "1 PB",
+        "D": "1 KB"
+      },
+      "answer": "B",
+      "explanation": "Page 490: 1024 MB = 1 Giga Byte (GB).",
+      "topic": "Data Units"
+    },
+    {
+      "id": 19,
+      "question": "1024 GB = :",
+      "options": {
+        "A": "1 PB",
+        "B": "1 Tera Byte (TB)",
+        "C": "1 MB",
+        "D": "1 KB"
+      },
+      "answer": "B",
+      "explanation": "Page 490: 1024 GB = 1 Tera Byte (TB).",
+      "topic": "Data Units"
+    },
+    {
+      "id": 20,
+      "question": "1024 TB = :",
+      "options": {
+        "A": "1 GB",
+        "B": "1 Peta Byte (PB)",
+        "C": "1 MB",
+        "D": "1 EB"
+      },
+      "answer": "B",
+      "explanation": "Page 490: 1024 TB = 1 Peta Byte (PB).",
+      "topic": "Data Units"
+    },
+    {
+      "id": 21,
+      "question": "The basic elements of computers that can signal a 1 or 0 are called:",
+      "options": {
+        "A": "Transistors",
+        "B": "Flip-flops",
+        "C": "Resistors",
+        "D": "Capacitors"
+      },
+      "answer": "B",
+      "explanation": "Page 490: The basic elements that can signal a 1 or 0 are called flip-flops. It is a simple electrical device.",
+      "topic": "Hardware"
+    },
+    {
+      "id": 22,
+      "question": "Modern computers use a very tiny set of flip-flops known as:",
+      "options": {
+        "A": "RAM",
+        "B": "Register",
+        "C": "Cache",
+        "D": "ROM"
+      },
+      "answer": "B",
+      "explanation": "Page 490: Modern computers use a very tiny set of flip-flops known as a register.",
+      "topic": "Hardware"
+    },
+    {
+      "id": 23,
+      "question": "The entire independent circuits can be designed on a small piece of semi conductor material like:",
+      "options": {
+        "A": "Copper",
+        "B": "Silicon",
+        "C": "Gold",
+        "D": "Iron"
+      },
+      "answer": "B",
+      "explanation": "Page 490: The entire independent circuits can be designed on a small piece of semi conductor material like silicon.",
+      "topic": "Hardware"
+    },
+    {
+      "id": 24,
+      "question": "Silicon is obtained from sand and is a poor conductor of electricity. Miniature circuits made on silicon are called:",
+      "options": {
+        "A": "Transistors",
+        "B": "Integrated Circuits (IC)",
+        "C": "Resistors",
+        "D": "Capacitors"
+      },
+      "answer": "B",
+      "explanation": "Page 490: Silicon from sand is a poor conductor. Such miniature circuits are called Integrated Circuits (IC).",
+      "topic": "Hardware"
+    },
+    {
+      "id": 25,
+      "question": "By 1971, engineers were able to build a complete computer on a single chip of silicon called:",
+      "options": {
+        "A": "RAM chip",
+        "B": "Microprocessor",
+        "C": "ROM chip",
+        "D": "GPU"
+      },
+      "answer": "B",
+      "explanation": "Page 490: By 1971, engineers built a complete computer on a single silicon chip called the microprocessor.",
+      "topic": "Hardware"
+    },
+    {
+      "id": 26,
+      "question": "The computer converts all decimal numbers into:",
+      "options": {
+        "A": "Octal numbers",
+        "B": "Binary numbers or combinations of bits",
+        "C": "Hexadecimal numbers",
+        "D": "Roman numerals"
+      },
+      "answer": "B",
+      "explanation": "Page 490: The computer converts all decimal numbers into binary numbers or combinations of bits.",
+      "topic": "Binary System"
+    },
+    {
+      "id": 27,
+      "question": "The internal circuits that perform mathematical operations on bits are usually made of:",
+      "options": {
+        "A": "Resistors",
+        "B": "Logic gates",
+        "C": "Capacitors",
+        "D": "Inductors"
+      },
+      "answer": "B",
+      "explanation": "Page 490: The internal circuits are usually made of two or more logic gates. Logic gates generate a 1 or 0 depending on input.",
+      "topic": "Logic Gates"
+    },
+    {
+      "id": 28,
+      "question": "The three basic logic gates are:",
+      "options": {
+        "A": "ADD, SUB, MUL",
+        "B": "AND, OR and NOT",
+        "C": "IF, THEN, ELSE",
+        "D": "NAND, NOR, XOR"
+      },
+      "answer": "B",
+      "explanation": "Page 490: The three basic logic gates are AND, OR and NOT.",
+      "topic": "Logic Gates"
+    },
+    {
+      "id": 29,
+      "question": "A computer is organized into three basic units:",
+      "options": {
+        "A": "Hardware, Software, Data",
+        "B": "CPU, Memory Unit, Input/Output Unit",
+        "C": "Monitor, Keyboard, Mouse",
+        "D": "RAM, ROM, Cache"
+      },
+      "answer": "B",
+      "explanation": "Page 490: A computer is organized into three basic units: 1. CPU, 2. Memory Unit (MU), 3. Input/Output Unit.",
+      "topic": "Hardware"
+    },
+    {
+      "id": 30,
+      "question": "The CPU is the part of a computer that performs the main function of:",
+      "options": {
+        "A": "Data storage",
+        "B": "Information processing",
+        "C": "Printing",
+        "D": "Networking"
+      },
+      "answer": "B",
+      "explanation": "Page 490: The CPU is the part that performs the main function of information processing.",
+      "topic": "CPU"
+    },
+    {
+      "id": 31,
+      "question": "While earliest machines were 8-bit, contemporary computers can work with:",
+      "options": {
+        "A": "4 bits",
+        "B": "16, 32 and even 64 bits",
+        "C": "Only 8 bits",
+        "D": "128 bits"
+      },
+      "answer": "B",
+      "explanation": "Page 490: While earliest machines were 8-bit, contemporary computers can work with 16, 32 and even 64 bits. This is called data width.",
+      "topic": "Hardware"
+    },
+    {
+      "id": 32,
+      "question": "The earliest computers were designed so that their components could work with how many bits at a time?",
+      "options": {
+        "A": "4",
+        "B": "8",
+        "C": "16",
+        "D": "32"
+      },
+      "answer": "B",
+      "explanation": "Page 490: The earliest computers were designed so that there components could work with 8 bits at a time.",
+      "topic": "Hardware"
+    },
+    {
+      "id": 33,
+      "question": "Hertz is a unit of:",
+      "options": {
+        "A": "Power",
+        "B": "Frequency",
+        "C": "Length",
+        "D": "Weight"
+      },
+      "answer": "B",
+      "explanation": "Page 490: Hertz is a unit of frequency.",
+      "topic": "Hardware"
+    },
+    {
+      "id": 34,
+      "question": "1 MHz equals:",
+      "options": {
+        "A": "1000 ticks per second",
+        "B": "1 million ticks per second",
+        "C": "1 billion ticks per second",
+        "D": "100 ticks per second"
+      },
+      "answer": "B",
+      "explanation": "Page 490: 1 MHz = 1 million 'ticks' per second.",
+      "topic": "Hardware"
+    },
+    {
+      "id": 35,
+      "question": "1 GHz = :",
+      "options": {
+        "A": "100 MHz",
+        "B": "1000 MHz",
+        "C": "10 MHz",
+        "D": "10000 MHz"
+      },
+      "answer": "B",
+      "explanation": "Page 490: 1 GHz = 1000 MHz.",
+      "topic": "Hardware"
+    },
+    {
+      "id": 36,
+      "question": "The ticks per second of the internal clock are measured in:",
+      "options": {
+        "A": "Watts",
+        "B": "Megahertz and Gigahertz",
+        "C": "Meters",
+        "D": "Kilograms"
+      },
+      "answer": "B",
+      "explanation": "Page 490: The ticks per second of the internal clock are measured in megahertz and gigahertz.",
+      "topic": "Hardware"
+    },
+    {
+      "id": 37,
+      "question": "Higher the clock-speed of CPU:",
+      "options": {
+        "A": "Slower the computer",
+        "B": "Faster the computer",
+        "C": "No effect",
+        "D": "Less memory"
+      },
+      "answer": "B",
+      "explanation": "Page 490: Higher the clock-speed, faster the computer.",
+      "topic": "Hardware"
+    },
+    {
+      "id": 38,
+      "question": "A flip-flop is a simple:",
+      "options": {
+        "A": "Mechanical device",
+        "B": "Electrical device",
+        "C": "Optical device",
+        "D": "Chemical device"
+      },
+      "answer": "B",
+      "explanation": "Page 490: Flip-flop is a simple electrical device and can either be a '0' or a '1', meaning current flow is either inward or outward.",
+      "topic": "Hardware"
+    },
+    {
+      "id": 39,
+      "question": "The most important characteristic of registers is that binary digits can be stored in them using:",
+      "options": {
+        "A": "Magnets",
+        "B": "Certain voltages",
+        "C": "Light signals",
+        "D": "Sound waves"
+      },
+      "answer": "B",
+      "explanation": "Page 490: The most important characteristic of registers is that binary digits can be stored in them using certain voltages.",
+      "topic": "Hardware"
+    },
+    {
+      "id": 40,
+      "question": "The binary number system is similar to decimal system. The only difference is in:",
+      "options": {
+        "A": "Operations",
+        "B": "The number of digits used",
+        "C": "Speed",
+        "D": "Size"
+      },
+      "answer": "B",
+      "explanation": "Page 490: The binary number system is similar to decimal. Only difference is in the number of digits used (2 vs 10).",
+      "topic": "Binary System"
+    },
+    {
+      "id": 41,
+      "question": "In binary system, only which digits are used?",
+      "options": {
+        "A": "0 to 9",
+        "B": "0 and 1",
+        "C": "0 to 7",
+        "D": "0 to F"
+      },
+      "answer": "B",
+      "explanation": "Page 490: Binary uses only 0 and 1, while decimal uses 0-9.",
+      "topic": "Binary System"
+    },
+    {
+      "id": 42,
+      "question": "8 bits are enough to cover our entire range of alphabets, numbers and special characters like $, @, +, ₹. This is because 2^8 =:",
+      "options": {
+        "A": "128",
+        "B": "256",
+        "C": "512",
+        "D": "64"
+      },
+      "answer": "B",
+      "explanation": "Page 490: 8 bits = 256 combinations, enough for all alphabets, numbers and special characters.",
+      "topic": "Binary System"
+    },
+    {
+      "id": 43,
+      "question": "To build complex information like paragraphs, we need larger numbers of bytes called:",
+      "options": {
+        "A": "Bits and Nibbles",
+        "B": "Kilobyte, Megabyte and Gigabyte",
+        "C": "Only Nibbles",
+        "D": "Only Bits"
+      },
+      "answer": "B",
+      "explanation": "Page 490: For complex information we need larger number of bytes - kilobyte, megabyte and gigabyte.",
+      "topic": "Data Units"
+    },
+    {
+      "id": 44,
+      "question": "Logic gates are components that generate a 1 or a 0 depending on:",
+      "options": {
+        "A": "Time",
+        "B": "The input",
+        "C": "Temperature",
+        "D": "Pressure"
+      },
+      "answer": "B",
+      "explanation": "Page 490: Logic gates are components that generate a 1 or a 0 depending on the input.",
+      "topic": "Logic Gates"
+    },
+    {
+      "id": 45,
+      "question": "Computer scientists use a special convention: A high is represented by '1' and a low is represented by:",
+      "options": {
+        "A": "2",
+        "B": "0",
+        "C": "9",
+        "D": "5"
+      },
+      "answer": "B",
+      "explanation": "Page 490: A high is symbolically represented by a '1' and a low is represented by a '0'.",
+      "topic": "Binary System"
+    },
+    {
+      "id": 46,
+      "question": "It is difficult to talk always in terms of currents and voltages. Therefore computer scientists represent information using:",
+      "options": {
+        "A": "Analog signals",
+        "B": "Binary convention (1s and 0s)",
+        "C": "Sound waves",
+        "D": "Light pulses"
+      },
+      "answer": "B",
+      "explanation": "Page 490: Computer scientists use binary convention: high=1, low=0.",
+      "topic": "Binary System"
+    },
+    {
+      "id": 47,
+      "question": "The term 'binary' refers to something that has:",
+      "options": {
+        "A": "Three parts",
+        "B": "Two parts",
+        "C": "Four parts",
+        "D": "One part"
+      },
+      "answer": "B",
+      "explanation": "Page 490: The term 'binary' refers to something that has two parts.",
+      "topic": "Binary System"
+    },
+    {
+      "id": 48,
+      "question": "Linus released Linux under:",
+      "options": {
+        "A": "MIT License",
+        "B": "General Public Licence (open and free to all)",
+        "C": "Proprietary license",
+        "D": "Commercial license"
+      },
+      "answer": "B",
+      "explanation": "Page 490: Linus released Linux under General Public Licence, making it open and free to all.",
+      "topic": "Software"
+    },
+    {
+      "id": 49,
+      "question": "A computer may be used to control purely mechanical action. It has:",
+      "options": {
+        "A": "Only software",
+        "B": "Two main parts: Hardware and Software",
+        "C": "Only hardware",
+        "D": "Only data"
+      },
+      "answer": "B",
+      "explanation": "Page 490: A computer may be used to control purely mechanical action. It has two main parts: Hardware and Software.",
+      "topic": "Hardware"
+    },
+    {
+      "id": 50,
+      "question": "The computer supplies processed information back to the users using special:",
+      "options": {
+        "A": "Input devices",
+        "B": "Output devices",
+        "C": "Storage devices",
+        "D": "Network devices"
+      },
+      "answer": "B",
+      "explanation": "Page 490: The computer supplies processed information back to the users using special output devices.",
+      "topic": "Hardware"
+    }
+  ]
+}

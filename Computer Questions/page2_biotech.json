@@ -1,0 +1,659 @@
+{
+  "title": "Balanced Diet & Biotechnology – Page 424",
+  "source": "Lucent's General Knowledge – Biology",
+  "section": "Biology: Diet, Biotechnology & Applied Biology",
+  "total_questions": 50,
+  "time_limit_minutes": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Necessary calorie requirement for a male light worker is:",
+      "options": {
+        "A": "3000 calorie",
+        "B": "2000 calorie",
+        "C": "3600 calorie",
+        "D": "2500 calorie"
+      },
+      "answer": "B",
+      "explanation": "Page 424: Light worker male requires 2000 calorie, female 2100 calorie.",
+      "topic": "Balanced Diet"
+    },
+    {
+      "id": 2,
+      "question": "Necessary calorie requirement for a female eight-hour worker is:",
+      "options": {
+        "A": "2000 calorie",
+        "B": "3000 calorie",
+        "C": "2500 calorie",
+        "D": "3600 calorie"
+      },
+      "answer": "C",
+      "explanation": "Page 424: Eight hours worker female requires 2500 calorie, male 3000 calorie.",
+      "topic": "Balanced Diet"
+    },
+    {
+      "id": 3,
+      "question": "A male hard worker requires how many calories?",
+      "options": {
+        "A": "2000",
+        "B": "2500",
+        "C": "3000",
+        "D": "3600"
+      },
+      "answer": "D",
+      "explanation": "Page 424: Hard worker male requires 3600 calorie, female 3000 calorie.",
+      "topic": "Balanced Diet"
+    },
+    {
+      "id": 4,
+      "question": "Which substance is used as a preservative to preserve food items?",
+      "options": {
+        "A": "Sodium chloride",
+        "B": "Sodium benzoate",
+        "C": "Calcium carbonate",
+        "D": "Potassium permanganate"
+      },
+      "answer": "B",
+      "explanation": "Page 424: Sodium Benzoate is used as preservative to preserve food items.",
+      "topic": "Food Science"
+    },
+    {
+      "id": 5,
+      "question": "Milk is not considered a complete food due to lack of:",
+      "options": {
+        "A": "Calcium and Protein",
+        "B": "Vitamin C and Iron",
+        "C": "Vitamin A and D",
+        "D": "Fat and Carbohydrate"
+      },
+      "answer": "B",
+      "explanation": "Page 424: Milk is not considered as complete food due to lack of vitamin C and iron.",
+      "topic": "Food Science"
+    },
+    {
+      "id": 6,
+      "question": "Which is a genetically modified vegetable recently made available in Indian market?",
+      "options": {
+        "A": "Bt-Cotton",
+        "B": "Bt-Brinjal",
+        "C": "Bt-Corn",
+        "D": "Bt-Potato"
+      },
+      "answer": "B",
+      "explanation": "Page 424: Bt-Brinjal is a genetically modified vegetable recently being made available in Indian market.",
+      "topic": "Biotechnology"
+    },
+    {
+      "id": 7,
+      "question": "Biotechnology deals with techniques of using:",
+      "options": {
+        "A": "Only chemicals",
+        "B": "Live organisms or enzymes to produce useful products",
+        "C": "Only metals",
+        "D": "Nuclear energy"
+      },
+      "answer": "B",
+      "explanation": "Page 424: Biotechnology deals with techniques of using live organisms or enzymes from organisms to produce useful products (e.g., curd, bread, wine).",
+      "topic": "Biotechnology"
+    },
+    {
+      "id": 8,
+      "question": "Genetic Engineering is the technique to alter:",
+      "options": {
+        "A": "Physical structure of organism",
+        "B": "Chemistry of genetic material (DNA & RNA) to change phenotype",
+        "C": "Only protein structure",
+        "D": "Only cell membrane"
+      },
+      "answer": "B",
+      "explanation": "Page 424: Genetic Engineering is the technique to alter the chemistry of genetic material (DNA & RNA) and introduce into host organism, changing the phenotype.",
+      "topic": "Biotechnology"
+    },
+    {
+      "id": 9,
+      "question": "Bioprocess Engineering involves maintenance of:",
+      "options": {
+        "A": "Acidic environment",
+        "B": "Sterile ambience for desired microbes/eukaryotic cells",
+        "C": "High temperature only",
+        "D": "Vacuum conditions"
+      },
+      "answer": "B",
+      "explanation": "Page 424: Bioprocess Engineering is maintenance of sterile ambience for growth of desired microbes or eukaryotic cells for manufacture of biotechnological products.",
+      "topic": "Biotechnology"
+    },
+    {
+      "id": 10,
+      "question": "Restriction enzyme is known as:",
+      "options": {
+        "A": "Molecular glue",
+        "B": "Molecular scissors",
+        "C": "Molecular hammer",
+        "D": "Molecular tape"
+      },
+      "answer": "B",
+      "explanation": "Page 424: Restriction enzyme is known as molecular scissors cutting the DNA at specific location.",
+      "topic": "Biotechnology"
+    },
+    {
+      "id": 11,
+      "question": "Plasmid is:",
+      "options": {
+        "A": "A type of virus",
+        "B": "Extra small circular DNA in bacteria",
+        "C": "A type of protein",
+        "D": "Part of ribosome"
+      },
+      "answer": "B",
+      "explanation": "Page 424: In addition to genomic DNA, many bacteria have extra small circular DNA known as plasmid.",
+      "topic": "Biotechnology"
+    },
+    {
+      "id": 12,
+      "question": "Due to presence of plasmid, bacteria show resistance to:",
+      "options": {
+        "A": "Heat",
+        "B": "Many antibiotics",
+        "C": "UV radiation",
+        "D": "Cold temperature"
+      },
+      "answer": "B",
+      "explanation": "Page 424: Due to presence of plasmid, bacteria show resistance to many antibiotics. This creates a unique character in bacteria.",
+      "topic": "Biotechnology"
+    },
+    {
+      "id": 13,
+      "question": "A plasmid can be used as a vector to deliver:",
+      "options": {
+        "A": "Protein into host cell",
+        "B": "An alien piece of DNA into host organism",
+        "C": "Carbohydrate",
+        "D": "Lipids"
+      },
+      "answer": "B",
+      "explanation": "Page 424: A plasmid can be used as vector to deliver an alien piece of DNA into host organism.",
+      "topic": "Biotechnology"
+    },
+    {
+      "id": 14,
+      "question": "DNA ligase is an enzyme that:",
+      "options": {
+        "A": "Cuts DNA at specific sites",
+        "B": "Joins cut ends of DNA molecule together",
+        "C": "Unwinds DNA",
+        "D": "Copies DNA"
+      },
+      "answer": "B",
+      "explanation": "Page 424: DNA ligase is an enzyme by which cut ends of DNA molecule join together.",
+      "topic": "Biotechnology"
+    },
+    {
+      "id": 15,
+      "question": "Recombinant DNA is created by:",
+      "options": {
+        "A": "Destroying DNA",
+        "B": "Combining two fragments of DNA from two different sources",
+        "C": "Heating DNA",
+        "D": "Freezing DNA"
+      },
+      "answer": "B",
+      "explanation": "Page 424: Recombinant DNA is a DNA which has been created by combining two fragments of DNA from two different sources.",
+      "topic": "Biotechnology"
+    },
+    {
+      "id": 16,
+      "question": "Cloning is the process of producing:",
+      "options": {
+        "A": "Different versions of DNA",
+        "B": "Large number of identical copies of any template DNA",
+        "C": "Mutated DNA",
+        "D": "Shortened DNA"
+      },
+      "answer": "B",
+      "explanation": "Page 424: Cloning is producing large number of identical copies of any template DNA.",
+      "topic": "Biotechnology"
+    },
+    {
+      "id": 17,
+      "question": "Restriction enzymes belong to a larger class of enzymes called:",
+      "options": {
+        "A": "Ligases",
+        "B": "Nucleases",
+        "C": "Proteases",
+        "D": "Lipases"
+      },
+      "answer": "B",
+      "explanation": "Page 424: Restriction enzymes belong to larger class of enzymes called nucleases.",
+      "topic": "Biotechnology"
+    },
+    {
+      "id": 18,
+      "question": "Exonuclease removes nucleotide from:",
+      "options": {
+        "A": "The middle of DNA",
+        "B": "The end of DNA",
+        "C": "Both ends simultaneously",
+        "D": "Only RNA"
+      },
+      "answer": "B",
+      "explanation": "Page 424: Exonuclease removes nucleotide from the end of DNA.",
+      "topic": "Biotechnology"
+    },
+    {
+      "id": 19,
+      "question": "Endonuclease cuts at:",
+      "options": {
+        "A": "End of DNA only",
+        "B": "Specific position within the DNA",
+        "C": "Random positions",
+        "D": "Only RNA"
+      },
+      "answer": "B",
+      "explanation": "Page 424: Endonuclease cuts at specific position within the DNA.",
+      "topic": "Biotechnology"
+    },
+    {
+      "id": 20,
+      "question": "Organisms whose genes have been altered by manipulation are called:",
+      "options": {
+        "A": "Hybrid organisms",
+        "B": "Genetically Modified Organisms (GMO)",
+        "C": "Cloned organisms",
+        "D": "Mutant organisms"
+      },
+      "answer": "B",
+      "explanation": "Page 424: Plant, bacteria, fungi and animals whose genes have been altered by manipulation are called Genetically Modified Organisms (GMO).",
+      "topic": "Biotechnology"
+    },
+    {
+      "id": 21,
+      "question": "Gene therapy is:",
+      "options": {
+        "A": "Treatment using antibiotics",
+        "B": "Collection of methods that allow correction of a gene defect in a child or embryo",
+        "C": "Surgical operation on genes",
+        "D": "Radiation therapy"
+      },
+      "answer": "B",
+      "explanation": "Page 424: Gene therapy is a collection of methods that allow correction of a gene defect that has been diagnosed in a child or embryo.",
+      "topic": "Biotechnology"
+    },
+    {
+      "id": 22,
+      "question": "The first clinical gene therapy was given in 1990 to a four-year-old girl with which deficiency?",
+      "options": {
+        "A": "Insulin deficiency",
+        "B": "Adenosine deaminase (ADA) deficiency",
+        "C": "Iron deficiency",
+        "D": "Vitamin D deficiency"
+      },
+      "answer": "B",
+      "explanation": "Page 424: The first clinical gene therapy was given in 1990 to a four-year-old girl with adenosine deaminase (ADA) deficiency.",
+      "topic": "Biotechnology"
+    },
+    {
+      "id": 23,
+      "question": "Genetically modified plants are useful in:",
+      "options": {
+        "A": "Decreasing crop yields",
+        "B": "Increasing crop yields, reducing losses, and making crops stress tolerant",
+        "C": "Increasing pesticide use",
+        "D": "Reducing soil fertility"
+      },
+      "answer": "B",
+      "explanation": "Page 424: GM plants are useful in increasing crop yields, reduce losses and make the crop more tolerant to stresses.",
+      "topic": "Biotechnology"
+    },
+    {
+      "id": 24,
+      "question": "Papaver somniferum plant yields:",
+      "options": {
+        "A": "Antibiotics",
+        "B": "Powerful analgesic",
+        "C": "Vitamins",
+        "D": "Minerals"
+      },
+      "answer": "B",
+      "explanation": "Page 424: Papaver somniferum plant yields powerful analgesic.",
+      "topic": "Biotechnology"
+    },
+    {
+      "id": 25,
+      "question": "The major source of sugar in the world is:",
+      "options": {
+        "A": "Cocos nucifera",
+        "B": "Saccharum Officinarum",
+        "C": "Papaver somniferum",
+        "D": "Bt-Brinjal"
+      },
+      "answer": "B",
+      "explanation": "Page 424: Major source of sugar in the world is Saccharum Officinarum.",
+      "topic": "Biotechnology"
+    },
+    {
+      "id": 26,
+      "question": "Cocos nucifera is widely used in:",
+      "options": {
+        "A": "Making medicines",
+        "B": "Preparation of culture medium",
+        "C": "Making clothes",
+        "D": "Building materials"
+      },
+      "answer": "B",
+      "explanation": "Page 424: Cocos nucifera is a plant material widely used in preparation of culture medium.",
+      "topic": "Biotechnology"
+    },
+    {
+      "id": 27,
+      "question": "To yield milk, cow is given which hormone?",
+      "options": {
+        "A": "Insulin",
+        "B": "Prolactin",
+        "C": "Thyroxin",
+        "D": "Adrenaline"
+      },
+      "answer": "B",
+      "explanation": "Page 424: To yield milk, cow is given prolactin.",
+      "topic": "Biotechnology"
+    },
+    {
+      "id": 28,
+      "question": "The best way to determine paternity is:",
+      "options": {
+        "A": "Blood group test",
+        "B": "DNA finger printing",
+        "C": "X-ray",
+        "D": "CT scan"
+      },
+      "answer": "B",
+      "explanation": "Page 424: The best way to determine paternity is DNA finger printing.",
+      "topic": "Biotechnology"
+    },
+    {
+      "id": 29,
+      "question": "Chloromycetin is obtained from:",
+      "options": {
+        "A": "Penicillium",
+        "B": "Streptomycetin venezuelae",
+        "C": "E. coli",
+        "D": "Yeast"
+      },
+      "answer": "B",
+      "explanation": "Page 424: Chloromycetin is obtained from streptomycetin venezuelae.",
+      "topic": "Biotechnology"
+    },
+    {
+      "id": 30,
+      "question": "In Recombinant Vector Vaccines, which are used as vectors?",
+      "options": {
+        "A": "Chemicals",
+        "B": "Bacteria and virus",
+        "C": "Proteins",
+        "D": "Minerals"
+      },
+      "answer": "B",
+      "explanation": "Page 424: Genetic engineering is applied in development of Recombinant Vector Vaccines in which bacteria and virus are used as vectors.",
+      "topic": "Biotechnology"
+    },
+    {
+      "id": 31,
+      "question": "Bollgard I and Bollgard II technology are used in:",
+      "options": {
+        "A": "Making vaccines",
+        "B": "Developing genetically modified crop plants",
+        "C": "Water purification",
+        "D": "Soil testing"
+      },
+      "answer": "B",
+      "explanation": "Page 424: Bollgard I and Bollgard II technology are used in developing genetically modified crop plants.",
+      "topic": "Biotechnology"
+    },
+    {
+      "id": 32,
+      "question": "The term 'ACE-2' is talked about in the context of:",
+      "options": {
+        "A": "Cancer treatment",
+        "B": "Spread of viral diseases",
+        "C": "Diabetes management",
+        "D": "Heart surgery"
+      },
+      "answer": "B",
+      "explanation": "Page 424: The term ACE-2 is talked about in the context of spread of viral diseases.",
+      "topic": "Biotechnology"
+    },
+    {
+      "id": 33,
+      "question": "A diagnostic test, Real Time PCR for COVID-19 detects:",
+      "options": {
+        "A": "Protein of virus",
+        "B": "RNA of virus",
+        "C": "DNA of bacteria",
+        "D": "Antibodies only"
+      },
+      "answer": "B",
+      "explanation": "Page 424: Real Time PCR for COVID-19 detects RNA of virus.",
+      "topic": "Biotechnology"
+    },
+    {
+      "id": 34,
+      "question": "Rapid Antibodies Test does not require sample from nose and throat and was approved by:",
+      "options": {
+        "A": "WHO",
+        "B": "Indian Council of Medical Research",
+        "C": "FDA",
+        "D": "CDC"
+      },
+      "answer": "B",
+      "explanation": "Page 424: Rapid Antibodies Test does not require sample from nose and throat in COVID-19 test, approved by Indian Council of Medical Research.",
+      "topic": "Biotechnology"
+    },
+    {
+      "id": 35,
+      "question": "Vector vaccines work by:",
+      "options": {
+        "A": "Killing all viruses directly",
+        "B": "Entering cells and enabling them to create spike protein",
+        "C": "Blocking all receptors",
+        "D": "Destroying antibodies"
+      },
+      "answer": "B",
+      "explanation": "Page 424: Vector vaccines work to provide immunity by entering directly into the cells and enabling them to create spike protein.",
+      "topic": "Biotechnology"
+    },
+    {
+      "id": 36,
+      "question": "Sinovac given for COVID-19 is a:",
+      "options": {
+        "A": "mRNA vaccine",
+        "B": "Whole virus vaccine",
+        "C": "Vector vaccine",
+        "D": "DNA vaccine"
+      },
+      "answer": "B",
+      "explanation": "Page 424: Sinovac given for Covid-19 is a whole virus vaccine.",
+      "topic": "Biotechnology"
+    },
+    {
+      "id": 37,
+      "question": "DNA Barcoding is a tool to:",
+      "options": {
+        "A": "Create new DNA",
+        "B": "Distinguish among species that look alike",
+        "C": "Destroy harmful DNA",
+        "D": "Clone organisms"
+      },
+      "answer": "B",
+      "explanation": "Page 424: DNA Barcoding can be a tool to distinguish among species that look alike.",
+      "topic": "Biotechnology"
+    },
+    {
+      "id": 38,
+      "question": "Covishield vaccine was produced by Serum Institute of India using which platform?",
+      "options": {
+        "A": "Whole virus platform",
+        "B": "mRNA platform",
+        "C": "DNA platform",
+        "D": "Protein subunit platform"
+      },
+      "answer": "B",
+      "explanation": "Page 424: The Serum Institute of India produced Covishield using mRNA platform.",
+      "topic": "Biotechnology"
+    },
+    {
+      "id": 39,
+      "question": "Sputnik V vaccine is manufactured by using:",
+      "options": {
+        "A": "mRNA platform",
+        "B": "Vector base platform",
+        "C": "Whole virus",
+        "D": "Protein subunit"
+      },
+      "answer": "B",
+      "explanation": "Page 424: Sputnik V vaccine is manufactured by using vector base platform.",
+      "topic": "Biotechnology"
+    },
+    {
+      "id": 40,
+      "question": "Applications of biotechnology include:",
+      "options": {
+        "A": "Only medicine",
+        "B": "Agriculture, therapeutic, diagnostic, biopharmaceutical, processed food, waste treatment, energy production",
+        "C": "Only agriculture",
+        "D": "Only energy"
+      },
+      "answer": "B",
+      "explanation": "Page 424: Applications include agriculture, therapeutic, diagnostic, biopharmaceutical, processed food, waste treatment and energy production.",
+      "topic": "Biotechnology"
+    },
+    {
+      "id": 41,
+      "question": "Calorie requirement for a female light worker is:",
+      "options": {
+        "A": "2000",
+        "B": "2100",
+        "C": "2500",
+        "D": "3000"
+      },
+      "answer": "B",
+      "explanation": "Page 424: Female light worker requires 2100 calories.",
+      "topic": "Balanced Diet"
+    },
+    {
+      "id": 42,
+      "question": "Calorie requirement for a male eight-hour worker is:",
+      "options": {
+        "A": "2000",
+        "B": "2500",
+        "C": "3000",
+        "D": "3600"
+      },
+      "answer": "C",
+      "explanation": "Page 424: Male eight-hour worker requires 3000 calories.",
+      "topic": "Balanced Diet"
+    },
+    {
+      "id": 43,
+      "question": "Calorie requirement for a female hard worker is:",
+      "options": {
+        "A": "2100",
+        "B": "2500",
+        "C": "3000",
+        "D": "3600"
+      },
+      "answer": "C",
+      "explanation": "Page 424: Female hard worker requires 3000 calories.",
+      "topic": "Balanced Diet"
+    },
+    {
+      "id": 44,
+      "question": "In the balanced diet chart, the grain (wheat, rice) requirement for an adult male doing normal work is:",
+      "options": {
+        "A": "400 g",
+        "B": "520 g",
+        "C": "670 g",
+        "D": "410 g"
+      },
+      "answer": "B",
+      "explanation": "Page 424: For adult male moderate (M) worker, grain requirement is 520 g.",
+      "topic": "Balanced Diet"
+    },
+    {
+      "id": 45,
+      "question": "Making curd, bread or wine are examples of:",
+      "options": {
+        "A": "Genetic engineering",
+        "B": "Biotechnology",
+        "C": "Gene therapy",
+        "D": "Cloning"
+      },
+      "answer": "B",
+      "explanation": "Page 424: Biotechnology examples include making curd, bread or wine in which microbes are used.",
+      "topic": "Biotechnology"
+    },
+    {
+      "id": 46,
+      "question": "Which technology creates unique character (antibiotic resistance) in bacteria?",
+      "options": {
+        "A": "Gene therapy",
+        "B": "Plasmid presence",
+        "C": "Cloning",
+        "D": "PCR"
+      },
+      "answer": "B",
+      "explanation": "Page 424: Due to presence of plasmid, bacteria show resistance to many antibiotics, creating unique character.",
+      "topic": "Biotechnology"
+    },
+    {
+      "id": 47,
+      "question": "Restriction enzyme cuts DNA at:",
+      "options": {
+        "A": "Random locations",
+        "B": "Specific location",
+        "C": "Only at the ends",
+        "D": "Only the middle"
+      },
+      "answer": "B",
+      "explanation": "Page 424: Restriction enzyme cuts the DNA at specific location.",
+      "topic": "Biotechnology"
+    },
+    {
+      "id": 48,
+      "question": "The milk requirement for an adult male doing hard work is:",
+      "options": {
+        "A": "150 g",
+        "B": "200 g",
+        "C": "250 g",
+        "D": "100 g"
+      },
+      "answer": "C",
+      "explanation": "Page 424: For adult male hard worker, milk requirement is 250 g.",
+      "topic": "Balanced Diet"
+    },
+    {
+      "id": 49,
+      "question": "Pulses requirement for adult male normal worker is:",
+      "options": {
+        "A": "40 g",
+        "B": "50 g",
+        "C": "60 g",
+        "D": "80 g"
+      },
+      "answer": "B",
+      "explanation": "Page 424: For adult male moderate worker, pulses requirement is 50 g.",
+      "topic": "Balanced Diet"
+    },
+    {
+      "id": 50,
+      "question": "An example of GMO food crop approved in India is:",
+      "options": {
+        "A": "Bt-Rice",
+        "B": "Bt-Brinjal",
+        "C": "Bt-Wheat",
+        "D": "Bt-Mango"
+      },
+      "answer": "B",
+      "explanation": "Page 424: Bt-Brinjal is a genetically modified vegetable recently made available in Indian market.",
+      "topic": "Biotechnology"
+    }
+  ]
+}

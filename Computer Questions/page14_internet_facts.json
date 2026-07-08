@@ -1,0 +1,659 @@
+{
+  "title": "Internet & Memorable Facts – Page 495",
+  "source": "Lucent's General Knowledge – Computer",
+  "section": "Computer: Internet, Web, Operating Systems & Memorable Facts",
+  "total_questions": 50,
+  "time_limit_minutes": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "LISP stands for:",
+      "options": {
+        "A": "Linear System Processing",
+        "B": "List Processing",
+        "C": "Logic Internal System Processing",
+        "D": "Light Speed Processing"
+      },
+      "answer": "B",
+      "explanation": "Page 495: LISP: List Processing.",
+      "topic": "Abbreviations"
+    },
+    {
+      "id": 2,
+      "question": "MICR stands for:",
+      "options": {
+        "A": "Machine Internal Character Recognition",
+        "B": "Magnetic Ink Character Recognition/Reader",
+        "C": "Micro Input Character Reader",
+        "D": "Module Ink Character Recognition"
+      },
+      "answer": "B",
+      "explanation": "Page 495: MICR: Magnetic Ink Character Recognition/Reader.",
+      "topic": "Abbreviations"
+    },
+    {
+      "id": 3,
+      "question": "MIPS stands for:",
+      "options": {
+        "A": "Mega Instructions Per Second",
+        "B": "Million Instructions Per Second",
+        "C": "Micro Input Per Second",
+        "D": "Module Instructions Per Second"
+      },
+      "answer": "B",
+      "explanation": "Page 495: MIPS: Million Instructions Per Second.",
+      "topic": "Abbreviations"
+    },
+    {
+      "id": 4,
+      "question": "UPS stands for:",
+      "options": {
+        "A": "Universal Processing System",
+        "B": "Uninterruptable Power Supply",
+        "C": "United Power System",
+        "D": "Ultra Power Source"
+      },
+      "answer": "B",
+      "explanation": "Page 495: UPS: Uninterruptable Power Supply.",
+      "topic": "Abbreviations"
+    },
+    {
+      "id": 5,
+      "question": "VDU stands for:",
+      "options": {
+        "A": "Video Digital Unit",
+        "B": "Visual Display Unit",
+        "C": "Virtual Data Unit",
+        "D": "Voice Display Unit"
+      },
+      "answer": "B",
+      "explanation": "Page 495: VDU: Visual Display Unit.",
+      "topic": "Abbreviations"
+    },
+    {
+      "id": 6,
+      "question": "VLSI stands for:",
+      "options": {
+        "A": "Very Light Scale Integration",
+        "B": "Very Large Scale Integration",
+        "C": "Virtual Large System Integration",
+        "D": "Variable Logic System Integration"
+      },
+      "answer": "B",
+      "explanation": "Page 495: VLSI: Very Large Scale Integration.",
+      "topic": "Abbreviations"
+    },
+    {
+      "id": 7,
+      "question": "WWW stands for:",
+      "options": {
+        "A": "Wide Web World",
+        "B": "World Wide Web",
+        "C": "Web World Wide",
+        "D": "Wireless World Web"
+      },
+      "answer": "B",
+      "explanation": "Page 495: WWW: World Wide Web.",
+      "topic": "Abbreviations"
+    },
+    {
+      "id": 8,
+      "question": "MS Access is a powerful program to create and manage:",
+      "options": {
+        "A": "Spreadsheets",
+        "B": "Databases",
+        "C": "Presentations",
+        "D": "Graphics"
+      },
+      "answer": "B",
+      "explanation": "Page 495: MS Access is a powerful program to create and manage our databases.",
+      "topic": "Facts"
+    },
+    {
+      "id": 9,
+      "question": "Internet is the network of computer networks with millions of computers attached to it. It was originally developed by:",
+      "options": {
+        "A": "UK Ministry of Defence",
+        "B": "US Department of Defence",
+        "C": "Indian Government",
+        "D": "NASA"
+      },
+      "answer": "B",
+      "explanation": "Page 495: Internet was originally developed by the US Department of Defence.",
+      "topic": "Internet"
+    },
+    {
+      "id": 10,
+      "question": "'The World Wide Web' was invented by:",
+      "options": {
+        "A": "Bill Gates",
+        "B": "Tim Berners-Lee",
+        "C": "Steve Jobs",
+        "D": "Mark Zuckerberg"
+      },
+      "answer": "B",
+      "explanation": "Page 495: 'The World Wide Web' was invented by Tim Berners-Lee.",
+      "topic": "Internet"
+    },
+    {
+      "id": 11,
+      "question": "FAT 32 and NTFS are the two major file systems in:",
+      "options": {
+        "A": "Linux",
+        "B": "Microsoft Windows",
+        "C": "Mac OS",
+        "D": "Android"
+      },
+      "answer": "B",
+      "explanation": "Page 495: FAT 32 and NTFS are the two major file systems in Microsoft Windows.",
+      "topic": "Facts"
+    },
+    {
+      "id": 12,
+      "question": "Websites are files in servers, which are:",
+      "options": {
+        "A": "Weak computers",
+        "B": "Powerful computers",
+        "C": "Old computers",
+        "D": "Broken computers"
+      },
+      "answer": "B",
+      "explanation": "Page 495: Websites are files in servers, which are powerful computers.",
+      "topic": "Internet"
+    },
+    {
+      "id": 13,
+      "question": "The collection of all websites is called:",
+      "options": {
+        "A": "Internet",
+        "B": "World Wide Web or WWW",
+        "C": "LAN",
+        "D": "WAN"
+      },
+      "answer": "B",
+      "explanation": "Page 495: The collection of all websites is called World Wide Web or WWW.",
+      "topic": "Internet"
+    },
+    {
+      "id": 14,
+      "question": "Hyper text was first coined by Ted Nelson in:",
+      "options": {
+        "A": "1980s",
+        "B": "1960s",
+        "C": "1990s",
+        "D": "1970s"
+      },
+      "answer": "B",
+      "explanation": "Page 495: Hyper text was first coined by Ted Nelson in 1960s.",
+      "topic": "Internet"
+    },
+    {
+      "id": 15,
+      "question": "HTML is a markup language used to create Web Pages. It uses commands called:",
+      "options": {
+        "A": "Functions",
+        "B": "Tags",
+        "C": "Classes",
+        "D": "Modules"
+      },
+      "answer": "B",
+      "explanation": "Page 495: HTML is a markup language used to create Web Pages. It uses commands called Tags.",
+      "topic": "Internet"
+    },
+    {
+      "id": 16,
+      "question": "HTML documents are viewed in:",
+      "options": {
+        "A": "Text editors",
+        "B": "Web browsers",
+        "C": "Compilers",
+        "D": "Databases"
+      },
+      "answer": "B",
+      "explanation": "Page 495: Text editors are used to compose HTML documents. HTML documents are viewed in Web browsers.",
+      "topic": "Internet"
+    },
+    {
+      "id": 17,
+      "question": "Most Popular Mobile Operating System is:",
+      "options": {
+        "A": "iOS",
+        "B": "Android",
+        "C": "Windows",
+        "D": "Linux"
+      },
+      "answer": "B",
+      "explanation": "Page 495: Most Popular Mobile Operating System is Android, followed by iOS & Windows.",
+      "topic": "Facts"
+    },
+    {
+      "id": 18,
+      "question": "The correct order of Android versions (old to new) starting from Cupcake is: Cupcake → Donut → Eclairs → Froyo → Ginger Bread → Honeycomb → Ice Cream Sandwich → Jelly Beans → Kit-kat → Lollipop → Marshmallow → Nougat → Oreo → Pie → Android 10 →:",
+      "options": {
+        "A": "Android 9",
+        "B": "Android 11",
+        "C": "Android 8",
+        "D": "Android 7"
+      },
+      "answer": "B",
+      "explanation": "Page 495: Android versions end with: ...Oreo → Pie → Android 10 → Android 11.",
+      "topic": "Facts"
+    },
+    {
+      "id": 19,
+      "question": "Some popular operating systems are:",
+      "options": {
+        "A": "Only Windows",
+        "B": "DOS, UNIX, Windows, LINUX, Mac OS etc.",
+        "C": "Only Linux",
+        "D": "Only Mac OS"
+      },
+      "answer": "B",
+      "explanation": "Page 495: Some popular operating systems are DOS, UNIX, Windows, LINUX, Mac OS etc.",
+      "topic": "Facts"
+    },
+    {
+      "id": 20,
+      "question": "Most Popular Social Networking Sites include:",
+      "options": {
+        "A": "Only WhatsApp",
+        "B": "Facebook, Twitter, Linkedin and Instagram",
+        "C": "Only Telegram",
+        "D": "Only YouTube"
+      },
+      "answer": "B",
+      "explanation": "Page 495: Most Popular Social Networking Sites: Facebook, Twitter, Linkedin and Instagram.",
+      "topic": "Facts"
+    },
+    {
+      "id": 21,
+      "question": "Speed of Computer (or Clock speed) is measured in:",
+      "options": {
+        "A": "Watts",
+        "B": "Hertz (Hz)",
+        "C": "Meters",
+        "D": "Kilograms"
+      },
+      "answer": "B",
+      "explanation": "Page 495: Speed of Computer (or Clock speed) is measured in Hertz (Hz).",
+      "topic": "Facts"
+    },
+    {
+      "id": 22,
+      "question": "Speed of Modern Processors are often measured in:",
+      "options": {
+        "A": "MHz",
+        "B": "Gigahertz (GHz)",
+        "C": "KHz",
+        "D": "Hz"
+      },
+      "answer": "B",
+      "explanation": "Page 495: Speed of Modern Processors are often measured in Gigahertz (GHz).",
+      "topic": "Facts"
+    },
+    {
+      "id": 23,
+      "question": "Speed of communication over a data channel is measured in:",
+      "options": {
+        "A": "Hertz",
+        "B": "Baud",
+        "C": "Watts",
+        "D": "Volts"
+      },
+      "answer": "B",
+      "explanation": "Page 495: Speed of communication over a data channel is measured in 'Baud'.",
+      "topic": "Facts"
+    },
+    {
+      "id": 24,
+      "question": "DHCP (Dynamic Host Configuration Protocol) is a network management protocol used on TCP/IP networks to provide:",
+      "options": {
+        "A": "Speed increase",
+        "B": "Quick, automatic and central management for distribution of IP addresses",
+        "C": "Virus protection",
+        "D": "Data backup"
+      },
+      "answer": "B",
+      "explanation": "Page 495: DHCP provides quick, automatic and central management for distribution of IP addresses within the network.",
+      "topic": "Internet"
+    },
+    {
+      "id": 25,
+      "question": "A Social Network can be represented as:",
+      "options": {
+        "A": "Table",
+        "B": "Graph",
+        "C": "List",
+        "D": "Array"
+      },
+      "answer": "B",
+      "explanation": "Page 495: A Social Network can be represented as graph.",
+      "topic": "Internet"
+    },
+    {
+      "id": 26,
+      "question": "IPv6 protocol defines an IP address of:",
+      "options": {
+        "A": "32 bit",
+        "B": "128 bit",
+        "C": "64 bit",
+        "D": "256 bit"
+      },
+      "answer": "B",
+      "explanation": "Page 495: IPv6 protocol defines on IP address of 128 bit.",
+      "topic": "Internet"
+    },
+    {
+      "id": 27,
+      "question": "Junk email is called:",
+      "options": {
+        "A": "Virus",
+        "B": "Spam",
+        "C": "Bug",
+        "D": "Worm"
+      },
+      "answer": "B",
+      "explanation": "Page 495: Junk email is called 'spam'.",
+      "topic": "Internet"
+    },
+    {
+      "id": 28,
+      "question": "Coding is the process of writing out:",
+      "options": {
+        "A": "Letters",
+        "B": "Computer instructions",
+        "C": "Books",
+        "D": "Music"
+      },
+      "answer": "B",
+      "explanation": "Page 495: Coding is the process of writing out computer instructions.",
+      "topic": "Facts"
+    },
+    {
+      "id": 29,
+      "question": "Four major digital initiatives to push e-education by the govt. are Swayam, Swayam Prabha, National Academic Depository and:",
+      "options": {
+        "A": "PARAM",
+        "B": "National Digital Library",
+        "C": "ENIAC",
+        "D": "UNIVAC"
+      },
+      "answer": "B",
+      "explanation": "Page 495: Four major digital initiatives: Swayam, Swayam Prabha, National Academic Depository and National Digital Library.",
+      "topic": "Facts"
+    },
+    {
+      "id": 30,
+      "question": "Oracle is a:",
+      "options": {
+        "A": "Programming language",
+        "B": "Database software",
+        "C": "Operating system",
+        "D": "Hardware"
+      },
+      "answer": "B",
+      "explanation": "Page 495: Oracle is a database software.",
+      "topic": "Facts"
+    },
+    {
+      "id": 31,
+      "question": "Most popular online Shopping Websites include:",
+      "options": {
+        "A": "Only Google",
+        "B": "Amazon.com, Flipkart.com and ebay.com",
+        "C": "Only Wikipedia",
+        "D": "Only YouTube"
+      },
+      "answer": "B",
+      "explanation": "Page 495: Most popular online Shopping Websites: Amazon.com, Flipkart.com and ebay.com.",
+      "topic": "Facts"
+    },
+    {
+      "id": 32,
+      "question": "A database is a collection of:",
+      "options": {
+        "A": "Random files",
+        "B": "Interrelated data",
+        "C": "Images only",
+        "D": "Videos only"
+      },
+      "answer": "B",
+      "explanation": "Page 495: A database is a collection of interrelated data.",
+      "topic": "Facts"
+    },
+    {
+      "id": 33,
+      "question": "A relational database is a collection of formally described tables from which data can be accessed in many different ways without having to:",
+      "options": {
+        "A": "Open it",
+        "B": "Reorganize the database tables",
+        "C": "Delete anything",
+        "D": "Connect to internet"
+      },
+      "answer": "B",
+      "explanation": "Page 495: A relational database is organized as set of formally described tables from which data can be accessed without reorganizing.",
+      "topic": "Facts"
+    },
+    {
+      "id": 34,
+      "question": "The Windows Explorer program is more efficient for viewing folders in:",
+      "options": {
+        "A": "Mac",
+        "B": "Windows",
+        "C": "Linux",
+        "D": "DOS"
+      },
+      "answer": "B",
+      "explanation": "Page 495: The Windows Explorer program is more efficient for viewing folders in Windows.",
+      "topic": "Facts"
+    },
+    {
+      "id": 35,
+      "question": "Windows Explorer is divided vertically into:",
+      "options": {
+        "A": "Three panes",
+        "B": "Two panes",
+        "C": "Four panes",
+        "D": "One pane"
+      },
+      "answer": "B",
+      "explanation": "Page 495: Windows Explorer is divided vertically into two parts or two panes.",
+      "topic": "Facts"
+    },
+    {
+      "id": 36,
+      "question": "The left side pane of Windows Explorer displays:",
+      "options": {
+        "A": "File contents",
+        "B": "Disk drives and folders in a hierarchical order",
+        "C": "Programs only",
+        "D": "Pictures only"
+      },
+      "answer": "B",
+      "explanation": "Page 495: The left side pane displays disk drives and folders in a hierarchical order.",
+      "topic": "Facts"
+    },
+    {
+      "id": 37,
+      "question": "The process of linking text values in a series within a formula is called:",
+      "options": {
+        "A": "Merging",
+        "B": "Concatenation",
+        "C": "Joining",
+        "D": "Combining"
+      },
+      "answer": "B",
+      "explanation": "Page 495: The process of linking text values in a series within a formula is called 'concatenation'.",
+      "topic": "Facts"
+    },
+    {
+      "id": 38,
+      "question": "Data processing involves some activities like data computing, data manipulation and:",
+      "options": {
+        "A": "Data deletion",
+        "B": "Information management",
+        "C": "Data corruption",
+        "D": "Data hiding"
+      },
+      "answer": "B",
+      "explanation": "Page 495: Data processing involves some activities like data computing, data manipulation and information management.",
+      "topic": "Facts"
+    },
+    {
+      "id": 39,
+      "question": "An operating system is an interface between:",
+      "options": {
+        "A": "Two computers",
+        "B": "The human user and the computer hardware",
+        "C": "Two programs",
+        "D": "Two networks"
+      },
+      "answer": "B",
+      "explanation": "Page 495: An operating system is an interface between the human user and the computer hardware.",
+      "topic": "Facts"
+    },
+    {
+      "id": 40,
+      "question": "An operating system manages computer resources and performs:",
+      "options": {
+        "A": "Only one function",
+        "B": "Different functions",
+        "C": "No function",
+        "D": "Only display"
+      },
+      "answer": "B",
+      "explanation": "Page 495: An operating system manages computer resources and performs different functions.",
+      "topic": "Facts"
+    },
+    {
+      "id": 41,
+      "question": "An operating system is responsible for:",
+      "options": {
+        "A": "Only games",
+        "B": "Process management, file management, etc.",
+        "C": "Only printing",
+        "D": "Only internet"
+      },
+      "answer": "B",
+      "explanation": "Page 495: An operating system is responsible for process management, file management, etc.",
+      "topic": "Facts"
+    },
+    {
+      "id": 42,
+      "question": "Data are raw facts and:",
+      "options": {
+        "A": "Programs",
+        "B": "Figures",
+        "C": "Software",
+        "D": "Hardware"
+      },
+      "answer": "B",
+      "explanation": "Page 495: Data are raw facts and figures.",
+      "topic": "Facts"
+    },
+    {
+      "id": 43,
+      "question": "Hardware comprises of the physical units of a:",
+      "options": {
+        "A": "Network",
+        "B": "Computer system",
+        "C": "Internet",
+        "D": "Database"
+      },
+      "answer": "B",
+      "explanation": "Page 495: Hardware comprises of the physical units of a computer system.",
+      "topic": "Facts"
+    },
+    {
+      "id": 44,
+      "question": "Software is a set of:",
+      "options": {
+        "A": "Hardware",
+        "B": "Programs",
+        "C": "Cables",
+        "D": "Chips"
+      },
+      "answer": "B",
+      "explanation": "Page 495: Software is a set of programs.",
+      "topic": "Facts"
+    },
+    {
+      "id": 45,
+      "question": "Both hardware and software together make a computer system:",
+      "options": {
+        "A": "Broken",
+        "B": "Functional",
+        "C": "Slow",
+        "D": "Heavy"
+      },
+      "answer": "B",
+      "explanation": "Page 495: Both hardware and software together make a computer system functional.",
+      "topic": "Facts"
+    },
+    {
+      "id": 46,
+      "question": "SNOBOL stands for:",
+      "options": {
+        "A": "System Notation for Binary Logic",
+        "B": "StriNg Oriented symBOLic Language",
+        "C": "Standard Network Binary Logic",
+        "D": "Simple Notation for Object Logic"
+      },
+      "answer": "B",
+      "explanation": "Page 495: SNOBOL: StriNg Oriented symBOLic Language.",
+      "topic": "Abbreviations"
+    },
+    {
+      "id": 47,
+      "question": "NICNET stands for:",
+      "options": {
+        "A": "Network Internet Computer Network",
+        "B": "National Informatics Centre Network",
+        "C": "National Internet Connection Network",
+        "D": "New Information Computer Network"
+      },
+      "answer": "B",
+      "explanation": "Page 495: NICNET: National Informatics Centre Network.",
+      "topic": "Abbreviations"
+    },
+    {
+      "id": 48,
+      "question": "OMR stands for:",
+      "options": {
+        "A": "Optical Machine Reader",
+        "B": "Optical Mark Reader/Recognition",
+        "C": "Online Mark Reader",
+        "D": "Object Mark Recognition"
+      },
+      "answer": "B",
+      "explanation": "Page 495: OMR: Personal Computer Disk Operation System... wait. OMR: Optical Mark Reader/Recognition (from abbreviation table).",
+      "topic": "Abbreviations"
+    },
+    {
+      "id": 49,
+      "question": "MOPS stands for:",
+      "options": {
+        "A": "Million Output Per Second",
+        "B": "Million Operations Per Second",
+        "C": "Micro Output Per Second",
+        "D": "Module Operations Per Second"
+      },
+      "answer": "B",
+      "explanation": "Page 495: MOPS: Million Operations Per Second.",
+      "topic": "Abbreviations"
+    },
+    {
+      "id": 50,
+      "question": "Websites contain pages called:",
+      "options": {
+        "A": "Documents",
+        "B": "Web Pages",
+        "C": "Files",
+        "D": "Folders"
+      },
+      "answer": "B",
+      "explanation": "Page 495: Websites contain pages called Web Pages.",
+      "topic": "Internet"
+    }
+  ]
+}
