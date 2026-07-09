@@ -480,17 +480,20 @@ def save_result(name: str, score: int, time_taken: int, answers: dict):
         "attempted_at": datetime.now(timezone.utc).isoformat(),
     }
     # Save to Supabase if available
+    sb_error = None
     try:
         sb = get_supabase()
         if sb is not None:
             sb.table("quiz_results").insert(payload).execute()
-    except Exception:
-        pass
+        else:
+            sb_error = "Supabase client is None (secrets missing or package unavailable)"
+    except Exception as e:
+        sb_error = str(e)
     # Always save locally
     results = _load_local_results()
     results.append(payload)
     _save_local_results(results)
-    return True
+    return sb_error  # None means success, string means Supabase failed
 
 def get_leaderboard():
     # Try Supabase first
@@ -770,12 +773,14 @@ def _do_submit():
     st.session_state.submitted  = True
     st.session_state.score      = compute_score()
     st.session_state.time_taken = elapsed()
-    save_result(
+    sb_err = save_result(
         st.session_state.name,
         st.session_state.score,
         st.session_state.time_taken,
         st.session_state.answers,
     )
+    if sb_err:
+        st.session_state["sb_save_error"] = sb_err
     st.session_state.page = "result"
     st.rerun()
 
@@ -794,6 +799,14 @@ def page_result():
         grade, color = "FAIL ❌", "#f38ba8"
 
     st.title("📊 Your Results")
+
+    # Show Supabase save status
+    sb_err = st.session_state.get("sb_save_error")
+    if sb_err:
+        st.warning(f"⚠️ Result saved locally but Supabase sync failed: {sb_err}")
+    else:
+        st.success("✅ Result saved successfully.")
+
     st.markdown(f"""
 <div class="score-card">
 <h2 style="color:{color};">{grade}</h2>
