@@ -332,6 +332,12 @@ QUIZ_CATALOG = {
         "short": "Ch 6–12 Mixed (200Q)",
         "icon": "📖",
     },
+    "ch1_to_12_200": {
+        "file": "questions_ch1_to_12_200.json",
+        "label": "Chapters 1–12 Full Mixed (Anatomy to IV Anesthetics) [200 Qs / 90 min]",
+        "short": "Ch 1–12 Full (200Q)",
+        "icon": "📘",
+    },
 }
 
 # ─── Load Questions ──────────────────────────────────────────────────────────
