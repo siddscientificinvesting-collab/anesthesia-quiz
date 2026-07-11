@@ -338,6 +338,12 @@ QUIZ_CATALOG = {
         "short": "Ch 1–12 Full (200Q)",
         "icon": "📘",
     },
+    "ch13_to_17_200": {
+        "file": "questions_ch13_to_17_200.json",
+        "label": "Chapters 13–17 Mixed (Muscle Relaxants, Complications, LA, Nerve Blocks, CNB) [200 Qs / 90 min]",
+        "short": "Ch 13–17 (200Q)",
+        "icon": "💉",
+    },
 }
 
 # ─── Load Questions ──────────────────────────────────────────────────────────
@@ -389,6 +395,7 @@ def init_state():
         "time_taken":     0,
         "current_q":      0,
         "confirm_submit": False,
+        "last_result":    None,  # Persists result data across refreshes
     }
     for k, v in defaults.items():
         if k not in st.session_state:
@@ -640,6 +647,14 @@ def page_quiz():
             st.session_state.time_taken,
             st.session_state.answers,
         )
+        st.session_state["last_result"] = {
+            "name": st.session_state.name,
+            "score": st.session_state.score,
+            "time_taken": st.session_state.time_taken,
+            "answers": dict(st.session_state.answers),
+            "quiz_label": QUIZ_LABEL,
+            "total_q": TOTAL_Q,
+        }
         st.session_state.page = "result"
         st.rerun()
 
@@ -787,15 +802,39 @@ def _do_submit():
     )
     if sb_err:
         st.session_state["sb_save_error"] = sb_err
+    # Persist result so it survives page refresh
+    st.session_state["last_result"] = {
+        "name": st.session_state.name,
+        "score": st.session_state.score,
+        "time_taken": st.session_state.time_taken,
+        "answers": dict(st.session_state.answers),
+        "quiz_label": QUIZ_LABEL,
+        "total_q": TOTAL_Q,
+    }
     st.session_state.page = "result"
     st.rerun()
 
 
 # ─── RESULT ────────────────────────────────────────────────────────────────────
 def page_result():
-    score      = st.session_state.score
-    time_taken = st.session_state.time_taken
-    pct        = round(score / TOTAL_Q * 100, 1)
+    # Use last_result if session was refreshed
+    last = st.session_state.get("last_result")
+    if not st.session_state.submitted and last:
+        score = last["score"]
+        time_taken = last["time_taken"]
+        total = last.get("total_q", TOTAL_Q) or TOTAL_Q
+    elif st.session_state.submitted:
+        score = st.session_state.score
+        time_taken = st.session_state.time_taken
+        total = TOTAL_Q
+    else:
+        st.warning("No result to display. Take a test first!")
+        if st.button("◀ Back to Home"):
+            st.session_state.page = "home"
+            st.rerun()
+        return
+
+    pct = round(score / total * 100, 1) if total > 0 else 0
 
     if pct >= 75:
         grade, color = "PASS ✅", "#a6e3a1"
@@ -816,7 +855,7 @@ def page_result():
     st.markdown(f"""
 <div class="score-card">
 <h2 style="color:{color};">{grade}</h2>
-<h1 style="font-size:3rem; color:white;">{score} / {TOTAL_Q}</h1>
+<h1 style="font-size:3rem; color:white;">{score} / {total}</h1>
 <h3 style="color:#cdd6f4;">{pct}%</h3>
 <p style="color:#888;">Time taken: {fmt_time(time_taken)}</p>
 </div>
@@ -843,12 +882,17 @@ def page_result():
 
 # ─── REVIEW DASHBOARD ─────────────────────────────────────────────────────────
 def page_review():
-    if not st.session_state.submitted:
+    # Allow review if submitted OR if last_result exists (survives refresh)
+    last = st.session_state.get("last_result")
+    if not st.session_state.submitted and not last:
         st.warning("No quiz to review. Take the test first!")
         if st.button("◀ Back to Home"):
             st.session_state.page = "home"
             st.rerun()
         return
+
+    # Use persisted answers if session refreshed
+    review_answers = st.session_state.answers if st.session_state.answers else (last.get("answers", {}) if last else {})
 
     st.title("📖 Review Dashboard")
 
@@ -856,7 +900,7 @@ def page_review():
     correct_ids, incorrect_ids, unanswered_ids = [], [], []
     for q in QUESTIONS:
         qid = str(q["id"])
-        user_ans = st.session_state.answers.get(qid)
+        user_ans = review_answers.get(qid)
         if user_ans is None:
             unanswered_ids.append(q["id"])
         elif user_ans == q["answer"]:
@@ -892,7 +936,7 @@ def page_review():
     filtered = []
     for q in QUESTIONS:
         qid = str(q["id"])
-        user_ans = st.session_state.answers.get(qid)
+        user_ans = review_answers.get(qid)
         is_correct = user_ans == q["answer"]
         is_unanswered = user_ans is None
 
@@ -920,7 +964,7 @@ def page_review():
     # ── Render Questions ──────────────────────────────────────────────────────
     for q in filtered:
         qid      = str(q["id"])
-        user_ans = st.session_state.answers.get(qid)
+        user_ans = review_answers.get(qid)
         correct  = q["answer"]
 
         if user_ans is None:
