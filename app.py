@@ -518,7 +518,6 @@ def get_leaderboard():
                 .select("name, score, max_score, percentage, time_taken_s, attempted_at, answers, quiz_id")
                 .order("percentage", desc=True)
                 .order("time_taken_s", desc=False)
-                .limit(20)
                 .execute()
             )
             if resp.data:
@@ -528,7 +527,7 @@ def get_leaderboard():
     # Fallback to local results
     results = _load_local_results()
     results.sort(key=lambda r: (-r.get("percentage", 0), r.get("time_taken_s", 9999)))
-    return results[:20]
+    return results
 
 # ════════════════════════════════════════════════════════════════════════════
 #  PAGES
@@ -1031,7 +1030,7 @@ def page_review():
 # ─── LEADERBOARD ──────────────────────────────────────────────────────────────
 def page_leaderboard():
     st.title("🏆 Leaderboard")
-    st.markdown("Top 20 attempts sorted by score (then fastest time)")
+    st.markdown("All attempts sorted by score (then fastest time)")
 
     data = get_leaderboard()
     if not data:
