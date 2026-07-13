@@ -344,6 +344,12 @@ QUIZ_CATALOG = {
         "short": "Ch 13–17 (200Q)",
         "icon": "💉",
     },
+    "ch18_to_26_200": {
+        "file": "questions_ch18_to_26_200.json",
+        "label": "Chapters 18–26 Mixed (Anesthesia for Coexisting Diseases) [200 Qs / 90 min]",
+        "short": "Ch 18–26 Coexisting (200Q)",
+        "icon": "🫀",
+    },
 }
 
 # ─── Load Questions ──────────────────────────────────────────────────────────
