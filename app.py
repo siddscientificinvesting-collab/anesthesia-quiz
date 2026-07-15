@@ -350,6 +350,12 @@ QUIZ_CATALOG = {
         "short": "Ch 18–26 Coexisting (200Q)",
         "icon": "🫀",
     },
+    "ch18_to_26_deep_50": {
+        "file": "questions_ch18_to_26_deep_50.json",
+        "label": "Chapters 18–26 DEEP & TWISTED (Coexisting Diseases – Advanced) [50 Qs / 45 min]",
+        "short": "Ch 18–26 Deep (50Q)",
+        "icon": "🧠",
+    },
 }
 
 # ─── Load Questions ──────────────────────────────────────────────────────────
