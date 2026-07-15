@@ -1068,9 +1068,34 @@ def page_leaderboard():
 
                 if attempt_questions:
                     with st.expander(f"📖 Review {row['name']}'s answers", expanded=False):
+                        # Pre-calculate counts
                         correct_count = 0
                         incorrect_count = 0
                         unanswered_count = 0
+                        for q in attempt_questions:
+                            qid = str(q["id"])
+                            user_ans = attempt_answers.get(qid)
+                            if user_ans is None:
+                                unanswered_count += 1
+                            elif user_ans == q["answer"]:
+                                correct_count += 1
+                            else:
+                                incorrect_count += 1
+
+                        # Summary at top
+                        st.markdown(
+                            f"**Summary:** ✅ {correct_count} Correct &nbsp;|&nbsp; "
+                            f"❌ {incorrect_count} Incorrect &nbsp;|&nbsp; "
+                            f"⬜ {unanswered_count} Unanswered"
+                        )
+
+                        # Filter inside expander
+                        lb_filter = st.radio(
+                            "Filter:",
+                            ["All", "✅ Correct", "❌ Incorrect", "⬜ Unanswered"],
+                            horizontal=True,
+                            key=f"lb_filter_{i}",
+                        )
 
                         for q in attempt_questions:
                             qid = str(q["id"])
@@ -1078,14 +1103,22 @@ def page_leaderboard():
                             correct = q["answer"]
 
                             if user_ans is None:
-                                unanswered_count += 1
                                 icon = "⬜"
+                                status = "unanswered"
                             elif user_ans == correct:
-                                correct_count += 1
                                 icon = "✅"
+                                status = "correct"
                             else:
-                                incorrect_count += 1
                                 icon = "❌"
+                                status = "incorrect"
+
+                            # Apply filter
+                            if lb_filter == "✅ Correct" and status != "correct":
+                                continue
+                            if lb_filter == "❌ Incorrect" and status != "incorrect":
+                                continue
+                            if lb_filter == "⬜ Unanswered" and status != "unanswered":
+                                continue
 
                             # Question header
                             chapter_label = q.get("chapter", "")
@@ -1118,13 +1151,6 @@ def page_leaderboard():
                                     unsafe_allow_html=True,
                                 )
                             st.divider()
-
-                        # Summary at bottom
-                        st.markdown(
-                            f"**Summary:** ✅ {correct_count} Correct &nbsp;|&nbsp; "
-                            f"❌ {incorrect_count} Incorrect &nbsp;|&nbsp; "
-                            f"⬜ {unanswered_count} Unanswered"
-                        )
 
     st.divider()
     if st.button("◀ Back to Home"):
