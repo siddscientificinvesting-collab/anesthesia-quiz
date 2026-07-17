@@ -1,0 +1,2609 @@
+{
+  "title": "MCQ – Chapters 27 to 39 Mixed (200 Questions)",
+  "source": "Short Textbook of Anesthesia – Ajay Yadav (6th Edition) – Chapters 27–39",
+  "section": "Subspecialty Anesthetic Management",
+  "total_questions": 200,
+  "time_limit_minutes": 90,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which inhalational agent is preferred for neurosurgical procedures?",
+      "options": {
+        "A": "Sevoflurane",
+        "B": "Isoflurane",
+        "C": "Desflurane",
+        "D": "Halothane"
+      },
+      "answer": "A",
+      "chapter": 27,
+      "explanation": "Sevoflurane is preferred over isoflurane for neurosurgery because it provides better hemodynamic stability and less cerebral vasodilation."
+    },
+    {
+      "id": 2,
+      "question": "Which IV induction agent increases cerebral blood flow (CBF), cerebral metabolic rate (CMR), and intracranial tension (ICT)?",
+      "options": {
+        "A": "Thiopentone",
+        "B": "Propofol",
+        "C": "Etomidate",
+        "D": "Ketamine"
+      },
+      "answer": "D",
+      "chapter": 27,
+      "explanation": "All IV agents except ketamine decrease CBF, CMR, and ICT. Ketamine is the exception that increases all three parameters."
+    },
+    {
+      "id": 3,
+      "question": "Why are glucose-containing solutions avoided in neurosurgery?",
+      "options": {
+        "A": "They cause hypernatremia",
+        "B": "They cause cerebral edema",
+        "C": "They decrease CBF",
+        "D": "They interfere with anesthetic agents"
+      },
+      "answer": "B",
+      "chapter": 27,
+      "explanation": "Glucose solutions are avoided in neurosurgery because they can cause cerebral edema by increasing osmotic load in damaged brain tissue."
+    },
+    {
+      "id": 4,
+      "question": "What is the target blood sugar level during neurosurgery?",
+      "options": {
+        "A": "80-120 mg%",
+        "B": "100-140 mg%",
+        "C": "140-180 mg%",
+        "D": "180-220 mg%"
+      },
+      "answer": "C",
+      "chapter": 27,
+      "explanation": "Blood sugar should be maintained at 140-180 mg% during neurosurgery to prevent both hypoglycemia and hyperglycemia-related cerebral damage."
+    },
+    {
+      "id": 5,
+      "question": "What is the optimal cerebral perfusion pressure (CPP) to maintain during neurosurgery?",
+      "options": {
+        "A": "70-100 mmHg",
+        "B": "50-70 mmHg",
+        "C": "100-130 mmHg",
+        "D": "40-60 mmHg"
+      },
+      "answer": "A",
+      "chapter": 27,
+      "explanation": "CPP should be maintained at 70-100 mmHg to ensure adequate cerebral perfusion while avoiding excessive pressure."
+    },
+    {
+      "id": 6,
+      "question": "Steroids are indicated for edema associated with brain tumors but NOT for which condition?",
+      "options": {
+        "A": "Spinal cord compression",
+        "B": "Meningioma",
+        "C": "Brain abscess",
+        "D": "Head injury"
+      },
+      "answer": "D",
+      "chapter": 27,
+      "explanation": "Steroids are effective for edema around brain tumors but are NOT indicated for head injury as they do not improve outcomes and may worsen them."
+    },
+    {
+      "id": 7,
+      "question": "Central neuraxial block is contraindicated in which condition?",
+      "options": {
+        "A": "Peripheral neuropathy",
+        "B": "Controlled hypertension",
+        "C": "Raised intracranial tension",
+        "D": "Diabetes mellitus"
+      },
+      "answer": "C",
+      "chapter": 27,
+      "explanation": "Central neuraxial block (spinal/epidural) is contraindicated in raised ICT due to risk of brainstem herniation from CSF pressure changes."
+    },
+    {
+      "id": 8,
+      "question": "Venous air embolism is most bothersome in surgery of which position/region?",
+      "options": {
+        "A": "Supratentorial tumors in supine",
+        "B": "Posterior fossa in sitting position",
+        "C": "Spinal surgery in prone position",
+        "D": "Transsphenoidal surgery"
+      },
+      "answer": "B",
+      "chapter": 27,
+      "explanation": "Venous air embolism is most bothersome during posterior fossa surgery, especially in the sitting position where the operative site is above the heart."
+    },
+    {
+      "id": 9,
+      "question": "Which is the most sensitive monitor for detecting venous air embolism?",
+      "options": {
+        "A": "Precordial Doppler",
+        "B": "End-tidal CO2",
+        "C": "Pulmonary artery catheter",
+        "D": "Transesophageal echocardiography (TEE)"
+      },
+      "answer": "D",
+      "chapter": 27,
+      "explanation": "TEE is the most sensitive monitor for detecting venous air embolism, capable of detecting as little as 0.02 mL/kg of air."
+    },
+    {
+      "id": 10,
+      "question": "What is the optimal pCO2 target for controlled hypocapnia in neurosurgery?",
+      "options": {
+        "A": "25-30 mmHg",
+        "B": "20-25 mmHg",
+        "C": "30-35 mmHg",
+        "D": "35-40 mmHg"
+      },
+      "answer": "A",
+      "chapter": 27,
+      "explanation": "The optimal pCO2 for controlled hypocapnia in neurosurgery is 25-30 mmHg, which reduces cerebral blood volume without causing excessive vasoconstriction."
+    },
+    {
+      "id": 11,
+      "question": "After a stroke, surgery should be avoided for how many days due to vasospasm risk?",
+      "options": {
+        "A": "1-3 days",
+        "B": "4-14 days",
+        "C": "15-30 days",
+        "D": "30-60 days"
+      },
+      "answer": "B",
+      "chapter": 27,
+      "explanation": "After a stroke, surgery should be avoided for 4-14 days as this is the peak period for cerebral vasospasm."
+    },
+    {
+      "id": 12,
+      "question": "Carotid endarterectomy should ideally be performed after how many weeks following a stroke?",
+      "options": {
+        "A": "2 weeks",
+        "B": "4 weeks",
+        "C": "6 weeks",
+        "D": "8 weeks"
+      },
+      "answer": "C",
+      "chapter": 27,
+      "explanation": "Carotid endarterectomy should be performed after 6 weeks following a stroke to allow stabilization of the cerebral vasculature."
+    },
+    {
+      "id": 13,
+      "question": "Elective surgery should be deferred for how long after a cerebrovascular accident (CVA)?",
+      "options": {
+        "A": "3 months",
+        "B": "6 months",
+        "C": "12 months",
+        "D": "9 months"
+      },
+      "answer": "D",
+      "chapter": 27,
+      "explanation": "Elective surgery should be deferred 9 months after a CVA to allow adequate recovery and stabilization of cerebral autoregulation."
+    },
+    {
+      "id": 14,
+      "question": "In pregnancy, the decrease in MAC for inhalational agents is approximately:",
+      "options": {
+        "A": "25-40%",
+        "B": "10-15%",
+        "C": "50-60%",
+        "D": "5-10%"
+      },
+      "answer": "A",
+      "chapter": 28,
+      "explanation": "MAC decreases by 25-40% in pregnancy due to elevated progesterone levels, making pregnant patients more sensitive to inhalational agents."
+    },
+    {
+      "id": 15,
+      "question": "Which drugs do NOT cross the placenta?",
+      "options": {
+        "A": "Opioids and benzodiazepines",
+        "B": "Local anesthetics and ketamine",
+        "C": "Muscle relaxants and glycopyrrolate",
+        "D": "Propofol and thiopentone"
+      },
+      "answer": "C",
+      "chapter": 28,
+      "explanation": "All drugs cross the placenta except muscle relaxants (large ionized molecules) and glycopyrrolate (quaternary ammonium compound)."
+    },
+    {
+      "id": 16,
+      "question": "For cesarean section, which type of anesthesia is preferred over general anesthesia?",
+      "options": {
+        "A": "Local infiltration",
+        "B": "Regional anesthesia",
+        "C": "Sedation",
+        "D": "Hypnosis"
+      },
+      "answer": "B",
+      "chapter": 28,
+      "explanation": "Regional anesthesia is preferred over GA for cesarean section as it avoids airway risks, reduces drug exposure to fetus, and allows maternal awareness."
+    },
+    {
+      "id": 17,
+      "question": "All pregnant patients are considered to have a full stomach. What technique is mandatory for GA induction?",
+      "options": {
+        "A": "Slow induction",
+        "B": "Inhalational induction",
+        "C": "Awake intubation",
+        "D": "Rapid sequence induction (RSI)"
+      },
+      "answer": "D",
+      "chapter": 28,
+      "explanation": "All pregnant patients are considered full stomach due to decreased gastric motility and lower esophageal sphincter tone, mandating RSI for GA."
+    },
+    {
+      "id": 18,
+      "question": "Which position prevents supine hypotension syndrome in pregnancy?",
+      "options": {
+        "A": "Right lateral",
+        "B": "Left lateral",
+        "C": "Prone",
+        "D": "Trendelenburg"
+      },
+      "answer": "B",
+      "chapter": 28,
+      "explanation": "Left lateral position displaces the gravid uterus off the IVC and aorta, preventing supine hypotension syndrome."
+    },
+    {
+      "id": 19,
+      "question": "The preferred epidural technique for painless labor is:",
+      "options": {
+        "A": "Single shot epidural",
+        "B": "Caudal epidural",
+        "C": "Continuous lumbar epidural",
+        "D": "Combined spinal-epidural"
+      },
+      "answer": "C",
+      "chapter": 28,
+      "explanation": "Continuous lumbar epidural is the preferred technique for painless labor as it provides ongoing titrable analgesia throughout labor."
+    },
+    {
+      "id": 20,
+      "question": "What is sufficient indication for providing painless labor analgesia?",
+      "options": {
+        "A": "Cervical dilatation >4 cm",
+        "B": "Obstetrician request",
+        "C": "Active phase of labor",
+        "D": "Maternal demand"
+      },
+      "answer": "D",
+      "chapter": 28,
+      "explanation": "Maternal demand alone is sufficient indication for painless labor; no specific cervical dilatation or stage of labor is required."
+    },
+    {
+      "id": 21,
+      "question": "Non-obstetric elective surgery in pregnancy should be deferred until:",
+      "options": {
+        "A": "Postpartum (6 weeks)",
+        "B": "Second trimester",
+        "C": "Third trimester",
+        "D": "After first trimester"
+      },
+      "answer": "A",
+      "chapter": 28,
+      "explanation": "Non-obstetric elective surgery should be deferred until postpartum (6 weeks) to avoid fetal risks from anesthesia and surgery."
+    },
+    {
+      "id": 22,
+      "question": "In pediatric patients, the narrowest part of the airway is the:",
+      "options": {
+        "A": "Glottis",
+        "B": "Subglottis",
+        "C": "Vocal cords",
+        "D": "Epiglottis"
+      },
+      "answer": "B",
+      "chapter": 29,
+      "explanation": "In pediatric patients (unlike adults where it's the glottis), the subglottis/cricoid ring is the narrowest part of the airway."
+    },
+    {
+      "id": 23,
+      "question": "In pediatric anesthesia, the most common cardiac event is:",
+      "options": {
+        "A": "Tachycardia",
+        "B": "Ventricular tachycardia",
+        "C": "Bradycardia",
+        "D": "Atrial fibrillation"
+      },
+      "answer": "C",
+      "chapter": 29,
+      "explanation": "Bradycardia is the most common cardiac event in pediatric anesthesia due to the predominant vagal tone in children."
+    },
+    {
+      "id": 24,
+      "question": "MAC is highest in which age group?",
+      "options": {
+        "A": "Neonates",
+        "B": "Infants",
+        "C": "Adults",
+        "D": "Elderly"
+      },
+      "answer": "B",
+      "chapter": 29,
+      "explanation": "MAC is highest in infants, followed by neonates, then adults. MAC decreases with advancing age."
+    },
+    {
+      "id": 25,
+      "question": "What concentration of sevoflurane is used for inhalational induction in children?",
+      "options": {
+        "A": "2-3%",
+        "B": "4-5%",
+        "C": "7-8%",
+        "D": "10-12%"
+      },
+      "answer": "C",
+      "chapter": 29,
+      "explanation": "Sevoflurane 7-8% is used for inhalational induction in children due to its non-irritant properties and high MAC in pediatric patients."
+    },
+    {
+      "id": 26,
+      "question": "Which muscle relaxants are the agents of choice in pediatric anesthesia?",
+      "options": {
+        "A": "Atracurium and cisatracurium",
+        "B": "Pancuronium and vecuronium",
+        "C": "Rocuronium and succinylcholine",
+        "D": "Tubocurarine and gallamine"
+      },
+      "answer": "A",
+      "chapter": 29,
+      "explanation": "Atracurium and cisatracurium are relaxants of choice in pediatric patients due to organ-independent Hofmann elimination."
+    },
+    {
+      "id": 27,
+      "question": "Succinylcholine is generally avoided in children because of risk of:",
+      "options": {
+        "A": "Prolonged block",
+        "B": "Hyperkalemia and cardiac arrest from undiagnosed myopathies",
+        "C": "Inadequate relaxation",
+        "D": "Histamine release"
+      },
+      "answer": "B",
+      "chapter": 29,
+      "explanation": "Succinylcholine is avoided in children due to risk of fatal hyperkalemia from undiagnosed muscular dystrophies and myopathies."
+    },
+    {
+      "id": 28,
+      "question": "Bag and mask ventilation is contraindicated in all of the following EXCEPT:",
+      "options": {
+        "A": "Diaphragmatic hernia",
+        "B": "Tracheoesophageal fistula",
+        "C": "Pyloric stenosis",
+        "D": "Laryngomalacia"
+      },
+      "answer": "D",
+      "chapter": 29,
+      "explanation": "Bag/mask is contraindicated in diaphragmatic hernia, TEF, and pyloric stenosis due to gastric distension risks. Laryngomalacia is not a contraindication."
+    },
+    {
+      "id": 29,
+      "question": "N2O is specifically contraindicated in which pediatric surgical condition?",
+      "options": {
+        "A": "Diaphragmatic hernia",
+        "B": "Pyloric stenosis",
+        "C": "Inguinal hernia",
+        "D": "Appendicitis"
+      },
+      "answer": "A",
+      "chapter": 29,
+      "explanation": "N2O is contraindicated in diaphragmatic hernia as it diffuses into the herniated bowel, further compressing the lung."
+    },
+    {
+      "id": 30,
+      "question": "The most common cardiac finding in geriatric patients is:",
+      "options": {
+        "A": "Systolic dysfunction",
+        "B": "Valvular stenosis",
+        "C": "Diastolic dysfunction",
+        "D": "Atrial septal defect"
+      },
+      "answer": "C",
+      "chapter": 30,
+      "explanation": "Diastolic dysfunction is the most common cardiac finding in elderly patients due to decreased ventricular compliance with aging."
+    },
+    {
+      "id": 31,
+      "question": "In geriatric patients, doses of benzodiazepines and opioids should be reduced by:",
+      "options": {
+        "A": "25%",
+        "B": "50%",
+        "C": "75%",
+        "D": "10%"
+      },
+      "answer": "B",
+      "chapter": 30,
+      "explanation": "BZD and opioid doses should be reduced by 50% in elderly patients due to decreased protein binding, altered pharmacokinetics, and increased sensitivity."
+    },
+    {
+      "id": 32,
+      "question": "MAC decreases by what percentage per decade of age after 40?",
+      "options": {
+        "A": "1-2%",
+        "B": "8-10%",
+        "C": "10-12%",
+        "D": "4-6%"
+      },
+      "answer": "D",
+      "chapter": 30,
+      "explanation": "MAC decreases by 4-6% per decade after age 40, reflecting increased sensitivity to inhalational agents with aging."
+    },
+    {
+      "id": 33,
+      "question": "Which inhalational agent is preferred in geriatric anesthesia due to rapid emergence and least metabolism?",
+      "options": {
+        "A": "Desflurane",
+        "B": "Sevoflurane",
+        "C": "Isoflurane",
+        "D": "Halothane"
+      },
+      "answer": "A",
+      "chapter": 30,
+      "explanation": "Desflurane is preferred in geriatric patients due to rapid emergence, minimal metabolism, and good cardiovascular profile."
+    },
+    {
+      "id": 34,
+      "question": "The prevalence of postoperative cognitive dysfunction (POCD) in elderly patients is:",
+      "options": {
+        "A": "1-5%",
+        "B": "25-30%",
+        "C": "10-15%",
+        "D": "40-50%"
+      },
+      "answer": "C",
+      "chapter": 30,
+      "explanation": "POCD has a prevalence of 10-15% in elderly patients and is independent of the type of surgery or anesthesia."
+    },
+    {
+      "id": 35,
+      "question": "POCD in elderly is independent of:",
+      "options": {
+        "A": "Patient age",
+        "B": "Type of surgery and anesthesia",
+        "C": "Preoperative cognitive status",
+        "D": "Duration of hospitalization"
+      },
+      "answer": "B",
+      "chapter": 30,
+      "explanation": "POCD is independent of the type of surgery and anesthesia, suggesting multifactorial causation including neuroinflammation and patient factors."
+    },
+    {
+      "id": 36,
+      "question": "In obese patients, the cardiovascular system is characterized by:",
+      "options": {
+        "A": "Low cardiac output state",
+        "B": "Normal cardiac output",
+        "C": "Fixed cardiac output",
+        "D": "High cardiac output state"
+      },
+      "answer": "D",
+      "chapter": 31,
+      "explanation": "Obese patients have a high cardiac output state due to increased metabolic demand and increased blood volume from excess adipose tissue."
+    },
+    {
+      "id": 37,
+      "question": "The respiratory pattern in morbidly obese patients is:",
+      "options": {
+        "A": "Obstructive",
+        "B": "Restrictive",
+        "C": "Mixed obstructive and restrictive",
+        "D": "Normal"
+      },
+      "answer": "B",
+      "chapter": 31,
+      "explanation": "Obese patients show a restrictive pattern due to decreased chest wall compliance from excess adipose tissue."
+    },
+    {
+      "id": 38,
+      "question": "Which investigation is done to diagnose obstructive sleep apnea in obese patients?",
+      "options": {
+        "A": "Chest X-ray",
+        "B": "Spirometry",
+        "C": "Polysomnography",
+        "D": "Arterial blood gas"
+      },
+      "answer": "C",
+      "chapter": 31,
+      "explanation": "Polysomnography (sleep study) is the gold standard investigation for diagnosing obstructive sleep apnea in obese patients."
+    },
+    {
+      "id": 39,
+      "question": "The most challenging aspect of anesthesia in obese patients is:",
+      "options": {
+        "A": "IV access",
+        "B": "Drug dosing",
+        "C": "Positioning",
+        "D": "Airway management"
+      },
+      "answer": "D",
+      "chapter": 31,
+      "explanation": "Airway management is the most challenging aspect in obese patients due to difficult mask ventilation, difficult laryngoscopy, and rapid desaturation."
+    },
+    {
+      "id": 40,
+      "question": "The optimal position for intubation in obese patients is:",
+      "options": {
+        "A": "Ramped position",
+        "B": "Sniffing position",
+        "C": "Trendelenburg",
+        "D": "Lateral position"
+      },
+      "answer": "A",
+      "chapter": 31,
+      "explanation": "Ramped position (head elevated laryngoscopy position) aligns the external auditory meatus with the sternal notch, improving laryngoscopy in obese patients."
+    },
+    {
+      "id": 41,
+      "question": "In obese patients, lipid-soluble drugs should be dosed based on:",
+      "options": {
+        "A": "Ideal body weight",
+        "B": "Lean body weight",
+        "C": "Actual body weight",
+        "D": "Adjusted body weight"
+      },
+      "answer": "C",
+      "chapter": 31,
+      "explanation": "Lipid-soluble drugs distribute into fat tissue and should be dosed on actual body weight, while water-soluble drugs are dosed on ideal body weight."
+    },
+    {
+      "id": 42,
+      "question": "Which inhalational agent is the agent of choice for obese patients?",
+      "options": {
+        "A": "Sevoflurane",
+        "B": "Desflurane",
+        "C": "Isoflurane",
+        "D": "Halothane"
+      },
+      "answer": "B",
+      "chapter": 31,
+      "explanation": "Desflurane is the agent of choice for obese patients due to its low blood-gas solubility allowing rapid recovery and minimal tissue accumulation."
+    },
+    {
+      "id": 43,
+      "question": "Which device improves oxygenation in obese patients postoperatively?",
+      "options": {
+        "A": "Nasal cannula",
+        "B": "Venturi mask",
+        "C": "Simple face mask",
+        "D": "CPAP/PEEP"
+      },
+      "answer": "D",
+      "chapter": 31,
+      "explanation": "CPAP/PEEP improves oxygenation in obese patients by preventing atelectasis and maintaining functional residual capacity."
+    },
+    {
+      "id": 44,
+      "question": "The most commonly used gas for creating pneumoperitoneum in laparoscopy is:",
+      "options": {
+        "A": "Carbon dioxide",
+        "B": "Nitrogen",
+        "C": "Helium",
+        "D": "Argon"
+      },
+      "answer": "A",
+      "chapter": 32,
+      "explanation": "CO2 is the most commonly used gas for pneumoperitoneum due to its high solubility, rapid absorption, and non-combustibility."
+    },
+    {
+      "id": 45,
+      "question": "The most ideal gas for pneumoperitoneum (though not most commonly used) is:",
+      "options": {
+        "A": "CO2",
+        "B": "Nitrogen",
+        "C": "Helium",
+        "D": "Argon"
+      },
+      "answer": "D",
+      "chapter": 32,
+      "explanation": "Argon is theoretically the most ideal gas for pneumoperitoneum (inert, non-combustible) but CO2 is most commonly used due to safety and availability."
+    },
+    {
+      "id": 46,
+      "question": "An intra-abdominal pressure of 12-14 mmHg during laparoscopy decreases cardiac output by:",
+      "options": {
+        "A": "10-15%",
+        "B": "20-25%",
+        "C": "30-35%",
+        "D": "40-50%"
+      },
+      "answer": "C",
+      "chapter": 32,
+      "explanation": "IAP of 12-14 mmHg decreases cardiac output by 30-35% due to decreased venous return from IVC compression and increased afterload."
+    },
+    {
+      "id": 47,
+      "question": "The mortality rate of CO2 embolism during laparoscopy is approximately:",
+      "options": {
+        "A": "10%",
+        "B": "30%",
+        "C": "20%",
+        "D": "50%"
+      },
+      "answer": "B",
+      "chapter": 32,
+      "explanation": "CO2 embolism during laparoscopy carries approximately 30% mortality, making it one of the most feared complications."
+    },
+    {
+      "id": 48,
+      "question": "The capnography response to CO2 absorption during laparoscopy is:",
+      "options": {
+        "A": "Monophasic increase",
+        "B": "Continuous plateau",
+        "C": "Progressive decrease",
+        "D": "Biphasic response"
+      },
+      "answer": "D",
+      "chapter": 32,
+      "explanation": "The capnography response to CO2 absorption during laparoscopy is biphasic - initial rise from peritoneal absorption followed by plateau."
+    },
+    {
+      "id": 49,
+      "question": "At what IAP level does renal and mesenteric blood flow become significantly impaired?",
+      "options": {
+        "A": ">20 mmHg",
+        "B": ">10 mmHg",
+        "C": ">15 mmHg",
+        "D": ">25 mmHg"
+      },
+      "answer": "A",
+      "chapter": 32,
+      "explanation": "IAP >20 mmHg significantly impairs renal and mesenteric blood flow, potentially leading to organ ischemia."
+    },
+    {
+      "id": 50,
+      "question": "The most common postoperative complication after laparoscopy is:",
+      "options": {
+        "A": "Shoulder pain",
+        "B": "Nausea and vomiting",
+        "C": "Port site hernia",
+        "D": "Subcutaneous emphysema"
+      },
+      "answer": "B",
+      "chapter": 32,
+      "explanation": "Nausea and vomiting is the most common postoperative complication after laparoscopy, occurring in 40-75% of patients."
+    },
+    {
+      "id": 51,
+      "question": "The standard anesthetic technique for laparoscopy is:",
+      "options": {
+        "A": "Spinal anesthesia with spontaneous ventilation",
+        "B": "GA with LMA and spontaneous ventilation",
+        "C": "GA with ETT and mild hyperventilation",
+        "D": "Local anesthesia with sedation"
+      },
+      "answer": "C",
+      "chapter": 32,
+      "explanation": "GA with ETT and mild hyperventilation is the standard technique for laparoscopy to counteract CO2 absorption and allow controlled ventilation against IAP."
+    },
+    {
+      "id": 52,
+      "question": "Topical eye medications can have:",
+      "options": {
+        "A": "Local toxic effects only",
+        "B": "No systemic absorption",
+        "C": "Significant systemic effects",
+        "D": "Effects limited to the eye"
+      },
+      "answer": "C",
+      "chapter": 33,
+      "explanation": "Topical eye medications can have significant systemic effects due to absorption through the nasolacrimal duct and conjunctival vasculature."
+    },
+    {
+      "id": 53,
+      "question": "Traction on the medial rectus muscle causes which reflex?",
+      "options": {
+        "A": "Oculocardiac reflex",
+        "B": "Oculorespiratory reflex",
+        "C": "Oculoemetic reflex",
+        "D": "Corneal reflex"
+      },
+      "answer": "A",
+      "chapter": 33,
+      "explanation": "Traction on the medial rectus (and other extraocular muscles) triggers the oculocardiac reflex causing bradycardia via the trigemino-vagal pathway."
+    },
+    {
+      "id": 54,
+      "question": "Which regional technique has replaced retrobulbar block for ophthalmic surgery?",
+      "options": {
+        "A": "Sub-Tenon's block",
+        "B": "Topical anesthesia",
+        "C": "Peribulbar block",
+        "D": "Facial nerve block"
+      },
+      "answer": "C",
+      "chapter": 33,
+      "explanation": "Peribulbar block has replaced retrobulbar block due to lower risk of globe perforation, optic nerve damage, and brainstem anesthesia."
+    },
+    {
+      "id": 55,
+      "question": "Which IV induction agent increases intraocular pressure?",
+      "options": {
+        "A": "Propofol",
+        "B": "Thiopentone",
+        "C": "Etomidate",
+        "D": "Ketamine"
+      },
+      "answer": "D",
+      "chapter": 33,
+      "explanation": "All IV agents and inhalational agents reduce IOP except ketamine, which increases IOP."
+    },
+    {
+      "id": 56,
+      "question": "N2O should be avoided during ophthalmic surgery when:",
+      "options": {
+        "A": "Cataract surgery is performed",
+        "B": "Intraocular gas bubbles (SF6/C3F8) are present",
+        "C": "Strabismus surgery is done",
+        "D": "Glaucoma surgery is performed"
+      },
+      "answer": "B",
+      "chapter": 33,
+      "explanation": "N2O should be avoided when intraocular gas bubbles are present as it diffuses into the bubble, increasing its volume and raising IOP dangerously."
+    },
+    {
+      "id": 57,
+      "question": "The rise in IOP from succinylcholine is transient and lasts:",
+      "options": {
+        "A": "1-2 minutes",
+        "B": "15-20 minutes",
+        "C": "5-10 minutes",
+        "D": "30 minutes"
+      },
+      "answer": "C",
+      "chapter": 33,
+      "explanation": "Succinylcholine causes a transient rise in IOP lasting 5-10 minutes due to tonic contraction of extraocular muscles."
+    },
+    {
+      "id": 58,
+      "question": "Airway assessment for panendoscopy is best done by:",
+      "options": {
+        "A": "Mallampati classification",
+        "B": "X-ray neck",
+        "C": "CT scan",
+        "D": "Endoscopy"
+      },
+      "answer": "D",
+      "chapter": 34,
+      "explanation": "Airway assessment by endoscopy is mandatory for panendoscopy to identify the extent and nature of airway pathology."
+    },
+    {
+      "id": 59,
+      "question": "For more than 95% of panendoscopy procedures, which tube is used?",
+      "options": {
+        "A": "MLS (microlaryngeal surgery) tube",
+        "B": "Standard ETT",
+        "C": "Double-lumen tube",
+        "D": "Tracheostomy tube"
+      },
+      "answer": "A",
+      "chapter": 34,
+      "explanation": "MLS (microlaryngeal surgery) tube is used for >95% of panendoscopy cases due to its small diameter allowing surgical access."
+    },
+    {
+      "id": 60,
+      "question": "N2O is avoided in laryngeal surgery because it:",
+      "options": {
+        "A": "Supports combustion",
+        "B": "Increases airway reactivity",
+        "C": "Causes cuff expansion of the ETT",
+        "D": "Reduces depth of anesthesia"
+      },
+      "answer": "C",
+      "chapter": 34,
+      "explanation": "N2O diffuses into the air-filled ETT cuff causing expansion, which can damage the tracheal mucosa during laryngeal surgery."
+    },
+    {
+      "id": 61,
+      "question": "The most important complication of laser airway surgery is:",
+      "options": {
+        "A": "Laryngospasm",
+        "B": "Hemorrhage",
+        "C": "Airway fire",
+        "D": "Edema"
+      },
+      "answer": "C",
+      "chapter": 34,
+      "explanation": "Airway fire (laser fire) is the most important and potentially catastrophic complication of laser surgery in the airway."
+    },
+    {
+      "id": 62,
+      "question": "Regarding laser tubes in airway surgery:",
+      "options": {
+        "A": "They are 100% protective against fire",
+        "B": "They eliminate the need for special precautions",
+        "C": "They are mandatory for all laser cases",
+        "D": "They are NOT 100% protective against fire"
+      },
+      "answer": "D",
+      "chapter": 34,
+      "explanation": "Laser tubes are not 100% protective against airway fires, and other precautions (FiO2 <0.4, saline-filled cuffs) must also be employed."
+    },
+    {
+      "id": 63,
+      "question": "The recommended postoperative position after tonsillectomy is:",
+      "options": {
+        "A": "Supine with head elevated",
+        "B": "Tonsillar position (lateral with head down)",
+        "C": "Sitting position",
+        "D": "Prone position"
+      },
+      "answer": "B",
+      "chapter": 34,
+      "explanation": "Tonsillar position (lateral with head slightly down) allows blood and secretions to drain out of the mouth, preventing aspiration."
+    },
+    {
+      "id": 64,
+      "question": "Post-tonsillectomy bleeding should be managed considering the patient as:",
+      "options": {
+        "A": "Fasting patient",
+        "B": "Partially fasted",
+        "C": "Full stomach",
+        "D": "Normal patient"
+      },
+      "answer": "C",
+      "chapter": 34,
+      "explanation": "Post-tonsillectomy bleed patients are considered full stomach as they swallow blood, requiring RSI for re-intubation."
+    },
+    {
+      "id": 65,
+      "question": "N2O is avoided in tympanoplasty because it:",
+      "options": {
+        "A": "Causes ototoxicity",
+        "B": "Diffuses into the middle ear cavity increasing pressure",
+        "C": "Increases bleeding",
+        "D": "Affects hearing permanently"
+      },
+      "answer": "B",
+      "chapter": 34,
+      "explanation": "N2O diffuses into the middle ear cavity faster than nitrogen leaves, increasing middle ear pressure and potentially displacing the graft."
+    },
+    {
+      "id": 66,
+      "question": "In trauma patients, what SBP should be achieved before induction of anesthesia?",
+      "options": {
+        "A": "80-90 mmHg",
+        "B": "60-70 mmHg",
+        "C": "100-110 mmHg",
+        "D": "120-130 mmHg"
+      },
+      "answer": "A",
+      "chapter": 35,
+      "explanation": "SBP of 80-90 mmHg should be achieved before induction as induction agents can cause catastrophic hypotension in hypovolemic patients."
+    },
+    {
+      "id": 67,
+      "question": "In hypotensive trauma patients, IV induction doses should be:",
+      "options": {
+        "A": "Increased",
+        "B": "Normal",
+        "C": "Drastically reduced",
+        "D": "Replaced with inhalational induction"
+      },
+      "answer": "C",
+      "chapter": 35,
+      "explanation": "IV induction doses must be drastically reduced in hypotensive trauma patients as the effective drug concentration is much higher due to reduced cardiac output."
+    },
+    {
+      "id": 68,
+      "question": "Which induction agents are preferred in trauma patients?",
+      "options": {
+        "A": "Propofol and thiopentone",
+        "B": "Midazolam and propofol",
+        "C": "Methohexitone and propofol",
+        "D": "Etomidate and ketamine"
+      },
+      "answer": "D",
+      "chapter": 35,
+      "explanation": "Etomidate (hemodynamic stability) and ketamine (sympathomimetic properties) are preferred induction agents in trauma patients."
+    },
+    {
+      "id": 69,
+      "question": "All trauma patients should be treated as having a potential:",
+      "options": {
+        "A": "Cervical spine injury",
+        "B": "Head injury",
+        "C": "Thoracic injury",
+        "D": "Abdominal injury"
+      },
+      "answer": "A",
+      "chapter": 35,
+      "explanation": "All trauma patients should be treated as having a potential cervical spine injury until proven otherwise, requiring inline stabilization during intubation."
+    },
+    {
+      "id": 70,
+      "question": "In a patient with both maxillary and mandibular fractures, the airway is secured by:",
+      "options": {
+        "A": "Oral intubation",
+        "B": "Nasal intubation",
+        "C": "Tracheostomy",
+        "D": "LMA insertion"
+      },
+      "answer": "C",
+      "chapter": 35,
+      "explanation": "When both maxillary (contraindicates nasal) and mandibular (contraindicates oral) fractures coexist, tracheostomy is the airway of choice."
+    },
+    {
+      "id": 71,
+      "question": "Which inhalational agent is preferred in trauma surgery?",
+      "options": {
+        "A": "Sevoflurane",
+        "B": "Isoflurane",
+        "C": "Halothane",
+        "D": "Desflurane"
+      },
+      "answer": "D",
+      "chapter": 35,
+      "explanation": "Desflurane is preferred in trauma surgery due to rapid titratability and quick emergence allowing early neurological assessment."
+    },
+    {
+      "id": 72,
+      "question": "In burn patients, succinylcholine is contraindicated for how long after the burn?",
+      "options": {
+        "A": "24 hours",
+        "B": "1 week",
+        "C": "6 months",
+        "D": "1 year"
+      },
+      "answer": "D",
+      "chapter": 35,
+      "explanation": "Succinylcholine is contraindicated for 1 year after burns due to upregulation of extrajunctional acetylcholine receptors causing fatal hyperkalemia."
+    },
+    {
+      "id": 73,
+      "question": "In burn patients, doses of non-depolarizing muscle relaxants are:",
+      "options": {
+        "A": "Decreased",
+        "B": "Same as normal",
+        "C": "Increased",
+        "D": "Not required"
+      },
+      "answer": "C",
+      "chapter": 35,
+      "explanation": "Non-depolarizing muscle relaxant doses are increased in burn patients due to upregulation of acetylcholine receptors and increased protein binding."
+    },
+    {
+      "id": 74,
+      "question": "Cardiac arrest at tourniquet deflation in orthopedic surgery is caused by:",
+      "options": {
+        "A": "Air embolism",
+        "B": "Sudden release of metabolic byproducts and potassium",
+        "C": "Hemorrhage",
+        "D": "Vagal reflex"
+      },
+      "answer": "B",
+      "chapter": 36,
+      "explanation": "Tourniquet deflation releases accumulated metabolic byproducts (lactate, CO2) and potassium into systemic circulation, potentially causing cardiac arrest."
+    },
+    {
+      "id": 75,
+      "question": "Tourniquet pressure should be maintained at less than what level above systolic BP?",
+      "options": {
+        "A": "<50 mmHg",
+        "B": "<100 mmHg",
+        "C": "<150 mmHg",
+        "D": "<200 mmHg"
+      },
+      "answer": "B",
+      "chapter": 36,
+      "explanation": "Tourniquet pressure should be <100 mmHg above systolic blood pressure to minimize nerve and tissue ischemia risk."
+    },
+    {
+      "id": 76,
+      "question": "Maximum safe tourniquet time is:",
+      "options": {
+        "A": "1 hour",
+        "B": "3 hours",
+        "C": "2 hours",
+        "D": "4 hours"
+      },
+      "answer": "C",
+      "chapter": 36,
+      "explanation": "Tourniquet duration should not exceed 2 hours to prevent irreversible ischemic nerve and muscle damage."
+    },
+    {
+      "id": 77,
+      "question": "The pathognomonic sign of fat embolism syndrome is:",
+      "options": {
+        "A": "Dyspnea",
+        "B": "Confusion",
+        "C": "Tachycardia",
+        "D": "Petechial rash"
+      },
+      "answer": "D",
+      "chapter": 36,
+      "explanation": "Petechial rash (over chest, axillae, conjunctivae) is the pathognomonic sign of fat embolism syndrome."
+    },
+    {
+      "id": 78,
+      "question": "Bone cement implantation syndrome presents with:",
+      "options": {
+        "A": "Hypoxia, hypotension, cardiac arrest",
+        "B": "Hypertension, bradycardia, arrhythmia",
+        "C": "Bronchospasm, urticaria, angioedema",
+        "D": "Fever, rigors, tachycardia"
+      },
+      "answer": "A",
+      "chapter": 36,
+      "explanation": "Cement syndrome presents with hypoxia, hypotension, and potentially cardiac arrest due to fat/cement embolism."
+    },
+    {
+      "id": 79,
+      "question": "The incidence of fatal pulmonary embolism after hip surgery is:",
+      "options": {
+        "A": "5-10%",
+        "B": "10-15%",
+        "C": "0.1-0.5%",
+        "D": "1-3%"
+      },
+      "answer": "D",
+      "chapter": 36,
+      "explanation": "Fatal PE occurs in 1-3% of patients after hip surgery, emphasizing the need for thromboprophylaxis."
+    },
+    {
+      "id": 80,
+      "question": "Beach chair position during shoulder surgery carries a specific risk of:",
+      "options": {
+        "A": "Air embolism",
+        "B": "Stroke",
+        "C": "Brachial plexus injury",
+        "D": "Pneumothorax"
+      },
+      "answer": "B",
+      "chapter": 36,
+      "explanation": "Beach chair position carries risk of stroke due to decreased cerebral perfusion pressure when the head is elevated above the heart."
+    },
+    {
+      "id": 81,
+      "question": "Spinal cord function during orthopedic surgery is monitored by:",
+      "options": {
+        "A": "BIS monitoring",
+        "B": "EEG only",
+        "C": "SSEP/MEP/EMG",
+        "D": "Pupillary response"
+      },
+      "answer": "C",
+      "chapter": 36,
+      "explanation": "Spinal cord integrity is monitored by SSEP (somatosensory evoked potentials), MEP (motor evoked potentials), and EMG during orthopedic spine surgery."
+    },
+    {
+      "id": 82,
+      "question": "At high altitude, the rotameter:",
+      "options": {
+        "A": "Over-reads",
+        "B": "Under-reads",
+        "C": "Reads accurately",
+        "D": "Becomes non-functional"
+      },
+      "answer": "B",
+      "chapter": 37,
+      "explanation": "At altitude, rotameters under-read because they are calibrated at sea level; lower atmospheric pressure means less dense gas, so actual flow is greater than indicated."
+    },
+    {
+      "id": 83,
+      "question": "At altitude, vaporizer settings remain unchanged for all agents EXCEPT:",
+      "options": {
+        "A": "Sevoflurane",
+        "B": "Isoflurane",
+        "C": "Halothane",
+        "D": "Desflurane"
+      },
+      "answer": "D",
+      "chapter": 37,
+      "explanation": "Vaporizer settings remain unchanged at altitude for all agents except desflurane (which uses a heated pressurized vaporizer with different physics)."
+    },
+    {
+      "id": 84,
+      "question": "At high altitude, the incidence of post-spinal headache is:",
+      "options": {
+        "A": "Decreased",
+        "B": "Unchanged",
+        "C": "High/Increased",
+        "D": "Zero"
+      },
+      "answer": "C",
+      "chapter": 37,
+      "explanation": "Post-spinal headache incidence is high at altitude due to lower atmospheric pressure and relatively higher CSF pressure gradient."
+    },
+    {
+      "id": 85,
+      "question": "N2O should not be used in which atmospheric environment?",
+      "options": {
+        "A": "Helium atmosphere",
+        "B": "Oxygen-enriched",
+        "C": "High humidity",
+        "D": "Cold environment"
+      },
+      "answer": "A",
+      "chapter": 37,
+      "explanation": "N2O should not be used in a helium atmosphere as it can cause diffusion-related problems and alter gas dynamics."
+    },
+    {
+      "id": 86,
+      "question": "For anesthesia in remote locations, which monitoring is considered desirable?",
+      "options": {
+        "A": "Pulse oximetry",
+        "B": "Capnography",
+        "C": "ECG",
+        "D": "NIBP"
+      },
+      "answer": "B",
+      "chapter": 37,
+      "explanation": "Capnography is considered desirable in remote locations as it confirms ETT placement and monitors ventilation adequacy."
+    },
+    {
+      "id": 87,
+      "question": "MRI-compatible equipment should be made of:",
+      "options": {
+        "A": "Stainless steel",
+        "B": "Iron",
+        "C": "Nickel",
+        "D": "Aluminum"
+      },
+      "answer": "D",
+      "chapter": 37,
+      "explanation": "Aluminum (non-ferromagnetic) equipment is used in MRI suites as ferromagnetic materials are attracted to the magnetic field and can become projectiles."
+    },
+    {
+      "id": 88,
+      "question": "Which benzodiazepine is the drug of choice for day-care surgery?",
+      "options": {
+        "A": "Midazolam",
+        "B": "Diazepam",
+        "C": "Lorazepam",
+        "D": "Alprazolam"
+      },
+      "answer": "A",
+      "chapter": 38,
+      "explanation": "Midazolam is the BZD of choice for day-care surgery due to its short duration, good amnesia, and minimal hangover effect."
+    },
+    {
+      "id": 89,
+      "question": "The preferred airway management for day-care GA is:",
+      "options": {
+        "A": "ETT intubation",
+        "B": "Face mask",
+        "C": "LMA",
+        "D": "Nasopharyngeal airway"
+      },
+      "answer": "C",
+      "chapter": 38,
+      "explanation": "GA with LMA is preferred over intubation for day-care surgery as it avoids succinylcholine, causes less sore throat, and allows faster recovery."
+    },
+    {
+      "id": 90,
+      "question": "The preferred muscle relaxant for day-care surgery is:",
+      "options": {
+        "A": "Mivacurium",
+        "B": "Atracurium",
+        "C": "Vecuronium",
+        "D": "Rocuronium"
+      },
+      "answer": "A",
+      "chapter": 38,
+      "explanation": "Mivacurium is preferred for day-care surgery due to its ultra-short duration of action (15-20 minutes) and metabolism by plasma cholinesterase."
+    },
+    {
+      "id": 91,
+      "question": "The most common reason for unexpected admission after day-care surgery is:",
+      "options": {
+        "A": "Drowsiness",
+        "B": "Bleeding",
+        "C": "Fever",
+        "D": "Pain and nausea/vomiting"
+      },
+      "answer": "D",
+      "chapter": 38,
+      "explanation": "Pain and nausea/vomiting are the most common reasons for unexpected admission after day-care surgery."
+    },
+    {
+      "id": 92,
+      "question": "For discharge after day-care surgery, which of the following is NOT mandatory?",
+      "options": {
+        "A": "Stable vital signs",
+        "B": "Ability to walk without dizziness",
+        "C": "Accepting liquids and passing urine",
+        "D": "Responsible adult escort"
+      },
+      "answer": "C",
+      "chapter": 38,
+      "explanation": "Accepting liquids and passing urine are not mandatory criteria for discharge after day-care surgery."
+    },
+    {
+      "id": 93,
+      "question": "The most common pain assessment scale used clinically is:",
+      "options": {
+        "A": "Visual Analogue Scale (VAS)",
+        "B": "Numerical Rating Scale",
+        "C": "Wong-Baker Faces Scale",
+        "D": "McGill Pain Questionnaire"
+      },
+      "answer": "A",
+      "chapter": 39,
+      "explanation": "VAS (Visual Analogue Scale) is the most commonly used pain assessment scale due to its simplicity and reproducibility."
+    },
+    {
+      "id": 94,
+      "question": "The mainstay of acute pain management is:",
+      "options": {
+        "A": "NSAIDs",
+        "B": "Paracetamol",
+        "C": "Opioids",
+        "D": "Local anesthetics"
+      },
+      "answer": "C",
+      "chapter": 39,
+      "explanation": "Opioids remain the mainstay of acute pain management, especially for moderate to severe pain."
+    },
+    {
+      "id": 95,
+      "question": "The most preferred route for postoperative opioid administration is:",
+      "options": {
+        "A": "Intramuscular",
+        "B": "Epidural",
+        "C": "Intravenous",
+        "D": "Oral"
+      },
+      "answer": "B",
+      "chapter": 39,
+      "explanation": "Epidural route is the most preferred for postoperative opioid administration as it provides superior analgesia with lower total doses."
+    },
+    {
+      "id": 96,
+      "question": "The method of choice for parenteral opioid administration is:",
+      "options": {
+        "A": "Continuous IV infusion",
+        "B": "Intermittent IM injections",
+        "C": "Subcutaneous infusion",
+        "D": "Patient-controlled analgesia (PCA)"
+      },
+      "answer": "D",
+      "chapter": 39,
+      "explanation": "PCA is the method of choice for parenteral opioid delivery as it allows patient-titrated dosing with better satisfaction and pain control."
+    },
+    {
+      "id": 97,
+      "question": "For neurolysis, which technique is preferred over chemical neurolysis?",
+      "options": {
+        "A": "Cryotherapy",
+        "B": "Surgical neurectomy",
+        "C": "Radiofrequency ablation (RFA)",
+        "D": "Laser ablation"
+      },
+      "answer": "C",
+      "chapter": 39,
+      "explanation": "RFA is preferred over chemical neurolysis as it is more controlled, predictable, and causes less collateral tissue damage."
+    },
+    {
+      "id": 98,
+      "question": "The most common type of neuropathic pain is:",
+      "options": {
+        "A": "Postherpetic neuralgia",
+        "B": "Diabetic neuropathy",
+        "C": "Trigeminal neuralgia",
+        "D": "Phantom limb pain"
+      },
+      "answer": "B",
+      "chapter": 39,
+      "explanation": "Diabetic neuropathy is the most common type of neuropathic pain due to the high prevalence of diabetes mellitus."
+    },
+    {
+      "id": 99,
+      "question": "The drug of choice for neuropathic pain is:",
+      "options": {
+        "A": "Gabapentin",
+        "B": "Amitriptyline",
+        "C": "Carbamazepine",
+        "D": "Pregabalin"
+      },
+      "answer": "D",
+      "chapter": 39,
+      "explanation": "Pregabalin is the drug of choice for neuropathic pain due to its better bioavailability and more predictable pharmacokinetics than gabapentin."
+    },
+    {
+      "id": 100,
+      "question": "The drug of choice for trigeminal neuralgia is:",
+      "options": {
+        "A": "Carbamazepine",
+        "B": "Pregabalin",
+        "C": "Gabapentin",
+        "D": "Phenytoin"
+      },
+      "answer": "A",
+      "chapter": 39,
+      "explanation": "Carbamazepine is the first-line drug of choice for trigeminal neuralgia, with response rates of 70-80%."
+    },
+    {
+      "id": 101,
+      "question": "For upper limb CRPS, the sympathetic block of choice is:",
+      "options": {
+        "A": "Lumbar sympathetic block",
+        "B": "Stellate ganglion block",
+        "C": "Celiac plexus block",
+        "D": "Thoracic sympathetic block"
+      },
+      "answer": "B",
+      "chapter": 39,
+      "explanation": "Stellate ganglion block is the sympathetic block of choice for upper limb CRPS as it blocks the cervicothoracic sympathetic chain."
+    },
+    {
+      "id": 102,
+      "question": "For lower limb CRPS, the block of choice is:",
+      "options": {
+        "A": "Stellate ganglion block",
+        "B": "Celiac plexus block",
+        "C": "Lumbar sympathetic block",
+        "D": "Epidural block"
+      },
+      "answer": "C",
+      "chapter": 39,
+      "explanation": "Lumbar sympathetic block is the block of choice for lower limb CRPS as it blocks the sympathetic supply to the lower extremity."
+    },
+    {
+      "id": 103,
+      "question": "The most definitive treatment for facet joint arthropathy is:",
+      "options": {
+        "A": "Epidural steroid injection",
+        "B": "RF ablation of medial branch",
+        "C": "Facet joint injection",
+        "D": "Physiotherapy"
+      },
+      "answer": "B",
+      "chapter": 39,
+      "explanation": "RF ablation of the medial branch is the most definitive treatment for facet arthropathy, providing long-lasting pain relief."
+    },
+    {
+      "id": 104,
+      "question": "Multiple trigger points are pathognomonic of:",
+      "options": {
+        "A": "Myofascial pain syndrome",
+        "B": "CRPS",
+        "C": "Fibromyalgia",
+        "D": "Neuropathic pain"
+      },
+      "answer": "C",
+      "chapter": 39,
+      "explanation": "Multiple trigger points are pathognomonic of fibromyalgia, distinguishing it from myofascial pain syndrome which has focal trigger points."
+    },
+    {
+      "id": 105,
+      "question": "In pregnancy, decreased FRC makes the patient prone to:",
+      "options": {
+        "A": "Hypercarbia",
+        "B": "Hypoxia",
+        "C": "Alkalosis",
+        "D": "Bradycardia"
+      },
+      "answer": "B",
+      "chapter": 28,
+      "explanation": "Decreased FRC in pregnancy reduces oxygen reserve, making pregnant patients prone to rapid hypoxia during apnea or airway difficulty."
+    },
+    {
+      "id": 106,
+      "question": "Pregnant patients are prone to high spinal because of:",
+      "options": {
+        "A": "Increased CSF volume",
+        "B": "Increased spinal curvature",
+        "C": "Decreased CSF volume and engorged epidural veins",
+        "D": "Decreased drug metabolism"
+      },
+      "answer": "C",
+      "chapter": 28,
+      "explanation": "Pregnant patients are prone to high spinal due to decreased CSF volume from engorged epidural venous plexus (aortocaval compression)."
+    },
+    {
+      "id": 107,
+      "question": "Which IV induction agent is considered safe in pregnancy for cesarean section?",
+      "options": {
+        "A": "Propofol",
+        "B": "Ketamine",
+        "C": "Etomidate",
+        "D": "Methohexitone"
+      },
+      "answer": "A",
+      "chapter": 28,
+      "explanation": "Propofol is considered safe in pregnancy and is commonly used for GA induction during cesarean section."
+    },
+    {
+      "id": 108,
+      "question": "The regional technique of choice for pregnancy-induced hypertension (PIH) is:",
+      "options": {
+        "A": "Spinal anesthesia",
+        "B": "Combined spinal-epidural",
+        "C": "Pudendal block",
+        "D": "Epidural anesthesia"
+      },
+      "answer": "D",
+      "chapter": 28,
+      "explanation": "Epidural is preferred for PIH as it provides gradual, controlled sympathetic block without sudden hypotension seen with spinal."
+    },
+    {
+      "id": 109,
+      "question": "Regarding age and regional anesthesia in children:",
+      "options": {
+        "A": "Regional is contraindicated below 5 years",
+        "B": "Only caudal block is safe in infants",
+        "C": "Age is no bar for regional anesthesia",
+        "D": "Regional is only used above 12 years"
+      },
+      "answer": "C",
+      "chapter": 29,
+      "explanation": "Age is no bar for regional anesthesia in children; even neonates can safely receive regional techniques."
+    },
+    {
+      "id": 110,
+      "question": "Which inhalational agents are NOT suitable for inhalational induction in children due to airway irritation?",
+      "options": {
+        "A": "Sevoflurane and halothane",
+        "B": "Isoflurane and desflurane",
+        "C": "Sevoflurane and desflurane",
+        "D": "Halothane and isoflurane"
+      },
+      "answer": "B",
+      "chapter": 29,
+      "explanation": "Isoflurane and desflurane are irritating to airways and are not suitable for inhalational induction in children."
+    },
+    {
+      "id": 111,
+      "question": "Regarding cuffed endotracheal tubes in children:",
+      "options": {
+        "A": "They are absolutely contraindicated",
+        "B": "Only used above 8 years",
+        "C": "Only uncuffed tubes should be used",
+        "D": "They are acceptable if leak pressure is >15-20 cmH2O"
+      },
+      "answer": "D",
+      "chapter": 29,
+      "explanation": "Cuffed tubes are acceptable in children provided leak pressure is >15-20 cmH2O, ensuring the cuff is not over-inflated."
+    },
+    {
+      "id": 112,
+      "question": "In geriatric patients, which assessment is mandatory preoperatively?",
+      "options": {
+        "A": "Cognitive assessment",
+        "B": "Respiratory assessment",
+        "C": "Renal function",
+        "D": "Cardiac stress test"
+      },
+      "answer": "A",
+      "chapter": 30,
+      "explanation": "Cognitive assessment is mandatory in elderly patients to establish baseline and identify those at risk for POCD."
+    },
+    {
+      "id": 113,
+      "question": "In elderly patients, which type of anesthesia is generally preferred?",
+      "options": {
+        "A": "General anesthesia",
+        "B": "Regional anesthesia",
+        "C": "TIVA",
+        "D": "Sedation"
+      },
+      "answer": "B",
+      "chapter": 30,
+      "explanation": "Regional anesthesia is generally preferred in elderly patients as it avoids polypharmacy, provides good analgesia, and may reduce POCD risk."
+    },
+    {
+      "id": 114,
+      "question": "Water-soluble drugs in obese patients should be dosed based on:",
+      "options": {
+        "A": "Actual body weight",
+        "B": "Body surface area",
+        "C": "BMI",
+        "D": "Ideal body weight"
+      },
+      "answer": "D",
+      "chapter": 31,
+      "explanation": "Water-soluble drugs should be dosed on ideal body weight in obese patients as they do not distribute significantly into adipose tissue."
+    },
+    {
+      "id": 115,
+      "question": "Laparoscopy is considered safe in:",
+      "options": {
+        "A": "Only non-pregnant patients",
+        "B": "Both pregnant and obese patients",
+        "C": "Only non-obese patients",
+        "D": "Neither pregnant nor obese patients"
+      },
+      "answer": "B",
+      "chapter": 32,
+      "explanation": "Laparoscopy is considered safe in both pregnant and obese patients with appropriate modifications in technique."
+    },
+    {
+      "id": 116,
+      "question": "The goal of anesthesia for ophthalmic surgery is to:",
+      "options": {
+        "A": "Reduce or maintain IOP",
+        "B": "Increase IOP for better surgical view",
+        "C": "Maintain mydriasis",
+        "D": "Produce hypotension"
+      },
+      "answer": "A",
+      "chapter": 33,
+      "explanation": "The primary goal of anesthesia for ophthalmic surgery is to reduce or maintain IOP to provide optimal surgical conditions."
+    },
+    {
+      "id": 117,
+      "question": "In a patient with maxillary fracture alone, the preferred intubation route is:",
+      "options": {
+        "A": "Nasal",
+        "B": "Oral",
+        "C": "Tracheostomy",
+        "D": "Cricothyrotomy"
+      },
+      "answer": "B",
+      "chapter": 35,
+      "explanation": "In maxillary fracture, nasal route is contraindicated (risk of intracranial placement), so oral intubation is preferred."
+    },
+    {
+      "id": 118,
+      "question": "In a patient with mandibular fracture alone, the preferred intubation route is:",
+      "options": {
+        "A": "Nasal",
+        "B": "Oral",
+        "C": "Tracheostomy",
+        "D": "Retrograde intubation"
+      },
+      "answer": "A",
+      "chapter": 35,
+      "explanation": "In mandibular fracture, oral route may be difficult due to limited mouth opening, so nasal intubation is preferred."
+    },
+    {
+      "id": 119,
+      "question": "Which monitoring is essential in trauma and burns?",
+      "options": {
+        "A": "BIS and train-of-four",
+        "B": "Central venous pressure only",
+        "C": "Invasive BP and temperature",
+        "D": "Cardiac output monitoring"
+      },
+      "answer": "C",
+      "chapter": 35,
+      "explanation": "Invasive arterial BP and temperature monitoring are essential in trauma/burns for continuous hemodynamic assessment and hypothermia prevention."
+    },
+    {
+      "id": 120,
+      "question": "The classic triad of fat embolism syndrome includes all EXCEPT:",
+      "options": {
+        "A": "Dyspnea",
+        "B": "Confusion",
+        "C": "Petechial rash",
+        "D": "Fever"
+      },
+      "answer": "D",
+      "chapter": 36,
+      "explanation": "The classic triad of fat embolism is dyspnea, confusion, and petechial rash. Fever may occur but is not part of the diagnostic triad."
+    },
+    {
+      "id": 121,
+      "question": "In orthopedic surgery, which anesthesia type is generally preferred?",
+      "options": {
+        "A": "General anesthesia",
+        "B": "Local anesthesia",
+        "C": "Regional anesthesia",
+        "D": "Monitored anesthesia care"
+      },
+      "answer": "C",
+      "chapter": 36,
+      "explanation": "Regional anesthesia is generally preferred in orthopedic surgery for its benefits of reduced blood loss, DVT prevention, and superior postoperative analgesia."
+    },
+    {
+      "id": 122,
+      "question": "The TIVA technique for remote location anesthesia commonly uses:",
+      "options": {
+        "A": "Propofol + fentanyl",
+        "B": "Propofol + remifentanil",
+        "C": "Ketamine + midazolam",
+        "D": "Thiopentone + morphine"
+      },
+      "answer": "B",
+      "chapter": 37,
+      "explanation": "TIVA with propofol + remifentanil is preferred for remote locations as it provides predictable anesthesia without dependence on vaporizers."
+    },
+    {
+      "id": 123,
+      "question": "Fasting guidelines for remote location anesthesia are:",
+      "options": {
+        "A": "Not required",
+        "B": "Reduced",
+        "C": "Same as standard (full fasting required)",
+        "D": "Only for GA, not sedation"
+      },
+      "answer": "C",
+      "chapter": 37,
+      "explanation": "Full standard fasting guidelines are required for anesthesia in remote locations, same as for operating room procedures."
+    },
+    {
+      "id": 124,
+      "question": "Duration and ASA status in day-care surgery are:",
+      "options": {
+        "A": "Not absolute denial criteria",
+        "B": "Absolute denial criteria",
+        "C": "The only criteria that matter",
+        "D": "Irrelevant"
+      },
+      "answer": "A",
+      "chapter": 38,
+      "explanation": "Duration, ASA status, and age are not absolute denial criteria for day-care surgery; patient selection depends on overall assessment."
+    },
+    {
+      "id": 125,
+      "question": "The preferred induction agent for day-care surgery is:",
+      "options": {
+        "A": "Thiopentone",
+        "B": "Ketamine",
+        "C": "Propofol",
+        "D": "Etomidate"
+      },
+      "answer": "C",
+      "chapter": 38,
+      "explanation": "Propofol is the preferred induction agent for day-care surgery due to rapid, clear-headed recovery and antiemetic properties."
+    },
+    {
+      "id": 126,
+      "question": "The maintenance agent of choice for day-care surgery is:",
+      "options": {
+        "A": "Desflurane",
+        "B": "Sevoflurane",
+        "C": "Isoflurane",
+        "D": "Halothane"
+      },
+      "answer": "A",
+      "chapter": 38,
+      "explanation": "Desflurane is the maintenance agent of choice for day-care surgery due to its low solubility and fastest emergence profile."
+    },
+    {
+      "id": 127,
+      "question": "Readmission after day-care surgery is usually due to:",
+      "options": {
+        "A": "Anesthetic complications",
+        "B": "Patient non-compliance",
+        "C": "Social reasons",
+        "D": "Surgical complications"
+      },
+      "answer": "D",
+      "chapter": 38,
+      "explanation": "Readmission after day-care surgery is usually due to surgical complications (bleeding, wound problems) rather than anesthetic issues."
+    },
+    {
+      "id": 128,
+      "question": "Transforaminal steroid injection is preferred over:",
+      "options": {
+        "A": "Epidural steroid injection",
+        "B": "Facet joint injection",
+        "C": "Trigger point injection",
+        "D": "Sacroiliac joint injection"
+      },
+      "answer": "A",
+      "chapter": 39,
+      "explanation": "Transforaminal steroid injection is preferred over conventional epidural steroid injection as it delivers medication directly to the target nerve root."
+    },
+    {
+      "id": 129,
+      "question": "The mainstay of cancer pain management is:",
+      "options": {
+        "A": "NSAIDs",
+        "B": "Nerve blocks",
+        "C": "Antidepressants",
+        "D": "Opioids"
+      },
+      "answer": "D",
+      "chapter": 39,
+      "explanation": "Opioids are the mainstay of cancer pain management as per the WHO analgesic ladder for moderate to severe cancer pain."
+    },
+    {
+      "id": 130,
+      "question": "The multimodal approach to pain management involves:",
+      "options": {
+        "A": "Using only one drug at maximum dose",
+        "B": "Combining different analgesic classes for synergistic effect",
+        "C": "Sequential use of different drugs",
+        "D": "Using only non-pharmacological methods"
+      },
+      "answer": "B",
+      "chapter": 39,
+      "explanation": "Multimodal analgesia combines different classes of analgesics (opioids, NSAIDs, local anesthetics, adjuvants) for synergistic pain relief with fewer side effects."
+    },
+    {
+      "id": 131,
+      "question": "Regarding suxamethonium in neurosurgery with raised ICP:",
+      "options": {
+        "A": "Absolutely contraindicated",
+        "B": "Drug of choice",
+        "C": "Not absolutely contraindicated",
+        "D": "Only for emergency"
+      },
+      "answer": "C",
+      "chapter": 27,
+      "explanation": "Suxamethonium is NOT absolutely contraindicated in raised ICP. While it may transiently raise ICP, it can be used for RSI when indicated."
+    },
+    {
+      "id": 132,
+      "question": "Head injury should always be assumed to be associated with:",
+      "options": {
+        "A": "Cervical spine injury",
+        "B": "Thoracic spine injury",
+        "C": "Lumbar spine injury",
+        "D": "Pelvic fracture"
+      },
+      "answer": "A",
+      "chapter": 27,
+      "explanation": "Head injury should always be assumed to coexist with cervical spine injury until proven otherwise by imaging."
+    },
+    {
+      "id": 133,
+      "question": "Pregnancy causes a hyperdynamic circulation which puts the patient at risk of:",
+      "options": {
+        "A": "Renal failure",
+        "B": "Hepatic failure",
+        "C": "Cardiac failure",
+        "D": "Respiratory failure"
+      },
+      "answer": "C",
+      "chapter": 28,
+      "explanation": "The hyperdynamic circulation of pregnancy (increased blood volume, cardiac output) puts patients at risk of cardiac failure, especially those with pre-existing cardiac disease."
+    },
+    {
+      "id": 134,
+      "question": "Which muscle relaxant is used for RSI in trauma patients?",
+      "options": {
+        "A": "Succinylcholine",
+        "B": "Atracurium",
+        "C": "Vecuronium",
+        "D": "Pancuronium"
+      },
+      "answer": "A",
+      "chapter": 35,
+      "explanation": "Succinylcholine remains the agent of choice for RSI in trauma patients due to its rapid onset and short duration."
+    },
+    {
+      "id": 135,
+      "question": "The preferred non-depolarizing relaxants in trauma are:",
+      "options": {
+        "A": "Vecuronium and rocuronium",
+        "B": "Pancuronium and tubocurarine",
+        "C": "Atracurium and cisatracurium",
+        "D": "Mivacurium and doxacurium"
+      },
+      "answer": "C",
+      "chapter": 35,
+      "explanation": "Atracurium and cisatracurium are preferred in trauma as their Hofmann elimination is independent of hepatic/renal function which may be compromised."
+    },
+    {
+      "id": 136,
+      "question": "What percentage of patients experience nausea/vomiting after laparoscopy?",
+      "options": {
+        "A": "10-20%",
+        "B": "20-40%",
+        "C": "80-90%",
+        "D": "40-75%"
+      },
+      "answer": "D",
+      "chapter": 32,
+      "explanation": "Nausea and vomiting occurs in 40-75% of patients after laparoscopy, making it the most common postoperative complaint."
+    },
+    {
+      "id": 137,
+      "question": "In geriatric patients, age is:",
+      "options": {
+        "A": "Not a contraindication for anesthesia",
+        "B": "An absolute contraindication for GA",
+        "C": "A relative contraindication above 80",
+        "D": "Only relevant for cardiac surgery"
+      },
+      "answer": "A",
+      "chapter": 30,
+      "explanation": "Age alone is not a contraindication for anesthesia in geriatric patients; physiological status matters more than chronological age."
+    },
+    {
+      "id": 138,
+      "question": "The preferred anesthesia for obese patients when feasible is:",
+      "options": {
+        "A": "General anesthesia",
+        "B": "TIVA",
+        "C": "Regional anesthesia",
+        "D": "Sedation"
+      },
+      "answer": "C",
+      "chapter": 31,
+      "explanation": "Regional anesthesia is preferred in obese patients when feasible as it avoids airway manipulation and provides good postoperative analgesia."
+    },
+    {
+      "id": 139,
+      "question": "Which type of anesthesia is preferred for ophthalmic surgery?",
+      "options": {
+        "A": "Regional anesthesia",
+        "B": "General anesthesia",
+        "C": "Topical only",
+        "D": "Acupuncture"
+      },
+      "answer": "A",
+      "chapter": 33,
+      "explanation": "Regional anesthesia (peribulbar/sub-Tenon's) is preferred for ophthalmic surgery as it avoids GA risks and provides akinesia and analgesia."
+    },
+    {
+      "id": 140,
+      "question": "The TIVA combination for day-care surgery is:",
+      "options": {
+        "A": "Ketamine + midazolam",
+        "B": "Thiopentone + fentanyl",
+        "C": "Propofol + morphine",
+        "D": "Propofol + remifentanil"
+      },
+      "answer": "D",
+      "chapter": 38,
+      "explanation": "TIVA with propofol + remifentanil is ideal for day-care surgery providing rapid recovery and minimal residual effects."
+    },
+    {
+      "id": 141,
+      "question": "The aim of fast-track discharge in day-care surgery is:",
+      "options": {
+        "A": "Reducing hospital costs",
+        "B": "Bypassing PACU for early discharge",
+        "C": "Reducing nursing workload",
+        "D": "Improving patient satisfaction"
+      },
+      "answer": "B",
+      "chapter": 38,
+      "explanation": "Fast-track discharge aims to bypass the PACU (Phase 1 recovery) and move patients directly to step-down recovery for earlier discharge."
+    },
+    {
+      "id": 142,
+      "question": "In neurosurgery, smooth recovery is important to prevent:",
+      "options": {
+        "A": "Prolonged sedation",
+        "B": "PONV",
+        "C": "Coughing/straining that can raise ICP and cause hemorrhage",
+        "D": "Shivering"
+      },
+      "answer": "C",
+      "chapter": 27,
+      "explanation": "Smooth recovery is important in neurosurgery to prevent coughing, straining, and hypertension that can raise ICP and cause intracranial hemorrhage."
+    },
+    {
+      "id": 143,
+      "question": "Obese patients are prone to which postoperative respiratory complication?",
+      "options": {
+        "A": "Pneumothorax",
+        "B": "Bronchospasm",
+        "C": "Pulmonary hypertension",
+        "D": "Hypoxia"
+      },
+      "answer": "D",
+      "chapter": 31,
+      "explanation": "Obese patients are prone to postoperative hypoxia due to reduced FRC, atelectasis, and increased oxygen consumption."
+    },
+    {
+      "id": 144,
+      "question": "The sedative of choice for procedures in remote locations is:",
+      "options": {
+        "A": "Diazepam",
+        "B": "Propofol",
+        "C": "Midazolam",
+        "D": "Ketamine"
+      },
+      "answer": "C",
+      "chapter": 37,
+      "explanation": "Midazolam is the sedative of choice for procedures in remote locations due to its anxiolytic, amnestic properties and short duration."
+    },
+    {
+      "id": 145,
+      "question": "Fasting guidelines for day-care surgery compared to standard are:",
+      "options": {
+        "A": "More relaxed",
+        "B": "More strict",
+        "C": "Not required for minor procedures",
+        "D": "Same as standard fasting guidelines"
+      },
+      "answer": "D",
+      "chapter": 38,
+      "explanation": "Same standard fasting guidelines apply for day-care surgery as for any procedure requiring anesthesia."
+    },
+    {
+      "id": 146,
+      "question": "In pediatric patients, rapid desaturation occurs because of:",
+      "options": {
+        "A": "Large tidal volume",
+        "B": "Low metabolic rate",
+        "C": "High O2 consumption relative to low FRC",
+        "D": "High hemoglobin"
+      },
+      "answer": "C",
+      "chapter": 29,
+      "explanation": "Children are prone to hypoxia due to higher oxygen consumption relative to FRC, leading to rapid desaturation during apnea."
+    },
+    {
+      "id": 147,
+      "question": "Which muscle relaxants are preferred across pediatric, geriatric, and trauma anesthesia due to organ-independent elimination?",
+      "options": {
+        "A": "Vecuronium and rocuronium",
+        "B": "Atracurium and cisatracurium",
+        "C": "Pancuronium and tubocurarine",
+        "D": "Mivacurium and succinylcholine"
+      },
+      "answer": "B",
+      "chapter": 29,
+      "explanation": "Atracurium/cisatracurium are the relaxants of choice across pediatric, geriatric, and trauma settings due to organ-independent Hofmann elimination."
+    },
+    {
+      "id": 148,
+      "question": "During shoulder surgery in beach chair position, the anesthesiologist must specifically monitor:",
+      "options": {
+        "A": "Temperature",
+        "B": "Cerebral perfusion/oxygenation",
+        "C": "Urine output",
+        "D": "CVP"
+      },
+      "answer": "B",
+      "chapter": 36,
+      "explanation": "Cerebral perfusion must be specifically monitored in beach chair position as the elevated head position can compromise cerebral blood flow."
+    },
+    {
+      "id": 149,
+      "question": "Given the high incidence of PONV (40-75%) after laparoscopy, which intervention is important?",
+      "options": {
+        "A": "Early mobilization",
+        "B": "IV fluids",
+        "C": "Deep extubation",
+        "D": "Prophylactic antiemetics"
+      },
+      "answer": "D",
+      "chapter": 32,
+      "explanation": "Given the high incidence of PONV (40-75%) after laparoscopy, prophylactic antiemetic therapy is important."
+    },
+    {
+      "id": 150,
+      "question": "In pregnant patients with PIH, the preferred technique provides:",
+      "options": {
+        "A": "Rapid sympathetic block",
+        "B": "Complete motor block",
+        "C": "Gradual controllable sympathetic block",
+        "D": "General anesthesia"
+      },
+      "answer": "C",
+      "chapter": 28,
+      "explanation": "Epidural provides a gradual, controllable sympathetic block in PIH, avoiding sudden hypotension while providing effective analgesia."
+    },
+    {
+      "id": 151,
+      "question": "The oculocardiac reflex during ophthalmic surgery is most commonly triggered by traction on:",
+      "options": {
+        "A": "Lateral rectus",
+        "B": "Superior oblique",
+        "C": "Inferior rectus",
+        "D": "Medial rectus"
+      },
+      "answer": "D",
+      "chapter": 33,
+      "explanation": "The medial rectus is most commonly associated with triggering the oculocardiac reflex during strabismus surgery."
+    },
+    {
+      "id": 152,
+      "question": "N2O is avoided in middle ear surgery (tympanoplasty) because it can:",
+      "options": {
+        "A": "Displace the tympanic graft by increasing middle ear pressure",
+        "B": "Cause sensorineural hearing loss",
+        "C": "Cause facial nerve palsy",
+        "D": "Decrease surgical visibility"
+      },
+      "answer": "A",
+      "chapter": 34,
+      "explanation": "N2O diffuses into the middle ear faster than nitrogen leaves, increasing pressure and potentially displacing the graft in tympanoplasty."
+    },
+    {
+      "id": 153,
+      "question": "Which IV agent is safe for induction during cesarean section GA?",
+      "options": {
+        "A": "Ketamine",
+        "B": "Propofol",
+        "C": "Etomidate",
+        "D": "Midazolam"
+      },
+      "answer": "B",
+      "chapter": 28,
+      "explanation": "Propofol is considered safe for induction in cesarean section GA, with rapid onset and minimal neonatal effects."
+    },
+    {
+      "id": 154,
+      "question": "At altitude, which technique does NOT require vaporizer adjustments?",
+      "options": {
+        "A": "TIVA with propofol and remifentanil",
+        "B": "Inhalational with sevoflurane",
+        "C": "Inhalational with isoflurane",
+        "D": "Inhalational with halothane"
+      },
+      "answer": "A",
+      "chapter": 37,
+      "explanation": "TIVA (propofol + remifentanil) does not require vaporizer adjustments as it is independent of atmospheric pressure effects on vaporizers."
+    },
+    {
+      "id": 155,
+      "question": "The MAC ordering in different age groups from highest to lowest is:",
+      "options": {
+        "A": "Adults > Infants > Neonates > Elderly",
+        "B": "Neonates > Infants > Adults > Elderly",
+        "C": "Infants > Adults > Neonates > Elderly",
+        "D": "Infants > Neonates > Adults > Elderly"
+      },
+      "answer": "D",
+      "chapter": 29,
+      "explanation": "MAC is highest in infants (6 months), followed by neonates, adults, and lowest in elderly patients."
+    },
+    {
+      "id": 156,
+      "question": "Cognitive assessment in geriatric patients should be done:",
+      "options": {
+        "A": "Only if dementia is suspected",
+        "B": "Only for major surgery",
+        "C": "Preoperatively as mandatory",
+        "D": "Not needed if ASA I-II"
+      },
+      "answer": "C",
+      "chapter": 30,
+      "explanation": "Cognitive assessment must be done preoperatively in all geriatric patients to establish baseline and assess POCD risk."
+    },
+    {
+      "id": 157,
+      "question": "Desflurane is preferred in geriatric anesthesia because of all EXCEPT:",
+      "options": {
+        "A": "Rapid emergence",
+        "B": "Least metabolism",
+        "C": "Good cardiovascular profile",
+        "D": "Pleasant smell for induction"
+      },
+      "answer": "D",
+      "chapter": 30,
+      "explanation": "Desflurane has a pungent smell and is NOT suitable for inhalational induction. It is preferred for maintenance due to rapid emergence and least metabolism."
+    },
+    {
+      "id": 158,
+      "question": "In burn patients, the period during which succinylcholine becomes dangerous starts from:",
+      "options": {
+        "A": "Immediately (day 1)",
+        "B": "24-48 hours after burn",
+        "C": "1 week after burn",
+        "D": "1 month after burn"
+      },
+      "answer": "B",
+      "chapter": 35,
+      "explanation": "Succinylcholine becomes dangerous from 24-48 hours after burns (when receptor upregulation begins) and remains contraindicated for 1 year."
+    },
+    {
+      "id": 159,
+      "question": "In orthopedic surgery, tourniquet time exceeding 2 hours can cause:",
+      "options": {
+        "A": "Only mild discomfort",
+        "B": "Temporary numbness only",
+        "C": "Irreversible nerve and muscle damage",
+        "D": "No significant complications"
+      },
+      "answer": "C",
+      "chapter": 36,
+      "explanation": "Tourniquet time exceeding 2 hours risks irreversible nerve injury and rhabdomyolysis from prolonged ischemia."
+    },
+    {
+      "id": 160,
+      "question": "The approach to pain management recommended currently is:",
+      "options": {
+        "A": "Unimodal with maximum dose of one drug",
+        "B": "Multimodal approach",
+        "C": "Only pharmacological",
+        "D": "Only interventional"
+      },
+      "answer": "B",
+      "chapter": 39,
+      "explanation": "The multimodal approach combining different analgesic mechanisms provides better pain relief with fewer side effects than unimodal therapy."
+    },
+    {
+      "id": 161,
+      "question": "For a patient with head injury requiring emergency surgery, cervical spine should be:",
+      "options": {
+        "A": "Ignored if no neck pain",
+        "B": "X-rayed only if symptoms present",
+        "C": "Assessed only postoperatively",
+        "D": "Assumed injured and immobilized"
+      },
+      "answer": "D",
+      "chapter": 27,
+      "explanation": "Head injury equals cervical injury until proven otherwise; inline stabilization must be maintained during all airway maneuvers."
+    },
+    {
+      "id": 162,
+      "question": "Regarding glycopyrrolate and placental transfer:",
+      "options": {
+        "A": "It freely crosses the placenta",
+        "B": "It crosses partially",
+        "C": "It does NOT cross the placenta",
+        "D": "It crosses only in high doses"
+      },
+      "answer": "C",
+      "chapter": 28,
+      "explanation": "Glycopyrrolate does not cross the placenta due to its quaternary ammonium structure and high ionization, making it safe in obstetrics."
+    },
+    {
+      "id": 163,
+      "question": "For day-care surgery in children, the induction methods of choice are:",
+      "options": {
+        "A": "Thiopentone IV",
+        "B": "Ketamine IM",
+        "C": "Sevoflurane inhalation or propofol IV",
+        "D": "Halothane inhalation"
+      },
+      "answer": "C",
+      "chapter": 38,
+      "explanation": "Propofol IV (if IV access available) or sevoflurane inhalation are the induction agents of choice for day-care surgery in children."
+    },
+    {
+      "id": 164,
+      "question": "Obese patients should be screened preoperatively for:",
+      "options": {
+        "A": "Epilepsy",
+        "B": "Obstructive sleep apnea",
+        "C": "Myasthenia gravis",
+        "D": "Parkinson's disease"
+      },
+      "answer": "B",
+      "chapter": 31,
+      "explanation": "OSA should be screened preoperatively in obese patients using polysomnography as it significantly impacts perioperative management."
+    },
+    {
+      "id": 165,
+      "question": "In laparoscopy, mild hyperventilation is performed to:",
+      "options": {
+        "A": "Increase surgical space",
+        "B": "Reduce blood loss",
+        "C": "Prevent air embolism",
+        "D": "Compensate for CO2 absorption from peritoneum"
+      },
+      "answer": "D",
+      "chapter": 32,
+      "explanation": "Mild hyperventilation during laparoscopy compensates for the systemic absorption of CO2 from the peritoneal cavity."
+    },
+    {
+      "id": 166,
+      "question": "All inhalational and IV agents reduce IOP EXCEPT:",
+      "options": {
+        "A": "Propofol",
+        "B": "Sevoflurane",
+        "C": "Ketamine",
+        "D": "Thiopentone"
+      },
+      "answer": "C",
+      "chapter": 33,
+      "explanation": "All IV induction agents (propofol, thiopentone, etomidate) and inhalational agents reduce IOP except ketamine which increases it."
+    },
+    {
+      "id": 167,
+      "question": "Post-tonsillectomy bleed requires which approach for re-intubation?",
+      "options": {
+        "A": "Standard induction",
+        "B": "RSI with cricoid pressure",
+        "C": "Inhalational induction",
+        "D": "Awake fiberoptic"
+      },
+      "answer": "B",
+      "chapter": 34,
+      "explanation": "Post-tonsillectomy bleed requires RSI approach as the patient has a full stomach from swallowed blood."
+    },
+    {
+      "id": 168,
+      "question": "The desflurane vaporizer works differently from others because it is:",
+      "options": {
+        "A": "Flow-over type",
+        "B": "Draw-over type",
+        "C": "Temperature-compensated mechanical",
+        "D": "Heated and pressurized (electrically powered)"
+      },
+      "answer": "D",
+      "chapter": 37,
+      "explanation": "The desflurane TEC 6 vaporizer is heated and pressurized (electrically powered) because desflurane's boiling point is close to room temperature."
+    },
+    {
+      "id": 169,
+      "question": "Before anesthesia in a remote location, what must be confirmed?",
+      "options": {
+        "A": "CT scan availability",
+        "B": "Fasting status",
+        "C": "Backup surgeon availability",
+        "D": "Blood group only"
+      },
+      "answer": "B",
+      "chapter": 37,
+      "explanation": "Full fasting must be confirmed before any anesthesia in remote locations, maintaining same safety standards as the operating room."
+    },
+    {
+      "id": 170,
+      "question": "Which agent provides both sedation and analgesia for remote location procedures?",
+      "options": {
+        "A": "Propofol",
+        "B": "Midazolam",
+        "C": "Thiopentone",
+        "D": "Ketamine"
+      },
+      "answer": "D",
+      "chapter": 37,
+      "explanation": "Ketamine provides both sedation and analgesia (dissociative anesthesia), making it useful for painful procedures in remote locations."
+    },
+    {
+      "id": 171,
+      "question": "Airway fire during laser surgery is managed by:",
+      "options": {
+        "A": "Increasing oxygen flow",
+        "B": "Continuing ventilation with N2O",
+        "C": "Immediately removing ETT, flooding field with saline",
+        "D": "Deepening anesthesia"
+      },
+      "answer": "C",
+      "chapter": 34,
+      "explanation": "Airway fire requires immediate removal of the ETT, flooding the field with saline to extinguish fire, then reintubation and bronchoscopy."
+    },
+    {
+      "id": 172,
+      "question": "In head injury patients, the primary IV fluid choice is:",
+      "options": {
+        "A": "Dextrose 5%",
+        "B": "Normal saline/Ringer's lactate",
+        "C": "Dextrose 10%",
+        "D": "Half-normal saline with dextrose"
+      },
+      "answer": "B",
+      "chapter": 27,
+      "explanation": "Isotonic crystalloids (NS/RL) are used in neurosurgery; glucose-containing solutions are avoided as they can worsen cerebral edema."
+    },
+    {
+      "id": 173,
+      "question": "Controlled hypocapnia reduces ICP in neurosurgery by:",
+      "options": {
+        "A": "Increasing cerebral blood flow",
+        "B": "Decreasing CSF production",
+        "C": "Causing cerebral vasoconstriction reducing cerebral blood volume",
+        "D": "Reducing brain metabolism"
+      },
+      "answer": "C",
+      "chapter": 27,
+      "explanation": "Hypocapnia (pCO2 25-30 mmHg) causes cerebral vasoconstriction, reducing cerebral blood volume and thus ICP."
+    },
+    {
+      "id": 174,
+      "question": "Which anticholinergic can safely be given to the mother without affecting the fetus?",
+      "options": {
+        "A": "Atropine",
+        "B": "Hyoscine",
+        "C": "Glycopyrrolate",
+        "D": "Scopolamine"
+      },
+      "answer": "C",
+      "chapter": 28,
+      "explanation": "Glycopyrrolate does not cross the placenta (quaternary ammonium compound), making it safe for use in obstetric patients."
+    },
+    {
+      "id": 175,
+      "question": "In pediatric anesthesia, atropine premedication is especially important to prevent:",
+      "options": {
+        "A": "Bradycardia",
+        "B": "Tachycardia",
+        "C": "Hypertension",
+        "D": "Bronchospasm"
+      },
+      "answer": "A",
+      "chapter": 29,
+      "explanation": "Atropine is important in pediatric anesthesia to prevent bradycardia, which is the most common cardiac event in children."
+    },
+    {
+      "id": 176,
+      "question": "Bone cement implantation syndrome is most commonly seen during:",
+      "options": {
+        "A": "Spine surgery",
+        "B": "Hip arthroplasty/hemiarthroplasty",
+        "C": "Knee replacement",
+        "D": "Shoulder surgery"
+      },
+      "answer": "B",
+      "chapter": 36,
+      "explanation": "Bone cement implantation syndrome most commonly occurs during hip arthroplasty when methylmethacrylate cement is pressurized into the femoral canal."
+    },
+    {
+      "id": 177,
+      "question": "In obese patients, which position during preoxygenation improves respiratory mechanics?",
+      "options": {
+        "A": "Supine flat",
+        "B": "Lateral position",
+        "C": "Trendelenburg",
+        "D": "Head-up/ramped position"
+      },
+      "answer": "D",
+      "chapter": 31,
+      "explanation": "Head-up/ramped position in obese patients improves FRC, delays desaturation, and facilitates laryngoscopy."
+    },
+    {
+      "id": 178,
+      "question": "In neurosurgery, which is TRUE about recovery?",
+      "options": {
+        "A": "Coughing during emergence is acceptable",
+        "B": "Deep extubation is preferred for all cases",
+        "C": "Smooth recovery without coughing/straining is important",
+        "D": "Emergence hypertension is harmless"
+      },
+      "answer": "C",
+      "chapter": 27,
+      "explanation": "Smooth recovery without coughing or straining is crucial in neurosurgery to prevent sudden rises in ICP and risk of intracranial hemorrhage."
+    },
+    {
+      "id": 179,
+      "question": "Regarding fasting for anesthesia in remote locations:",
+      "options": {
+        "A": "2-hour fast is sufficient",
+        "B": "No fasting needed for sedation",
+        "C": "Full fasting as per standard guidelines is required",
+        "D": "Fasting not needed if procedure <30 minutes"
+      },
+      "answer": "C",
+      "chapter": 37,
+      "explanation": "Full standard fasting guidelines are mandatory for anesthesia/sedation in remote locations to prevent aspiration."
+    },
+    {
+      "id": 180,
+      "question": "For a trauma patient with isolated mandibular fracture, the preferred airway approach is:",
+      "options": {
+        "A": "Nasal intubation",
+        "B": "Oral intubation",
+        "C": "Tracheostomy",
+        "D": "LMA"
+      },
+      "answer": "A",
+      "chapter": 35,
+      "explanation": "Mandibular fracture makes oral intubation difficult, so nasal intubation is the preferred route."
+    },
+    {
+      "id": 181,
+      "question": "PCA (Patient-Controlled Analgesia) is the method of choice for:",
+      "options": {
+        "A": "Epidural analgesia",
+        "B": "Parenteral opioid delivery",
+        "C": "Regional anesthesia",
+        "D": "Oral analgesics"
+      },
+      "answer": "B",
+      "chapter": 39,
+      "explanation": "PCA is the method of choice for parenteral opioid delivery, allowing patients to self-administer analgesics within set limits."
+    },
+    {
+      "id": 182,
+      "question": "Succinylcholine causes IOP rise that lasts:",
+      "options": {
+        "A": "1-2 minutes",
+        "B": "5-10 minutes (transient)",
+        "C": "15-20 minutes",
+        "D": "Permanently"
+      },
+      "answer": "B",
+      "chapter": 33,
+      "explanation": "Succinylcholine causes a transient rise in IOP lasting 5-10 minutes due to tonic contraction of extraocular muscles."
+    },
+    {
+      "id": 183,
+      "question": "Fat embolism syndrome classically presents after fractures of:",
+      "options": {
+        "A": "Skull",
+        "B": "Spine",
+        "C": "Long bones (especially femur)",
+        "D": "Pelvis only"
+      },
+      "answer": "C",
+      "chapter": 36,
+      "explanation": "Fat embolism syndrome classically presents 24-72 hours after long bone fractures, especially femoral shaft fractures."
+    },
+    {
+      "id": 184,
+      "question": "In elderly patients, MAC at age 80 compared to age 40 is reduced by approximately:",
+      "options": {
+        "A": "5%",
+        "B": "50%",
+        "C": "16-24%",
+        "D": "10%"
+      },
+      "answer": "C",
+      "chapter": 30,
+      "explanation": "MAC decreases 4-6% per decade after 40, so by age 80 (4 decades), MAC is reduced by approximately 16-24%."
+    },
+    {
+      "id": 185,
+      "question": "During cesarean section under GA, the induction sequence is:",
+      "options": {
+        "A": "Standard induction and intubation",
+        "B": "Inhalational induction",
+        "C": "Awake intubation routinely",
+        "D": "Preoxygenation, RSI with cricoid pressure"
+      },
+      "answer": "D",
+      "chapter": 28,
+      "explanation": "Cesarean section GA requires preoxygenation followed by RSI with cricoid pressure because all pregnant patients are considered full stomach."
+    },
+    {
+      "id": 186,
+      "question": "Which drug should be immediately available to treat oculocardiac reflex?",
+      "options": {
+        "A": "Atropine",
+        "B": "Epinephrine",
+        "C": "Neostigmine",
+        "D": "Propranolol"
+      },
+      "answer": "A",
+      "chapter": 33,
+      "explanation": "Atropine should be immediately available to treat bradycardia from oculocardiac reflex during ophthalmic/strabismus surgery."
+    },
+    {
+      "id": 187,
+      "question": "During laser airway surgery, FiO2 should be kept below:",
+      "options": {
+        "A": "0.21",
+        "B": "0.30",
+        "C": "0.60",
+        "D": "0.40"
+      },
+      "answer": "D",
+      "chapter": 34,
+      "explanation": "FiO2 should be kept below 0.40 during laser airway surgery as oxygen supports combustion and increases fire risk."
+    },
+    {
+      "id": 188,
+      "question": "In trauma patients with hypotension, propofol induction dose should be:",
+      "options": {
+        "A": "Same as normal (2-2.5 mg/kg)",
+        "B": "Increased for rapid onset",
+        "C": "Propofol should never be used",
+        "D": "Drastically reduced (0.5-1 mg/kg or less)"
+      },
+      "answer": "D",
+      "chapter": 35,
+      "explanation": "IV induction doses are drastically reduced in hypotensive trauma patients as reduced cardiac output leads to higher effective drug concentrations."
+    },
+    {
+      "id": 189,
+      "question": "Thromboprophylaxis after hip surgery is critical because fatal PE incidence without it is:",
+      "options": {
+        "A": "1-3%",
+        "B": "0.01%",
+        "C": "10%",
+        "D": "20%"
+      },
+      "answer": "A",
+      "chapter": 36,
+      "explanation": "Fatal pulmonary embolism occurs in 1-3% of hip surgery patients without prophylaxis, making thromboprophylaxis essential."
+    },
+    {
+      "id": 190,
+      "question": "For diabetic neuropathy, the first-line treatment is:",
+      "options": {
+        "A": "Pregabalin",
+        "B": "Morphine",
+        "C": "Ibuprofen",
+        "D": "Paracetamol"
+      },
+      "answer": "A",
+      "chapter": 39,
+      "explanation": "Pregabalin is the drug of choice for neuropathic pain including diabetic neuropathy, with superior bioavailability over gabapentin."
+    },
+    {
+      "id": 191,
+      "question": "Unexpected admission after day-care surgery most commonly occurs due to:",
+      "options": {
+        "A": "Prolonged anesthesia effect",
+        "B": "Pain and nausea/vomiting",
+        "C": "Bleeding",
+        "D": "Patient refusal to leave"
+      },
+      "answer": "B",
+      "chapter": 38,
+      "explanation": "Pain and PONV are the most common reasons for unexpected admission, emphasizing the need for multimodal antiemetics and analgesia."
+    },
+    {
+      "id": 192,
+      "question": "Chemical neurolysis has been largely replaced by:",
+      "options": {
+        "A": "Radiofrequency ablation",
+        "B": "Cryotherapy",
+        "C": "Surgical neurectomy",
+        "D": "TENS"
+      },
+      "answer": "A",
+      "chapter": 39,
+      "explanation": "RFA has largely replaced chemical neurolysis (alcohol/phenol) as it is more precise, predictable, and has fewer complications."
+    },
+    {
+      "id": 193,
+      "question": "The preferred position for pregnant patients beyond 20 weeks during surgery is:",
+      "options": {
+        "A": "Supine",
+        "B": "Right lateral",
+        "C": "Left lateral tilt (15-30 degrees)",
+        "D": "Trendelenburg"
+      },
+      "answer": "C",
+      "chapter": 28,
+      "explanation": "Left lateral tilt displaces the uterus off the IVC preventing supine hypotension syndrome in pregnant patients beyond 20 weeks."
+    },
+    {
+      "id": 194,
+      "question": "Which is NOT a contraindication for bag and mask ventilation in neonates?",
+      "options": {
+        "A": "Congenital diaphragmatic hernia",
+        "B": "Tracheoesophageal fistula",
+        "C": "Meconium aspiration",
+        "D": "Pyloric stenosis"
+      },
+      "answer": "C",
+      "chapter": 29,
+      "explanation": "Bag/mask is contraindicated in CDH, TEF, and pyloric stenosis. Meconium aspiration is not listed as a contraindication for bag/mask ventilation."
+    },
+    {
+      "id": 195,
+      "question": "POCD (postoperative cognitive dysfunction) in elderly:",
+      "options": {
+        "A": "Only occurs after GA",
+        "B": "Only occurs after major surgery",
+        "C": "Is preventable with regional anesthesia",
+        "D": "Is independent of type of surgery and anesthesia"
+      },
+      "answer": "D",
+      "chapter": 30,
+      "explanation": "POCD is independent of the type of surgery and anesthesia technique, occurring with similar frequency regardless of anesthetic method."
+    },
+    {
+      "id": 196,
+      "question": "When IAP during laparoscopy exceeds 20 mmHg, which organ systems are particularly affected?",
+      "options": {
+        "A": "Renal and mesenteric",
+        "B": "Hepatic and splenic",
+        "C": "Pulmonary and cardiac",
+        "D": "Cerebral and spinal"
+      },
+      "answer": "A",
+      "chapter": 32,
+      "explanation": "IAP >20 mmHg specifically impairs renal and mesenteric blood flow, risking acute kidney injury and bowel ischemia."
+    },
+    {
+      "id": 197,
+      "question": "In the WHO analgesic ladder for cancer pain, step 3 relies on:",
+      "options": {
+        "A": "NSAIDs",
+        "B": "Weak opioids",
+        "C": "Strong opioids",
+        "D": "Adjuvant analgesics only"
+      },
+      "answer": "C",
+      "chapter": 39,
+      "explanation": "Strong opioids (morphine, fentanyl, etc.) are the mainstay at step 3 of the WHO analgesic ladder for severe cancer pain."
+    },
+    {
+      "id": 198,
+      "question": "Regarding day-care surgery discharge criteria, which is TRUE?",
+      "options": {
+        "A": "Patient must eat a full meal",
+        "B": "Voiding is mandatory before discharge",
+        "C": "24-hour observation is required",
+        "D": "Accepting liquids and passing urine are NOT mandatory"
+      },
+      "answer": "D",
+      "chapter": 38,
+      "explanation": "Accepting liquids and passing urine are not mandatory criteria for discharge after day-care surgery unless specifically indicated."
+    },
+    {
+      "id": 199,
+      "question": "For MRI anesthesia, equipment must be:",
+      "options": {
+        "A": "Standard ferromagnetic",
+        "B": "MRI-compatible (aluminum/non-ferromagnetic)",
+        "C": "Standard stainless steel",
+        "D": "No monitoring is needed"
+      },
+      "answer": "B",
+      "chapter": 37,
+      "explanation": "MRI-compatible aluminum (non-ferromagnetic) equipment must be used inside the MRI suite to prevent projectile hazards from the magnetic field."
+    },
+    {
+      "id": 200,
+      "question": "The hyperdynamic circulation of pregnancy creates risk of cardiac failure especially in patients with:",
+      "options": {
+        "A": "Pre-existing cardiac disease",
+        "B": "Gestational diabetes",
+        "C": "Renal impairment",
+        "D": "Anemia"
+      },
+      "answer": "A",
+      "chapter": 28,
+      "explanation": "The hyperdynamic circulation of pregnancy increases cardiac output by 30-50%, putting patients with limited cardiac reserve at risk of cardiac failure."
+    }
+  ]
+}

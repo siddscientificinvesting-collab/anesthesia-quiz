@@ -356,6 +356,12 @@ QUIZ_CATALOG = {
         "short": "Ch 18–26 Deep (50Q)",
         "icon": "🧠",
     },
+    "ch27_to_39_200": {
+        "file": "questions_ch27_to_39_200.json",
+        "label": "Chapters 27–39 Mixed (Subspecialty Anesthetic Management) [200 Qs / 90 min]",
+        "short": "Ch 27–39 Subspecialty (200Q)",
+        "icon": "🏥",
+    },
 }
 
 # ─── Load Questions ──────────────────────────────────────────────────────────
