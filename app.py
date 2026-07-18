@@ -638,11 +638,20 @@ Select a chapter to start your test:
         c1, c2 = st.columns([4, 1])
         with c1:
             st.markdown(f"### {info['icon']} {info['label']}")
-            qdata = load_questions(info['file'])
-            total_qs = qdata.get('total_questions', len(qdata['questions']))
-            time_min = qdata.get('time_limit_minutes', 30)
-            chapters = sorted(set(str(q.get('chapter', '')) for q in qdata['questions'] if q.get('chapter')))
-            st.caption(f"**{total_qs} MCQs** | **{time_min} min** | Chapters: {', '.join(chapters[:8])}{'...' if len(chapters) > 8 else ''}")
+            try:
+                qdata = load_questions(info['file'])
+                if isinstance(qdata, list):
+                    qs = qdata
+                    total_qs = len(qs)
+                    time_min = 30
+                else:
+                    qs = qdata.get('questions', qdata) if isinstance(qdata, dict) else qdata
+                    total_qs = qdata.get('total_questions', len(qs)) if isinstance(qdata, dict) else len(qs)
+                    time_min = qdata.get('time_limit_minutes', 30) if isinstance(qdata, dict) else 30
+                chapters = sorted(set(str(q.get('chapter', '')) for q in qs if isinstance(q, dict) and q.get('chapter')))
+                st.caption(f"**{total_qs} MCQs** | **{time_min} min** | Chapters: {', '.join(chapters[:8])}{'...' if len(chapters) > 8 else ''}")
+            except Exception:
+                st.caption("Quiz available")
         with c2:
             link = f"?quiz={key}"
             if st.button(f"▶ Start", key=f"cat_{key}", type="primary", use_container_width=True):
