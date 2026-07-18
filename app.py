@@ -362,6 +362,12 @@ QUIZ_CATALOG = {
         "short": "Ch 27–39 Subspecialty (200Q)",
         "icon": "🏥",
     },
+    "ch16_ch39_deep_200": {
+        "file": "questions_ch16_ch39_deep_200.json",
+        "label": "Ch 16 + Ch 39 DEEP (Nerve Blocks & Pain Management) [200 Qs / 90 min]",
+        "short": "Nerve Blocks + Pain Deep (200Q)",
+        "icon": "🎯",
+    },
 }
 
 # ─── Load Questions ──────────────────────────────────────────────────────────
