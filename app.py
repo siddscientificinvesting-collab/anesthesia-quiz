@@ -639,8 +639,10 @@ Select a chapter to start your test:
         with c1:
             st.markdown(f"### {info['icon']} {info['label']}")
             qdata = load_questions(info['file'])
-            topics = sorted(set(q.get('topic', 'General') for q in qdata['questions']))
-            st.caption(f"**50 MCQs** | **{qdata['time_limit_minutes']} min** | Topics: {', '.join(topics[:5])}{'...' if len(topics) > 5 else ''}")
+            total_qs = qdata.get('total_questions', len(qdata['questions']))
+            time_min = qdata.get('time_limit_minutes', 30)
+            chapters = sorted(set(str(q.get('chapter', '')) for q in qdata['questions'] if q.get('chapter')))
+            st.caption(f"**{total_qs} MCQs** | **{time_min} min** | Chapters: {', '.join(chapters[:8])}{'...' if len(chapters) > 8 else ''}")
         with c2:
             link = f"?quiz={key}"
             if st.button(f"▶ Start", key=f"cat_{key}", type="primary", use_container_width=True):
