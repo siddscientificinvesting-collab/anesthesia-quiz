@@ -368,6 +368,18 @@ QUIZ_CATALOG = {
         "short": "Nerve Blocks + Pain Deep (200Q)",
         "icon": "🎯",
     },
+    "ch15_to_41_part1": {
+        "file": "questions_ch15_to_41_part1.json",
+        "label": "Chapters 15–41 Part 1 (Regional, Coexisting, Subspecialty, ICU & CPR) [100 Qs / 90 min]",
+        "short": "Ch 15–41 Part 1 (100Q)",
+        "icon": "📗",
+    },
+    "ch15_to_41_part2": {
+        "file": "questions_ch15_to_41_part2.json",
+        "label": "Chapters 15–41 Part 2 (Regional, Coexisting, Subspecialty, ICU & CPR) [100 Qs / 90 min]",
+        "short": "Ch 15–41 Part 2 (100Q)",
+        "icon": "📕",
+    },
 }
 
 # ─── Load Questions ──────────────────────────────────────────────────────────
