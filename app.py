@@ -380,6 +380,18 @@ QUIZ_CATALOG = {
         "short": "Ch 15–41 Part 2 (100Q)",
         "icon": "📕",
     },
+    "ch15_to_41_part3": {
+        "file": "questions_ch15_to_41_part3.json",
+        "label": "Chapters 15–41 Part 3 – TOUGH (Regional, Coexisting, Subspecialty, ICU & CPR) [100 Qs / 90 min]",
+        "short": "Ch 15–41 Part 3 TOUGH (100Q)",
+        "icon": "🔥",
+    },
+    "ch15_to_41_part4": {
+        "file": "questions_ch15_to_41_part4.json",
+        "label": "Chapters 15–41 Part 4 – TOUGH (Regional, Coexisting, Subspecialty, ICU & CPR) [100 Qs / 90 min]",
+        "short": "Ch 15–41 Part 4 TOUGH (100Q)",
+        "icon": "🔥",
+    },
 }
 
 # ─── Load Questions ──────────────────────────────────────────────────────────
